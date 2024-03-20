@@ -6,7 +6,7 @@ date: "2016-12-17"
 categories: 
   - "general"
 images: 
-  - "renault-zoe-charging-time.avif"
+  - "/images/renault-zoe-charging-time.avif"
 ---
 
 It's not a secret that the Q90 powertrain built by Continental for the Renault Zoe has low charge and discharge efficiency. While the low discharge efficiency results in lower range than we have with the R90 powertrain - designed and developed in-house by Renault -, the low charge efficiency results in wasted time and electricity/money.

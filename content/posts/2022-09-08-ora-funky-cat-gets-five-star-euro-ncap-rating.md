@@ -6,7 +6,7 @@ date: "2022-09-08"
 categories: 
   - "general"
 images: 
-  - "ORA-Funky-Car-Euro-NCAP.avif"
+  - "/images/ORA-Funky-Car-Euro-NCAP.avif"
 ---
 
 Already launched in the UK, the ORA Funky Cat gets five-star Euro NCAP rating.

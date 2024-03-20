@@ -7,7 +7,7 @@ categories:
   - "evergreen"
   - "general"
 images: 
-  - "LG-Chem-E63-battery-cell-cycle-life.avif"
+  - "/images/LG-Chem-E63-battery-cell-cycle-life.avif"
 ---
 
 While not officially confirmed, it seems that the Renault ZOE ZE 40 battery pack is made with 192 LG Chem LGX E63 cells. Now, thanks to a leaked document we have access to the complete specs of these NCM 622 battery cells.

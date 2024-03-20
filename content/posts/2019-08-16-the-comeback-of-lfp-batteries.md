@@ -6,7 +6,7 @@ date: "2019-08-16"
 categories: 
   - "general"
 images: 
-  - "ETC-battery-energy-density-evolution.avif"
+  - "/images/ETC-battery-energy-density-evolution.avif"
 ---
 
 Once upon a time, not many years ago LFP (LiFePO4) batteries were very popular, including for electric vehicles. Most LFP batteries were produced by Chinese battery cell makers such as [Thunder Sky Winston Energy](http://en.winston-battery.com/), but it was a North American company that made this battery technology famous.

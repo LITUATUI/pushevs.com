@@ -6,7 +6,7 @@ date: "2020-11-26"
 categories: 
   - "general"
 images: 
-  - "LG-Chem-pouch-battery-cells.avif"
+  - "/images/LG-Chem-pouch-battery-cells.avif"
 ---
 
 While cylindrical and prismatic battery cells already heavily rely on standardized dimensions, pouch cells are still a mess and made in a wide variety of sizes.

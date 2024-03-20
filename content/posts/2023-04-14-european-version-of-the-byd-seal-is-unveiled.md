@@ -6,7 +6,7 @@ date: "2023-04-14"
 categories: 
   - "general"
 images: 
-  - "European-version-of-the-BYD-Seal.avif"
+  - "/images/European-version-of-the-BYD-Seal.avif"
 ---
 
 We finally have the specs for the European version of the BYD Seal.

@@ -7,7 +7,7 @@ categories:
   - "evergreen"
   - "general"
 images: 
-  - "Nissan-Leaf-battery-SOH-data.avif"
+  - "/images/Nissan-Leaf-battery-SOH-data.avif"
 ---
 
 In a recent [study](https://www.preprints.org/manuscript/201803.0122/v1) 283 Nissan Leafs manufactured between 2011 and 2017, had their SoH (State of Health) measured 1.382 times. The data is from 82 Nissan Leafs with 30 kWh batteries and 201 with the 24 kWh variants.

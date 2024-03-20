@@ -6,7 +6,7 @@ date: "2021-10-10"
 categories: 
   - "general"
 images: 
-  - "SK.avif"
+  - "/images/SK.avif"
 ---
 
 SK Innovation’s battery unit, SK On, is now finally considering developing LFP (LiFePO4) batteries for electric vehicles. This decision comes shortly after its domestic competitor, LG Energy Solution announced that's already developing EV batteries with this cobalt-free chemistry - that should become available next year.

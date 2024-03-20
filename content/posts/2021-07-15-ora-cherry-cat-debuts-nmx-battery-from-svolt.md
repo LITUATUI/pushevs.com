@@ -6,7 +6,7 @@ date: "2021-07-15"
 categories: 
   - "general"
 images: 
-  - "ORA-Cherry-Cat.avif"
+  - "/images/ORA-Cherry-Cat.avif"
 ---
 
 The Cherry Cat is the first SUV made by ORA, which is the affordable brand of the giant Chinese automaker GWM (Great Wall Motors) that also owns the battery cell maker SVOLT.

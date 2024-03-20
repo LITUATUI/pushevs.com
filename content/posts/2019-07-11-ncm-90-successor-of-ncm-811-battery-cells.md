@@ -6,7 +6,7 @@ date: "2019-07-11"
 categories: 
   - "general"
 images: 
-  - "Yoon-Ye-seon-head-of-SK-Innovations-Battery-Business-Division.avif"
+  - "/images/Yoon-Ye-seon-head-of-SK-Innovations-Battery-Business-Division.avif"
 ---
 
 Developing a battery chemistry is always an exercise that requires making concessions. There isn't a battery chemistry that is the best in every field, to have a well balanced battery we have to make compromises regarding energy density, power density, safety, cycle life and cost.

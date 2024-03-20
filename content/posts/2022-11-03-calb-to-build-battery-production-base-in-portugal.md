@@ -6,7 +6,7 @@ date: "2022-11-03"
 categories: 
   - "general"
 images: 
-  - "CALB-and-the-Portuguese-government-signing-a-memorandum-at-Sines.avif"
+  - "/images/CALB-and-the-Portuguese-government-signing-a-memorandum-at-Sines.avif"
 ---
 
 The Chinese battery maker CALB and the Portuguese government signed a memorandum on November 2 to launch a battery production plant in the country.

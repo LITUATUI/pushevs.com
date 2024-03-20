@@ -6,7 +6,7 @@ date: "2020-05-14"
 categories: 
   - "general"
 images: 
-  - "New-generation-Renault-ZOE-battery.avif"
+  - "/images/New-generation-Renault-ZOE-battery.avif"
 ---
 
 The new generation Renault ZOE gets a WLTP range up to 395 km (245 miles) from its ZE 50 battery. As I wrote in the previous article, the battery pack is made with 192 LGX E78 battery cells from LG Chem.

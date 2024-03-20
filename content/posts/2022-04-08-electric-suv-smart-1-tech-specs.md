@@ -6,7 +6,7 @@ date: "2022-04-08"
 categories: 
   - "general"
 images: 
-  - "Electric-SUV-smart-1.avif"
+  - "/images/Electric-SUV-smart-1.avif"
 ---
 
 Now with the official presentation, we have all the technical specs of the smart #1 all-electric SUV.

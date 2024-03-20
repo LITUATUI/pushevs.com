@@ -6,7 +6,7 @@ date: "2020-04-23"
 categories: 
   - "general"
 images: 
-  - "LG-Chem-pouch-battery-cell.avif"
+  - "/images/LG-Chem-pouch-battery-cell.avif"
 ---
 
 Years ago LG Chem decided that for pouch battery cells it would first replace NCM 622 with NCM 712 cathodes before moving to NCMA in 2022, while reserving the NCM 811 cathode to cylindrical battery cells.

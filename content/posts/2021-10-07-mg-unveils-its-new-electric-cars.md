@@ -6,7 +6,7 @@ date: "2021-10-07"
 categories: 
   - "general"
 images: 
-  - "MG-model-range-2021.avif"
+  - "/images/MG-model-range-2021.avif"
 ---
 
 Today MG unveiled its new all-electric model range, comprised by the electric station wagon MG5, its flagship SUV Marvel R Electric and a renewed MG ZS EV.

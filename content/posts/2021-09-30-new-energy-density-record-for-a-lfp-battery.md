@@ -6,7 +6,7 @@ date: "2021-09-30"
 categories: 
   - "general"
 images: 
-  - "XCMG-Group.avif"
+  - "/images/XCMG-Group.avif"
 ---
 
 According to the some recent MIIT (Ministry of Industry and Information Technology) documents, a pure electric dump truck from the XCMG Group now holds the record for having the most energy dense LFP (LiFePO4) battery.

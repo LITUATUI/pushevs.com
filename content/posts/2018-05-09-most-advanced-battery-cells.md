@@ -6,7 +6,7 @@ date: "2018-05-09"
 categories: 
   - "general"
 images: 
-  - "Tesla-battery-cell.avif"
+  - "/images/Tesla-battery-cell.avif"
 ---
 
 In this article we'll see who is using the most advanced battery chemistries and what's coming soon.

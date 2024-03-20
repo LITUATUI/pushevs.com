@@ -6,7 +6,7 @@ date: "2023-04-12"
 categories: 
   - "general"
 images: 
-  - "European-version-of-the-BYD-Dolphin.avif"
+  - "/images/European-version-of-the-BYD-Dolphin.avif"
 ---
 
 We finally have the specs for the European version of the BYD Dolphin.

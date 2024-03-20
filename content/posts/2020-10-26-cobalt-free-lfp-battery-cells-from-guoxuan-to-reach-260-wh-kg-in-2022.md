@@ -6,7 +6,7 @@ date: "2020-10-26"
 categories: 
   - "general"
 images: 
-  - "Volkswagen-is-the-biggest-shareholder-of-the-Chinese-battery-cell-maker-Guoxuan.avif"
+  - "/images/Volkswagen-is-the-biggest-shareholder-of-the-Chinese-battery-cell-maker-Guoxuan.avif"
 ---
 
 Only behind CATL and BYD, Guoxuan High-Tech Power Energy is China's third biggest battery cell maker with an annual production capacity expected to reach 28 GWh already this year - enough for more than half-million (560.000) battery packs with 50 kWh each.

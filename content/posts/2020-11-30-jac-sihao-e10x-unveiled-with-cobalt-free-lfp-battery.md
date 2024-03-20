@@ -6,7 +6,7 @@ date: "2020-11-30"
 categories: 
   - "general"
 images: 
-  - "JAC-Sihao-E10X.avif"
+  - "/images/JAC-Sihao-E10X.avif"
 ---
 
 SOL or Sihao in Chinese is a car brand launched by JAC-Volkswagen's joint venture for affordable electric cars. Volkswagen originally planned to call the brand SEAT, but the Chinese government didn’t allow it. After some deliberations they decided to go with SOL, which means sun in Spanish (also in Portuguese).

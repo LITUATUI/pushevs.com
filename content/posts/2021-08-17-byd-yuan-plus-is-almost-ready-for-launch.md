@@ -6,7 +6,7 @@ date: "2021-08-17"
 categories: 
   - "general"
 images: 
-  - "BYD-Yuan-Plus.avif"
+  - "/images/BYD-Yuan-Plus.avif"
 ---
 
 The BYD Yuan Plus is expected to become available to order in China already next month with a price between 130.000 and 160.000 yuan (17.106 and 21.054 euros).

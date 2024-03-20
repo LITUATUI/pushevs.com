@@ -6,7 +6,7 @@ date: "2020-06-21"
 categories: 
   - "general"
 images: 
-  - "Yutong-E12-electric-bus-with-LFP-battery.avif"
+  - "/images/Yutong-E12-electric-bus-with-LFP-battery.avif"
 ---
 
 Currently the most energy dense battery packs made with cobalt-free LFP (LiFePO4) cells in China are being used by electric buses.

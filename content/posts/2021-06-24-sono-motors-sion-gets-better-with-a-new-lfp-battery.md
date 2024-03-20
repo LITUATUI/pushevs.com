@@ -6,7 +6,7 @@ date: "2021-06-24"
 categories: 
   - "general"
 images: 
-  - "Sono-Motors-Sion-charging-a-Tesla-Model-S.avif"
+  - "/images/Sono-Motors-Sion-charging-a-Tesla-Model-S.avif"
 ---
 
 The solar powered Sion just got its specs upgraded thanks to a new super-safe LFP (LiFePO4) battery with more capacity that provides more range and faster charging.

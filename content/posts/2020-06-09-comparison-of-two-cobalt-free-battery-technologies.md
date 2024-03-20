@@ -6,7 +6,7 @@ date: "2020-06-09"
 categories: 
   - "general"
 images: 
-  - "Cathodes-overview-by-Nano-One.avif"
+  - "/images/Cathodes-overview-by-Nano-One.avif"
 ---
 
 It's no secret that the massification of electric cars requires batteries made with cheap raw materials, which means that they need to be cobalt free.

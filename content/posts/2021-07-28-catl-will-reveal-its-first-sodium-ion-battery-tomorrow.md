@@ -6,7 +6,7 @@ date: "2021-07-28"
 categories: 
   - "general"
 images: 
-  - "CATL-sodium-ion-battery-announcement-event.avif"
+  - "/images/CATL-sodium-ion-battery-announcement-event.avif"
 ---
 
 Tomorrow the giant Chinese battery cell maker CATL will finally reveal its first sodium-ion battery (SIB).

@@ -6,7 +6,7 @@ date: "2020-04-12"
 categories: 
   - "general"
 images: 
-  - "BYD-Blade-Battery-prismatic-cells.avif"
+  - "/images/BYD-Blade-Battery-prismatic-cells.avif"
 ---
 
 In the previous [article](/2020/04/04/comparison-of-different-ev-batteries-in-2020/) we compared the energy density of many battery packs used by popular electric cars. Most batteries were either NCM 523 or NCM 622 and on average had a gravimetric energy density between 140 and 150 Wh/kg, which is disappointing considering that's a lot less than what we get at the cell level (230-250 Wh/kg).

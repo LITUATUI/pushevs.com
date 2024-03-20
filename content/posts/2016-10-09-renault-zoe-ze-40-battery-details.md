@@ -6,7 +6,7 @@ date: "2016-10-09"
 categories: 
   - "general"
 images: 
-  - "renault-zoe-with-400-km-nedc-range-at-paris-motor-show.avif"
+  - "/images/renault-zoe-with-400-km-nedc-range-at-paris-motor-show.avif"
 ---
 
 Before going to the new battery, let's see the characteristics of the older one.

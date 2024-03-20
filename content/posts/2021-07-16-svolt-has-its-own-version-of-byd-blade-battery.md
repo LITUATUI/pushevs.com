@@ -6,7 +6,7 @@ date: "2021-07-16"
 categories: 
   - "general"
 images: 
-  - "SVOLT-cobalt-free-prismatic-battery-cells-for-EVs.avif"
+  - "/images/SVOLT-cobalt-free-prismatic-battery-cells-for-EVs.avif"
 ---
 
 SVOLT is a Chinese battery cell maker subsidiary of the giant Chinese automaker GWM (Great Wall Motors), that besides LFP (LiFePO4) and NCM is already producing NMx (LNMO) battery cells.

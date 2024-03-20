@@ -6,7 +6,7 @@ date: "2020-07-03"
 categories: 
   - "general"
 images: 
-  - "Lexus-UX-300e-battery.avif"
+  - "/images/Lexus-UX-300e-battery.avif"
 ---
 
 Panasonic is one of world's biggest battery cell makers, but as strange as it may seem, the company is in a fragile position.

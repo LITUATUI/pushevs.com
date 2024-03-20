@@ -6,7 +6,7 @@ date: "2018-04-05"
 categories: 
   - "general"
 images: 
-  - "Samsung-SDI-94-Ah-cell-specs-1-13.avif"
+  - "/images/Samsung-SDI-94-Ah-cell-specs-1-13.avif"
 ---
 
 Be warned, this is going to be a long article. Nonetheless if you're interested in battery technology or have a BMW i3, you'll like reading it.

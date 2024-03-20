@@ -6,7 +6,7 @@ date: "2021-06-12"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-3-MIC-waiting-to-be-shipped-to-Europe.avif"
+  - "/images/Tesla-Model-3-MIC-waiting-to-be-shipped-to-Europe.avif"
 ---
 
 The cobalt-free battery chemistry LFP (LiFePO4) continues to dominate the battery production in China and its market share keeps growing every month.

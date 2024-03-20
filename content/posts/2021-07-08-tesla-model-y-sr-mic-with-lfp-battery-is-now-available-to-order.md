@@ -6,7 +6,7 @@ date: "2021-07-08"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y-configurator-in-China.avif"
+  - "/images/Tesla-Model-Y-configurator-in-China.avif"
 ---
 
 Chinese customers can now order the Tesla Model Y Standard Range MIC (Made in China) with a starting price of 291.840 yuan (37.995 euros) before governmental incentives.

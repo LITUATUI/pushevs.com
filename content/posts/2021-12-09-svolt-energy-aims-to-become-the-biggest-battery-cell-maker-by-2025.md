@@ -6,7 +6,7 @@ date: "2021-12-09"
 categories: 
   - "general"
 images: 
-  - "SVOLT-Energy-aims-to-reach-600-GWh-by-2025.avif"
+  - "/images/SVOLT-Energy-aims-to-reach-600-GWh-by-2025.avif"
 ---
 
 SVOLT Energy now plans to reach a battery cell production capacity of 600 GWh by 2025 and become the world's biggest producer.

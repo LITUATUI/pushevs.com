@@ -6,7 +6,7 @@ date: "2020-06-11"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-3-made-in-China.avif"
+  - "/images/Tesla-Model-3-made-in-China.avif"
 ---
 
 While most automakers are still making excuses to delay the massification of electric cars, the Standard Range Plus version of the Tesla Model 3 made in China already has an extremely safe, durable, simple and cheap cobalt-free LFP battery from CATL and an impressive profit margin of 35 %.

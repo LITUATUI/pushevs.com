@@ -6,7 +6,7 @@ date: "2023-04-19"
 categories: 
   - "general"
 images: 
-  - "BYD-Seagull.avif"
+  - "/images/BYD-Seagull.avif"
 ---
 
 With the Seagull, BYD wants to dominate the electric A-segment market, first in China, then other countries.

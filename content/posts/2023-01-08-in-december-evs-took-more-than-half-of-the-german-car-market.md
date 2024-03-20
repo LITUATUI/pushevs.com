@@ -6,7 +6,7 @@ date: "2023-01-08"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-3.avif"
+  - "/images/Tesla-Model-3.avif"
 ---
 
 The tide has turned in the electrification of the German auto market, with plugin electric vehicles _taking the majority of sales_ for the first time in December. Plugins took 55.4% of the month’s passenger auto sales, with full electrics taking a third (33.2%) and plugin hybrids taking over a fifth (22.2%). Plugless hybrids took 12.8%, leaving less than a third of sales for combustion-only autos (31.8%).

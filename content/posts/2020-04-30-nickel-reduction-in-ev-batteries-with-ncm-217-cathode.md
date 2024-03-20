@@ -6,7 +6,7 @@ date: "2020-04-30"
 categories: 
   - "general"
 images: 
-  - "Cathode-evolution-roadmap-by-BASF.avif"
+  - "/images/Cathode-evolution-roadmap-by-BASF.avif"
 ---
 
 Today most electric cars are powered by batteries with NCM cathodes, whose raw materials besides lithium include nickel, cobalt and manganese.

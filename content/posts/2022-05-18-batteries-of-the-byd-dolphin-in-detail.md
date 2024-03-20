@@ -6,7 +6,7 @@ date: "2022-05-18"
 categories: 
   - "general"
 images: 
-  - "Battery-pack-of-BYD-Dolphin.avif"
+  - "/images/Battery-pack-of-BYD-Dolphin.avif"
 ---
 
 The BYD Dolphin is one of the most interesting electric cars in production right now and is available with two battery capacities, 44,9 and 30,72 kWh.

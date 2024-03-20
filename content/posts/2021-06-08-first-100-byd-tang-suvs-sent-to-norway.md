@@ -6,7 +6,7 @@ date: "2021-06-08"
 categories: 
   - "general"
 images: 
-  - "The-first-shipment-of-100-pure-electric-Tang-SUVs-to-Norway.avif"
+  - "/images/The-first-shipment-of-100-pure-electric-Tang-SUVs-to-Norway.avif"
 ---
 
 BYD sent the first 100 units of the Tang EV to Norway, which is BYD’s most expensive passenger BEV. This is a big SUV that seats 7 persons and has AWD (All-Wheel Drive).

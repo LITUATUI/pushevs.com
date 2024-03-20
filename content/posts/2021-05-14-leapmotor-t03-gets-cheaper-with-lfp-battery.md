@@ -6,7 +6,7 @@ date: "2021-05-14"
 categories: 
   - "general"
 images: 
-  - "2021-Leapmotor-T03.avif"
+  - "/images/2021-Leapmotor-T03.avif"
 ---
 
 Last year I wrote an [article praising this small electric car](/2020/08/03/leapmotor-t03-great-small-electric-car/) from Leapmotor. It's small, extremely cheap with decent range and full with safety features that are rare in this segment.

@@ -6,7 +6,7 @@ date: "2022-07-28"
 categories: 
   - "general"
 images: 
-  - "BYD-will-be-present-at-the-Paris-Motor-Show.avif"
+  - "/images/BYD-will-be-present-at-the-Paris-Motor-Show.avif"
 ---
 
 BYD will go the 2022 Paris Motor Show to announce that the EV revolution is coming to Europe.

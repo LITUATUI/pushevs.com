@@ -6,7 +6,7 @@ date: "2022-03-26"
 categories: 
   - "general"
 images: 
-  - "CATL-CTP-3.0.avif"
+  - "/images/CATL-CTP-3.0.avif"
 ---
 
 The world's biggest battery maker, CATL, announced that its third-generation CTP (cell-to-pack) battery technology is ready for mass production and the official launch is expected in April.

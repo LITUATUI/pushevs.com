@@ -6,7 +6,7 @@ date: "2020-05-08"
 categories: 
   - "general"
 images: 
-  - "ARCFOX-Alpha-T.avif"
+  - "/images/ARCFOX-Alpha-T.avif"
 ---
 
 The Ministry of Industry and Information Technology of China regularly publishes a catalog of recommended electric cars eligible for government subsidies and now the fifth batch in 2020 has been officially announced.

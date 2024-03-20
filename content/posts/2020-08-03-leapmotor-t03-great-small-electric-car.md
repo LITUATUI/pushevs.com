@@ -6,7 +6,7 @@ date: "2020-08-03"
 categories: 
   - "general"
 images: 
-  - "Leapmotor-T03.avif"
+  - "/images/Leapmotor-T03.avif"
 ---
 
 Leapmotor started the deliveries of its electric sports car the S01 roughly a year ago, but recently this Chinese startup launched a more affordable electric car, the T03 that could be perfect for the European car market.

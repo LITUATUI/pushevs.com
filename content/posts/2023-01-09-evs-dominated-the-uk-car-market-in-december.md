@@ -6,7 +6,7 @@ date: "2023-01-09"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y-and-Tesla-Model-3.avif"
+  - "/images/Tesla-Model-Y-and-Tesla-Model-3.avif"
 ---
 
 The UK’s auto market saw plugin electric vehicles take 39.4% share of new sales in December, a new record, up from 33.2% year on year. Full electrics alone took almost a third of the market. Overall auto volumes were up 18% year on year in December, but still down compared to pre-2020 norms. The Tesla Model Y was the UK’s overall 3rd best selling vehicle in 2022, and the top seller in December.

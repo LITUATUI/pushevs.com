@@ -6,7 +6,7 @@ date: "2022-06-23"
 categories: 
   - "general"
 images: 
-  - "CATL-CTP-3.0-highlights.avif"
+  - "/images/CATL-CTP-3.0-highlights.avif"
 ---
 
 CATL released more details on its new module-less battery packs called Qilin, which are expected to be mass produced and come on the market in 2023.

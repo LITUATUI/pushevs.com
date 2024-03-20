@@ -6,7 +6,7 @@ date: "2021-07-06"
 categories: 
   - "general"
 images: 
-  - "BYD-Dolphin-EA1.avif"
+  - "/images/BYD-Dolphin-EA1.avif"
 ---
 
 The upcoming BYD Dolphin (EA1) is probably the most awaited electric car right now. It'll be the first electric car that can realistically reach the top 10 of world's best selling cars, competing head-to-head with gas cars in price and availability.

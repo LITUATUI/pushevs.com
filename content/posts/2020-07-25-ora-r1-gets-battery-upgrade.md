@@ -6,7 +6,7 @@ date: "2020-07-25"
 categories: 
   - "general"
 images: 
-  - "ORA-R1.avif"
+  - "/images/ORA-R1.avif"
 ---
 
 The 2020 Chengdu Auto Show started yesterday (July 24) and a lot of Chinese automakers are using it to unveil new or upgraded electric cars. One of these automakers is ORA.

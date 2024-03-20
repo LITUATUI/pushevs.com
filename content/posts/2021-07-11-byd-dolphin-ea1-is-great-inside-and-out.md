@@ -6,7 +6,7 @@ date: "2021-07-11"
 categories: 
   - "general"
 images: 
-  - "BYD-Dolphin-EA1-side.avif"
+  - "/images/BYD-Dolphin-EA1-side.avif"
 ---
 
 Audi's former design director Wolfgang Egger keeps doing an impressive job at BYD. Long gone are the days when most Chinese cars were ugly, and the ones that looked nice were carbon copies of Western cars.

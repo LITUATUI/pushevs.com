@@ -6,7 +6,7 @@ date: "2021-09-07"
 categories: 
   - "general"
 images: 
-  - "LG-Energy-Solution-at-the-InterBattery-2021-event.avif"
+  - "/images/LG-Energy-Solution-at-the-InterBattery-2021-event.avif"
 ---
 
 Korean battery cell makers have been producing almost exclusively NCM battery cells, but according to Korean media, LG Energy Solution will launch LFP (LiFePO4) battery cells already next year.

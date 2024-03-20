@@ -6,7 +6,7 @@ date: "2022-05-04"
 categories: 
   - "general"
 images: 
-  - "Li-FUN-sodium-ion-battery-cells.avif"
+  - "/images/Li-FUN-sodium-ion-battery-cells.avif"
 ---
 
 Li-FUN Technology recently announced that it will produce the first generation of sodium-ion battery cells later this year in June. The mass production is scheduled for 2023.

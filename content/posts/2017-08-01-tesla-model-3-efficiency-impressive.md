@@ -6,7 +6,7 @@ date: "2017-08-01"
 categories: 
   - "general"
 images: 
-  - "tesla-model-3-production-version.avif"
+  - "/images/tesla-model-3-production-version.avif"
 ---
 
 Until now, Tesla wasn't known for making high efficient electric cars, but this will change with the Model 3.

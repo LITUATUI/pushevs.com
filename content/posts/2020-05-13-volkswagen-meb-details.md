@@ -6,7 +6,7 @@ date: "2020-05-13"
 categories: 
   - "general"
 images: 
-  - "Modular-electric-drive-matrix-MEB-by-Volkswagen.avif"
+  - "/images/Modular-electric-drive-matrix-MEB-by-Volkswagen.avif"
 ---
 
 For several reasons Volkswagen has been criticized by the electric vehicle community, including myself. Not only due to the shameful dieselgate, but also because the automaker has been leading the transition to electric cars only in the press release category, a lot of talk and very little done. Until recently VW was a synonym for vaporware...

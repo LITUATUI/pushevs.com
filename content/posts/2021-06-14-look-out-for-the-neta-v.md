@@ -6,7 +6,7 @@ date: "2021-06-14"
 categories: 
   - "general"
 images: 
-  - "NETA-V.avif"
+  - "/images/NETA-V.avif"
 ---
 
 Last month the new NETA (Nezha) V jumped to the top 10 of best-selling electric cars in China. This isn't exactly a surprise, since this electric car offers great value for money as we'll see ahead.

@@ -6,7 +6,7 @@ date: "2023-04-14"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y-made-in-Germany.avif"
+  - "/images/Tesla-Model-Y-made-in-Germany.avif"
 ---
 
 Germany’s plugin electric vehicles took 21.6% of the auto market in March, down from 25.6% year on year. BEV grew share slightly, but PHEVs lost half their share YoY, due to recent policy changes. Overall auto volume was 281,361 units, up over 16% YoY, but still well down from pre-2020 seasonal norms.

@@ -6,7 +6,7 @@ date: "2020-05-18"
 categories: 
   - "general"
 images: 
-  - "CATL-cobalt-free-LFP-battery-cell.avif"
+  - "/images/CATL-cobalt-free-LFP-battery-cell.avif"
 ---
 
 In early March I wrote an article about [Tesla's smart strategy in China](/2020/03/02/teslas-smart-battery-strategy-in-china/). In that article I wrote that cobalt-free LFP/LFMP battery packs could already be made for 80 euros per kWh and NCM 811 battery packs for 100 euros per kWh.

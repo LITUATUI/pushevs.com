@@ -6,7 +6,7 @@ date: "2022-04-06"
 categories: 
   - "general"
 images: 
-  - "Contemporary-Amperex-Technology-Thuringia-GmbH.avif"
+  - "/images/Contemporary-Amperex-Technology-Thuringia-GmbH.avif"
 ---
 
 By the end of 2022, CATL will finally start producing battery cells in Europe (Germany). Machinery is already being installed.

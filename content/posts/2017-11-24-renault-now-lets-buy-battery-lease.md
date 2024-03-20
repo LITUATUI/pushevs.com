@@ -6,7 +6,7 @@ date: "2017-11-24"
 categories: 
   - "general"
 images: 
-  - "renault-zoe-and-battery.avif"
+  - "/images/renault-zoe-and-battery.avif"
 ---
 
 I've always seen the mandatory battery rental as something close to a scam, making electric cars more expensive to run than diesel alternatives. Furthermore the existence of a battery lease indicates that the automaker isn’t confident in the quality of its batteries and scares away potential customers - by stating that batteries are more prone to failure than other components. This is why we’ll never see battery rentals in automakers that are proud to build good quality electric cars, such as Tesla or even BMW - that don't see batteries as problems.

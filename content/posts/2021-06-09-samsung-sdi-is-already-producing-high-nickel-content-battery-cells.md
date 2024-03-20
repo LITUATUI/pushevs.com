@@ -6,7 +6,7 @@ date: "2021-06-09"
 categories: 
   - "general"
 images: 
-  - "Samsung-SDI-Gen-5-prismatic-battery-cell.avif"
+  - "/images/Samsung-SDI-Gen-5-prismatic-battery-cell.avif"
 ---
 
 At the InterBattery 2021 event in Seoul, South Korea, Samsung SDI finally announced that it's already producing high-nickel content battery cells. Moreover, Samsung SDI confirmed that its new cylindrical and prismatic cells have different nickel concentrations.

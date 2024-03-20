@@ -6,7 +6,7 @@ date: "2023-07-13"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y-with-mountains.avif"
+  - "/images/Tesla-Model-Y-with-mountains.avif"
 ---
 
 June saw plugin EVs at 90.9% share of Norway’s auto market, up from 89.9% a year ago. Full electrics increased their share to 82.2%, with plugin hybrid share diminishing to 8.7%. Overall auto volume was 15,566 units, up 4.5% YoY. Tesla’s Model Y was yet again Norway’s best selling vehicle, almost 3x the volume of the runner up.

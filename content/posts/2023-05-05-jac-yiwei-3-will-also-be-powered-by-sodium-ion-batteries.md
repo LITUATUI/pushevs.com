@@ -6,7 +6,7 @@ date: "2023-05-05"
 categories: 
   - "general"
 images: 
-  - "JAC-Yiwei-3-powered-by-sodium-ion-battery.avif"
+  - "/images/JAC-Yiwei-3-powered-by-sodium-ion-battery.avif"
 ---
 
 The JAC Yiwei 3 is an electric hatchback in the B-segment that will arrive in June with LFP batteries, but a version powered by a sodium-ion battery is already confirmed to arrive at a later date.

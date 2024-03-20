@@ -6,7 +6,7 @@ date: "2021-05-20"
 categories: 
   - "general"
 images: 
-  - "Changan-Benben-E-Star-National-Edition.avif"
+  - "/images/Changan-Benben-E-Star-National-Edition.avif"
 ---
 
 The Changan Benben E-Star is now available in a new low-cost version called National Edition with a starting price of 29.800 yuan (3.792 euros). Yes, you seen it right, it costs less than 4.000 euros and makes the popular Wuling Hong Guang MINI EV look overpriced...

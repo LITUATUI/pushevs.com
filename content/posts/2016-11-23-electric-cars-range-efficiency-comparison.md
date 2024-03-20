@@ -6,7 +6,7 @@ date: "2016-11-23"
 categories: 
   - "general"
 images: 
-  - "epa-electric-label.avif"
+  - "/images/epa-electric-label.avif"
 ---
 
 In order to help you compare some of the most popular electric cars currently available, I made a table with EPA range and efficiency figures.

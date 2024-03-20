@@ -7,7 +7,7 @@ categories:
   - "evergreen"
   - "general"
 images: 
-  - "Audi-e-tron-battery.avif"
+  - "/images/Audi-e-tron-battery.avif"
 ---
 
 During the first years after I started this blog in 2015 I often wrote articles demonstrating that legacy automakers weren't taking electric cars seriously. They were actively trying to prove that electric cars didn't work by selling overpriced cars with low range and blamed battery technology, when they weren't even using the best battery technologies available at the time.

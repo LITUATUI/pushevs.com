@@ -6,7 +6,7 @@ date: "2017-01-09"
 categories: 
   - "general"
 images: 
-  - "worker-holding-a-samsung-sdi-battery-cell.avif"
+  - "/images/worker-holding-a-samsung-sdi-battery-cell.avif"
 ---
 
 Starting this month - with the new 35,8 kWh battery for the 2017 Volkswagen e-Golf - Volkswagen will begin to use Samsung SDI as its supplier for battery cells.

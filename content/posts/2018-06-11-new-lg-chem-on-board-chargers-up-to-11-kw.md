@@ -6,7 +6,7 @@ date: "2018-06-11"
 categories: 
   - "general"
 images: 
-  - "LG-Chem-on-board-chargers.avif"
+  - "/images/LG-Chem-on-board-chargers.avif"
 ---
 
 LG Chem offers complete and easy solutions for automakers that want to electrify their cars. The company not only produces batteries for electric cars, but also motors, inverters and now on-board chargers.

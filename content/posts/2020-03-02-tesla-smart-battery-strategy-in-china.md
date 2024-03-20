@@ -6,7 +6,7 @@ date: "2020-03-02"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-3-made-in-China.avif"
+  - "/images/Tesla-Model-3-made-in-China.avif"
 ---
 
 Once again Tesla is showing what's the smartest strategy to achieve the massification of electric cars. In China Tesla will use two very different battery chemistries for the Model 3. One to give the lowest cost/higher availability and another to give the best range.

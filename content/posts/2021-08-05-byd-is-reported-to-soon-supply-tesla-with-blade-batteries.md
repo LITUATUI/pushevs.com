@@ -6,7 +6,7 @@ date: "2021-08-05"
 categories: 
   - "general"
 images: 
-  - "BYD-Blade-Battery-prismatic-cells.avif"
+  - "/images/BYD-Blade-Battery-prismatic-cells.avif"
 ---
 
 Chinese media is now reporting that Tesla will start using BYD Blade batteries already in the second quarter of next year. This news come shortly after the rumor that Tesla already has a working prototype for its compact hatchback "Model 2" to be made in China.

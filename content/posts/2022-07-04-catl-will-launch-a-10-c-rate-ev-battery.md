@@ -6,7 +6,7 @@ date: "2022-07-04"
 categories: 
   - "general"
 images: 
-  - "CATL-new-battery-features.avif"
+  - "/images/CATL-new-battery-features.avif"
 ---
 
 CATL basically announced the death of the ICE (Internal Combustion Engine) powertrains.

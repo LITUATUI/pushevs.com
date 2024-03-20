@@ -6,7 +6,7 @@ date: "2021-06-17"
 categories: 
   - "general"
 images: 
-  - "Leapmotor-T03-and-NETA-V.avif"
+  - "/images/Leapmotor-T03-and-NETA-V.avif"
 ---
 
 Today I bring good news my fellow readers! The Ministry of Industry and Information Technology (MIIT) has just approved faster versions of the Leapmotor T03 and the NETA V to be produced and sold in China.

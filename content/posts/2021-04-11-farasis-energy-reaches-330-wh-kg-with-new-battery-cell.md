@@ -6,7 +6,7 @@ date: "2021-04-11"
 categories: 
   - "general"
 images: 
-  - "Farasis-Energy-goals-for-electric-cars.avif"
+  - "/images/Farasis-Energy-goals-for-electric-cars.avif"
 ---
 
 The Chinese battery cell maker Farasis Energy announced the fourth generation of its battery cells.

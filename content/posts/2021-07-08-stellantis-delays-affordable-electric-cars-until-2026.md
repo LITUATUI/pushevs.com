@@ -6,7 +6,7 @@ date: "2021-07-08"
 categories: 
   - "general"
 images: 
-  - "Stellantis-EV-affordability-delayed-until-2026.avif"
+  - "/images/Stellantis-EV-affordability-delayed-until-2026.avif"
 ---
 
 Stellantis EV Day 2021 was embarrassing. The 3 hour video presentation was all about putting together multiple nonsense commercials and delaying the introduction of affordable electric cars.

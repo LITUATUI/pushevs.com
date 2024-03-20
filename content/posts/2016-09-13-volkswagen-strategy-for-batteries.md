@@ -6,7 +6,7 @@ date: "2016-09-13"
 categories: 
   - "general"
 images: 
-  - "2015-volkswagen-e-golf-battery.avif"
+  - "/images/2015-volkswagen-e-golf-battery.avif"
 ---
 
 Volkswagen's strategy for batteries could be resumed to using the same cells for BEVs and PHEVs. It has its pros and cons. But we'll look into it ahead.

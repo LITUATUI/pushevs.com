@@ -6,7 +6,7 @@ date: "2021-06-01"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y.avif"
+  - "/images/Tesla-Model-Y.avif"
 ---
 
 Currently, LG Chem supplies NCM 811 battery cells to Tesla in China, but starting next month, there will be a change to the NCMA chemistry. The Tesla Model Y MIC (Made in China) is set to become the first production electric car to get a NCMA battery.

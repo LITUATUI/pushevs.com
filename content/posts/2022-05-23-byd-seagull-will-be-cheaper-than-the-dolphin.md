@@ -6,7 +6,7 @@ date: "2022-05-23"
 categories: 
   - "general"
 images: 
-  - "BYD-Seagull-spy-shot.avif"
+  - "/images/BYD-Seagull-spy-shot.avif"
 ---
 
 After introducing the Dolphin and the Seal, BYD is about to launch another electric car in the Ocean series.

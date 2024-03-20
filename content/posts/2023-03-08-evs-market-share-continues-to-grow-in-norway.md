@@ -6,7 +6,7 @@ date: "2023-03-08"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y.avif"
+  - "/images/Tesla-Model-Y.avif"
 ---
 
 February saw Norway’s plugin electric vehicle share continue to grow to 90.1%, from 86.1% year on year. All the growth came from full electrics, whilst plugin hybrids lost share. Overall auto volume was 7,439 units, down some 9% YoY. The bestselling vehicle was the Tesla Model Y.

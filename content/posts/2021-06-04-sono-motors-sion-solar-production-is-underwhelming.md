@@ -6,7 +6,7 @@ date: "2021-06-04"
 categories: 
   - "general"
 images: 
-  - "Sono-Motors-Sion-charging-a-Tesla-Model-S.avif"
+  - "/images/Sono-Motors-Sion-charging-a-Tesla-Model-S.avif"
 ---
 
 Sono Motors Sion is an unique electric concept car that is covered by "more than 248 solar cells". According to the advertised specs, at peak performance, all these solar cells should be able to provide up to 1,2 kW.

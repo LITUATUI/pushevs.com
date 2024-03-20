@@ -6,7 +6,7 @@ date: "2021-08-13"
 categories: 
   - "general"
 images: 
-  - "BYD-Dolphin-is-now-available-to-pre-order.avif"
+  - "/images/BYD-Dolphin-is-now-available-to-pre-order.avif"
 ---
 
 The BYD Dolphin is now finally available to pre-order in China. This affordable electric car is packed with nice features and has many different versions to choose from, so let's check them out.

@@ -6,7 +6,7 @@ date: "2021-07-29"
 categories: 
   - "general"
 images: 
-  - "CATL-first-generation-sodium-ion-battery.avif"
+  - "/images/CATL-first-generation-sodium-ion-battery.avif"
 ---
 
 Today the giant Chinese battery cell maker CATL revealed its first generation sodium-ion battery and it's better than I expected.

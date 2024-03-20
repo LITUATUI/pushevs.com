@@ -6,7 +6,7 @@ date: "2020-10-06"
 categories: 
   - "general"
 images: 
-  - "Tata-Nexon-EV.avif"
+  - "/images/Tata-Nexon-EV.avif"
 ---
 
 Tata Nexon EV is an affordable Indian electric car that was revealed on 19 December 2019 and is already being delivered to customers in India.

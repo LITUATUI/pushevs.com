@@ -6,7 +6,7 @@ date: "2023-07-12"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y.avif"
+  - "/images/Tesla-Model-Y.avif"
 ---
 
 Sweden’s June auto market saw plugin EVs take 59.2% share, up from 55.1% year on year. Full electrics grew share at a decent rate, while plugin hybrids retreated slightly. Overall auto volume was 28,283 units, up some  9% YoY, though still below pre-2020 norms. The Tesla Model Y was June’s best selling vehicle.

@@ -6,7 +6,7 @@ date: "2023-05-08"
 categories: 
   - "general"
 images: 
-  - "2023_Volvo_XC40_Recharge.avif"
+  - "/images/2023_Volvo_XC40_Recharge.avif"
 ---
 
 Sweden’s plugin electric vehicle share reached 55.7% of the auto market in April, up from 48.2% year on year (YoY). Full electrics grew share strongly, whilst plugin hybrids lost share slightly. Overall auto market volume was 20,588 units, down some 6% YoY, and down 35% from pre-2020 seasonal norms. The bestselling full electric vehicle was the Volvo XC40.

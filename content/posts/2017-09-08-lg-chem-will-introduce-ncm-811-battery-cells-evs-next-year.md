@@ -6,7 +6,7 @@ date: "2017-09-08"
 categories: 
   - "general"
 images: 
-  - "lg-chem-battery-cell.avif"
+  - "/images/lg-chem-battery-cell.avif"
 ---
 
 Few days ago SK Innovation announced that the start of production of improved NCM 811 battery cells is near, now it's time for its main competitor - LG Chem - to do the same.

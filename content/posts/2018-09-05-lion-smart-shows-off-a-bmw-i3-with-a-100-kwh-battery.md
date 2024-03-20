@@ -6,7 +6,7 @@ date: "2018-09-05"
 categories: 
   - "general"
 images: 
-  - "Proof-of-concept-in-BMW-i3-by-LION-Smart.avif"
+  - "/images/Proof-of-concept-in-BMW-i3-by-LION-Smart.avif"
 ---
 
 Less than 2 years ago, LION Smart showed us a BMW i3 with a 55 kWh battery, now it gets upgraded to 100 kWh with 700 km of range.

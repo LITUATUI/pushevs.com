@@ -6,7 +6,7 @@ date: "2020-08-26"
 categories: 
   - "general"
 images: 
-  - "Wuling-Hong-Guang-MINI-EV.avif"
+  - "/images/Wuling-Hong-Guang-MINI-EV.avif"
 ---
 
 SGMW (SAIC-GM-Wuling) is a joint-venture between GM and SAIC that is producing a truly affordable electric car perfect for the city environment, the Wuling Hong Guang MINI EV.

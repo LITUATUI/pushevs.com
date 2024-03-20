@@ -6,7 +6,7 @@ date: "2020-10-19"
 categories: 
   - "general"
 images: 
-  - "LG-Chem-Global-Manufacturing-Capacity.avif"
+  - "/images/LG-Chem-Global-Manufacturing-Capacity.avif"
 ---
 
 According to Reuters, the South Korean battery cell maker LG Chem is now looking for a site to build a new factory in Europe.

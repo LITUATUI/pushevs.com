@@ -6,7 +6,7 @@ date: "2021-07-01"
 categories: 
   - "general"
 images: 
-  - "2021-Renault-eWays-press-conference-Renault-5-Electric-highlights.avif"
+  - "/images/2021-Renault-eWays-press-conference-Renault-5-Electric-highlights.avif"
 ---
 
 Yesterday I wasted my time watching Renault's eWays pathetic event. This was the event where Renault was going to show us how to popularize electric cars and finally make them affordable. I was expecting the announcement of something obvious to cut costs like a CTP (cell-to-pack) battery pack made with prismatic LFP (LiFePO4) cells.

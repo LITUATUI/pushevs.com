@@ -6,7 +6,7 @@ date: "2018-05-26"
 categories: 
   - "general"
 images: 
-  - "Samsung-SDI-at-Energy-Storage-Europe-2018.avif"
+  - "/images/Samsung-SDI-at-Energy-Storage-Europe-2018.avif"
 ---
 
 Samsung SDI was present at Energy Storage Europe 2018, Germany’s ESS Exhibition and revealed a new high-capacity battery cell.

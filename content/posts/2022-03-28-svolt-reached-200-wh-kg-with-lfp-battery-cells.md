@@ -6,7 +6,7 @@ date: "2022-03-28"
 categories: 
   - "general"
 images: 
-  - "SVOLT-batteries-for-electric-cars.avif"
+  - "/images/SVOLT-batteries-for-electric-cars.avif"
 ---
 
 Finally, SVOLT confirmed that it has reached this milestone and their battery cells are available for automakers to order.

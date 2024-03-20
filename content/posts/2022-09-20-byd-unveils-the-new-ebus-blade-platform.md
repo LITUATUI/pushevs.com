@@ -6,7 +6,7 @@ date: "2022-09-20"
 categories: 
   - "general"
 images: 
-  - "BYD-eBus-Blade-Platform.avif"
+  - "/images/BYD-eBus-Blade-Platform.avif"
 ---
 
 BYD introduced the new eBus Blade Platform at the IAA Transportation 2022.

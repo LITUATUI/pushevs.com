@@ -6,7 +6,7 @@ date: "2018-01-29"
 categories: 
   - "general"
 images: 
-  - "aesc-new-battery-cell-specs.avif"
+  - "/images/aesc-new-battery-cell-specs.avif"
 ---
 
 The 2018 Nissan Leaf battery - like all previous versions - uses a 96s2p cell configuration, this means that in total there are 192 cells in the battery pack. However, the battery cells now have a much higher energy density.
@@ -17,7 +17,7 @@ In the Nissan Leaf, each battery pack has 24 modules and each module has 8 cells
 
  
 
-\[caption id="attachment\_10462" align="alignnone" width="738"\]![](images/aesc-new-battery-module-specs.avif) AESC new battery module specs\[/caption\]
+![AESC new battery module specs](images/aesc-new-battery-module-specs.avif)
 
  
 

@@ -6,7 +6,7 @@ date: "2022-05-02"
 categories: 
   - "general"
 images: 
-  - "CATL-CTP-3.0.avif"
+  - "/images/CATL-CTP-3.0.avif"
 ---
 
 In the first quarter of 2022, the global shipment of batteries reached 95,1 GWh, which corresponds to a 93,3 percent increase year-on-year, according to a report released by Seoul-based SNE Research.

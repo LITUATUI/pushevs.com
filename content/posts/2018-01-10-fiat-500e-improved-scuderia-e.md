@@ -6,7 +6,7 @@ date: "2018-01-10"
 categories: 
   - "general"
 images: 
-  - "fiat-500e-improved-by-scuderia-e.avif"
+  - "/images/fiat-500e-improved-by-scuderia-e.avif"
 ---
 
 We all remember the Volkswagen e-Golf improved by Kreisel Electric with a 55,7 kWh battery and able to charge from 0 to 80 % in 20 minutes (via 150 kW CCS). Now [Scuderia-E](http://www.scuderia-e.com/index-en.html) gives a similar treatment to the Fiat 500e.

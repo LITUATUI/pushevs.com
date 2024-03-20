@@ -6,7 +6,7 @@ date: "2021-08-10"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-3-MIC-waiting-to-be-shipped-to-Europe.avif"
+  - "/images/Tesla-Model-3-MIC-waiting-to-be-shipped-to-Europe.avif"
 ---
 
 In June the Tesla Model 3 was Europe’s second best-selling car, only behind the Volkswagen Golf.

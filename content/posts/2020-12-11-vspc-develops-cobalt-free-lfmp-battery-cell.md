@@ -6,7 +6,7 @@ date: "2020-12-11"
 categories: 
   - "general"
 images: 
-  - "Lithium-Australia-logo.avif"
+  - "/images/Lithium-Australia-logo.avif"
 ---
 
 Lithium Australia subsidiary VSPC developed a new cobalt-free LFMP battery cell. LFMP is the high-voltage version of LFP (LiFePO4) and is expected to become its successor.

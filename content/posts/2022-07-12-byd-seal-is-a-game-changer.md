@@ -6,7 +6,7 @@ date: "2022-07-12"
 categories: 
   - "general"
 images: 
-  - "BYD-Seal.avif"
+  - "/images/BYD-Seal.avif"
 ---
 
 Starting to arrive at dealers in China with a pre-sale price range between 212.800 and 289.800 yuan (31.482 and 42.874 euros) the BYD Seal is a game changer. Technology-wise, it's my favorite electric car, by far, leaving the awesome Kia EV6 in a distant second.

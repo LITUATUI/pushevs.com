@@ -6,7 +6,7 @@ date: "2020-10-12"
 categories: 
   - "general"
 images: 
-  - "ORA-R2-White-cat-and-ORA-R1-Black-cat.avif"
+  - "/images/ORA-R2-White-cat-and-ORA-R1-Black-cat.avif"
 ---
 
 Last month ORA sold 6.619 electric cars in China and its best selling model was the ORA R1 (Black Cat) with 5.141 units delivered to customers.

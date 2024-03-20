@@ -6,7 +6,7 @@ date: "2023-03-10"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y-and-Tesla-Model-3.avif"
+  - "/images/Tesla-Model-Y-and-Tesla-Model-3.avif"
 ---
 
 The UK saw plugin electric vehicles take 22.9% share of the auto market in February 2023, down from 25.6% year on year. Overall auto volume was 74,441 units, up some 26% YoY, though still down from the ~81.000 unit seasonal norm, pre-2020. The Tesla Model Y was the UK’s best selling full electric vehicle for the month.

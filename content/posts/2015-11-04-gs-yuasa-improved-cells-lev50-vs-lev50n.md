@@ -6,7 +6,7 @@ date: "2015-11-04"
 categories: 
   - "general"
 images: 
-  - "gs-yuasa-lev50-4-module.avif"
+  - "/images/gs-yuasa-lev50-4-module.avif"
 ---
 
 In the summer of 2012 Mitsubishi MiEV's French brothers, Citroen C-Zero and Peugeot iOn started using a battery with reduced capacity, 14,5 kWh (80 cells) instead of 16 kWh (88 cells). Nonetheless, Mitsubishi i-MiEV kept the 16 kWh battery.

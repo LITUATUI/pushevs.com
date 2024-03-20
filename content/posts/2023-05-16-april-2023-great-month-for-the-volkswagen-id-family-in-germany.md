@@ -6,7 +6,7 @@ date: "2023-05-16"
 categories: 
   - "general"
 images: 
-  - "Volkswagen-ID.5.avif"
+  - "/images/Volkswagen-ID.5.avif"
 ---
 
 The German auto market saw plugin electric vehicles take 20.5% share in April, significantly down from 24.3% year on year. Full electrics, however, saw increased share, though were outweighed by a halving of plugin hybrid share, a result of recent policy adjustments. Overall auto volume in April was 202,947 units, 12.6% up YoY, though still one third below pre-2020 seasonal norms (around 305,000 units).  The bestselling full electric in April was the Volkswagen ID.4 / ID.5.

@@ -6,7 +6,7 @@ date: "2023-03-07"
 categories: 
   - "general"
 images: 
-  - "2023_Volvo_XC40_Recharge.avif"
+  - "/images/2023_Volvo_XC40_Recharge.avif"
 ---
 
 In February, Sweden’s plugin electric vehicles continued to dominate with a 54.0% share of auto sales, up from 51.6% year on year. Full electric share grew substantially, whilst plugin hybrid share decreased. Overall auto volume was 18,442 units, down some 13% YoY. The Volvo XC40 was February’s best selling BEV yet again, holding the lead for the 5th consecutive month.

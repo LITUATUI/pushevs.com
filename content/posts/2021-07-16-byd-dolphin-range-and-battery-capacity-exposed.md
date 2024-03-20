@@ -6,7 +6,7 @@ date: "2021-07-16"
 categories: 
   - "general"
 images: 
-  - "BYD-Dolphin.avif"
+  - "/images/BYD-Dolphin.avif"
 ---
 
 We finally know the exact figures of range and battery capacity for the BYD Dolphin, thanks to recent documents published by the Ministry of Industry and Information Technology (MIIT).

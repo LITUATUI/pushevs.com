@@ -6,7 +6,7 @@ date: "2022-06-08"
 categories: 
   - "general"
 images: 
-  - "BYD-Blade-Battery-prismatic-cells.avif"
+  - "/images/BYD-Blade-Battery-prismatic-cells.avif"
 ---
 
 It's no longer a rumor, BYD will supply batteries to Tesla.

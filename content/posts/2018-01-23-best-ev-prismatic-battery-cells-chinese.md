@@ -6,7 +6,7 @@ date: "2018-01-23"
 categories: 
   - "general"
 images: 
-  - "catl-battery-cell-overview.avif"
+  - "/images/catl-battery-cell-overview.avif"
 ---
 
 What I like the most about prismatic battery cells is that they are like LEGO bricks and make easier the task of building battery packs. For this reason they are perfect for DIY (Do it yourself) EV projects and for automakers that plan to effortlessly upgrade the battery packs of their electric cars.

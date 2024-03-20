@@ -6,7 +6,7 @@ date: "2021-06-15"
 categories: 
   - "general"
 images: 
-  - "BYD-EA1-spy-shot.avif"
+  - "/images/BYD-EA1-spy-shot.avif"
 ---
 
 The BYD EA1 is one of the most awaited electric cars and just got its approval from the Ministry of Industry and Information Technology (MIIT) to be produced and sold in China.

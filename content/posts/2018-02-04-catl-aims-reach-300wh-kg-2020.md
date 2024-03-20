@@ -6,7 +6,7 @@ date: "2018-02-04"
 categories: 
   - "general"
 images: 
-  - "catl-cell-roadmap.avif"
+  - "/images/catl-cell-roadmap.avif"
 ---
 
 China's 13th Five-year Plan (2016 to 2020) sets the goals for EV battery cells of reaching an energy density higher than 300 Wh/kg and cost lower than 100 €/kWh. Currently battery cell makers are working to reach or even surpass these objectives.

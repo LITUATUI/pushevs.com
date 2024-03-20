@@ -7,7 +7,7 @@ categories:
   - "evergreen"
   - "general"
 images: 
-  - "Lightyear-One-in-the-Death-Valley.avif"
+  - "/images/Lightyear-One-in-the-Death-Valley.avif"
 ---
 
 In 2010, when the first generation of mass-produced electric cars started to arrive, I felt that automakers were undermining electric cars on purpose.

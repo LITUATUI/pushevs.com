@@ -6,7 +6,7 @@ date: "2020-06-10"
 categories: 
   - "general"
 images: 
-  - "CATL-Energy-Density-Development-Roadmap.avif"
+  - "/images/CATL-Energy-Density-Development-Roadmap.avif"
 ---
 
 The first generation NCM 811 battery cells from CATL and SK Innovation are now on top of the list of the most energy dense cells used in China.

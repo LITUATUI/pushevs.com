@@ -6,7 +6,7 @@ date: "2022-03-29"
 categories: 
   - "general"
 images: 
-  - "Guoxuan-at-China-EV100-Forum.avif"
+  - "/images/Guoxuan-at-China-EV100-Forum.avif"
 ---
 
 Gotion High-Tech, also known as Guoxuan, announced at the China EV100 Forum that the mass-production of its energy-dense LFP (LiPePO4) battery cells will finally start by the end of the year. Hopefully, this time is for real...

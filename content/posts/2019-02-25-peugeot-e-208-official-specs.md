@@ -6,7 +6,7 @@ date: "2019-02-25"
 categories: 
   - "general"
 images: 
-  - "Zero-emission-PEUGEOT-e-208-GT.avif"
+  - "/images/Zero-emission-PEUGEOT-e-208-GT.avif"
 ---
 
 Just before this year's Geneva International Motor Show, PEUGEOT e-208 has its official specs announced.

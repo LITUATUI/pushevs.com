@@ -6,7 +6,7 @@ date: "2021-06-02"
 categories: 
   - "general"
 images: 
-  - "MG-MARVEL-R-Electric.avif"
+  - "/images/MG-MARVEL-R-Electric.avif"
 ---
 
 MG has been selling the ZS EV in Europe for a while now. The ZS EV belongs to the first generation of MG electric cars and honestly I never payed much attention to it.

@@ -6,7 +6,7 @@ date: "2022-07-04"
 categories: 
   - "general"
 images: 
-  - "GAC-introduced-its-new-generation-LFP-battery.avif"
+  - "/images/GAC-introduced-its-new-generation-LFP-battery.avif"
 ---
 
 GAC Tech day was held at GAC R&D Center, where the company announced its new generation of LFP batteries.

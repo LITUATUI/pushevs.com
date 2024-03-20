@@ -6,7 +6,7 @@ date: "2019-06-20"
 categories: 
   - "general"
 images: 
-  - "NIO-ES6.avif"
+  - "/images/NIO-ES6.avif"
 ---
 
 The NIO ES6 is an all-electric SUV for the Chinese market that has a 84 kWh battery pack made with NCM 811 battery cells from CATL. NIO has announced that deliveries to customers are underway.

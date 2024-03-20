@@ -6,7 +6,7 @@ date: "2021-11-22"
 categories: 
   - "general"
 images: 
-  - "SVOLT-unveils-its-second-generation-L600-short-blade-battery.avif"
+  - "/images/SVOLT-unveils-its-second-generation-L600-short-blade-battery.avif"
 ---
 
 Right now SVOLT seems to be the only major battery cell maker that aims to provide a good alternative to the popular BYD Blade Battery, by introducing its own long prismatic cobalt-free battery cells to be used in simple module-less battery packs.

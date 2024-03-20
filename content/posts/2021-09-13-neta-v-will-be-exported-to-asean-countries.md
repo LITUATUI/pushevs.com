@@ -6,7 +6,7 @@ date: "2021-09-13"
 categories: 
   - "general"
 images: 
-  - "NETA-V-in-yellow.avif"
+  - "/images/NETA-V-in-yellow.avif"
 ---
 
 The Chinese all-electric car maker Hozon Auto has been developing an English version of its website to prepare the expansion to other markets. Now, the carmaker finally announced that it will produce a right-hand drive version of its affordable electric car NETA V to be exported to ASEAN countries.

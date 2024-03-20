@@ -6,7 +6,7 @@ date: "2023-03-11"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y-made-in-Germany.avif"
+  - "/images/Tesla-Model-Y-made-in-Germany.avif"
 ---
 
 Germany, Europe’s single largest auto market, saw plugin electric vehicles take 21.5% share of sales in February 2023, a drop from 24.9% year on year. Full electric share grew, but plugin hybrid share almost halved. Overall auto volume was 206,210 units, up by some 3% YoY, but still some 18% down from pre-2020 seasonal norms. The Tesla Model Y was the month’s bestselling plugin, and second overall auto (behind the VW Golf).

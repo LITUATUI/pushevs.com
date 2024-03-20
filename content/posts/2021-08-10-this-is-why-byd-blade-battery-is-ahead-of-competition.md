@@ -6,7 +6,7 @@ date: "2021-08-10"
 categories: 
   - "general"
 images: 
-  - "BYD-Blade-battery-with-CTP-technology.avif"
+  - "/images/BYD-Blade-battery-with-CTP-technology.avif"
 ---
 
 Currently the LFP (LiFePO4) cobalt-free chemistry allows to build EV batteries that are extremely safe, durable, simple, affordable and with good performance.

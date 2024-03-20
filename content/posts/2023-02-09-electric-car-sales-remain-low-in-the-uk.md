@@ -6,7 +6,7 @@ date: "2023-02-09"
 categories: 
   - "general"
 images: 
-  - "IMF-economic-forecast.avif"
+  - "/images/IMF-economic-forecast.avif"
 ---
 
 The UK auto market saw plugin electric vehicles (EVs) take 20.0% share of new sales in January, flat from 20.4% year on year. Full electrics grew slightly whilst plugin hybrids shrank. Overall auto volume was 131,994 units, up some 15% YoY, but still 21% below pre-2020 seasonal norms. Volkswagen was the UK’s best selling BEV brand in January.

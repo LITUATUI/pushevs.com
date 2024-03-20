@@ -6,7 +6,7 @@ date: "2020-07-11"
 categories: 
   - "general"
 images: 
-  - "Different-battery-cathode-chemistries-comparison.avif"
+  - "/images/Different-battery-cathode-chemistries-comparison.avif"
 ---
 
 While ago I wrote that the [comeback of LFP (LiFePO4) batteries](/2019/08/16/the-comeback-of-lfp-batteries/) would happen and it would be thanks to the adoption of a new high-voltage form of LFP that incorporates manganese (LFMP).

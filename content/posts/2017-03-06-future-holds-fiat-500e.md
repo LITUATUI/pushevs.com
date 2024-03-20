@@ -6,7 +6,7 @@ date: "2017-03-06"
 categories: 
   - "general"
 images: 
-  - "2016-fiat-500e-in-red.avif"
+  - "/images/2016-fiat-500e-in-red.avif"
 ---
 
 Now that almost every other electric car got a battery upgrade, it's time for the Fiat 500e to get its own. Let's see the possibilities for upgrades.

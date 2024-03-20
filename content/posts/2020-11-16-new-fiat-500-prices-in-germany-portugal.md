@@ -6,7 +6,7 @@ date: "2020-11-16"
 categories: 
   - "general"
 images: 
-  - "New-FIAT-500-prices-in-Portugal.avif"
+  - "/images/New-FIAT-500-prices-in-Portugal.avif"
 ---
 
 The prices of the new all-electric FIAT 500 in Germany and Portugal are finally available.

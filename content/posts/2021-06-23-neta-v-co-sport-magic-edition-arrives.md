@@ -6,7 +6,7 @@ date: "2021-06-23"
 categories: 
   - "general"
 images: 
-  - "NETA-V-Co-sport-Magic-Edition.avif"
+  - "/images/NETA-V-Co-sport-Magic-Edition.avif"
 ---
 
 Last week I wrote an article announcing that the NETA V would soon get a faster version in China. That version is now available to order and it's called NETA V Co-sport Magic Edition.

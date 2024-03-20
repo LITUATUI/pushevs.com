@@ -6,7 +6,7 @@ date: "2022-04-08"
 categories: 
   - "general"
 images: 
-  - "2022-BYD-Atto-3.avif"
+  - "/images/2022-BYD-Atto-3.avif"
 ---
 
 BYD's fifth car factory in China is expected to start production on April 15 at Fuzhou city, Jiangxi province, with a planned annual production capacity of 200.000 vehicles.

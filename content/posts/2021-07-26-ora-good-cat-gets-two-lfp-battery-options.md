@@ -6,7 +6,7 @@ date: "2021-07-26"
 categories: 
   - "general"
 images: 
-  - "ORA-Haomao-ES11.avif"
+  - "/images/ORA-Haomao-ES11.avif"
 ---
 
 Previously, the ORA Good Cat had a LFP (LiFePO4) battery in the standard range version (401 km), but the long range version (501 km) was only available with a NCM battery.

@@ -6,7 +6,7 @@ date: "2022-07-12"
 categories: 
   - "general"
 images: 
-  - "CATL-battery-roadmap.avif"
+  - "/images/CATL-battery-roadmap.avif"
 ---
 
 Chinese media is reporting that CATL will mass produce lithium manganese iron phosphate (LMFP or LFMP) batteries already this year, on track with the company's roadmap.

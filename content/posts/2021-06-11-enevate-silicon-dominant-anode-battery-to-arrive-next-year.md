@@ -6,7 +6,7 @@ date: "2021-06-11"
 categories: 
   - "general"
 images: 
-  - "Enevate-silicon-dominant-anode-battery-technology.avif"
+  - "/images/Enevate-silicon-dominant-anode-battery-technology.avif"
 ---
 
 Enevate wants to enable electric vehicles to charge as fast as refueling gas cars and is now closer to make it happen.

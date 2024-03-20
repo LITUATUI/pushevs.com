@@ -6,7 +6,7 @@ date: "2021-06-12"
 categories: 
   - "general"
 images: 
-  - "Wuling-Hong-Guang-MINI-EV.avif"
+  - "/images/Wuling-Hong-Guang-MINI-EV.avif"
 ---
 
 The small Wuling Hong Guang MINI EV continues to dominate electric car sales in China. It's impressive that this electric car remains so popular now that better alternatives are available.

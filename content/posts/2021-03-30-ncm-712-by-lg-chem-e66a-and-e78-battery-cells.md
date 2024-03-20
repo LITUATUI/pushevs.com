@@ -6,7 +6,7 @@ date: "2021-03-30"
 categories: 
   - "general"
 images: 
-  - "LG-Chem-pouch-battery-cell.avif"
+  - "/images/LG-Chem-pouch-battery-cell.avif"
 ---
 
 While most battery cell makers have been adopting NCM 811 as their preferred battery technology for energy dense cathodes, LG Chem bet heavily on mass production of NCM 712 battery cells.

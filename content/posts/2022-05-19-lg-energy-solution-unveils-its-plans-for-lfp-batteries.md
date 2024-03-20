@@ -6,7 +6,7 @@ date: "2022-05-19"
 categories: 
   - "general"
 images: 
-  - "LG-Energy-Solution-Michigan.avif"
+  - "/images/LG-Energy-Solution-Michigan.avif"
 ---
 
 LG Energy Solution finally unveiled its plans for LFP (LiFePO4) batteries at the 2022 Smarter E event in Munich.

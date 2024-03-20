@@ -6,7 +6,7 @@ date: "2022-05-13"
 categories: 
   - "sponsored"
 images: 
-  - "BENY-at-Intersolar-Europe-2022.avif"
+  - "/images/BENY-at-Intersolar-Europe-2022.avif"
 ---
 
 Intersolar Europe 2022 is taking place in Munich, Germany.

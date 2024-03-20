@@ -6,7 +6,7 @@ date: "2020-08-12"
 categories: 
   - "general"
 images: 
-  - "SVOLT-cobalt-free-battery-cell-launch-event.avif"
+  - "/images/SVOLT-cobalt-free-battery-cell-launch-event.avif"
 ---
 
 Months ago SVOLT mentioned that it will start producing NCMA and LNMO cells for CTP (cell-to-pack) battery packs next year and it'll supply an European carmaker that we now know to be PSA.

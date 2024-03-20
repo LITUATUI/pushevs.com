@@ -6,7 +6,7 @@ date: "2020-07-15"
 categories: 
   - "general"
 images: 
-  - "BMW-iX3-powertrain.avif"
+  - "/images/BMW-iX3-powertrain.avif"
 ---
 
 Now that BMW finally unveiled its new electric car, we have more details about its powertrain that includes a NCM 811 battery made with 188 prismatic cells from CATL.

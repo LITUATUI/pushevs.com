@@ -6,7 +6,7 @@ date: "2022-07-19"
 categories: 
   - "general"
 images: 
-  - "SVOLTs-solid-state-cell-prototype.avif"
+  - "/images/SVOLTs-solid-state-cell-prototype.avif"
 ---
 
 The Chinese battery cell maker SVOLT is now testing solid-state battery cells to power electric cars with range superior to 1.000 km on a single charge.

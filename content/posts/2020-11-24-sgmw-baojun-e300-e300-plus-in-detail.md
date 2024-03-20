@@ -6,7 +6,7 @@ date: "2020-11-24"
 categories: 
   - "general"
 images: 
-  - "Baojun-E300-and-Baojun-E300-Plus.avif"
+  - "/images/Baojun-E300-and-Baojun-E300-Plus.avif"
 ---
 
 Currently the most popular electric car from SGMW (SAIC-GM-Wuling) is definitely the Wuling Hong Guang MINI EV, as you may have noticed from multiple articles I wrote. However, the reality is that this is a very spartan electric car without basic safety features required by European or North American standards.

@@ -6,7 +6,7 @@ date: "2020-09-22"
 categories: 
   - "general"
 images: 
-  - "New-BYD-e6-with-BYD-Blade-Battery.avif"
+  - "/images/New-BYD-e6-with-BYD-Blade-Battery.avif"
 ---
 
 The BYD e6 is an electric car aimed for taxi services that has been in production since 2009. It always had cobalt-free LFP (LiFePO4) batteries.

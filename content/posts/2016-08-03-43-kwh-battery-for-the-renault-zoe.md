@@ -6,7 +6,7 @@ date: "2016-08-03"
 categories: 
   - "general"
 images: 
-  - "43-kwh-battery-for-the-renault-zoe.avif"
+  - "/images/43-kwh-battery-for-the-renault-zoe.avif"
 ---
 
 The 43 kWh battery for the Renault Zoe was built by Imecar Elektronik Turkey in cooperation with Renault Turkey.

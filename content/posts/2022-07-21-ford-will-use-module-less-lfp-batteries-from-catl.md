@@ -6,7 +6,7 @@ date: "2022-07-21"
 categories: 
   - "general"
 images: 
-  - "Ford-EV-Plan.avif"
+  - "/images/Ford-EV-Plan.avif"
 ---
 
 Finally! Ford will use module-less LFP (LiFePO4) batteries from CATL to cut costs by 10-15 percent starting next year. Moreover, the carmaker plans to localize and use 40 GWh of LFP capacity in North America starting in 2026.

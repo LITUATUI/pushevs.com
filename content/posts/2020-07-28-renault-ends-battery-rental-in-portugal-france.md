@@ -6,7 +6,7 @@ date: "2020-07-28"
 categories: 
   - "general"
 images: 
-  - "Renault-ZOE-configurator-in-Portugal.avif"
+  - "/images/Renault-ZOE-configurator-in-Portugal.avif"
 ---
 
 After terminating the battery rental for new units in the UK and Spain, now Renault is also selling the ZOE in Portugal and France only with batteries included.

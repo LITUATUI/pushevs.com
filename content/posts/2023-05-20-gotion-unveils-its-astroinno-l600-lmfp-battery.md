@@ -6,7 +6,7 @@ date: "2023-05-20"
 categories: 
   - "general"
 images: 
-  - "Gotion-Astroinno-L600-LMFP-battery-cell.avif"
+  - "/images/Gotion-Astroinno-L600-LMFP-battery-cell.avif"
 ---
 
 The Chinese battery maker Gotion unveiled more details on its new LMFP battery cell and pack.

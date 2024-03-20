@@ -6,7 +6,7 @@ date: "2020-08-20"
 categories: 
   - "general"
 images: 
-  - "Volkswagen-ID.4.avif"
+  - "/images/Volkswagen-ID.4.avif"
 ---
 
 Volkswagen's first electric compact SUV is now being built in Zwickau, Saxony, Germany.

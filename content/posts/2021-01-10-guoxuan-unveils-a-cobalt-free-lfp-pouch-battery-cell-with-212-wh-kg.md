@@ -7,7 +7,7 @@ categories:
   - "evergreen"
   - "general"
 images: 
-  - "Guoxuan-unveils-a-cobalt-free-LFP-pouch-battery-cell-with-212-Wh-kg.avif"
+  - "/images/Guoxuan-unveils-a-cobalt-free-LFP-pouch-battery-cell-with-212-Wh-kg.avif"
 ---
 
 Guoxuan is a Chinese battery cell maker known for producing the most energy-dense cobalt-free LFP (LiFePO4) battery cells.

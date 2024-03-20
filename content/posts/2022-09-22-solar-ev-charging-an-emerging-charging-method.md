@@ -6,7 +6,7 @@ date: "2022-09-22"
 categories: 
   - "sponsored"
 images: 
-  - "Solar-EV-Charging-by-Beny.avif"
+  - "/images/Solar-EV-Charging-by-Beny.avif"
 ---
 
 ### Phenomenon & Policy

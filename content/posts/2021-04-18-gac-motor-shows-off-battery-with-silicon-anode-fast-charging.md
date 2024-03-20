@@ -6,7 +6,7 @@ date: "2021-04-18"
 categories: 
   - "general"
 images: 
-  - "GAC-Motor-testing-3C-charging.avif"
+  - "/images/GAC-Motor-testing-3C-charging.avif"
 ---
 
 After many years of waiting, soon electric cars will finally have batteries with silicon anodes, which deliver higher energy density and faster charging when compared to common graphite anodes.

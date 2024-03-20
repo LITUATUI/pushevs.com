@@ -6,7 +6,7 @@ date: "2020-11-30"
 categories: 
   - "general"
 images: 
-  - "Changan-Benben-E-Star.avif"
+  - "/images/Changan-Benben-E-Star.avif"
 ---
 
 Changan Benben E-Star is a cute small electric car currently available with a NEDC range of 301 km and a 32,2 kWh NCM battery with generous warranty (300.000 km or 10 years).

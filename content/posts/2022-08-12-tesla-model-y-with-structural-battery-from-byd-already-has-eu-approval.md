@@ -6,7 +6,7 @@ date: "2022-08-12"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y-made-in-Germany.avif"
+  - "/images/Tesla-Model-Y-made-in-Germany.avif"
 ---
 
 Teslamag was able to confirm that Tesla will produce the Model Y in Germany with a structural and module-less LFP (LiFePO4) battery from BYD. This is great news!

@@ -6,7 +6,7 @@ date: "2021-10-25"
 categories: 
   - "general"
 images: 
-  - "Xpeng-Motors-new-480-kW-fast-charging-technology.avif"
+  - "/images/Xpeng-Motors-new-480-kW-fast-charging-technology.avif"
 ---
 
 [After GAC](/2021/07/30/gac-aion-with-fast-charging-speed-comparable-to-refueling/), it's now time for Xpeng to also announce its plans to build a fast charging network comprised of powerful 480 kW chargers, to fully take advantage of its upcoming 800-volt system platform.

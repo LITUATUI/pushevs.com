@@ -6,7 +6,7 @@ date: "2019-05-07"
 categories: 
   - "general"
 images: 
-  - "Envision-AESC-roadmap.avif"
+  - "/images/Envision-AESC-roadmap.avif"
 ---
 
 Now that Nissan's battery business was finally sold to Envision, we can expect faster development of [AESC battery cells under Chinese ownership](https://asia.nikkei.com/Business/Business-deals/Nissan-s-EV-battery-unit-recharged-under-Chinese-ownership).

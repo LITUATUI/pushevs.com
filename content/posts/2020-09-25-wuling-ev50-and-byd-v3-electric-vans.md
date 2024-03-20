@@ -6,7 +6,7 @@ date: "2020-09-25"
 categories: 
   - "general"
 images: 
-  - "Wuling-EV50.avif"
+  - "/images/Wuling-EV50.avif"
 ---
 
 The Wuling EV50 and BYD V3 are two new electric vans that share the same body, but they have different cobalt-free LFP batteries.

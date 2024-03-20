@@ -6,7 +6,7 @@ date: "2021-07-13"
 categories: 
   - "general"
 images: 
-  - "SVOLT-battery-roadmap.avif"
+  - "/images/SVOLT-battery-roadmap.avif"
 ---
 
 Nowadays, good electric cars already have enough range for most people, but they are still much more expensive than their ICE (Internal Combustion Engine) counterparts. This is why LFP (LiFePO4) and CTP (cell-to-pack) are extremely important technologies to make electric cars mainstream. Automakers that don't plan to use these two technologies as soon as possible aren't serious about mass producing electric cars. For example, [Stellantis plans to start using CTP packs with LFP cells only by 2024](/2021/07/08/stellantis-delays-affordable-electric-cars-until-2026/)...

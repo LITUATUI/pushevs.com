@@ -6,7 +6,7 @@ date: "2022-12-21"
 categories: 
   - "general"
 images: 
-  - "CATL-plant-in-Germany.avif"
+  - "/images/CATL-plant-in-Germany.avif"
 ---
 
 World's biggest battery maker, CATL, has finally started producing battery cells in Europe. Let's see the press release.

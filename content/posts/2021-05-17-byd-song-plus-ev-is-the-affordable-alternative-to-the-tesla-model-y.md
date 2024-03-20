@@ -6,7 +6,7 @@ date: "2021-05-17"
 categories: 
   - "general"
 images: 
-  - "New-BYD-Song-Plus-EV.avif"
+  - "/images/New-BYD-Song-Plus-EV.avif"
 ---
 
 You may already noticed that recently BYD has been focused on modernizing its electric cars by making them closer to the BYD Han EV, in technology and looks.

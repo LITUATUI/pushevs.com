@@ -6,7 +6,7 @@ date: "2021-10-21"
 categories: 
   - "general"
 images: 
-  - "BYD-Blade-Battery-prismatic-cells.avif"
+  - "/images/BYD-Blade-Battery-prismatic-cells.avif"
 ---
 
 Right now CATL is Tesla's sole supplier of LFP (LiFePO4) battery cells, but BYD seems to be the next on the list.

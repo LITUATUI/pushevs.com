@@ -7,7 +7,7 @@ categories:
   - "evergreen"
   - "general"
 images: 
-  - "Na-ion-battery-cell-by-NAIMA-project.avif"
+  - "/images/Na-ion-battery-cell-by-NAIMA-project.avif"
 ---
 
 Sodium-ion batteries (NIBs) are coming with potential to revolutionize grid energy storage and indirectly help EVs in a big way. Let's see how!

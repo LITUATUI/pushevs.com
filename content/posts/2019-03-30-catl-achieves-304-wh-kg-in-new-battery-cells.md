@@ -6,7 +6,7 @@ date: "2019-03-30"
 categories: 
   - "general"
 images: 
-  - "CATL-pouch-vs-prismatic-battery-cells.avif"
+  - "/images/CATL-pouch-vs-prismatic-battery-cells.avif"
 ---
 
 Last year I wrote an article about [CATL's goal of introducing NCM 811 battery cells in 2019](/2018/08/14/catl-expects-to-introduce-ncm-811-battery-cells-next-year/), but unfortunately the company wasn't ready to make that information public and I had to make that article private just a few hours after releasing it.

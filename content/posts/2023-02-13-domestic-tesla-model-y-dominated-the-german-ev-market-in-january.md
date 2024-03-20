@@ -6,7 +6,7 @@ date: "2023-02-13"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y.avif"
+  - "/images/Tesla-Model-Y.avif"
 ---
 
 Germany saw plugin electric vehicle (EV) share at a low ebb in January, just 15.1%, from 21.6% year on year. The one-off low result comes in the shadow of record plugin share in December, ahead of reduced incentives from January 1st; the imbalance will normalise in the coming months. Overall auto volumes were 179,225 units, just 2% lower than January 2022, though still well down from pre-Covid seasonal norms. The best selling BEV was the Tesla Model Y.

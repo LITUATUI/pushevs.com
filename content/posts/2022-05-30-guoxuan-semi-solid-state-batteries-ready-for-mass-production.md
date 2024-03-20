@@ -6,7 +6,7 @@ date: "2022-05-30"
 categories: 
   - "general"
 images: 
-  - "Guoxuan-semi-solid-state-battery-cell.avif"
+  - "/images/Guoxuan-semi-solid-state-battery-cell.avif"
 ---
 
 The Chinese battery maker partly owned by Volkswagen, Guoxuan, also known as Gotion Hi-Tech will start mass producing its first generation of semi-solid state battery cells later this year.

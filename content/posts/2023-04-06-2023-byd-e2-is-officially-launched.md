@@ -6,7 +6,7 @@ date: "2023-04-06"
 categories: 
   - "general"
 images: 
-  - "2023-BYD-e2.avif"
+  - "/images/2023-BYD-e2.avif"
 ---
 
 On April 6, the good looking 2023 BYD e2 was officially launched in China with two configurations. The Charming model is priced at 102.800 yuan (13.716 euros) and the Luxury model is priced at 109.800 yuan (14.650 euros).

@@ -6,7 +6,7 @@ date: "2021-06-02"
 categories: 
   - "general"
 images: 
-  - "Volvo-C40-Recharge.avif"
+  - "/images/Volvo-C40-Recharge.avif"
 ---
 
 Made in Belgium, the Volvo C40 Recharge is now available to order in Europe.

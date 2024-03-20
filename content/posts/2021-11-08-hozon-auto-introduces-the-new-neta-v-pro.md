@@ -6,7 +6,7 @@ date: "2021-11-08"
 categories: 
   - "general"
 images: 
-  - "NETA-V-Pro.avif"
+  - "/images/NETA-V-Pro.avif"
 ---
 
 Hozon Auto is now launching the new NETA V Pro as a more affordable alternative to the popular BYD Dolphin.

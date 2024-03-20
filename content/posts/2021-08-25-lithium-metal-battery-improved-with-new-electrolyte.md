@@ -6,7 +6,7 @@ date: "2021-08-25"
 categories: 
   - "general"
 images: 
-  - "Researchers-at-the-Karlsruhe-Institute-of-Technology-KIT.avif"
+  - "/images/Researchers-at-the-Karlsruhe-Institute-of-Technology-KIT.avif"
 ---
 
 Lithium metal is one of the best candidates to replace graphite as an anode material thanks to its high theoretical capacity. The problem is that batteries using lithium metal anodes currently have poor cycle life.

@@ -6,7 +6,7 @@ date: "2020-06-05"
 categories: 
   - "general"
 images: 
-  - "LG-Chem-pouch-battery-cell.avif"
+  - "/images/LG-Chem-pouch-battery-cell.avif"
 ---
 
 It's no longer an educated guess on my part, we now have the confirmation that LG Chem started the trial production of NCM 712 battery cells at its plant in Poland last year. As for mass production it started early this year.

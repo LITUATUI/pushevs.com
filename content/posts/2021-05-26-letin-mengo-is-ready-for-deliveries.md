@@ -6,7 +6,7 @@ date: "2021-05-26"
 categories: 
   - "general"
 images: 
-  - "Launching-ceremony-of-the-LETIN-Mengo.avif"
+  - "/images/Launching-ceremony-of-the-LETIN-Mengo.avif"
 ---
 
 The production of the LETIN Mengo started last month with first units rolling off the production line. Now, this small A-segment electric car that seats 4 persons is ready for first deliveries.

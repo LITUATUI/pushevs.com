@@ -6,7 +6,7 @@ date: "2021-06-07"
 categories: 
   - "general"
 images: 
-  - "CALB-battery-cell-production-capacity-roadmap.avif"
+  - "/images/CALB-battery-cell-production-capacity-roadmap.avif"
 ---
 
 CALB (China Aviation Lithium Battery) aims to become a top battery cell maker very soon, but right now world's biggest EV battery cell maker is CATL by a large margin, as we can see from the Q1 2021 results below.

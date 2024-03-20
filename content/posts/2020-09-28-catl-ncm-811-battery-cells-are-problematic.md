@@ -6,7 +6,7 @@ date: "2020-09-28"
 categories: 
   - "general"
 images: 
-  - "CATL-NCM-811-prismatic-battery-cells.avif"
+  - "/images/CATL-NCM-811-prismatic-battery-cells.avif"
 ---
 
 GAC Aion S was probably the first electric car to be available with NCM 811 battery cells and expectations were extremely high for this model.

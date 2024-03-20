@@ -6,7 +6,7 @@ date: "2018-01-28"
 categories: 
   - "general"
 images: 
-  - "volkswagen-e-golf-range-calculator.avif"
+  - "/images/volkswagen-e-golf-range-calculator.avif"
 ---
 
 Online range calculators are very useful tools, especially to understand the impact of speed, temperature and heat pumps on electric cars range.

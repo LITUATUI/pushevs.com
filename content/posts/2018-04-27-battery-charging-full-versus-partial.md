@@ -7,7 +7,7 @@ categories:
   - "evergreen"
   - "general"
 images: 
-  - "Charging-limit-option-on-Hyundai-Kona-Electric.avif"
+  - "/images/Charging-limit-option-on-Hyundai-Kona-Electric.avif"
 ---
 
 Batteries are part of our lives. They are present in everyday devices such as electric cars, smartphones, tablets or laptops. For this reason it's important to know how to treat them right.

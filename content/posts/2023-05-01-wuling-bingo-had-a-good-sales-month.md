@@ -6,7 +6,7 @@ date: "2023-05-01"
 categories: 
   - "general"
 images: 
-  - "Wuling-Bingo.avif"
+  - "/images/Wuling-Bingo.avif"
 ---
 
 The Wuling Bingo was launched on March 29 in China with a starting price of 59.800 yuan (7.887 euros) and had 522 units delivered in March and 16.383 units in April.

@@ -6,7 +6,7 @@ date: "2020-09-19"
 categories: 
   - "general"
 images: 
-  - "Winding-jelly-roll-and-stacking-technologies.avif"
+  - "/images/Winding-jelly-roll-and-stacking-technologies.avif"
 ---
 
  

@@ -6,7 +6,7 @@ date: "2021-03-16"
 categories: 
   - "general"
 images: 
-  - "BAIC-EX3.avif"
+  - "/images/BAIC-EX3.avif"
 ---
 
 The Chinese electric car BAIC EX3 was recently upgraded and is now powered by a NCM battery made by Guoxuan with an energy density of 200 Wh/kg. This is the most energy dense battery pack to power a mass produced electric car.

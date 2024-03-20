@@ -6,7 +6,7 @@ date: "2022-08-31"
 categories: 
   - "general"
 images: 
-  - "MG-MG4-Electric.avif"
+  - "/images/MG-MG4-Electric.avif"
 ---
 
 The MG Mulan (MG4 Electric) is the new best value electric car - to be sold not only in its home country China, but also in Europe, New Zealand, Australia, Mexico, South America and the Middle East.

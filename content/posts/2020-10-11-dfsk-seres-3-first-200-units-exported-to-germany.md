@@ -6,7 +6,7 @@ date: "2020-10-11"
 categories: 
   - "general"
 images: 
-  - "DFSK-SERES-3-First-200-units-exported-to-Germany.avif"
+  - "/images/DFSK-SERES-3-First-200-units-exported-to-Germany.avif"
 ---
 
 On October 8, the first 200 units of the DFSK SERES 3 were shipped to Germany and should arrive next month.

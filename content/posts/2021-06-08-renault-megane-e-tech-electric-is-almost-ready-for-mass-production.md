@@ -6,7 +6,7 @@ date: "2021-06-08"
 categories: 
   - "general"
 images: 
-  - "2021-New-Renault-MEGANE-E-TECH-Electric-pre-production.avif"
+  - "/images/2021-New-Renault-MEGANE-E-TECH-Electric-pre-production.avif"
 ---
 
 During this summer, 30 pre-production units of the Mégane E-Tech Electric will be driven by Renault engineers for final testing before mass production begins.

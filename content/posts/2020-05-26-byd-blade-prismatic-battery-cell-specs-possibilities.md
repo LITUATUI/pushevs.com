@@ -6,7 +6,7 @@ date: "2020-05-26"
 categories: 
   - "general"
 images: 
-  - "BYD-Blade-prismatic-battery-cell.avif"
+  - "/images/BYD-Blade-prismatic-battery-cell.avif"
 ---
 
 **Large battery cells... why now?**

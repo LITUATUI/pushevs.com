@@ -6,7 +6,7 @@ date: "2021-08-11"
 categories: 
   - "general"
 images: 
-  - "ORA-Cherry-Cat-front.avif"
+  - "/images/ORA-Cherry-Cat-front.avif"
 ---
 
 The Cherry Cat is the first SUV made by ORA and will be available with LFP (LiFePO4) and NMx cobalt-free batteries made by SVOLT for different ranges/prices.

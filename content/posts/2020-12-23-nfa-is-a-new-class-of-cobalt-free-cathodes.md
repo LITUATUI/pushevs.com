@@ -6,7 +6,7 @@ date: "2020-12-23"
 categories: 
   - "general"
 images: 
-  - "NFA-cobalt-free-cathode.avif"
+  - "/images/NFA-cobalt-free-cathode.avif"
 ---
 
 NFA may soon join LNMO and LFMP as a promising cobalt-free cathode chemistry for EV batteries.

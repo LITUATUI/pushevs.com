@@ -6,7 +6,7 @@ date: "2023-07-14"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y.avif"
+  - "/images/Tesla-Model-Y.avif"
 ---
 
 June saw plugin EVs take 25.1% of the UK auto market, up from 21.6% year on year. Both full electrics and plugin hybrids grew volume at a healthy clip. Overall auto volume was 177,266 units, up some 26% YoY, but still well below pre-2020 norms. The Tesla Model Y was the UK’s bestselling vehicle in June.

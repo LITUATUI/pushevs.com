@@ -6,7 +6,7 @@ date: "2020-05-21"
 categories: 
   - "general"
 images: 
-  - "SVOLT-cobalt-free-battery-cell-launch-event.avif"
+  - "/images/SVOLT-cobalt-free-battery-cell-launch-event.avif"
 ---
 
 In an online presentation SVOLT gave us more information about its NMx cobalt-free battery cell that'll arrive next year.

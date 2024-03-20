@@ -6,7 +6,7 @@ date: "2020-06-22"
 categories: 
   - "general"
 images: 
-  - "Weltmeister-EX5.avif"
+  - "/images/Weltmeister-EX5.avif"
 ---
 
 Launched last year in China the Weltmeister EX5 is currently listed with a starting price of 139.800 yuan (17.561 euros) after subsidies. This is a very appealing electric car sized between the Kia e-Niro and the Tesla Model Y.

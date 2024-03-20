@@ -6,7 +6,7 @@ date: "2020-10-22"
 categories: 
   - "general"
 images: 
-  - "On-board-charger-for-electric-car.avif"
+  - "/images/On-board-charger-for-electric-car.avif"
 ---
 
 In this article I'll show you how easy it's to estimate the on-board charger efficiency of an electric car by using WLTP ratings.

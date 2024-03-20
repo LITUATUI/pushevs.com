@@ -6,7 +6,7 @@ date: "2022-09-27"
 categories: 
   - "general"
 images: 
-  - "New-PEUGEOT-e-208.avif"
+  - "/images/New-PEUGEOT-e-208.avif"
 ---
 
 The new PEUGEOT e-208 will arrive on the market in 2023 with more power, range and efficiency.

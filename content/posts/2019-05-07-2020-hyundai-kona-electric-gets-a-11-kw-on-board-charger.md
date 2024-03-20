@@ -6,7 +6,7 @@ date: "2019-05-07"
 categories: 
   - "general"
 images: 
-  - "2019-Hyundai-Kona-Electric.avif"
+  - "/images/2019-Hyundai-Kona-Electric.avif"
 ---
 
 Hyundai Motor just deleted a press release where it informed that the new model year Hyundai Kona Electric is going to get a 11 kW on-charger in Europe.

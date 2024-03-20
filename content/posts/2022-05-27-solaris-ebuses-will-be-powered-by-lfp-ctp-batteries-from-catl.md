@@ -6,7 +6,7 @@ date: "2022-05-27"
 categories: 
   - "general"
 images: 
-  - "Solaris-Urbino-electric-bus.avif"
+  - "/images/Solaris-Urbino-electric-bus.avif"
 ---
 
 Based in Poland and part of the Spanish CAF Group, Solaris was in 2021 the leading electric bus manufacturer in Europe with 11,9 % of the market share.

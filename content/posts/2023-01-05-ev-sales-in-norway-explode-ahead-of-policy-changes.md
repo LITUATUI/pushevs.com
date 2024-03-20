@@ -6,7 +6,7 @@ date: "2023-01-05"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y.avif"
+  - "/images/Tesla-Model-Y.avif"
 ---
 
 Norway's auto market saw plugin EV volume explode to take 87.6% share in December, with huge numbers of BEVs registered, and overall auto volumes double those of seasonal norms. The freak volume in December 2022 resulted from one-off pull-forward effects ahead of new policies and auto taxes applying from 2023 onwards.

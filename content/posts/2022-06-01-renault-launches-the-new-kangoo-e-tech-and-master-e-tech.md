@@ -6,7 +6,7 @@ date: "2022-06-01"
 categories: 
   - "general"
 images: 
-  - "2022-All-New-Kangoo-Van-E-TECH-and-New-Master-E-TECH-52-kWh.avif"
+  - "/images/2022-All-New-Kangoo-Van-E-TECH-and-New-Master-E-TECH-52-kWh.avif"
 ---
 
 Renault finally renewed its all-electric LCV (light commercial vehicle) lineup with faster charging and more range.

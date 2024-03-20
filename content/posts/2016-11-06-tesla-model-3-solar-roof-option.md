@@ -6,7 +6,7 @@ date: "2016-11-06"
 categories: 
   - "general"
 images: 
-  - "tesla-model-3-with-solar-roof.avif"
+  - "/images/tesla-model-3-with-solar-roof.avif"
 ---
 
 Once Elon Musk was the CEO of a company called Tesla Motors, that built amazing electric cars. Now that company is just Tesla. No longer produces only electric cars, it also makes energy storage systems, with solar panels and tiles to be added to Tesla's production soon.

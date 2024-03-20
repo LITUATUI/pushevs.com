@@ -6,7 +6,7 @@ date: "2023-04-06"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y.avif"
+  - "/images/Tesla-Model-Y.avif"
 ---
 
 France saw record high plugin electric vehicle share in March, at 25.4%, up from 21.4% year on year. BEVs alone took 16.8% share, a new record. Overall auto volumes were 182,712 units, up some 24% year on year, though still well off the pre-2020 seasonal average (~230,000 units). The Tesla Model Y was the best selling BEV, and 4th highest selling auto overall.

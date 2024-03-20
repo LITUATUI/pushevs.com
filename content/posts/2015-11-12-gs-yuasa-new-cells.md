@@ -6,7 +6,7 @@ date: "2015-11-12"
 categories: 
   - "general"
 images: 
-  - "gs-yuasa-lev75-battery-cell.avif"
+  - "/images/gs-yuasa-lev75-battery-cell.avif"
 ---
 
 Since 2013, GS Yuasa, Mitsubishi and Bosch are working together in a joint venture named Lithium Energy and Power with the purpose to develop better batteries for electric cars. But despite some claims from time to time about a future battery with double capacity we haven't heard much since.

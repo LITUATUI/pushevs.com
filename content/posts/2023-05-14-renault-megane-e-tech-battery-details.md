@@ -6,7 +6,7 @@ date: "2023-05-14"
 categories: 
   - "general"
 images: 
-  - "Renault-Megane-E-Tech.avif"
+  - "/images/Renault-Megane-E-Tech.avif"
 ---
 
 If you've ever wondered which LG Energy Solution battery cells power your Renault Megane E-Tech, then this article is for you.

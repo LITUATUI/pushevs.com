@@ -6,7 +6,7 @@ date: "2018-08-14"
 categories: 
   - "general"
 images: 
-  - "CATL-Energy-Density-Development-Roadmap.avif"
+  - "/images/CATL-Energy-Density-Development-Roadmap.avif"
 ---
 
 The low-cobalt content and high energy density NCM 811 battery cells for electric cars were expected to be introduced this year by the South Korean battery cell makers LG Chem and SK Innovation. Unfortunately, a few months after the initial announcements these plans were postponed.

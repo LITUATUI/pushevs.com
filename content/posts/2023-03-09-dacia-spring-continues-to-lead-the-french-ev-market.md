@@ -6,7 +6,7 @@ date: "2023-03-09"
 categories: 
   - "general"
 images: 
-  - "Dacia-Spring-charging.avif"
+  - "/images/Dacia-Spring-charging.avif"
 ---
 
 France’s plugin electric vehicle share reached 23.8% in February, up from 20.1% year on year. Full electrics grew share, whilst plugin hybrids remained static. Overall auto volume was 126,237 units, up over 9% YoY. The Dacia Spring was once again the best selling full electric.

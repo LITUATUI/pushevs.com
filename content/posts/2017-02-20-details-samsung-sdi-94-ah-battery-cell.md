@@ -6,7 +6,7 @@ date: "2017-02-20"
 categories: 
   - "general"
 images: 
-  - "samsung-sdi-94ah-battery-cell-rebadged-as-gwl-power.avif"
+  - "/images/samsung-sdi-94ah-battery-cell-rebadged-as-gwl-power.avif"
 ---
 
 It's not the first time that we found Samsung SDI 94 Ah battery cells on sale at online stores, but it's the first time it happens at a reputable and well known source.

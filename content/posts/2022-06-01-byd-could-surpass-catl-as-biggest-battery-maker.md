@@ -6,7 +6,7 @@ date: "2022-06-01"
 categories: 
   - "general"
 images: 
-  - "Top-EV-battery-makers-in-China-by-CnEVPost.avif"
+  - "/images/Top-EV-battery-makers-in-China-by-CnEVPost.avif"
 ---
 
 The gap between BYD and CATL in China as been narrowing... Ultimately, I think that BYD will become the world's biggest battery maker.

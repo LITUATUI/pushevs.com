@@ -6,7 +6,7 @@ date: "2018-07-29"
 categories: 
   - "general"
 images: 
-  - "Circuit-de-Barcelona-Catalunya.avif"
+  - "/images/Circuit-de-Barcelona-Catalunya.avif"
 ---
 
 The staff of coches.net and AUTOBEST tested the range and efficiency of 10 different electric cars. On the first day the cars were tested by the staff of the coches.net (test 1) and on the second day the cars were tested by the AUTOBEST's staff (test 2). All electric cars were driven until stop from empty battery.

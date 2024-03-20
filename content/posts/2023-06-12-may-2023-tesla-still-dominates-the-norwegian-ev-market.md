@@ -6,7 +6,7 @@ date: "2023-06-12"
 categories: 
   - "general"
 images: 
-  - "Tesla-Model-Y.avif"
+  - "/images/Tesla-Model-Y.avif"
 ---
 
 Growth continued for the Norwegian plugin EV market in May 2023, as combined plugin share hit almost 90%, up from 85% a year ago. Full electrics alone took almost 81% share, grabbing 7.5% more of the remaining market than last year. The overall auto market saw volumes of 13.342 units, up almost 16% YoY, and higher than May 2019. The Tesla Model Y was the month’s bestselling vehicle, miles ahead of others in volume.

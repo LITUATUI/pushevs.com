@@ -6,7 +6,7 @@ date: "2020-04-21"
 categories: 
   - "general"
 images: 
-  - "SK-Innovation-researchers-hold-up-battery-cells.avif"
+  - "/images/SK-Innovation-researchers-hold-up-battery-cells.avif"
 ---
 
 After beating its Chinese competitors' offers, the Korean battery cell maker SK Innovation won the supply contract with the Chinese automaker giant BAIC.

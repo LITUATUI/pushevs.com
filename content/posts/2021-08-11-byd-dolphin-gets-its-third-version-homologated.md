@@ -6,7 +6,7 @@ date: "2021-08-11"
 categories: 
   - "general"
 images: 
-  - "BYD-Dolphin-on-the-road.avif"
+  - "/images/BYD-Dolphin-on-the-road.avif"
 ---
 
 The BYD Dolphin is one of the most expected electric cars this year for its great value for money.

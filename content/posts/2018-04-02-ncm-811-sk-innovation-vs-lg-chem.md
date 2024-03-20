@@ -6,7 +6,7 @@ date: "2018-04-02"
 categories: 
   - "general"
 images: 
-  - "SK-innovation-vs-LG-Chem.avif"
+  - "/images/SK-innovation-vs-LG-Chem.avif"
 ---
 
 There are two major battery cell makers that promised NCM 811 EV battery cells for 2018. They are SK Innovation and LG Chem. Let's recapture what we already know about it.

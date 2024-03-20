@@ -6,7 +6,7 @@ date: "2021-03-11"
 categories: 
   - "general"
 images: 
-  - "2021-New-Dacia-Spring.avif"
+  - "/images/2021-New-Dacia-Spring.avif"
 ---
 
 In France the Dacia Spring will soon be available to pre-order in three versions. Moreover, the now final WLTP ratings have slightly improved from previous estimations, the range increased from 225 to 230 km.

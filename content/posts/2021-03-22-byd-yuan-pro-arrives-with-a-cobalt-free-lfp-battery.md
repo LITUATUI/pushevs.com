@@ -6,7 +6,7 @@ date: "2021-03-22"
 categories: 
   - "general"
 images: 
-  - "BYD-Yuan-Pro.avif"
+  - "/images/BYD-Yuan-Pro.avif"
 ---
 
 Recently, BYD renamed the Yuan EV to Yuan Pro and gave it a new more modern front, similar to the BYD Han EV.

@@ -6,7 +6,7 @@ date: "2018-05-21"
 categories: 
   - "general"
 images: 
-  - "Fastned-fast-charging-station.avif"
+  - "/images/Fastned-fast-charging-station.avif"
 ---
 
 Fastned made some useful tests to show how different electric cars handle fast charging. This is particularly important for those who plan to use fast chargers regularly.

@@ -6,7 +6,7 @@ date: "2023-01-03"
 categories: 
   - "general"
 images: 
-  - "2022-BYD-Atto-3.avif"
+  - "/images/2022-BYD-Atto-3.avif"
 ---
 
 Sweden's auto market saw plugin electric vehicle share continue to grow strongly in December, reaching a record 74.6%, up from 60.7% year on year. Full electrics alone took a record 51.3% share of the market.

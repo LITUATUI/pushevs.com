@@ -6,7 +6,7 @@ date: "2021-07-30"
 categories: 
   - "general"
 images: 
-  - "GAC-Aion-with-fast-charging-speed-comparable-to-refueling.avif"
+  - "/images/GAC-Aion-with-fast-charging-speed-comparable-to-refueling.avif"
 ---
 
 Early this year, GAC announced its new super fast charging battery technology.

@@ -6,7 +6,7 @@ date: "2020-04-17"
 categories: 
   - "general"
 images: 
-  - "Volkswagen-Nils.avif"
+  - "/images/Volkswagen-Nils.avif"
 ---
 
 Commuting to work or school alone in heavy and inefficient vehicles is one of the biggest transportation problems we have. It just doesn't make sense.

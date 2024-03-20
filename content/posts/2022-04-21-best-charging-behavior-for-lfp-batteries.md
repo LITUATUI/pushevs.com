@@ -6,7 +6,7 @@ date: "2022-04-21"
 categories: 
   - "general"
 images: 
-  - "BYD-Blade-Battery-prismatic-cells.avif"
+  - "/images/BYD-Blade-Battery-prismatic-cells.avif"
 ---
 
 I have been writing about the importance of LFP (LiFePO4) batteries for a while now, but I haven't written about the best charging behavior for this battery chemistry yet.

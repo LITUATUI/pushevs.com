@@ -6,7 +6,7 @@ date: "2021-09-20"
 categories: 
   - "general"
 images: 
-  - "New-BYD-e-Platform-3.0.avif"
+  - "/images/New-BYD-e-Platform-3.0.avif"
 ---
 
 Nothing much to say here, this is currently the best EV platform.

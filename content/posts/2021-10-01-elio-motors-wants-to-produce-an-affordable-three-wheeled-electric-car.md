@@ -6,7 +6,7 @@ date: "2021-10-01"
 categories: 
   - "general"
 images: 
-  - "Elio-E.avif"
+  - "/images/Elio-E.avif"
 ---
 
 After postponing multiple times its three-wheeled gas car, now Elio Motors wants to produce an electric version to become a more affordable alternative to Aptera.

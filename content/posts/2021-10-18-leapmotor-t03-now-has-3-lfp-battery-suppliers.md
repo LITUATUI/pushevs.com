@@ -6,7 +6,7 @@ date: "2021-10-18"
 categories: 
   - "general"
 images: 
-  - "Leapmotor-T03.avif"
+  - "/images/Leapmotor-T03.avif"
 ---
 
 The Leapmotor T03 is probably the best affordable small electric car currently being sold in China. Not only it has a decent 403 km NEDC range (around 300 km in WLTP), fast charging via CCS, OTA (over-the-air) updates, it's also full of safety features that are extremely rare in its segment
