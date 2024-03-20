@@ -1,0 +1,156 @@
+main:
+  - name: Advertise
+    url: /advertise-on-pushevs
+    weight: 1
+    params:
+      icon:
+        vendor: bs
+        name: megaphone
+        color: red
+
+  - name: Stores
+    identifier: stores
+    weight: 2
+    params:
+      header: If you buy something from these links I might get a small commission.
+      icon:
+        vendor: font-awesome-solid
+        name: shop
+        color: red
+
+  - name: AliExpress
+    parent: stores
+    url: /aliexpress
+    weight: 1
+    params:
+      icon:
+        vendor: simple
+        name: aliexpress
+      description: Flash deals.
+
+  - name: eBay
+    parent: stores
+    url: /ebay
+    weight: 2
+    params:
+      icon:
+        vendor: simple
+        name: ebay
+      description: Flash deals.
+
+  - name: Amazon
+    parent: stores
+    url: /amazon
+    weight: 3
+    params:
+      icon:
+        vendor: simple
+        name: amazon
+      description: Flash deals.
+
+  - name: Banggood
+    parent: stores
+    url: /banggood
+    weight: 4
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: b
+        color: orange
+      description: Flash deals.
+
+  - name: Geekbuying
+    parent: stores
+    url: /geekbuying
+    weight: 5
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: g
+        color: red
+      description: Flash deals.
+  
+  - name: DHGate
+    parent: stores
+    url: /dhgate
+    weight: 6
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: d
+        color: gold
+      description: Flash deals.
+
+  - name: Info
+    identifier: info
+    weight: 3
+    params:
+      header: Information about this project.
+      icon:
+        vendor: font-awesome-solid
+        name: info
+        color: red
+
+  - name: Authors
+    parent: info
+    url: /authors
+    weight: 1
+    params:
+      icon:
+        vendor: bs
+        name: book
+        className: text-primary
+      description: See who writes here.
+
+  - name: GitHub
+    parent: info
+    url: https://github.com/LITUATUI/pushevs.com
+    weight: 2
+    params:
+      icon:
+        vendor: fab
+        name: github
+      description: The code repository.
+
+  - name: Telegram
+    parent: info
+    url: https://t.me/PushEVs
+    weight: 3
+    params:
+      icon:
+        vendor: simple
+        name: telegram
+        color: blue
+      description: Ask questions and share your ideas.
+
+  - name: Glossary
+    parent: info
+    url: /glossary
+    weight: 4
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: book
+      description: Check here for unknown acronyms.
+
+  - name: Links
+    parent: info
+    url: /links
+    weight: 5
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: link
+        color: silver
+      description: Interesting reading.
+  
+  - name: About
+    parent: info
+    url: /about
+    weight: 6
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: question
+        color: red
+      description: What this project is about.

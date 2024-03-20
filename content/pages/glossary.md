@@ -1,0 +1,43 @@
+---
+title: "Glossary"
+---
+
+These are some terms that often appear on this website.
+
+- **18650**: is a cylindrical battery cell with a diameter of 18 mm and 65 mm long
+- **21700**: is a cylindrical battery cell with a diameter of 21 mm and 70 mm long (popularized by Tesla)
+- **26650**: is a cylindrical battery cell with a diameter of 26 mm and 65 mm long
+- **AC**: Alternating Current
+- **AWD**: All Wheel Drive
+- **BEV**: Battery Electric Vehicle
+- **BMS**: Battery Management System
+- **CCS**: Combined Charging System
+- **Cycle life**: how many charge/discharge cycles a battery cell can perform before reaching its EOL
+- **DC**: Direct Current
+- **DOD**: Depth of Discharge
+- **EOL**: End of Life
+- **EV**: Electric Vehicle
+- **EVSE**: Electric Vehicle Supply Equipment
+- **FCEV**: Fuel Cell Electric Vehicle (it's a scam)
+- **FWD**: Front Wheel Drive
+- **GOM**: Guess-O-Meter
+- **ICE**: Internal Combustion Engine
+- **ICEV**: Internal Combustion Engine Vehicle
+- **LIB**: Lithium-ion battery
+- **Life cycle**: the life cycle of a battery cell is mostly influenced by time, temperature and cycle life
+- **LiFePO4**: the same as LFP
+- **LFP**: Lithium-ion battery cell with a cathode made of iron phosphate
+- **LFMP**: Lithium-ion battery cell with a cathode that besides lithium includes iron phosphate and manganese
+- **NCA**: Lithium-ion battery cell with a cathode that besides lithium includes nickel, cobalt and aluminium
+- **NCM**: Lithium-ion battery cell with a cathode that besides lithium includes nickel, cobalt and manganese
+- **NCM 111**: cathode with a Ni:Co:Mn composition ratio of 1:1:1
+- **NCM 523**: cathode with a Ni:Co:Mn composition ratio of 5:2:3
+- **NCM 622**: cathode with a Ni:Co:Mn composition ratio of 6:2:2
+- **NCM 712**: cathode with a Ni:Co:Mn composition ratio of 7:1:2
+- **NCM 811**: cathode with a Ni:Co:Mn composition ratio of 8:1:1
+- **NCMA**: Lithium-ion battery cell with a cathode that besides lithium includes nickel, cobalt, manganese and aluminium
+- **PHEV**: Plug-in Hybrid Electric Vehicle
+- **RWD**: Rear Wheel Drive
+- **SOC**: State of Charge
+- **TMS**: Thermal Management System
+- **ZEV**: Zero Emission Vehicle
