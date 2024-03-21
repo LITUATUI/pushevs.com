@@ -155,7 +155,7 @@ For now just ignore those interesting NCM battery cells from ETC, especially the
 
  
 
-A good thing about Chinese battery cell makers is that sooner or later, their cells become available on AliExpress for private buyers. Corporate buyers get the cells first, but for example private buyers like you and me can already [buy the second generation cells for around 190 euros per kWh](/product/etc-lfp-battery-cells/).
+A good thing about Chinese battery cell makers is that sooner or later, their cells become available on AliExpress for private buyers. Corporate buyers get the cells first, but for example private buyers like you and me can already buy the second generation cells for around 190 euros per kWh.
 
  
 
