@@ -86,7 +86,7 @@ On average, the change from NCM 622 to 811 battery cells results in an energy de
 
  
 
-To sum up, while CATL is still busy supplying the huge Chinese EV market with battery cells, the company is already trying to secure future supply deals with European automakers. Furthermore, [Chinese battery cell makers are investing large sums of money in battery technology development and are hiring Korean battery experts](/2017/11/19/china-hiring-korean-battery-experts/).
+To sum up, while CATL is still busy supplying the huge Chinese EV market with battery cells, the company is already trying to secure future supply deals with European automakers. Furthermore, Chinese battery cell makers are investing large sums of money in battery technology development and are hiring Korean battery experts.
 
 The South Korean battery cell makers need to further improve their products if they want to keep their supply contracts...
 
