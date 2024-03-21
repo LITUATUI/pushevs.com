@@ -6,7 +6,7 @@ date: 2024-03-16T22:06:41Z
 featured: true
 pinned: true
 category:
-  - "Website"
+  - "website"
 images:
   - "images/Hugo-static-site-generator.avif"
 ---
