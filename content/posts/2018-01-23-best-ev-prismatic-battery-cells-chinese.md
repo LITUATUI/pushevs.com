@@ -44,7 +44,7 @@ Moving on, let's see the application of these battery cells on some popular plug
 
  
 
-Unfortunately Toyota will never use Korean or Chinese battery cells. Japanese automakers only use battery cells from domestic companies... [until Panasonic comes up with better prismatic battery cells, Toyota will ignore foreign alternatives and say that technology isn't ready yet](/2017/12/18/toyota-panasonic-together-improve-prismatic-battery-cells/). Blind Japanese nationalism at its finest...
+Unfortunately Toyota will never use Korean or Chinese battery cells. Japanese automakers only use battery cells from domestic companies... until Panasonic comes up with better prismatic battery cells, Toyota will ignore foreign alternatives and say that technology isn't ready yet. Blind Japanese nationalism at its finest...
 
  
 
