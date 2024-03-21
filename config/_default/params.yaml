@@ -17,7 +17,7 @@ hb:
       facebook: PushEVs
       telegram: PushEVs
       email: pedrolima@pushevs.com
-      #rss: false
+      rss: true
       #mastodon: https://techhub.social/@hbstack
   footer:
     # see https://hbstack.dev/en/docs/modules/socials/.
@@ -31,7 +31,7 @@ hb:
       facebook: PushEVs
       telegram: PushEVs
       email: pedrolima@pushevs.com
-      #rss: false
+      rss: true
       #mastodon: https://techhub.social/@hbstack
   blog:
     list_cols_md: 2
@@ -68,7 +68,7 @@ hb:
         recent_count: 5 # the number of recent posts.
         featured_count: 5 # the number of featured posts.
         style: pills # pills, tabs or underline.
-        list_style: vertical # slide or vertical.
+        list_style: slide # slide or vertical.
       taxonomies:
         count: true # whether to show the number of posts associated to the item.
         limit: 10 # the maximum number of the item.
