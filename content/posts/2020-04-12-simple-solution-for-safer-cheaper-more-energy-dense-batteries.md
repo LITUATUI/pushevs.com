@@ -98,7 +98,7 @@ Here’s why:
 
  
 
-![BMW i3 battery interior]
+![BMW i3 battery interior](images/bmw-i3-battery-interior.avif)
 
  
 
