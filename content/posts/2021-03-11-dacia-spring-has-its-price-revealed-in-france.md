@@ -22,9 +22,9 @@ In France the Dacia Spring will soon be available to pre-order in three versions
 
  
 
-[![](images/Dacia-Spring-prices-for-retail-sales-versions.avif)](/2021/03/Dacia-Spring-prices-for-retail-sales-versions.avif)
+![](images/Dacia-Spring-prices-for-retail-sales-versions.avif)
 
-[![](images/Dacia-Spring-prices-for-business-version.avif)](/2021/03/Dacia-Spring-prices-for-business-version.avif)
+![](images/Dacia-Spring-prices-for-business-version.avif)
 
  
 
