@@ -21,7 +21,7 @@ imports:
 
   # blog sidebar
   - path: github.com/hbstack/blog/modules/sidebar/posts
-  #- path: github.com/hbstack/blog/modules/sidebar/profile
+  # - path: github.com/hbstack/blog/modules/sidebar/profile
   - path: github.com/hbstack/blog/modules/sidebar/taxonomies
 
   # blog comments engine
@@ -65,11 +65,11 @@ imports:
   - path: github.com/hbstack/back-to-top
   - path: github.com/hbstack/bigger-picture
   - path: github.com/hbstack/code-block-panel
-  - path: github.com/hbstack/docs
+  # - path: github.com/hbstack/docs
   # - path: github.com/hbstack/docs/modules/breadcrumb
-  - path: github.com/hbstack/docs/modules/featured-image
-  - path: github.com/hbstack/docs/modules/heading-sign
-  - path: github.com/hbstack/docs/modules/doc-nav
+  # - path: github.com/hbstack/docs/modules/featured-image
+  # - path: github.com/hbstack/docs/modules/heading-sign
+  # - path: github.com/hbstack/docs/modules/doc-nav
   - path: github.com/hbstack/blog
   # - path: github.com/hbstack/blog/modules/breadcrumb
   - path: github.com/hbstack/blog/modules/featured-image

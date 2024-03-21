@@ -2,7 +2,7 @@ baseURL: https://pushevs.com/
 title: 🔋PushEVs
 # Copyright, the {year} is the placeholder of this year.
 copyright: "🔋PushEVs 🄯 Copyleft, no rights reserved, just be decent and quote your sources."
-defaultContentLanguage: en
+# defaultContentLanguage: en
 defaultContentLanguageInSubdir: false # when true, append the default language code into URL, i.e. /docs -> /en/docs.
 enableRobotsTXT: true
 timeout: 120s
