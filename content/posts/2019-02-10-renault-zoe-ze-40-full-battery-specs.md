@@ -3,8 +3,8 @@ title: "Renault ZOE ZE 40 full battery specs"
 slug: "renault-zoe-ze-40-full-battery-specs"
 authors: "pedrolima"
 date: "2019-02-10"
+featured: true
 categories: 
-  - "evergreen"
   - "general"
 images: 
   - "/images/LG-Chem-E63-battery-cell-cycle-life.avif"

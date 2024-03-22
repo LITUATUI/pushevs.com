@@ -3,8 +3,8 @@ title: "Nissan Leaf battery degradation data: 24 vs. 30 kWh batteries"
 slug: "nissan-leaf-battery-degradation-data-24-vs-30-kwh-batteries"
 authors: "pedrolima"
 date: "2018-03-20"
+featured: true
 categories: 
-  - "evergreen"
   - "general"
 images: 
   - "/images/Nissan-Leaf-battery-SOH-data.avif"

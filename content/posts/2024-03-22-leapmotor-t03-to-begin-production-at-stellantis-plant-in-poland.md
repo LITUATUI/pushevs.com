@@ -12,15 +12,15 @@ Last year, Leapmotor and Stellantis announced the formation of Leapmotor Interna
 
 This joint venture gives Stellantis exclusive rights to build, export and sell Leapmotor products outside China.
 
-For this reason, Leapmotor International is going to assemble the small T03 electric car at Stellantis plant in Poland.
+For this reason, Leapmotor International is going to assemble the small electric car T03 at Stellantis plant in Poland.
 
 The production is slated to begin as early as the second quarter of this year, utilizing the semi-knocked down technique, wherein partially assembled kits are transformed into fully assembled vehicles. 
 
 Assembling electric cars in Europe is a way to bypass French legislation that excludes EVs made in China from public subsidies.
 
-Leapmotor T03 is also the first model of the Chinese carmaker to get WLTP ratings (280 km range), sugesting that its European debut is near.
+The cool Leapmotor T03 is the first model of the Chinese carmaker to get WLTP ratings (280 km range), sugesting that its European debut is near.
 
-The European version should be based on the best equiped Chinese variant called 403 Comfort Edition. Let's see some details.
+The European version should be based on the best equiped Chinese variant - called 403 Comfort Edition. Let's see some details.
 
 ## Leapmotor T03 (403 Comfort Edition)
 

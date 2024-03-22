@@ -3,8 +3,8 @@ title: "Comparison of different EV batteries in 2020"
 slug: "comparison-of-different-ev-batteries-in-2020"
 authors: "pedrolima"
 date: "2020-04-04"
+featured: true
 categories: 
-  - "evergreen"
   - "general"
 images: 
   - "/images/Audi-e-tron-battery.avif"
