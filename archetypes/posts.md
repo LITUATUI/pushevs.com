@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 authors: "pedrolima"
 date: {{ .Date }}
-category:
+categories:
   - "general"
 images:
   - "/images/---.avif"
