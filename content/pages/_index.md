@@ -1,5 +1,6 @@
 ---
 cascade:
   params:
-    comments: false 
+    comments: false
+    meta: false
 ---
