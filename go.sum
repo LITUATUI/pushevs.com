@@ -30,8 +30,6 @@ github.com/hbstack/blog/modules/related-posts v0.2.5 h1:e5IF1TK8A/7Tpp6Eso43Ns2/
 github.com/hbstack/blog/modules/related-posts v0.2.5/go.mod h1:MG7gAdmJIMDTRD9Qyx3ANsJCY/xmG12zO69aDSKWDlE=
 github.com/hbstack/blog/modules/sidebar/posts v0.7.0 h1:xy70nHr/Qznc1Xmmn2RJdmxK8imXx9G6LPAPFkwzSLg=
 github.com/hbstack/blog/modules/sidebar/posts v0.7.0/go.mod h1:jmdYFY1EtH74KWOS89xnCowNtaEkkhI6G/vHJaT6OJ0=
-github.com/hbstack/blog/modules/sidebar/taxonomies v0.4.0 h1:0wdAtJi3gZ3e3HTEJNo7IDieQjZuRF8GDOlMxy2XJ5E=
-github.com/hbstack/blog/modules/sidebar/taxonomies v0.4.0/go.mod h1:4u8cA6erhu3ddE9lUaiAlOSTEsD7PsmM4WKni/zCIjI=
 github.com/hbstack/blog/modules/social-share-buttons v0.1.1 h1:9o/TjUPpK3MZGnjECGE+Wo7VdJSV1EOUJ7qGD8mDHn8=
 github.com/hbstack/blog/modules/social-share-buttons v0.1.1/go.mod h1:ofLDQclqvR8vCztqv118x62SEAF2/pgYEd8VBumpKzY=
 github.com/hbstack/bootstrap v0.2.1 h1:q8V9pBQPPfLQQWWHadOMoSomNjvUq0SGZMXdNDnga4U=
