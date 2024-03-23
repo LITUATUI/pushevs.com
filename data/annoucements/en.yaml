@@ -1,0 +1,11 @@
+external:
+  title: PushEVs is now open-source and build with Hugo.
+  url: https://github.com/LITUATUI/pushevs.com/
+  weight: 3
+internal:
+  title: Advertise on PushEVs.
+  url: advertise-on-pushevs
+  weight: 2
+plain:
+  title: If you have problems seeing the comment section disable your adblocker.
+  weight: 1

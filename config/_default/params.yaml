@@ -3,6 +3,9 @@ description: Push Electric Vehicles Forward
 hb:
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
+  announcement_bar:
+      expand_stall_threshold: 1000
+      interval: 5000
   background_image:
       modern_format: webp
   full_width: false # when true, the layout takes full width globally.
