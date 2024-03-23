@@ -25,8 +25,8 @@ imports:
   # - path: github.com/hbstack/blog/modules/sidebar/taxonomies
 
   # blog comments engine
+  - path: github.com/hbstack/blog/modules/giscus
   - path: github.com/hbstack/blog/modules/disqus
-  # - path: github.com/hbstack/blog/modules/giscus
   # - path: github.com/hbstack/blog/modules/utterances
 
   # blog table of contents scrollspy

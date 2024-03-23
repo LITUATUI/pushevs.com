@@ -107,11 +107,11 @@ hb:
         #- docs
         #- blog
     giscus:
-      #repo: LITUATUI/pushevs.com
-      #repo_id: R_kgDOK1LmSQ
-      #category_id: DIC_kwDOK1LmSc4CbdiM
+      repo: LITUATUI/pushevs.com
+      category: General
+      mapping: og:title
   docs:
-    giscus:
+      #giscus:
       #repo: LITUATUI/pushevs.com
       #repo_id: R_kgDOK1LmSQ
       #category_id: DIC_kwDOK1LmSc4CbdiM
