@@ -3,10 +3,8 @@ title: "Migration from Wordpress to Hugo"
 slug: "migration-from-wordpress-to-hugo"
 authors: "pedrolima"
 date: 2024-03-16T22:06:41Z
-featured: true
-pinned: true
-categories:
-  - "website"
+aliases:
+- /2024/03/16/migration-from-wordpress-to-hugo/
 images:
   - "images/Hugo-static-site-generator.avif"
 ---

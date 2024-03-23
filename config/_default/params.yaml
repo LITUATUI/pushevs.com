@@ -3,6 +3,9 @@ description: Push Electric Vehicles Forward
 hb:
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
+  news:
+      sections:
+        - news
   announcement_bar:
       expand_stall_threshold: 1000
       interval: 5000
@@ -100,9 +103,9 @@ hb:
       pinned_posts_position: "list"
       main_sections: # leave it empty to include all regular pages.
         - posts
+        - news
         #- docs
         #- blog
-        #- news
     giscus:
       #repo: LITUATUI/pushevs.com
       #repo_id: R_kgDOK1LmSQ
