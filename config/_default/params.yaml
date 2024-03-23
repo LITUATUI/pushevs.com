@@ -108,7 +108,9 @@ hb:
         #- blog
     giscus:
       repo: LITUATUI/pushevs.com
+      repo_id: R_kgDOLjPA9g
       category: General
+      category_id: DIC_kwDOLjPA9s4CeLwe
       mapping: og:title
   docs:
       #giscus:
