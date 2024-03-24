@@ -14,7 +14,7 @@ title_sections_depth_dir: end # when start, the depth is counting from the root 
 
 permalinks:
   posts: /:year/:month/:day/:slug
-  news: /:title
+  news: /:year/:month/:day/:slug
   pages: /:title
 
 outputs:

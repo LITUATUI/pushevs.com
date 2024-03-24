@@ -156,8 +156,8 @@ github.com/hugomods/seo/modules/twitter-cards v0.1.0 h1:jH9WfmFZ3kCndUkATM/D/BYL
 github.com/hugomods/seo/modules/twitter-cards v0.1.0/go.mod h1:QYs7SWbhXSQrsn/RHZSD7DwzaCHFpoLQdVPxEI3j63k=
 github.com/hugomods/shortcodes v0.18.1 h1:mu0tGzx9Td1YfLD+f4i6GCltM3XLP5dNaXUj8KGytPQ=
 github.com/hugomods/shortcodes v0.18.1/go.mod h1:EnVopbZMNI/HeteM3Lp3phBTCRLvPSe7l142qhRFFPY=
-github.com/hugomods/simple-icons v11.9.0+incompatible h1:Qd3rDw9u65UssQJDdgHdKx4f9QCW22JSLCfoLDdbwHk=
-github.com/hugomods/simple-icons v11.9.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
+github.com/hugomods/simple-icons v11.10.0+incompatible h1:U9C0ZZZ0+XVcySsEmejZ0Uwu+AZ5RyNvwV8YUsUiX44=
+github.com/hugomods/simple-icons v11.10.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
 github.com/hugomods/snackbar v0.1.2 h1:SLpfH9jlYwf81epH7DvM2XTZHo+3fXXpk6XKtxmo964=
 github.com/hugomods/snackbar v0.1.2/go.mod h1:ykFm0IFibeQPuPAm8Gaa27xJS/bNZcSez4omVSl2gQ0=
 github.com/hugomods/workbox v0.1.0 h1:yxuTj3gT1BNf6OitxrjxSJXfmbFBj2UTwdWr142eYFQ=
@@ -166,7 +166,6 @@ github.com/jakearchibald/idb v8.0.0+incompatible h1:sTNGHgh+JoyQ4Eqey+1ScX4F03uT
 github.com/jakearchibald/idb v8.0.0+incompatible/go.mod h1:AuDoW54s2DKfbclM+ScrnPp8ahUQ9rHph9bb8sZTEXc=
 github.com/krisk/Fuse v7.0.0+incompatible h1:jVyg6No+Joc51Rn97QQYJZIpCxzd4ywACn/4+FKWjvo=
 github.com/krisk/Fuse v7.0.0+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
-github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/bootstrap v5.3.3+incompatible h1:goFoqinzdHfkeegpFP7pvhbd0g+A3O2hbU3XCjuNrEQ=
 github.com/twbs/bootstrap v5.3.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=
