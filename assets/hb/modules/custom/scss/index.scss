@@ -2,9 +2,26 @@
 
 /*! purgecss start ignore */
 
+@media (max-width: 480px) {
+  .sponsor-desktop {
+    display: none;
+  }
+}
+
+@media (min-width: 481px) {
+	.sponsor-mobile {
+		display: none;
+	}
+}
+
 .sponsor-header {
     padding-top: 55px;
   }
+
+.sponsor-mobile.sponsor-footer {
+    position: sticky;
+    bottom: 0;
+  }  
 
 .video-shortcode {
   max-width: 100%;

@@ -1,15 +1,16 @@
 {{/* Put custom HTML markup before the end of <head>. */}}
-    <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
-    <script>
-      window.OneSignalDeferred = window.OneSignalDeferred || [];
-      OneSignalDeferred.push(function(OneSignal) {
-        OneSignal.init({
-          appId: "cbddcab6-d05f-4846-bb30-bd34d2773a65",
-        });
+  
+  <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+  <script>
+    window.OneSignalDeferred = window.OneSignalDeferred || [];
+    OneSignalDeferred.push(function(OneSignal) {
+      OneSignal.init({
+        appId: "cbddcab6-d05f-4846-bb30-bd34d2773a65",
       });
-    </script>
+    });
+  </script>
 
-    <div class="sponsor-header">
+  <div class="sponsor-desktop sponsor-header">
     <center>
         <a href="https://pushevs.com/evb" target="_blank" rel="noopener">
             <picture>
@@ -18,4 +19,15 @@
         </picture>
         </a>
     </center>
-</div>    
+  </div>
+
+  <div class="sponsor-mobile sponsor-header">
+    <center>
+        <a href="https://pushevs.com/evb" target="_blank" rel="noopener">
+            <picture>
+            <source srcSet="/sponsor-images/EVB_900X200.avifs" type="image/avif" />
+            <img src="/sponsor-images/EVB_900X200.gif" width="100%" decoding="async" loading="lazy" alt="EVB" />
+        </picture>
+        </a>
+    </center>
+  </div> 
