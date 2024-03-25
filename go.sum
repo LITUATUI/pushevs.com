@@ -10,8 +10,8 @@ github.com/hbstack/back-to-top v0.2.0 h1:oVGYYL34PL4OX2O725YmRL9kHjZuxBuyT33/ZG1
 github.com/hbstack/back-to-top v0.2.0/go.mod h1:lVnZhVZ8pabJJ/M27APUyayelJO5yr9jkwsVnxk1O4k=
 github.com/hbstack/background-image v0.2.1 h1:IRa4pGsv6/OdCytpogaWZJdERV1LYV+3J/LG4WIHlq0=
 github.com/hbstack/background-image v0.2.1/go.mod h1:2lZhfQwZy7SWVmRU/kPEaEgzgXypBnXBlipQweJbWPQ=
-github.com/hbstack/base v0.4.5 h1:5RP3YfUqEzEuudwQssr4m47ewEQzZ56f3HbWFAnE7Y0=
-github.com/hbstack/base v0.4.5/go.mod h1:03s6ySDgFTfhIKUc8y1C7xEp8eCtRp0NfYNY57myd1g=
+github.com/hbstack/base v0.4.6 h1:RP8J+c9XzmQ57jWLSP51lBfXFQK/O5n1/UNHMPnuEY4=
+github.com/hbstack/base v0.4.6/go.mod h1:+kxOsRxZqtZG4BF9Vmk8APlSSez95515EQqoz0xPK7M=
 github.com/hbstack/bigger-picture v0.10.1 h1:EgUYZgSGhl4KwKVqryf6ncB2QY4YYgOqTpDW6+5tq14=
 github.com/hbstack/bigger-picture v0.10.1/go.mod h1:wZpRrOlTFrt2lO3tl9Y7cIAJbAJN1MdvRu0UsbCnkaE=
 github.com/hbstack/blog v0.26.0 h1:l1GU/Q2F82m9bIFa1h4tlmveC/znqboi+qDPZTWJfF0=
@@ -132,8 +132,8 @@ github.com/hugomods/idb-js v0.1.0 h1:mA6hEGtR0aFEdmq9zYMGpfSpCU6SMilx9RzC4uK3DqY
 github.com/hugomods/idb-js v0.1.0/go.mod h1:GPfnmr+BQpP4s6Epd4Yu+RlUog8q/Djw8qy8BZFWZ04=
 github.com/hugomods/images v0.10.1 h1:ok3ZUZ63MAcmFuTx2kC5JJ3Sffd420RRW9yO57SFeQA=
 github.com/hugomods/images v0.10.1/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
-github.com/hugomods/katex v0.3.0 h1:hq0Kels9clL38Y2K/QZgXFKF7hQuumyQYz16TT4/Hhk=
-github.com/hugomods/katex v0.3.0/go.mod h1:EBY1YQTN6F8FDQz+mWp3EzEh8vDN31YjL9luVni+Wm0=
+github.com/hugomods/katex v0.3.1 h1:uxaETvO5zIMQeNYjTCOulfGGb7EPBlMhNI/jUujg35M=
+github.com/hugomods/katex v0.3.1/go.mod h1:EBY1YQTN6F8FDQz+mWp3EzEh8vDN31YjL9luVni+Wm0=
 github.com/hugomods/mermaid v0.1.1 h1:12b8DbdiKOTtPmkWOMXsBz3LKkAWVqa5tGkbEboj0a4=
 github.com/hugomods/mermaid v0.1.1/go.mod h1:7sKIZLAeYsXXnKRh4KR70UQx27xnzf0mSQ2o99zTLS0=
 github.com/hugomods/pwa v0.7.0 h1:4m8WTkWSEWi2FCnfHMJm1ZbcAPbPbHElh2gepPzfM3A=
