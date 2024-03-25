@@ -28,7 +28,7 @@ For example, if you have a battery at 70 % of SoC and discharge it to 50 %, then
 
  
 
-[BMZ GmbH](https://www.bmz-group.com/EN_index_1000.html) - known for supplying batteries to StreetScooter electric vans - made some interesting tests on [Samsung ICR18650-26F](/ICR18650-26F) battery cells that answer the questions above.
+[BMZ GmbH](https://www.bmz-group.com/EN_index_1000.html) - known for supplying batteries to StreetScooter electric vans - made some interesting tests on [Samsung ICR18650-26F](/icr18650-26f) battery cells that answer the questions above.
 
 ![Test of Samsung ICR18650-26F battery cell by BMZ 1/2](images/Test-of-Samsung-ICR18650-26F-battery-cell-by-BMZ-1-2.avif)
 
