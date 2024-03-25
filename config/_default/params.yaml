@@ -176,19 +176,22 @@ hugopress:
         # see layouts/partials/hugopress/modules/hb-custom/hooks/head-end.html.
         head-end:
           cacheable: true
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-post-content-end.html.
+        hb-blog-post-content-end:
+          cacheable: true
         # see layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html.
         body-end:
-          cacheable: true
+          cacheable: true          
         # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-sidebar.html.
         hb-blog-sidebar:
           cacheable: true
-          weight: 4
+          weight: 3
     # change the order of sidebar modules.
     hb-blog-sidebar-taxonomies:
       hooks:
         hb-blog-sidebar:
-          weight: 3
+          weight: 2
     hb-blog-sidebar-posts:
       hooks:
         hb-blog-sidebar:
-          weight: 2
+          weight: 1
