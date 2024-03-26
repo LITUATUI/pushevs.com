@@ -78,6 +78,26 @@ main:
         name: bicycle
       description:
 
+  - name: Dokio
+    parent: partners
+    url: /dokio
+    weight: 7
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: sun
+      description:
+
+  - name: Gamsgo
+    parent: partners
+    url: /gamsgo
+    weight: 8
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: tv
+      description:
+
   - name: Stores
     identifier: stores
     weight: 3
