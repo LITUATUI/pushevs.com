@@ -1,5 +1,38 @@
 {{/* Put custom HTML markup before the end of <body>. */}}
-    
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5731120958731897"
+  crossorigin="anonymous"></script>
+<!-- After post (pushevs.com) -->
+<ins class="adsbygoogle"
+  style="display:block"
+  data-ad-client="ca-pub-5731120958731897"
+  data-ad-slot="9304868270"
+  data-ad-format="auto"
+  data-full-width-responsive="true"></ins>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<script>
+
+// Run after all the page elements have loaded
+  window.onload = function(){
+  
+// This will take care of asynchronous Google ads
+  setTimeout(function() {
+  
+// We are targeting the first banner ad of AdSense
+  var ad = document.querySelector("ins.adsbygoogle");
+  
+// If the ad contains no innerHTML, ad blockers are at work
+  if (ad && ad.innerHTML.replace(/\s/g, "").length == 0) {
+  
+// Since ad blocks hide ads using CSS too
+  ad.style.cssText = 'display:block !important';
+  
+// You can put any text, image or even IFRAME tags here
+  ad.innerHTML = 
+          '
 <div class="sponsor-post">
   <center>
     <a href="https://pushevs.com/evb" target="_blank" rel="noopener">
@@ -10,3 +43,10 @@
     </a>
   </center>
 </div>
+          ';  
+        }
+        
+      }, 2000); // The ad blocker check is performed 2 seconds after the page load
+    };
+
+</script>
