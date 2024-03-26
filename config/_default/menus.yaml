@@ -8,9 +8,79 @@ main:
         name: megaphone
         color: red
 
+  - name: Partners
+    identifier: partners
+    weight: 2
+    params:
+      header: Trusty partners.
+      icon:
+        vendor: font-awesome-solid
+        name: handshake
+        color: red
+
+  - name: EVB
+    parent: partners
+    url: /evb
+    weight: 1
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: charging-station
+      description:
+
+  - name: Feyree
+    parent: partners
+    url: /feyree
+    weight: 2
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: bolt
+      description:
+
+  - name: Andaiic
+    parent: partners
+    url: /andaiic
+    weight: 3
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: plug
+      description:
+
+  - name: Wulills
+    parent: partners
+    url: /wulills
+    weight: 4
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: car-battery
+      description:
+
+  - name: Teze
+    parent: partners
+    url: /teze
+    weight: 5
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: battery-full
+      description:
+
+  - name: Shengmilo
+    parent: partners
+    url: /shengmilo
+    weight: 6
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: bicycle
+      description:
+
   - name: Stores
     identifier: stores
-    weight: 2
+    weight: 3
     params:
       header: If you buy something from these links I might get a small commission.
       icon:
@@ -83,7 +153,7 @@ main:
 
   - name: Info
     identifier: info
-    weight: 3
+    weight: 4
     params:
       header: Information about this project.
       icon:
