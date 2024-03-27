@@ -3,6 +3,7 @@ title: "Best charging behavior for LFP batteries"
 slug: "best-charging-behavior-for-lfp-batteries"
 authors: "pedrolima"
 date: "2022-04-21"
+featured: true
 categories: 
   - "general"
 images: 
@@ -43,7 +44,7 @@ First, let's compare the nominal and maximum voltages of LFP with other popular 
 
  
 
-![Battery chemistries comparison by Tesla](images/Battery-chemistries-comparison-by-Tesla.avif)
+![Battery chemistries comparison by Tesla](images/Battery-chemistries-comparison-by-Tesla.avif "Battery chemistries comparison by Tesla")
 
  
 
@@ -83,7 +84,7 @@ Compared to other battery chemistries, LFP's charge/discharge voltage curves are
 
  
 
-![charge-discharge voltage curves of different battery chemistries](images/charge-discharge-voltage-curves-of-different-battery-chemistries.avif)
+![Charge-discharge voltage curves of different battery chemistries](images/charge-discharge-voltage-curves-of-different-battery-chemistries.avif)
 
  
 
