@@ -27,6 +27,7 @@ main:
         vendor: font-awesome-solid
         name: charging-station
       description:
+      target: _blank
 
   - name: Feyree
     parent: partners
@@ -37,6 +38,7 @@ main:
         vendor: font-awesome-solid
         name: bolt
       description:
+      target: _blank
 
   - name: Andaiic
     parent: partners
@@ -47,6 +49,7 @@ main:
         vendor: font-awesome-solid
         name: plug
       description:
+      target: _blank
 
   - name: Wulills
     parent: partners
@@ -57,6 +60,7 @@ main:
         vendor: font-awesome-solid
         name: car-battery
       description:
+      target: _blank
 
   - name: Teze
     parent: partners
@@ -67,6 +71,7 @@ main:
         vendor: font-awesome-solid
         name: battery-full
       description:
+      target: _blank
 
   - name: Shengmilo
     parent: partners
@@ -77,6 +82,7 @@ main:
         vendor: font-awesome-solid
         name: bicycle
       description:
+      target: _blank
 
   - name: Dokio
     parent: partners
@@ -87,6 +93,7 @@ main:
         vendor: font-awesome-solid
         name: sun
       description:
+      target: _blank
 
   - name: Gamsgo
     parent: partners
@@ -97,6 +104,7 @@ main:
         vendor: font-awesome-solid
         name: tv
       description:
+      target: _blank
 
   - name: Stores
     identifier: stores
@@ -117,6 +125,7 @@ main:
         vendor: simple
         name: aliexpress
       description: Flash deals.
+      target: _blank
 
   - name: eBay
     parent: stores
@@ -127,6 +136,7 @@ main:
         vendor: simple
         name: ebay
       description: Flash deals.
+      target: _blank
 
   - name: Amazon
     parent: stores
@@ -137,6 +147,7 @@ main:
         vendor: simple
         name: amazon
       description: Flash deals.
+      target: _blank
 
   - name: Banggood
     parent: stores
@@ -148,6 +159,7 @@ main:
         name: b
         color: orange
       description: Flash deals.
+      target: _blank
 
   - name: Geekbuying
     parent: stores
@@ -159,6 +171,7 @@ main:
         name: g
         color: red
       description: Flash deals.
+      target: _blank
   
   - name: DHGate
     parent: stores
@@ -170,6 +183,7 @@ main:
         name: d
         color: gold
       description: Flash deals.
+      target: _blank
 
   - name: Info
     identifier: info
