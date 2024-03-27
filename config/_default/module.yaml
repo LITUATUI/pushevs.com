@@ -59,6 +59,9 @@ imports:
   - path: github.com/hbstack/header/modules/news
   # - path: github.com/hbstack/announcement-bar
 
+  # hugo-easy-gallery
+  - path: github.com/liwenyip/hugo-easy-gallery
+
   # recommended modules
   # check which modules were imported by recommended module by "hugo mod graph | grep recommended".
   # see also https://hbstack.dev/en/docs/modules/meta/.
