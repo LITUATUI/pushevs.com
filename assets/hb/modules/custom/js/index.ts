@@ -1,5 +1,6 @@
 // This script will be compiled into the JS bundle automatically.
-/* ------------- Disable disqus ads ----------------------- */	
+
+/* ------------- Disable Disqus ads ----------------------- */	
 
 setTimeout(function () {
 	var disqus = document.querySelector('#disqus_thread');
@@ -19,6 +20,6 @@ setTimeout(function () {
   
 	  setTimeout(function () {
 		removead();
-	  }, 1000);
+	  }, 2000);
 	}
-  }, 1000);
+  }, 2000);
