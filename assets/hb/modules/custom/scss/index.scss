@@ -2,6 +2,18 @@
 
 /*! purgecss start ignore */
 
+@media (max-width: 1900px) {
+  .sponsor-big-desktop {
+    display: none;
+  }
+}
+
+@media (min-width: 1901px) {
+  .sponsor-desktop {
+    display: none;
+  }
+}
+
 @media (max-width: 480px) {
   .sponsor-desktop {
     display: none;
@@ -14,6 +26,18 @@
 	}
 }
 
+@media (max-width: 1900px) {
+	.sponsor-left-sidebar {
+		display: none;
+	}
+}
+
+@media (max-width: 1900px) {
+	.sponsor-right-sidebar {
+		display: none;
+	}
+}
+
 .sponsor-header {
     padding-top: 55px;
 }
@@ -22,7 +46,16 @@
   position: -webkit-sticky;
   position: sticky;
   bottom: 0;
+  z-index: 9995;
 }  
+
+.sponsor-left-sidebar {
+  padding-top: 55px; position: fixed; left: 0; top: 50%; transform: translate(0, -50%); max-height: 100vh;
+} 
+
+.sponsor-right-sidebar {
+  padding-top: 55px; position: fixed; right: 0; top: 50%; transform: translate(0, -50%); max-height: 100vh;
+} 
 
 .video-shortcode {
   max-width: 100%;
