@@ -190,7 +190,7 @@ hugopress:
           cacheable: true
           weight: 3
     # change the order of sidebar modules.
-    #hb-blog-sidebar-taxonomies:
+    hb-blog-sidebar-taxonomies:
       hooks:
         hb-blog-sidebar:
           weight: 2
