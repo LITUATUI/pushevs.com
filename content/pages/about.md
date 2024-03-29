@@ -20,8 +20,6 @@ I like to focus on battery technologies and public policies. The articles I writ
 
 However, as much as I like electric cars, they are just a small part of my interests. This means I won’t write articles everyday. Instead I’ll focus on topics that other websites don't cover as much or at least I'll try to give you a different perspective on the subjects.
 
-To keep updated you can subscribe to push notifications on your browser by clicking the red bell in the bottom left. This way your browser will notify you every time there's a new article. If you no longer want to receive notifications just click the red bell again to unsubscribe. Push notifications require less work from me to maintain than a newsletter - that some readers frequently ask for.
-
 Some North Americans might find strange, but I use the [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units) and its general rules in my articles.
 
  
