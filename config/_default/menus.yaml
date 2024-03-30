@@ -6,7 +6,7 @@ main:
       icon:
         vendor: bs
         name: megaphone
-        color: red
+        color: blue
 
   - name: Partners
     identifier: partners
@@ -16,7 +16,7 @@ main:
       icon:
         vendor: font-awesome-solid
         name: handshake
-        color: red
+        color: blue
 
   - name: EVB
     parent: partners
@@ -114,7 +114,7 @@ main:
       icon:
         vendor: font-awesome-solid
         name: shop
-        color: red
+        color: blue
 
   - name: AliExpress
     parent: stores
@@ -193,7 +193,7 @@ main:
       icon:
         vendor: font-awesome-solid
         name: info
-        color: red
+        color: blue
 
   - name: Authors
     parent: info
