@@ -36,8 +36,8 @@ github.com/hbstack/blog/modules/social-share-buttons v0.1.1 h1:9o/TjUPpK3MZGnjEC
 github.com/hbstack/blog/modules/social-share-buttons v0.1.1/go.mod h1:ofLDQclqvR8vCztqv118x62SEAF2/pgYEd8VBumpKzY=
 github.com/hbstack/bootstrap v0.2.1 h1:q8V9pBQPPfLQQWWHadOMoSomNjvUq0SGZMXdNDnga4U=
 github.com/hbstack/bootstrap v0.2.1/go.mod h1:IvEwsxbTINkAbiwCC9Nqvuguh6V+Z/8Dg3eZ+TLwWHc=
-github.com/hbstack/carousel v0.2.4 h1:OkMRqyhklJBMbOXo8p/dsS+iQVQTrMUI7Jfm13Js3L4=
-github.com/hbstack/carousel v0.2.4/go.mod h1:AchKlXiqYNZouE3Ee/VSSQle2FUZV5CJgTnPBFI7Gj0=
+github.com/hbstack/carousel v0.2.5 h1:+N4U9wvCvd8gWI0anyNVqelkrDqsWI/jDc8LG/KvB1E=
+github.com/hbstack/carousel v0.2.5/go.mod h1:37ffr9r5ilAS4b7KrplyCeOcTPmFd2PMygLo+VPe3oY=
 github.com/hbstack/code-block-panel v0.1.2 h1:7ZW54ZA7tBNr5oQSWrBrAvEyXfm0Usk9+Nsp7X7Xhko=
 github.com/hbstack/code-block-panel v0.1.2/go.mod h1:VK2kn+hD3pr5HPz8izFAUyFG0lB/nXybe8ix5uc/LLs=
 github.com/hbstack/content-panel v0.7.2 h1:/KaWkrjDxUZ2CIhLtGgdykkfUBi6AvXn4f98ZBtQrF4=
