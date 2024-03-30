@@ -40,8 +40,8 @@ github.com/hbstack/carousel v0.2.5 h1:+N4U9wvCvd8gWI0anyNVqelkrDqsWI/jDc8LG/KvB1
 github.com/hbstack/carousel v0.2.5/go.mod h1:37ffr9r5ilAS4b7KrplyCeOcTPmFd2PMygLo+VPe3oY=
 github.com/hbstack/code-block-panel v0.1.2 h1:7ZW54ZA7tBNr5oQSWrBrAvEyXfm0Usk9+Nsp7X7Xhko=
 github.com/hbstack/code-block-panel v0.1.2/go.mod h1:VK2kn+hD3pr5HPz8izFAUyFG0lB/nXybe8ix5uc/LLs=
-github.com/hbstack/content-panel v0.7.2 h1:/KaWkrjDxUZ2CIhLtGgdykkfUBi6AvXn4f98ZBtQrF4=
-github.com/hbstack/content-panel v0.7.2/go.mod h1:Hu7l0CBytB9B83NFZ0bWFffV1WRPSrJEaAilApnyxzY=
+github.com/hbstack/content-panel v0.8.0 h1:0v3TKmWwIqH4HgEBbhp+gOy1fkxEujCAnucS2s6eNhc=
+github.com/hbstack/content-panel v0.8.0/go.mod h1:lEyMXJYCNHL6fkT260oX2FnXF6gD5Vd3EytifVuz3iQ=
 github.com/hbstack/disqus v0.1.1 h1:lNIpdC8XU2PbV7Fahd9vUNg471B6gIEkRr0cZ6kadK4=
 github.com/hbstack/disqus v0.1.1/go.mod h1:DY7oRsTTkvcVCdYFQqgUkJLTicLgwku/RQV+Y6OpxlQ=
 github.com/hbstack/featured-image v0.2.1 h1:sRIzjV6YPVG7Ah0Hxjiuxd9bQnEV+62McOgXZjGNV7g=

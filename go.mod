@@ -24,7 +24,7 @@ require (
 	github.com/hbstack/bootstrap v0.2.1 // indirect
 	github.com/hbstack/carousel v0.2.5 // indirect
 	github.com/hbstack/code-block-panel v0.1.2 // indirect
-	github.com/hbstack/content-panel v0.7.2 // indirect
+	github.com/hbstack/content-panel v0.8.0 // indirect
 	github.com/hbstack/disqus v0.1.1 // indirect
 	github.com/hbstack/featured-image v0.2.1 // indirect
 	github.com/hbstack/footer v0.4.0 // indirect
