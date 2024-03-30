@@ -188,12 +188,8 @@ hugopress:
         # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-sidebar.html.
         hb-blog-sidebar:
           cacheable: true
-          weight: 3
-    # change the order of sidebar modules.
-    hb-blog-sidebar-taxonomies:
-      hooks:
-        hb-blog-sidebar:
           weight: 2
+    # change the order of sidebar modules.
     hb-blog-sidebar-posts:
       hooks:
         hb-blog-sidebar:
