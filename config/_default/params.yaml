@@ -3,13 +3,6 @@ description: Push Electric Vehicles Forward
 hb:
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
-  back_to_top:
-      animation: true
-      icon_height: 2em
-      icon_name: rocket-fill
-      icon_width: 2em
-      position_bottom: 1rem
-      position_end: 1rem
   news:
       sections:
         - news
@@ -23,21 +16,8 @@ hb:
     brand: PushEVs # the brand name, leave it empty to use site's title.
     #logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
+    breakpoint: xl
     socials:
-      github: LITUATUI/pushevs.com
-      githubsponsors: https://github.com/sponsors/LITUATUI
-      twitter: PushEVs
-      facebook: PushEVs
-      telegram: PushEVs
-      email: pedrolima@pushevs.com
-      rss: true
-      #mastodon: https://techhub.social/@hbstack
-  footer:
-    # see https://hbstack.dev/en/docs/modules/socials/.
-    #site_title:    
-    powered_by: false
-    socials:
-      _color: true # when false, remove the color of social icons.
       github: LITUATUI/pushevs.com
       githubsponsors: https://github.com/sponsors/LITUATUI
       twitter: PushEVs
@@ -119,7 +99,7 @@ hb:
       category: General
       category_id: DIC_kwDOLjPA9s4CeLwe
       mapping: og:title
-  docs:
+  #docs:
       #giscus:
       #repo: LITUATUI/pushevs.com
       #repo_id: R_kgDOK1LmSQ
@@ -145,6 +125,27 @@ hb:
   # google_fonts:
     # families:
       # - name: Lato
+  back_to_top:
+      animation: true
+      icon_height: 2em
+      icon_name: rocket-fill
+      icon_width: 2em
+      position_bottom: 1rem
+      position_end: 1rem
+  footer:
+    # see https://hbstack.dev/en/docs/modules/socials/.
+    #site_title:
+    powered_by: false
+    socials:
+      _color: true # when false, remove the color of social icons.
+      github: LITUATUI/pushevs.com
+      githubsponsors: https://github.com/sponsors/LITUATUI
+      twitter: PushEVs
+      facebook: PushEVs
+      telegram: PushEVs
+      email: pedrolima@pushevs.com
+      rss: true
+      #mastodon: https://techhub.social/@hbstack
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
@@ -193,4 +194,4 @@ hugopress:
     hb-blog-sidebar-posts:
       hooks:
         hb-blog-sidebar:
-          weight: 2
+          weight: 2          
