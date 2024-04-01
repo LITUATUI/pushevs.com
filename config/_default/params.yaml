@@ -179,16 +179,16 @@ hugopress:
           cacheable: true
         # see layouts/partials/hugopress/modules/hb-custom/hooks/body-begin.html.
         body-begin:
-          cacheable: true 
+          cacheable: true
         # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-post-content-end.html.
         hb-blog-post-content-end:
           cacheable: true
-        # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-post-comments-end.html.
-        hb-blog-post-comments-end:
-          cacheable: true          
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-post-end.html.
+        hb-blog-post-end:
+          cacheable: true   
         # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-footer-end.html.
         hb-footer-end:
-          cacheable: true                     
+          cacheable: true                 
         # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-sidebar.html.
         hb-blog-sidebar:
           cacheable: true
