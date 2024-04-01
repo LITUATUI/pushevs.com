@@ -1,5 +1,6 @@
 ---
 title: "Leapmotor T03 to begin production at Stellantis plant in Poland"
+slug: leapmotor-t03-to-begin-production-at-stellantis-plant-in-poland
 authors: "pedrolima"
 date: 2024-03-22T20:07:35Z
 categories:
