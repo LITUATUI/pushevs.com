@@ -182,9 +182,6 @@ hugopress:
           cacheable: true
         # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-post-content-end.html.
         hb-blog-post-content-end:
-          cacheable: true
-        # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-post-end.html.
-        hb-blog-post-end:
           cacheable: true   
         # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-footer-end.html.
         hb-footer-end:
