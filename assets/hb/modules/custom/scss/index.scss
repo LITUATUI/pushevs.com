@@ -46,6 +46,7 @@
   position: -webkit-sticky;
   position: sticky;
   bottom: 0;
+  z-index: 9995;
 }
 
 #left-sidebar-carousel {
@@ -59,10 +60,6 @@
 .video-shortcode {
   max-width: 100%;
   height: auto;
-}
-
-.hb-footer-site-info {
-  display: none;
 }
 
 /*! purgecss end ignore */

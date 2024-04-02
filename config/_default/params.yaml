@@ -134,9 +134,18 @@ hb:
       position_end: 1rem
   footer:
     # see https://hbstack.dev/en/docs/modules/socials/.
-    site_title: 🔋PushEVs - Push Electric Vehicles Forward
-    site_description: false
     powered_by: false
+    #site_description: false
+    socials:
+      _color: true # when false, remove the color of social icons.
+      github: LITUATUI/pushevs.com
+      githubsponsors: https://github.com/sponsors/LITUATUI
+      twitter: PushEVs
+      facebook: PushEVs
+      telegram: PushEVs
+      email: pedrolima@pushevs.com
+      rss: true
+      #mastodon: https://techhub.social/@hbstack
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
@@ -174,8 +183,8 @@ hugopress:
         # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-post-content-end.html.
         hb-blog-post-content-end:
           cacheable: true   
-        # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-footer-end.html.
-        hb-footer-end:
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html.
+        body-end:
           cacheable: true                 
         # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-sidebar.html.
         hb-blog-sidebar:
