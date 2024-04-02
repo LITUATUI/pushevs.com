@@ -30,7 +30,7 @@ However, having a GitHub account is something usual nowadays, you don't need to 
 Anyway, I still have to decide if I will migrate the comments already made on Disqus to Giscus or not. This kind of migration usually doesn't give pretty results and it's a lot of work tweaking out the bugs.
 
 
-One last thing. If you can't see images on this website, please update your browser. Images on this website are [AVIF](https://avif.io/), which is a modern, efficient and open-source image format.
+One last thing. If you can't see images on this website, please update your browser. Images on this website are encoded in [AVIF](https://avif.io/), which is a modern, efficient and open-source image format.
 
 
 
