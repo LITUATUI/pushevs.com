@@ -46,7 +46,7 @@
   position: -webkit-sticky;
   position: sticky;
   bottom: 0;
-  z-index: 9995;
+  z-index: 1;
 }
 
 #left-sidebar-carousel {
@@ -59,6 +59,10 @@
 
 .hb-footer {
   display: none;
+}
+
+.hb-back-to-top {
+  z-index: 2;
 }
 
 .video-shortcode {
