@@ -185,4 +185,4 @@ hugopress:
     hb-blog-sidebar-posts:
       hooks:
         hb-blog-sidebar:
-          weight: 1     
+          weight: 1
