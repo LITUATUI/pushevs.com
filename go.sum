@@ -34,8 +34,6 @@ github.com/hbstack/blog/modules/sidebar/posts v0.7.0 h1:xy70nHr/Qznc1Xmmn2RJdmxK
 github.com/hbstack/blog/modules/sidebar/posts v0.7.0/go.mod h1:jmdYFY1EtH74KWOS89xnCowNtaEkkhI6G/vHJaT6OJ0=
 github.com/hbstack/blog/modules/social-share-buttons v0.1.1 h1:9o/TjUPpK3MZGnjECGE+Wo7VdJSV1EOUJ7qGD8mDHn8=
 github.com/hbstack/blog/modules/social-share-buttons v0.1.1/go.mod h1:ofLDQclqvR8vCztqv118x62SEAF2/pgYEd8VBumpKzY=
-github.com/hbstack/blog/modules/sticky-till-the-end v0.1.0 h1:s37pHIWuLiBBYuei4+Bt+JfwTiC7RZmi9LgxgG8YoXY=
-github.com/hbstack/blog/modules/sticky-till-the-end v0.1.0/go.mod h1:gvF2ROE+2/iHa5IW30ztxRJMFa+Ovx0DOh0jy8nXrHs=
 github.com/hbstack/bootstrap v0.2.1 h1:q8V9pBQPPfLQQWWHadOMoSomNjvUq0SGZMXdNDnga4U=
 github.com/hbstack/bootstrap v0.2.1/go.mod h1:IvEwsxbTINkAbiwCC9Nqvuguh6V+Z/8Dg3eZ+TLwWHc=
 github.com/hbstack/carousel v0.2.5 h1:+N4U9wvCvd8gWI0anyNVqelkrDqsWI/jDc8LG/KvB1E=
@@ -50,8 +48,6 @@ github.com/hbstack/featured-image v0.2.1 h1:sRIzjV6YPVG7Ah0Hxjiuxd9bQnEV+62McOgX
 github.com/hbstack/featured-image v0.2.1/go.mod h1:hux3nYqQUVnQHPttJxVrvwfTsULGuVGRGFk3lO2Si54=
 github.com/hbstack/footer v0.4.1 h1:dGEIcqCM6K/s9bygnFQlPcVMJn+BblAjaESied8H7ug=
 github.com/hbstack/footer v0.4.1/go.mod h1:EvignAN0ShrWDbPAlf9+lrRfJSha9G4wYPDUed4wPzg=
-github.com/hbstack/footer/modules/observer v0.1.1 h1:CJ/AY5oSTKTvMjsUwh8VsZgwAI8TwlnXA9Auzy91NXY=
-github.com/hbstack/footer/modules/observer v0.1.1/go.mod h1:60OT7p1+c5VLUlG8QfXxxixp7MBoQA5n+9ZHAwOuYfM=
 github.com/hbstack/footer/modules/socials v0.2.5 h1:VmIBdRc8+ujwOjurcltNW0yU7rX2CzectEtmhgy9I6Y=
 github.com/hbstack/footer/modules/socials v0.2.5/go.mod h1:bggKfxJiylFYCG3AP3cKkhNBNtQrYnZzU9S5UBJ3gu8=
 github.com/hbstack/giscus v0.1.1 h1:jKbA17XjAcbD59QIDUVoFOdbi9P2WzQMtOcIpG/Znuo=
