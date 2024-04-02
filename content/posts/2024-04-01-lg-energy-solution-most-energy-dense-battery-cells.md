@@ -9,7 +9,7 @@ images:
   - "/images/Renault-5-E-Tech-powertrain.avif"
 ---
 
-It has been a while since I don't investigate what LG Energy Solution is doing in terms of battery technologies.
+It's been a while since I've looked into what LG Energy Solution is doing in terms of battery technologies.
 
 First, let's see the four latest battery cells that LG Energy Solution recently introduced. Then build some hypothetical battery packs with them.
 
