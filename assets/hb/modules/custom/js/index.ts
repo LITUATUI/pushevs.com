@@ -14,12 +14,12 @@ setTimeout(function () {
 		  ad.remove();
 		  adFound = true;
 		} else {
-		  setTimeout(removead, 500);
+		  setTimeout(removead, 1000);
 		}
 	  };
   
 	  setTimeout(function () {
 		removead();
-	  }, 1000);
+	  }, 2000);
 	}
-  }, 1000);
+  }, 2000);
