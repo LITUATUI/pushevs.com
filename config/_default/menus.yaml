@@ -106,6 +106,39 @@ main:
       description:
       target: _blank
 
+  - name: VPN
+    parent: partners
+    url: /vpn
+    weight: 9
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: user-secret
+      description:
+      target: _blank
+
+  - name: Alldebrid
+    parent: partners
+    url: /alldebrid
+    weight: 10
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: file-arrow-down
+      description:
+      target: _blank
+
+  - name: Realdebrid
+    parent: partners
+    url: /realdebrid
+    weight: 11
+    params:
+      icon:
+        vendor: font-awesome-solid
+        name: cloud-arrow-down
+      description:
+      target: _blank
+
   - name: Stores
     identifier: stores
     weight: 3
