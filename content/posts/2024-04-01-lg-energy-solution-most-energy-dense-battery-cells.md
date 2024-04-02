@@ -125,7 +125,7 @@ This would make a good battery pack, especially the 800-volt version...
 
 With 52 kWh of usable capacity, this would be a good battery pack for a small electric car like Renault 5 E-Tech, just saying...
 
-**Battery pack #9**
+**🔋Battery pack #9**
 
 - **Cells**: 288
 - **Configuration**: 96s3p (400-volt system)
