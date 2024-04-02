@@ -105,7 +105,7 @@ This would make a good battery pack, especially the 800-volt version...
 ## LG Energy Solution E79 (NCMA)
 
 - **Cell model**: E79
-- **Chemistry**: NCMA/Graphite+SiO
+- **Chemistry**: NCMA/Graphite
 - **Capacity**: 78 Ah
 - **Nominal voltage**: 3,67 V
 - **Energy**: 287 Wh
