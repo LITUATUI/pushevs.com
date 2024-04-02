@@ -1,6 +1,6 @@
 # RSS feed
 
-/feed /index.xml
+/feed https://pushevs.com/index.xml
 
 
 # Donations
