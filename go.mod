@@ -11,7 +11,7 @@ require (
 	github.com/hbstack/background-image v0.2.1 // indirect
 	github.com/hbstack/base v0.4.6 // indirect
 	github.com/hbstack/bigger-picture v0.10.1 // indirect
-	github.com/hbstack/blog v0.26.1 // indirect
+	github.com/hbstack/blog v0.26.2 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.21 // indirect
 	github.com/hbstack/blog/modules/disqus v0.1.20 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
@@ -56,7 +56,7 @@ require (
 	github.com/hugomods/base v0.6.0 // indirect
 	github.com/hugomods/bootstrap v0.21.2 // indirect
 	github.com/hugomods/code-block-panel v0.5.0 // indirect
-	github.com/hugomods/font-awesome v6.5.1+incompatible // indirect
+	github.com/hugomods/font-awesome v6.5.2+incompatible // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/giscus v0.1.1 // indirect
 	github.com/hugomods/google-adsense v0.1.0 // indirect
@@ -66,7 +66,7 @@ require (
 	github.com/hugomods/i18n-js v0.2.1 // indirect
 	github.com/hugomods/icons v0.6.3 // indirect
 	github.com/hugomods/icons/vendors/bootstrap v0.5.6 // indirect
-	github.com/hugomods/icons/vendors/font-awesome v0.6.5 // indirect
+	github.com/hugomods/icons/vendors/font-awesome v0.6.6 // indirect
 	github.com/hugomods/icons/vendors/simple-icons v1.0.36 // indirect
 	github.com/hugomods/idb-js v0.1.0 // indirect
 	github.com/hugomods/images v0.10.1 // indirect
