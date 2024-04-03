@@ -180,8 +180,8 @@ hugopress:
         # see layouts/partials/hugopress/modules/hb-custom/hooks/body-begin.html.
         body-begin:
           cacheable: true
-        # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-post-content-end.html.
-        hb-blog-post-content-end:
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-post-comments-begin.html.
+        hb-blog-post-comments-begin:
           cacheable: true   
         # see layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html.
         body-end:
