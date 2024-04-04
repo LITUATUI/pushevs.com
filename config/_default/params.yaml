@@ -27,7 +27,7 @@ hb:
       rss: true
       #mastodon: https://techhub.social/@hbstack
   blog:
-    list_cols_md: 3
+    list_cols_md: 2
     list_cols_lg: 3
     toc:
       position: start
