@@ -27,13 +27,7 @@
 }
 
 @media (max-width: 1900px) {
-	#left-sidebar-carousel {
-		display: none;
-	}
-}
-
-@media (max-width: 1900px) {
-	#sponsor-right-sidebar {
+	#left-sidebar-carousel, #sponsor-right-sidebar {
 		display: none;
 	}
 }

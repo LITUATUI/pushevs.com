@@ -182,7 +182,10 @@ hugopress:
           cacheable: true
         # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-post-comments-begin.html.
         hb-blog-post-comments-begin:
-          cacheable: true                 
+          cacheable: true
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html.
+        body-end:
+          cacheable: true
         # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-sidebar.html.
         hb-blog-sidebar:
           cacheable: true
