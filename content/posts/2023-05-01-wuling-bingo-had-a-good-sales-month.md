@@ -43,9 +43,7 @@ The BYD Seagull and the Wuling Bingo are great representatives of the electric A
 
 Am I the only one to think that we need the A-segment to become popular again? Many people still think that electric cars are toys for the rich, and legacy automakers are the ones to blame for this.
 
- 
-
- 
+---
 
 More info:
 

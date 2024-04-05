@@ -60,9 +60,7 @@ If I was in charge of SVOLT I would try to put a 55-60 kWh battery in a BYD Dolp
 
 Anyway, by next year BYD will probably release a more energy dense BYD Blade battery, so it can remain the best battery pack available for electric cars.
 
- 
-
- 
+---
 
 More info:
 

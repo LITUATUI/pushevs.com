@@ -92,9 +92,7 @@ The surprised Pikachu meme sums up the current situation.
 
 What do you think about Renault eWays event? Were you also disappointed?
 
- 
-
- 
+---
 
 More info:
 

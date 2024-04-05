@@ -227,9 +227,7 @@ While better things are definitely coming soon - like NCMA and cobalt-free LFMP 
 
 Moreover, battery technology isn't the only important thing, automakers also need to focus more on efficiency. The Tesla Model 3 and the Hyundai IONIQ Electric already proved that it really matters.
 
- 
-
- 
+---
 
 More info:
 

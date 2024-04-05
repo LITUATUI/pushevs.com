@@ -64,9 +64,7 @@ The Tesla Model 3 SR+ MIC had its initial NCM 811 battery cells from LG Chem rep
 
 Anyway, LFMP and LNMO are the two most promising cobalt-free battery technologies for the near future and are expected to become available already next year. They are extremely safe, affordable and have decent energy density. Nonetheless, [LFP batteries are getting better](/2020/09/19/cobalt-free-lfp-battery-cells-to-reach-210-wh-kg-this-year/) and with their proven reliability I expect them to be around for sometime to come.
 
- 
-
- 
+---
 
 More info:
 

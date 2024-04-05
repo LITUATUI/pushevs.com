@@ -36,9 +36,7 @@ Anyway, some battery cell makers such as BYD, Gotion High-Tech, Sunwoda and Eve 
 
 With LFP, LMFP, LNMO and sodium-ion we are starting to have plenty of cobalt-free battery chemistries to power the electric transportation revolution.
 
- 
-
- 
+---
 
 More info:
 

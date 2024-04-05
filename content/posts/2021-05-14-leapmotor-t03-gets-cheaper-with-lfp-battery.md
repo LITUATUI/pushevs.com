@@ -84,9 +84,7 @@ With a starting price below 8.000 euros in China the 2021 Leapmotor T03 is extre
 
 Am I the only one tired of the SUV trend and eager to see more good electric cars in the A-segment?
 
- 
-
- 
+---
 
 More info:
 

@@ -40,9 +40,7 @@ One of the best alternatives to the Wuling Hong Guang MINI EV currently availabl
 
 As for Tesla, considering that it sells much more expensive electric cars, its sales figures are impressive. Furthermore, if the introduction of a cheaper Tesla Model Y version with a LFP battery gets confirmed as expected, sales will likely skyrocket.
 
- 
-
- 
+---
 
 More info:
 

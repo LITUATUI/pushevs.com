@@ -65,9 +65,7 @@ By the way, for this year the planned annual production of the affordable [Wulin
 
 Even before the Tesla Battery Day, 2020 is a year already marked with exceptional battery technology breakthroughs. Don't you agree?
 
- 
-
- 
+---
 
 More info:
 

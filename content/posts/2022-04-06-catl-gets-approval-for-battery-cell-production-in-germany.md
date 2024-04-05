@@ -33,9 +33,7 @@ Anyway, I'm curious to known how the initial battery production capacity will be
 
 Finally, CATL expects to start mass-producing sodium-ion batteries in 2023, maybe the European plant will produce some?! It would be great news for better and cheaper ESS (Energy Storage Systems) that are crucial to accelerate the electrical grid modernization.
 
- 
-
- 
+---
 
 More info:
 

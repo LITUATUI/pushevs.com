@@ -225,9 +225,7 @@ Moreover, I also wonder how long will Korean battery cell makers take to realize
 
 Finally, I'm very optimistic and expect that in the near future (one or two years) most electric cars will be available with LFMP (optimized for cost) and NCMA (optimized for range) battery packs made with simple CTP technology.
 
- 
-
- 
+---
 
 More info:
 

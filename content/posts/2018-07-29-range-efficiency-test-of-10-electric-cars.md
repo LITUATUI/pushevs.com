@@ -133,9 +133,7 @@ Having 10 different electric cars tested is great, nonetheless, there are two im
 
 Anyway, it's important to notice that these particular tests were made with EV-range friendly temperatures in Spain. In colder climates the same electric cars would get worse results, especially the ones that don't have heat pumps. Moreover, there are some strange things in the test results, such as the efficiency figures for the Volkswagen e-Golf and the Kia Soul EV having more range than the Hyundai IONIQ Electric.
 
- 
-
- 
+---
 
 More info:
 

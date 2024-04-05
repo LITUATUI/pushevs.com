@@ -44,9 +44,7 @@ The [NAIMA project aims to develop sodium-ion batteries to be produced in Europe
 
 We'll see the results by then, but I think that the sodium-ion battery technology - that enables affordable electric transportation and renewable energy storage - deserves and requires much better funding from the European Union... 8 million euros for such an important EU project doesn't seem very serious, I'm sure that China is investing a lot more.
 
- 
-
- 
+---
 
 More info:
 

@@ -49,9 +49,7 @@ Anyway, if the Tesla Model 3 MIC (Made in China) gets its LFP battery packs upgr
 
 LFP batteries are a great step forward to make electric vehicles mainstream, but now I want to see a CTP battery pack made with sodium-ion cells, because that's when it'll be possible to replace the almost 70 million ICE (Internal Combustion Engine) cars that are made globally every year with electric cars.
 
- 
-
- 
+---
 
 More info:
 

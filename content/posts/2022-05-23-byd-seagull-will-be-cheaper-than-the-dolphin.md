@@ -45,9 +45,7 @@ BYD passenger electric cars:
 
 Moreover, BYD has electric vehicles for public transportation and commercial trucks in every form and shape imaginable.
 
- 
-
- 
+---
 
 More info:
 

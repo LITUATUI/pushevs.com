@@ -29,9 +29,7 @@ World's biggest battery maker, CATL, has finally started producing battery cells
 
 We still don't know which kind of battery cells CATL is currently producing at its new European plant. The affordable cobalt-free chemistry LFP, the high energy density chemistry NCM or maybe both? Hopefully, in Europe CATL will focus on cobalt-free chemistries and introduce sodium-ion batteries next year.
 
- 
-
- 
+---
 
 More info:
 

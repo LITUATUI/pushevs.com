@@ -45,9 +45,7 @@ The Samsung SDI 37 Ah battery cells will also be used in BMW plug-in hybrid cars
 
 To sum up, it's great to see Samsung SDI with two major automakers as clients (BMW and Volkswagen), with Mercedes joining the list later with the EQ sub-brand. The bad news for Samsung SDI is that the German automakers are still dragging their feets to build electric cars. This is why the Samsung SDI battery cell plant in Europe (Hungary) will only start operating in 2018 with an annual capacity to supply 50.000 EV batteries. This highly contrasts with the Renault-Nissan-Mitsubishi Alliance's battery supplier (LG Chem) plans for Europe. LG Chem battery plant in Poland will start operating already this year with an annual production capacity of 100.000 EV batteries. In this aspect, LG Chem is in much better position as the Alliance's battery cell supplier and Panasonic also is very comfortable with Tesla and Toyota in its customers list.
 
- 
-
- 
+---
 
 More info:
 

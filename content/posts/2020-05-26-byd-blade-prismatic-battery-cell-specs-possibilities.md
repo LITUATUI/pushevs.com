@@ -185,9 +185,7 @@ However, I am more interested in seeing cobalt-free CTP battery packs introduced
 
 Do cobalt-free batteries make electric cars more appealing, or is it something you don't care about?
 
- 
-
- 
+---
 
 More info:
 

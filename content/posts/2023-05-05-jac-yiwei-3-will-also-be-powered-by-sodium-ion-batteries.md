@@ -41,9 +41,7 @@ Anyway, JAC Yiwei 3 will be renamed as EV3 or E30X for exportation. This hatchba
 
 I expect to see a lot of A and B segment electric cars powered by sodium-ion batteries announced this year. Exciting times.
 
- 
-
- 
+---
 
 More info:
 

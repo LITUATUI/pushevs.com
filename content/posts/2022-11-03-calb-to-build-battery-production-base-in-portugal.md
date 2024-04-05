@@ -21,9 +21,7 @@ The initial phase aims to start battery cell production by the end of 2025 with 
 
 CALB is currently the world's seventh-largest maker of EV batteries and third in China, only behind CATL and BYD.
 
- 
-
- 
+---
 
 More info:
 

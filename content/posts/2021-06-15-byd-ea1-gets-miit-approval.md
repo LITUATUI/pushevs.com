@@ -75,9 +75,7 @@ Anyway, in China the BYD EA1 is expected to arrive later this year with a price 
 
 The price for the European market isn't known yet, but the BYD EA1 will be priced to be an alternative not only to the Volkswagen ID.3, but also to its gas counterparts. My guess is it'll be below 25.000 euros. As always, Norway is the most likely European country to get it first.
 
- 
-
- 
+---
 
 More info:
 

@@ -88,9 +88,7 @@ This one and the [Leapmotor T03](/2020/08/03/leapmotor-t03-great-small-electric-
 
 What do you think about this A-segment electric car? Would it be a nice alternative to the Renault Twingo ZE or the FIAT 500 Action in Europe if it had a short delivery time and sold for around 15.000 euros before government incentives?
 
- 
-
- 
+---
 
 More info:
 

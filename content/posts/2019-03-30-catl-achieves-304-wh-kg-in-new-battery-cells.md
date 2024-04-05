@@ -63,9 +63,7 @@ In the case of the PSA electric cars we already know that the 50 kWh battery pac
 
 The other contestant is the Mercedes-Benz EQC, which is expected to get NCM 811 battery cells from SK Innovation later this year.
 
- 
-
- 
+---
 
 More info:
 

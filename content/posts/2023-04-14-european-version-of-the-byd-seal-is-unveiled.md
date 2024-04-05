@@ -155,9 +155,7 @@ Let's see the press release.
 
 Good specs, but I think that by now a 22 kW on-board charger should be standard in premium electric cars. The price should be around 50.000 euros. What do you think?
 
- 
-
- 
+---
 
 More info:
 

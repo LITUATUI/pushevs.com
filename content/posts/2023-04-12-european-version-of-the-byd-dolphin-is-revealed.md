@@ -119,9 +119,7 @@ Thanks [Pedro Ventura](https://twitter.com/2_kamikaze_2) for the heads up.
 
 What do you think about the Euro version of the BYD Dolphin compared to its main rival, the MG 4 Electric? Are you more interested in the future cheaper version with sodium-ion battery?
 
- 
-
- 
+---
 
 More info:
 

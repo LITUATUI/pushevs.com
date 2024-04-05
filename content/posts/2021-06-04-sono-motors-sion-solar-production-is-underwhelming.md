@@ -88,9 +88,7 @@ Finally, here is the latest video by Sono Motors demonstrating the solar integra
 
 What do you think? Should electric cars get solar panel roofs? If optional, how much would you be willing to pay for a 300 W solar panel roof in an electric car?
 
- 
-
- 
+---
 
 More info:
 

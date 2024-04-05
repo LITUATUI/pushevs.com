@@ -69,9 +69,7 @@ With this decision, Stellantis leaves an open door for Chinese automakers to arr
 
 I'm done with Euro carmakers.
 
- 
-
- 
+---
 
 More info:
 

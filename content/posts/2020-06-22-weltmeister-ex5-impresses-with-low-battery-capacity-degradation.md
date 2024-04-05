@@ -68,9 +68,7 @@ However, I recognize that all this recent marketing around million-mile batterie
 
 More electric cars like this one that has a lifetime battery warranty or the Lexus UX 300e that offers a 10-year or 1 million km warranty on its battery might be needed to provide peace of mind to most potential EV customers.
 
- 
-
- 
+---
 
 More info:
 

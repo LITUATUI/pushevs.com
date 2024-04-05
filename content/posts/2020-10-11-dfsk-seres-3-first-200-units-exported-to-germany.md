@@ -45,9 +45,7 @@ In the more realistic WLTP test cycle the range should be around 300 km and the 
 
 We still don't know what safety rating this electric car will get in the Euro NCAP crash tests. Last year the [MG ZS EV scored a perfect 5-star rating](https://www.euroncap.com/en/results/mg/zs-ev/39678), while the [Aiways U5 only got 3 stars](https://www.euroncap.com/en/results/aiways/u5/39672).
 
- 
-
- 
+---
 
 More info:
 

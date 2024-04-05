@@ -55,9 +55,7 @@ Anyway, I'm a bit disappointed with the battery real capacity, because for a whi
 
 Now you know that the 2018 Nissan Leaf has a battery with a rated capacity of 39,46 kWh. This is under normal conditions and can be affected by temperature or C-rate.
 
- 
-
- 
+---
 
 More info:
 

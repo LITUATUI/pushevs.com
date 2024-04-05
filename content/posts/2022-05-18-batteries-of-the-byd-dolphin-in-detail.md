@@ -57,9 +57,7 @@ Anyway, the BYD Dolphin and the BYD Yuan Plus were the first electric cars made 
 
 BYD electric cars made on the BYD e-platform 3.0 will become global cars and sold in most important markets.
 
- 
-
- 
+---
 
 More info:
 

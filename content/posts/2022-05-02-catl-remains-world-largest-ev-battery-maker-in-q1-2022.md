@@ -41,9 +41,7 @@ As for CATL, the company is definitely determined to stay on the top and will st
 
 Anyway, one thing is clear, only Asian companies are mass producing EV battery cells. I'm beginning to think that the European Battery Alliance is a joke to make us believe that the European Union is doing something to move away from fossil fuels. Similar to Volkswagen that was for many years the champion of EV press releases, while producing close to nothing.
 
- 
-
- 
+---
 
 More info:
 

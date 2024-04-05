@@ -48,9 +48,7 @@ Now with its new plan, maybe there's hope for Elio Motors...
 
 What do you think? Will Elio Motors ever produce a car that people can buy?
 
- 
-
- 
+---
 
 More info:
 

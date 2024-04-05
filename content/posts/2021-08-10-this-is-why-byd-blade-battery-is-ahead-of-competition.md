@@ -73,9 +73,7 @@ Automakers that don't plan to soon start using cobalt-free battery cells in CTP 
 
 With a good 60 kWh LFP battery costing around 3.300 euros today there is no good reason why we still allow automakers to profit from ICE (Internal Combustion Engine) cars that poison our air.
 
- 
-
- 
+---
 
 More info:
 

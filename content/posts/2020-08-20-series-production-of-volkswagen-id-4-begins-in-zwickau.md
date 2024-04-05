@@ -118,9 +118,7 @@ The same could be said about Renault and its new ZOE made with the same NCM 712 
 
 Anyway, I really think that the Volkswagen ID.3 and ID.4 will play a very important role in the massification of electric cars. Not only they seem to be great electric cars, the MEB platform is flexible enough that it'll eventually adapt to use [CTP (cell-to-pack) cobalt-free batteries](/2020/04/12/simple-solution-for-safer-cheaper-more-energy-dense-batteries/). This is the future and the step required to allow an annual production above one million units. Until then the "car of the people" won't be electric.
 
- 
-
- 
+---
 
 More info:
 

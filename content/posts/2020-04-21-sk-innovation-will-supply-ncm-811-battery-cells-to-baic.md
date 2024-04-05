@@ -41,9 +41,7 @@ I would prefer the last option. The Korean electric cars with their 64 kWh batte
 
 What do you think? Is it time for the Korean automakers start using more energy-dense batteries not to improve range, but to reduce production costs instead?
 
- 
-
- 
+---
 
 More info:
 

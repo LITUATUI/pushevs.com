@@ -55,9 +55,7 @@ A cheap 60 kWh cobalt-free battery that charges in less than 10 minutes will be 
 
 What do you think?
 
- 
-
- 
+---
 
 More info:
 

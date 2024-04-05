@@ -248,9 +248,7 @@ The more energy dense battery should be considered a premium option and sold wit
 
 I'm looking forward to see which automaker will be the first to make its electric cars available with a cobalt-free battery pack option in Europe or North America. My guess is one that already has ties with CATL, so probably Tesla, Volkswagen or PSA. What do you think?
 
- 
-
- 
+---
 
 More info:
 

@@ -100,9 +100,7 @@ Finally, Hozon Auto also announced that next year it'll export its much-awaited 
 
 Anyway, 2022 seems to be the year when good Chinese electric cars start to enter into foreign markets at a higher pace. BYD, Xpeng, NIO, ORA, GAC AION, Leapmotor and Hozon Auto are coming...
 
- 
-
- 
+---
 
 More info:
 

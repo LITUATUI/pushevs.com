@@ -75,9 +75,7 @@ Hopefully, in the near future SVOLT will make module-less packs with the NMx pri
 
 Anyway, we still don't know the starting price nor the fast charging rates of the ORA Cherry Cat.
 
- 
-
- 
+---
 
 More info:
 

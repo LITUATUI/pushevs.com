@@ -94,9 +94,7 @@ In this field the Renault-Nissan Alliance can do a lot more to reduce costs. Sh
 
 **Update**: this article was revised because I wrongly assumed that the new 37 Ah battery cells would be made by Volkswagen's current supplier (Panasonic/Sanyo), but instead, these new cells are made by Samsung SDI.
 
- 
-
- 
+---
 
 More info:
 

@@ -43,9 +43,7 @@ Anyway, it's yet to be seen if this new cobalt-free cathode chemistry will ever 
 
 While the Chinese giant CATL is already producing cobalt-free LFP batteries, Korean and Japanese battery cell makers are still undecided on which cobalt-free battery chemistry to adopt. My guess is that it will be LNMO, but we'll see...
 
- 
-
- 
+---
 
 More info:
 

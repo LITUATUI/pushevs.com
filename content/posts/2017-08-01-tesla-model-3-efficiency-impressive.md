@@ -79,9 +79,7 @@ To sum up, I'm pretty impressed with Tesla. I've always said that huge and ineff
 
 What do you think? Are you impressed with the efficiency of the Tesla Model 3 or you don't even care? If you currently own a Tesla are you considering to trade it for a Model 3?
 
- 
-
- 
+---
 
 More info:
 

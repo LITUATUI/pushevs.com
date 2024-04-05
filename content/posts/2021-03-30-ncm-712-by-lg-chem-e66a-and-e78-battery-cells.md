@@ -69,9 +69,7 @@ Larger battery cells allow to assemble simpler high capacity battery packs, by r
 
 Anyway, LG Chem will soon be replacing NCM 712 with NCMA battery cells, which offer similar energy density but are much safer.
 
- 
-
- 
+---
 
 More info:
 

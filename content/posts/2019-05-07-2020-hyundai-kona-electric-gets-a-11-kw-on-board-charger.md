@@ -29,9 +29,7 @@ In Europe, 11 kW on-board chargers should be standard by now, with an additional
 
 Anyway, the deliveries of the new upgraded Hyundai Kona Electric will begin in European markets in late 2019.
 
- 
-
- 
+---
 
 More info:
 

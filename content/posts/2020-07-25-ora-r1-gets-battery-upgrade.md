@@ -146,9 +146,7 @@ I leave you with a nice video from Fully Charged about the ORA R1.
 
 If you're now furious with the prices of electric cars in Europe and North America grab your pitchfork and join me!
 
- 
-
- 
+---
 
 More info:
 

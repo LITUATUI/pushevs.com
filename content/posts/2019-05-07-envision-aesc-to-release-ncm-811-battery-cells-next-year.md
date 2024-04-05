@@ -51,9 +51,7 @@ What do you think? Which electric car from the Alliance do you expect to be the 
 
 Thanks [Rodrigo Melo](https://www.linkedin.com/in/rnmentropy) for the heads up.
 
- 
-
- 
+---
 
 More info:
 

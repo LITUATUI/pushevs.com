@@ -92,9 +92,7 @@ The South Korean battery cell makers need to further improve their products if t
 
 Finally, I foresee Bosch teaming up with BASF to produce top-notch quality battery cells in Europe in a year or two. But will it be too late? At the moment the Korean and Chinese battery cell makers have a comfortable head start.
 
- 
-
- 
+---
 
 More info:
 

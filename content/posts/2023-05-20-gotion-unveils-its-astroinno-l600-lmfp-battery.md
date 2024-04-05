@@ -39,9 +39,7 @@ Gotion is the most advanced battery cell maker specialized on LFP and LMFP batte
 
 Anyway, it's nice to know that when Volkswagen finally gets serious about electric cars, the German automaker will have a good cobalt-free battery tech to power them. Meanwhile, BYD and CATL are already powering the electric revolution.
 
- 
-
- 
+---
 
 More info:
 

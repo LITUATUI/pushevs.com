@@ -47,9 +47,7 @@ Anyway, I think that this information is important if you plan to buy an used Ni
 
 Thanks "Leaf Owner" for the heads up!
 
- 
-
- 
+---
 
 More info:
 

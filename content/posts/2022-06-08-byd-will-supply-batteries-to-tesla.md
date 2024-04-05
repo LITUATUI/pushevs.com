@@ -37,9 +37,7 @@ Anyway, the competition to supply the largest all-electric carmaker with cobalt-
 
 Battery cell makers and carmakers that still don't acknowledge the importance of module-less and cobalt-free battery packs to mass produce affordable electric cars have a tough road ahead...
 
- 
-
- 
+---
 
 More info:
 

@@ -61,9 +61,7 @@ The Renault Kangoo E-TECH seems to be the most balanced vehicle of the two and t
 
 With its large roof, the Renault Master E-TECH could have a solar panel around 500 W installed, wouldn't it be cool? Maybe in the next generation...
 
- 
-
- 
+---
 
 More info:
 

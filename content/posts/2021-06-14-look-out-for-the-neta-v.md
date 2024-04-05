@@ -59,9 +59,7 @@ Anyway, I think that the NETA V has the potential required to reach the top 5 of
 
 What do you think? How does it compare to the Dacia Spring?
 
- 
-
- 
+---
 
 More info:
 

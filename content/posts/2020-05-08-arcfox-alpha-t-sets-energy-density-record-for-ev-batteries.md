@@ -302,9 +302,7 @@ Anyway, Chinese electric cars have come a long way since the old BYD e6 launched
 
 What do you think? Is there a Chinese electric car that you would like to have?
 
- 
-
- 
+---
 
 More info:
 

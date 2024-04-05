@@ -69,9 +69,7 @@ What do you think? Could a version with a NEDC range of 405 km become popular gl
 
 Thanks Tyler Sanders for the heads up.
 
- 
-
- 
+---
 
 More info:
 

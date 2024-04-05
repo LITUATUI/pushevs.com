@@ -82,9 +82,7 @@ I want to see BYD adopt CTP in its vast offer of ESS (Energy Storage Systems). G
 
 Upcoming European battery cell makers should be taking notes and copy SVOLT's strategy, instead of wasting resources with multiple prototypes of cylindrical and pouch cells designed to be used in modules. If you arrive late to the party, at least do your homework...
 
- 
-
- 
+---
 
 More info:
 

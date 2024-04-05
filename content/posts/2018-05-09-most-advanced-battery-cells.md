@@ -65,9 +65,7 @@ Anyway, it will be interesting to know more about the Kia Niro EV battery (SK In
 
 **Revision**: Kia Niro EV battery pack is made with NCM 622 cells.
 
- 
-
- 
+---
 
 More info:
 

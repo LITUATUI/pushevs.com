@@ -41,9 +41,7 @@ Furthermore it's probable that before reaching 2020 even more impressive battery
 
 It's time for automakers to start investing resources to mass produce electric cars instead of trying to prove the impossible by gassing monkeys and humans, don't you think?
 
- 
-
- 
+---
 
 More info:
 

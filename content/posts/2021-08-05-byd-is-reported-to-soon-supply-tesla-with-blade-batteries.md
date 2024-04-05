@@ -59,9 +59,7 @@ If Tesla adopts this battery pack in its upcoming affordable compact hatchback i
 
 What do you think? Is the BYD Blade battery the right one for Tesla's most affordable model?
 
- 
-
- 
+---
 
 More info:
 

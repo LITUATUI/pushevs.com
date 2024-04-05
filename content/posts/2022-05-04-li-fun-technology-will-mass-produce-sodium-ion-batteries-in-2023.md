@@ -53,9 +53,7 @@ While with mass-produced module-less LFP (LiFePO4) battery packs we can already 
 
 Imagine an electric supermini like the Renault ZOE sold for the same price as its gas-counterpart (Clio) - without the need of subsidies -, with a 40 kWh sodium-ion CTP (cell-to-pack) battery that could be charged in 15 minutes and last beyond the vehicle life cycle...
 
- 
-
- 
+---
 
 More info:
 

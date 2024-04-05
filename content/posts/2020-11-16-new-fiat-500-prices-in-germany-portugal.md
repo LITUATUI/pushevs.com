@@ -159,9 +159,7 @@ Anyway, the cheapest variant (Action) seems aimed to be an alternative to the Re
 
 I wonder if FIAT will offer as good discounts as Renault does for its electric cars. What do you think?
 
- 
-
- 
+---
 
 More info:
 

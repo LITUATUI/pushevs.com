@@ -70,9 +70,7 @@ The BYD Blade Battery, that combines cobalt-free LFP cells with CTP battery pack
 
 While other Chinese automakers, such as NIO or Xpeng get most of the media attention, I think that BYD is the Chinese automaker better prepared for the end of the ICE age, by far. Mostly because it already has a vast offer of great electric cars, but also because it builds its own extremely affordable cobalt-free batteries.
 
- 
-
- 
+---
 
 More info:
 

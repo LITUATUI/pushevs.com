@@ -23,9 +23,7 @@ We see that Samsung SDI considers the 94 Ah battery cell to be its long cycle li
 
 Anyway, since the upcoming [120 Ah battery cell is aimed for electric cars](http://www.samsungsdi.com/sdi-news/1443.html?idx=1443), this - same sized - new high-capacity 111 Ah cell seems to designed for ESS (Energy Storage Systems) only. Nonetheless, if some automaker decides to use it for EV battery packs, it gets a 39,4 kWh (96 x 3,7 V x 111 Ah) battery.
 
- 
-
- 
+---
 
 More info:
 

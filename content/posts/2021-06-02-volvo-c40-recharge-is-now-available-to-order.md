@@ -45,9 +45,7 @@ For example, the [Kia EV6 gets a WLTP range above 510 km from a 77,4 kWh battery
 
 What do you think?
 
- 
-
- 
+---
 
 More info:
 

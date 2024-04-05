@@ -88,9 +88,7 @@ However, the most interesting comparison will only be possible later this year, 
 
 Summing up, if you're planning to buy a used Renault ZOE with a ZE 40 battery, you now know what to expect and do your math. For example, it's clear that the battery lease isn't a wise choice for the long term.
 
- 
-
- 
+---
 
 More info:
 

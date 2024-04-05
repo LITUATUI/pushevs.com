@@ -67,9 +67,7 @@ Anyway, we're done for today. This was the roundup of the current situation of N
 
 **Update**: it seems that the NCM 811 cells from LG Chem initially will only be available in cylindrical format and used in electric buses.
 
- 
-
- 
+---
 
 More info:
 

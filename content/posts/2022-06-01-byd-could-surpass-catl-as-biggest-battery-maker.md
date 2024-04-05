@@ -44,9 +44,7 @@ Nonetheless, production localization is equally important. Battery makers need t
 
 Anyway, there's an underdog that worth mention. SVOLT has its own version of short-blade batteries available in two cobalt-free chemistries (LFP and LNMO) and is targeting start of production in Germany by the end of 2023. This is probably the small battery maker with the best potential to grow - if nothing unexpected happens.
 
- 
-
- 
+---
 
 More info:
 

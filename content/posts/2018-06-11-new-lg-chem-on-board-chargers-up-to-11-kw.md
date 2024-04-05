@@ -23,9 +23,7 @@ I really think that powerful on-board chargers are very important, since the DC-
 
 If an electric car has a 22 kW on-board charger and is able to charge up to 100 kW at DC-fast chargers, a 40-50 kWh battery would be more than enough for most drivers don't you think?
 
- 
-
- 
+---
 
 More info:
 

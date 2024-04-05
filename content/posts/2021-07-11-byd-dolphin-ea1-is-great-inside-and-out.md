@@ -90,9 +90,7 @@ Anyway, the BYD Dolphin is the first electric car that could realistically compe
 
 Let's hope that BYD produces enough of them and doesn't screw up. The Chinese automaker has a one-time opportunity to prove its value and make history before legacy automakers wake up.
 
- 
-
- 
+---
 
 More info:
 

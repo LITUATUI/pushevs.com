@@ -63,9 +63,7 @@ Therefore, I expect SVOLT to have its LNMO battery cells available with differen
 
 Anyway, SVOLT's supply contract with PSA is expected to exceed 7 GWh, enough for 140.000 EV batteries (50 kWh each).
 
- 
-
- 
+---
 
 More info:
 

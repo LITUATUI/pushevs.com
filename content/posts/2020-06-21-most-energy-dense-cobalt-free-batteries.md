@@ -191,9 +191,7 @@ Today you can already notice a sudden increase in YouTube videos from people tha
 
 Anyway, what do you think? Is cobalt-free CTP batteries the technology that was missing to make electric cars mainstream?
 
- 
-
- 
+---
 
 More info:
 

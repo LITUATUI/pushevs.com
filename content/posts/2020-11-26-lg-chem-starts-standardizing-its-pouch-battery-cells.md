@@ -43,9 +43,7 @@ Volkswagen MEB platform allows this automaker to have LG Chem, SK Innovation, Sa
 
 The standardization of battery cells is necessary for electric cars to reach high production numbers and compete with ICE (Internal Combustion Engine) cars.
 
- 
-
- 
+---
 
 More info:
 

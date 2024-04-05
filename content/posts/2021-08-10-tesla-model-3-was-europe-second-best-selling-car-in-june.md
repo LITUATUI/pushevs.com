@@ -71,9 +71,7 @@ Since it's clear that Volkswagen doesn't want the ID.3 to compete with the Golf 
 
 How long will it take to see more electric cars in the top 10 of best-selling cars in Europe?
 
- 
-
- 
+---
 
 More info:
 

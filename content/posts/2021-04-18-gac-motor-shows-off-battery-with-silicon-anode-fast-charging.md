@@ -36,9 +36,7 @@ Moreover, with BEVs (Battery Electric Vehicles) that support this kind of fast c
 
 Imagine a Renault ZOE with a 70 kWh battery that can fast charge at 210 kW in under 20 minutes. This is possible with the recently announced silicon anode batteries. ICE age can be over if policy makers and automakers wish so.
 
- 
-
- 
+---
 
 More info:
 

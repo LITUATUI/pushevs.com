@@ -53,9 +53,7 @@ Nonetheless, it will be price and availability that will dictate its success. I 
 
 Anyway, we should know more about price and availability very soon.
 
- 
-
- 
+---
 
 More info:
 

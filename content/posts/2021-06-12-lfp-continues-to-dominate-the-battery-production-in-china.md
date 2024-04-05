@@ -49,9 +49,7 @@ Tesla and Volkswagen expect LFP and LNMO to become the standard battery chemistr
 
 Anyway, I wonder how long will it take before electric cars made in Europe get cobalt-free batteries. Hopefully the battery cell plant currently under construction in Germany by CATL starts producing LFP cells very soon and at full speed.
 
- 
-
- 
+---
 
 More info:
 

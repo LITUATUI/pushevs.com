@@ -114,9 +114,7 @@ Anyway, unless the GoM is acting crazy by frequently showing sudden drops of est
 
 I hope that you find this article helpful and clarifying.
 
- 
-
- 
+---
 
 More info:
 

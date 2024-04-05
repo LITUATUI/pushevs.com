@@ -48,9 +48,7 @@ Anyway, the most energy dense LFP battery cell that Guoxuan can now mass produce
 
 I'm not a big fan of the JTM technology - that still uses pouch cells and modules -, but using long prismatic blade battery cells probably isn't an option for Guoxuan yet, since they won't be compatible with Volkswagen's current MEB platform.
 
- 
-
- 
+---
 
 More info:
 

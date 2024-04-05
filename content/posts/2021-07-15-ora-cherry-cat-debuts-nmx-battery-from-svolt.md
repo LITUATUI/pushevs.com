@@ -97,9 +97,7 @@ I expect the battery pack to at least surpass 200 Wh/kg.
 
 Tesla and Volkswagen already stated that the cobalt-free battery chemistries LFP and LNMO will become the standard for electric cars. Relegating NCA/NCM/NCMA chemistries to premium niches where range is more important than cost.
 
- 
-
- 
+---
 
 More info:
 

@@ -79,9 +79,7 @@ If the new MG electric supermini looks like the sketch above I'm sure that most 
 
 Anyway, some of us are still waiting for BYD to arrive in full force to Europe with its electric cars and sometimes we forget that MG and Aiways are already here with big plans for the future.
 
- 
-
- 
+---
 
 More info:
 

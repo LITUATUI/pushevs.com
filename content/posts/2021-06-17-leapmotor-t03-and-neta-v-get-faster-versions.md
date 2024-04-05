@@ -113,9 +113,7 @@ Anyway, I already wrote articles praising both electric cars and think they coul
 
 The recent top speed increase might suggest that these electric cars are getting ready to finally leave the comfort of their domestic market and head to more demanding markets, such as Europe, New Zealand or Australia. What do you think?
 
- 
-
- 
+---
 
 More info:
 

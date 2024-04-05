@@ -47,9 +47,7 @@ Not only Tesla Motors is proving that if automakers wanted they could build grea
 
 **Note to automakers**: cost isn't a valid excuse to keep making batteries with low energy density for electric cars. Because higher energy density not only increases the capacity, it also drops the kWh cost, since the same mass (raw materials) store more energy.
 
- 
-
- 
+---
 
 More info:
 

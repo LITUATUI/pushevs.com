@@ -52,9 +52,7 @@ SK Innovation chose NCM 90, Samsung SDI adopted NCA 88/91 and LG Chem went with 
 
 Looking forward to see these more energy dense, but also cheaper - with low-cobalt content - battery cells in electric cars soon.
 
- 
-
- 
+---
 
 More info:
 

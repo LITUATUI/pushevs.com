@@ -27,9 +27,7 @@ Patent restrictions over LFP cathode chemistry will start to expire in 2022, the
 
 Anyway, it's great to see more battery cell makers adopting cobalt-free chemistries, since they are essential to mass-produce affordable electric cars. LNMO is another cobalt-free chemistry that will be adopted by battery cell makers very soon.
 
- 
-
- 
+---
 
 More info:
 

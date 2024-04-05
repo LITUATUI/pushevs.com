@@ -57,9 +57,7 @@ I'm sure that if selling ICE cars was extremely hard or no longer allowed, autom
 
 Do you remember when automakers said that with batteries at 100 euros per kWh electric cars would be on price parity with ICE cars? How much longer they'll keep moving the goal post?
 
- 
-
- 
+---
 
 More info:
 

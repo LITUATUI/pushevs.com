@@ -54,9 +54,7 @@ Anyway, while the cathode active materials might be available already this year,
 
 If we really want to know where NCM batteries are heading, we must consider what the world's largest chemical producer is doing, instead of relying on constant press releases with claims too good to be true from likely scammers trying to lure investors.
 
- 
-
- 
+---
 
 More info:
 

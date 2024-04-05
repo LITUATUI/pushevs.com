@@ -51,9 +51,7 @@ Its maker, [Hozon Auto already has the official website available in English](ht
 
 What do you think?
 
- 
-
- 
+---
 
 More info:
 

@@ -64,9 +64,7 @@ Finally! Ford will use module-less LFP (LiFePO4) batteries from CATL to cut cost
 
 Ford also expects to have 9 all-electric models available in Europe by 2024... Not bad for a legacy carmaker.
 
- 
-
- 
+---
 
 More info:
 

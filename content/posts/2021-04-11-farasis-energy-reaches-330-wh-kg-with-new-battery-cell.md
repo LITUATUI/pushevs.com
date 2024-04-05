@@ -52,9 +52,7 @@ Finally, it's worth mentioning that silicon anodes can also be applied to increa
 
 The technology to finally completely replace ICE (Internal Combustion Engine) vehicles already exists. We'll see how much longer will legacy automakers stay in the ICE age. Probably only as long as politicians allow it.
 
- 
-
- 
+---
 
 More info:
 

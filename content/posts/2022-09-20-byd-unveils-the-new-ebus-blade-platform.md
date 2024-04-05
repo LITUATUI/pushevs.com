@@ -27,9 +27,7 @@ It's great to see that BYD keeps improving its public transportation electric ve
 
 Electric buses with their zero local emissions, low running costs, high efficiency and strong regenerative braking are perfect for city driving. Diesel buses should be banned even before diesel passenger cars.
 
- 
-
- 
+---
 
 More info:
 

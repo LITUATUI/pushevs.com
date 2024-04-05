@@ -70,9 +70,7 @@ Anyway, if the high level version comes to Europe for the same price of the Daci
 
 What do you think?
 
- 
-
- 
+---
 
 More info:
 

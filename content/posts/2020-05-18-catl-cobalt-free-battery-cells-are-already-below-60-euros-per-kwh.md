@@ -68,9 +68,7 @@ Anyway, I started this blog mostly to inform the EV community and public policy-
 
 However, when a large media outlet such as Reuters makes this kind of information available to the public it can be problematic for automakers' narrative against electric cars. As a result, informed citizens and public policy-makers can push for stricter emissions regulations that favor the transition to electric vehicles.
 
- 
-
- 
+---
 
 More info:
 

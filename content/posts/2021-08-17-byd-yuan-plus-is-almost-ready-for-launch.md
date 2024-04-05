@@ -85,9 +85,7 @@ BYD usually offers an awesome battery warranty for its all-electric cars in fore
 
 What do you think? Which electric car of the new BYD e-platform 3.0 do you prefer, the Dolphin or the Yuan Plus? Is the 60 kWh battery capacity the sweet spot for affordable electric cars? What do you prioritize, a faster charging or a more generous battery warranty?
 
- 
-
- 
+---
 
 More info:
 

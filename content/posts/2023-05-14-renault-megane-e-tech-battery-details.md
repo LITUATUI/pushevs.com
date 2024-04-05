@@ -77,9 +77,7 @@ NCMA has only slightly better energy density than the chemistry it will replace 
 
 So there you have it, now you know what powers the Renault Megane E-Tech.
 
- 
-
- 
+---
 
 More info:
 

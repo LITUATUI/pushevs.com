@@ -37,9 +37,7 @@ To sum up, whether you choose the R90 or the Q90, avoid charging at 10 A as much
 
 If you ordered a Renault Zoe, which powertrain and EVSE did you choose?
 
- 
-
- 
+---
 
 More info:
 

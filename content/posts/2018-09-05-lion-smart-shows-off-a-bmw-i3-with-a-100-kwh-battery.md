@@ -31,9 +31,7 @@ Later on, I expect CATL to replace Samsung SDI as BMW's main battery cell suppli
 
 As a final remark, I have to say that find strange that LION Smart chose the BMW i3 to show off its battery technology. Who needs a 100 kWh battery in a small electric city car?! Wouldn't it be better to unveil a high-capacity battery with TMS for the Nissan Leaf?! It would definitely get a lot more attention.
 
- 
-
- 
+---
 
 More info:
 

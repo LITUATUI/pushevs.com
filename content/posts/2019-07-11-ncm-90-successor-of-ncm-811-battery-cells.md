@@ -148,9 +148,7 @@ This article was only possible thanks to [Sci-Hub](https://sci-hub.se/). "Sci-Hu
 
 Thanks Emanuele for the heads up.
 
- 
-
- 
+---
 
 More info:
 

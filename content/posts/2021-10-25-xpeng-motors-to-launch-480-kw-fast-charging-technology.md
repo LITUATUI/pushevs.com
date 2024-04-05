@@ -37,9 +37,7 @@ Anyway, in Europe 350 kW fast-charging stations are the best we currently have, 
 
 What do you think? If you had an electric car that could be fast charged in less than 10 minutes, how much range would you require it to have?
 
- 
-
- 
+---
 
 More info:
 

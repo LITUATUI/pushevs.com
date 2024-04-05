@@ -39,9 +39,7 @@ Soon, when battery cell formats become completely standardized, having different
 
 Anyway, the Leapmotor T03 is currently available in 5 variants, where the cheapest starts at 59.800 yuan (8.021 euros) and the most expensive starts at 76.800 yuan (10.301 euros). I think that this kind of electric car would be a success in Europe and maybe Australia.
 
- 
-
- 
+---
 
 More info:
 

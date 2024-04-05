@@ -43,9 +43,7 @@ An electric car model needs to be exported frequently by the thousands (like the
 
 Only when BYD starts sending batches of 5.000-10.000 units to Europe weekly we'll see more reasonable prices. Anyway, this is a good start.
 
- 
-
- 
+---
 
 More info:
 

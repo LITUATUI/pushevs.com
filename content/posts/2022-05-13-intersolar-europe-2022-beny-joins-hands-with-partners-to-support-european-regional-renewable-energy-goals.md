@@ -27,9 +27,7 @@ Intersolar Europe 2022 is taking place in Munich, Germany.
 > 
 > This exhibition is the seventh year that BENY has appeared in Intersolar Europe. Beny Electric has always focused on the new energy power transmission and distribution, and based on customers need, it has continuously developed innovative solutions to serve customers. In the future, we will continue to adhere to the corporate strategic concept of “Integrated with solar, energy storage and EV charger. DC power transmission and distribution. New Energy One-stop Solution”, take the platform advantages of the European branch and the American office, rely on the innovative technology R&D of Beny Electric R&D Center, fully use the advantages of Zhejiang’s manufacturing industry cluster and quality Zhejiang products, and bring more efficient, safer and better solutions to global customers.
 
- 
-
- 
+---
 
 More info:
 

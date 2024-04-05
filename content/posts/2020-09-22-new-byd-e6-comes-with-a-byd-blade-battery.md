@@ -60,9 +60,7 @@ Anyway, I think that by next year all electric cars from BYD will have a [module
 
 Thanks Leo B for the heads up.
 
- 
-
- 
+---
 
 More info:
 

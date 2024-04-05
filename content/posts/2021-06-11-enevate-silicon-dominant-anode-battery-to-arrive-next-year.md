@@ -135,9 +135,7 @@ Honestly, when I look to current mainstream EVs I tend to think they are still a
 
 Thanks for the heads up Rok.
 
- 
-
- 
+---
 
 More info:
 

@@ -59,9 +59,7 @@ Anyway, the important thing to retain here is that even the most expensive and h
 
 Policy makers need to ban ICE (Internal Combustion Engine) vehicles as soon as possible. Currently, automakers are only overpricing their EVs to protect their polluting cars sales. They can no longer blame battery technologies without calling us stupid.
 
- 
-
- 
+---
 
 More info:
 

@@ -41,9 +41,7 @@ Anyway, since there's no future for EV battery cells that use cobalt, this might
 
 CATL really needs to catch up with BYD and [Guoxuan that are now leading in energy-dense cobalt-free CTP (cell-to-pack) batteries](/2020/09/19/cobalt-free-lfp-battery-cells-to-reach-210-wh-kg-this-year/).
 
- 
-
- 
+---
 
 More info:
 

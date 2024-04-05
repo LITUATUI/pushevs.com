@@ -482,9 +482,7 @@ Long range version
 
 While I think that's important to keep pushing for more energy dense batteries that give electric cars the best range possible, I also think that's important to make them affordable. This is why we also need [cobalt-free batteries like LFP and LFMP](/2019/08/16/the-comeback-of-lfp-batteries/). Allowing customers to choose which kind of battery they want (maximized for range or cost) is the strategy that I think will become norm in the near future.
 
- 
-
- 
+---
 
 More info:
 

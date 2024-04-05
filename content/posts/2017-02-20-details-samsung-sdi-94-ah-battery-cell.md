@@ -69,9 +69,7 @@ To sum up, while Samsung SDI battery cells have only average energy density, the
 
 I'm curious to see which kind of new battery cells will BMW use in the upcoming BMW i3S with the larger capacity battery pack. If the rumored battery pack is around 50 kWh, it's very likely it'll get the new cylindrical 21700 cells and not the prismatic type - that has been used until now.
 
- 
-
- 
+---
 
 More info:
 

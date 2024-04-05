@@ -61,9 +61,7 @@ Anyway, unfortunately for us BYD's domestic market is huge and it'll take some t
 
 What do you think? If sold for around 30.000 euros in Europe would it be successful? Or its size makes it more suitable for other regions, such as North America and Australia?
 
- 
-
- 
+---
 
 More info:
 

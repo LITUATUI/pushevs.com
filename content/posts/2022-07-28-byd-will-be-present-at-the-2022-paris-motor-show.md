@@ -31,9 +31,7 @@ In Europe, BYD is already very successful in producing and selling electric buse
 
 Considering that last year BYD confirmed that it'll produce batteries for electric cars in Europe, I expect that at the Paris Motor Show the company reveals its plans for localized production.
 
- 
-
- 
+---
 
 More info:
 

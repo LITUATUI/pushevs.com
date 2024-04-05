@@ -102,9 +102,7 @@ If they arrive in Europe with a price similar to the Dacia Spring (below 20.000 
 
 What do you think? What's your favorite?
 
- 
-
- 
+---
 
 More info:
 

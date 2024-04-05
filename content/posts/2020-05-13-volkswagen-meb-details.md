@@ -120,9 +120,7 @@ Anyway, Volkswagen's MEB platform is great, nonetheless it can be improved. [CTP
 
 Thanks for the heads up Pajda!
 
- 
-
- 
+---
 
 More info:
 

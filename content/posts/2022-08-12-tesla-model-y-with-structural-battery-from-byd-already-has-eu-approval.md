@@ -39,9 +39,7 @@ Anyway, I hope that Tesla abandons its unrepairable and complex battery pack phi
 
 What about you? Would you prefer an electric car from Tesla with the complex and unrepairable 4680 battery pack or a more simple pack made by BYD and CATL?
 
- 
-
- 
+---
 
 More info:
 

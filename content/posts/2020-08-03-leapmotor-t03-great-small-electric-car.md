@@ -106,9 +106,7 @@ The high-tech Deluxe Edition seems perfect for the European electric car market,
 
 It would also be nice that the electric motor instead of being attached to the front wheels, was on the rear for better turning circle, just like the Renault Twingo ZE. This is especially important in city cars.
 
- 
-
- 
+---
 
 More info:
 

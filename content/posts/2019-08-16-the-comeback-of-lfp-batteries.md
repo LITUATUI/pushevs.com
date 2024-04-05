@@ -173,9 +173,7 @@ NCMA cathodes get the best of modern NCM and NCA chemistries, they are a real br
 
 I can't promise a date, but I'll write an article exclusively about NCMA cathodes, their advantages and why I think they'll be the final nail in the coffin for ICE (Internal Combustion Engine) cars. Good things are coming.
 
- 
-
- 
+---
 
 More info:
 

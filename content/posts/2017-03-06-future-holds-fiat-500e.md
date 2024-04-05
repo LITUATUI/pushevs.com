@@ -63,9 +63,7 @@ A battery upgrade and the addition of DC fast charging capability via CCS conne
 
 What do you think? How long will it take for Fiat upgrade its electric car and extend its availability beyond Oregon and California?
 
- 
-
- 
+---
 
 More info:
 

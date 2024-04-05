@@ -86,9 +86,7 @@ Let's see what kind of battery packs can we have with the battery cell recently 
 
 Considering that Volkswagen is the biggest stakeholder of Guoxuan, we might see the German automaker adopting this technology soon.
 
- 
-
- 
+---
 
 More info:
 

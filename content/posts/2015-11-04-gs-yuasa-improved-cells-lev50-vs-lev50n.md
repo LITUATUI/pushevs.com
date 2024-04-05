@@ -35,9 +35,7 @@ However, only in 2015 the Citroen C-Zero and the Peugeot iOn got the battery wa
 
 As I mentioned before the Mitsubishi i-MiEV kept using a 16 kWh battery but it also had its cells upgraded. When buying a used i-MiEV, choose one that was built after the summer of 2012 to be sure that you get the newer cells with increased lifespan.
 
- 
-
- 
+---
 
 More info:
 

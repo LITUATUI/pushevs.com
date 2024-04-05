@@ -136,9 +136,7 @@ In 2018 when GWM created the sub-brand ORA for affordable EVs, it expected that 
 
 Which electric car do you think would be more successful in your country? An ORA White Cat for 15.000 euros or an ORA Good Cat for 20.000 euros (LFP version) and 25.000 euros (NCM version)?
 
- 
-
- 
+---
 
 More info:
 

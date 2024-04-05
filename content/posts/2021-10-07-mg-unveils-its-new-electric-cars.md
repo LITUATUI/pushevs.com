@@ -163,9 +163,7 @@ Lastly, by introducing a new generation of electric cars still based on 400-volt
 
 By next year, thanks to silicon and graphene based batteries combined with 800-volt systems, 3-6 C fast charging rates will start to become more common in electric cars. In a year or two, electric cars that take more than 20 minutes to charge 80 % of their batteries - at a fast charging station - will be considered old generation.
 
- 
-
- 
+---
 
 More info:
 

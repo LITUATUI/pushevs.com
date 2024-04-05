@@ -35,9 +35,7 @@ However, all-solid-state batteries (ASSBs) are constantly improving and accordin
 
 Summing up, until the battery makers disclose the cycle life and operating temperatures of their ASSBs we won't know for sure how good they are.
 
- 
-
- 
+---
 
 More info:
 

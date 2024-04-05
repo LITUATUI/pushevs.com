@@ -44,9 +44,7 @@ However, BYD and CATL have to be more careful with this kind of announcements, o
 
 Surpassing 200 Wh/kg at the pack level with a cobalt-free chemistry that is also safe, reliable, durable and cheap seems to be just months away. Exciting times!
 
- 
-
- 
+---
 
 More info:
 

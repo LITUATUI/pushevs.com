@@ -64,9 +64,7 @@ Profit margin: 35 % (very amazing)
 
 Now I wonder what's next. If Tesla starts producing a supermini at its upcoming plant in Germany and sells it for less than 30.000 euros before subsidies, it'll easily dominate the European market.
 
- 
-
- 
+---
 
 More info:
 

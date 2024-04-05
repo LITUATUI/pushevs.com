@@ -34,9 +34,7 @@ Nonetheless, GAC isn't the only company that expects to greatly improve the ener
 
 A 60 kWh EV battery that weighs around 300 kg and can be charged from 10 to 80 % in roughly 20 minutes seems a good fit for a mainstream electric car. What do you think?
 
- 
-
- 
+---
 
 More info:
 

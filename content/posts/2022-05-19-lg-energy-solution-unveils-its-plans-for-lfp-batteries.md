@@ -43,9 +43,7 @@ I can only explain this delay with the fact that the three biggest Korean batter
 
 Anyway, I'm surprised that LG Energy Solution is still heavily betting on pouch cells instead of adopting the prismatic format, to allow its battery packs to become module-less.
 
- 
-
- 
+---
 
 More info:
 

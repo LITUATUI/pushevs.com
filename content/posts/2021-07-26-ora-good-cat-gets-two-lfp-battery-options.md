@@ -75,9 +75,7 @@ Anyway, with an energy density of 143,4 Wh/kg, this new LFP battery is more ener
 
 Thanks [Kingun](https://twitter.com/thekingun) for the heads up.
 
- 
-
- 
+---
 
 More info:
 

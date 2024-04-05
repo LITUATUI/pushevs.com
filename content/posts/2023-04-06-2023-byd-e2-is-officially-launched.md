@@ -53,9 +53,7 @@ On April 18, my favorite BYD electric car will be launched, the affordable and u
 
 Anyway, what do you think about the 2023 BYD e2?
 
- 
-
- 
+---
 
 More info:
 

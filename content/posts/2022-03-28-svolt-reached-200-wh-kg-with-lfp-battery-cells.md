@@ -39,9 +39,7 @@ Don't forget that [SVOLT expects to reach 230 Wh/kg with its LFP battery cells b
 
 Anyway, it's disappointing that [Guoxuan isn't producing its long-awaited energy-dense LFP battery cells](/2021/01/10/guoxuan-unveils-a-cobalt-free-lfp-pouch-battery-cell-with-212-wh-kg/) yet, it wouldn't surprise me if its major shareholder, Volkswagen, is holding this battery technology down. My question is for how long?
 
- 
-
- 
+---
 
 More info:
 

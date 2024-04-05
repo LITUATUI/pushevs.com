@@ -58,9 +58,7 @@ After consumers know which Chinese brands are reliable, they will have the confi
 
 What do you think? Which kind of Chinese electric cars is more likely to succeed first in Europe? A BYD Han EV or Xpeng P7 that aim to become a more affordable alternative to Tesla or this one that goes for the entry-level market?
 
- 
-
- 
+---
 
 More info:
 

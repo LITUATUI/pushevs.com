@@ -41,9 +41,7 @@ CATL is now supplying LFP (LiFePO4) battery cells to the two most popular Tesla 
 
 The giant Chinese battery cell maker hit the jackpot with its super-safe cobalt-free battery cells that don't catch fire or explode even if punctured. This is especially important in China where videos of electric cars burning up appear almost on a daily basis.
 
- 
-
- 
+---
 
 More info:
 

@@ -55,9 +55,7 @@ Looking at the data it seems that the new Renault ZE 50 battery pack is either u
 
 Anyway, [eventually the NIO ES6 will be released in Europe](https://www.autocar.co.uk/car-review/nio/es6/first-drives/nio-es6-premier-edition-2019-review), but don't hold your breath.
 
- 
-
- 
+---
 
 More info:
 

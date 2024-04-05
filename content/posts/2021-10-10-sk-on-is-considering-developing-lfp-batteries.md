@@ -27,9 +27,7 @@ For a long time Korean battery cell makers have ignored and demised LFP as a low
 
 Anyway, it's always great to see another battery cell maker jumping on the LFP bandwagon. By next year this cobalt-free battery chemistry will experience considerable improvements in the energy and power density areas.
 
- 
-
- 
+---
 
 More info:
 

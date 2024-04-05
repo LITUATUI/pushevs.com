@@ -66,9 +66,7 @@ To deliver this kind of power without stressing the electrical grid, future fast
 
 The GAC Aion V will be the first electric car to be equipped with this super fast-charging battery technology, its mass production is already scheduled for September this year.
 
- 
-
- 
+---
 
 More info:
 

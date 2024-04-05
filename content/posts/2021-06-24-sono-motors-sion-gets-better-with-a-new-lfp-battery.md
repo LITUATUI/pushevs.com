@@ -86,9 +86,7 @@ After being delayed once again, mass production is now scheduled to begin in 202
 
 What do you think? Will we ever see this electric car reach mass production?
 
- 
-
- 
+---
 
 More info:
 

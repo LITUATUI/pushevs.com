@@ -90,9 +90,7 @@ Anyway, while CTP allows to build NIBs energy dense enough for EVs, it's in grid
 
 I look forward to see the specs of NIBs made by CATL. Will they be optimized for power or energy density? Who will be the next company to announce the production of Na-ion battery cells? BYD? Guoxuan?
 
- 
-
- 
+---
 
 More info:
 

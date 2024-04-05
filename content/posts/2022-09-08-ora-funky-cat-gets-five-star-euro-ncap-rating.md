@@ -79,9 +79,7 @@ Considering that in China the ORA Good (Funky) Cat has multiple versions with LF
 
 Anyway, the ORA Funky Cat seems to be a good and safe electric car, but definitely overpriced when compared to the [MG MG4 Electric](/2022/08/31/mg-mg4-electric-is-the-new-best-value-electric-car/).
 
- 
-
- 
+---
 
 More info:
 

@@ -51,9 +51,7 @@ I find the solar roof specially useful in those sunny days at the beach when th
 
 What do you think? Do you find the solar roof useful? Or it's just a cool but not very useful gadget?
 
- 
-
- 
+---
 
 More info:
 

@@ -41,9 +41,7 @@ At the battery pack level, the energy density differences between LFMP and NCMA 
 
 I'm curious to know if Volkswagen and Guoxuan plan to build cobalt-free batteries in Europe and North America anytime soon.
 
- 
-
- 
+---
 
 More info:
 

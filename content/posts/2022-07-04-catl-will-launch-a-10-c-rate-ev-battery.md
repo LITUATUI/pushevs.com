@@ -37,9 +37,7 @@ For example, a revolutionary, yet simple battery tech such as CTP (cell to pack)
 
 Anyway, I think that Huawei and Changan will be the first customers of this super-fast charging technology from CATL, with the introduction of the [CHN platform](https://www.catl.com/news/6469.html).
 
- 
-
- 
+---
 
 More info:
 

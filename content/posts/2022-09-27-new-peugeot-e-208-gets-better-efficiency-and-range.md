@@ -53,9 +53,7 @@ Anyway, while the new PEUGEOT e-208 is a good upgrade, I'm still waiting for ele
 
 What do you think about the new PEUGEOT e-208?
 
- 
-
- 
+---
 
 More info:
 
