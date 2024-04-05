@@ -38,9 +38,7 @@ Moreover, buses that are electric not only have regenerative braking, which make
 
 ![Solar-charged electric bus](images/Solar-charged-electric-bus.avif)
 
- 
-
- 
+---
 
 More info:
 

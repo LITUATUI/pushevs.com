@@ -89,9 +89,7 @@ Meanwhile in most Zoom meetings about EV sales...
 
 ![Zoom meeting about EV sales](images/Zoom-meeting-about-EV-sales.avif)
 
- 
-
- 
+---
 
 More info:
 

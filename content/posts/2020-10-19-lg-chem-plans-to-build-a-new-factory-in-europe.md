@@ -31,9 +31,7 @@ Meanwhile, BYD is already mass-producing its LFP (LiFePO4) cobalt-free Blade Bat
 
 {{< twitter user="DKurac" id="1297025028173606912" >}}
 
- 
-
- 
+---
 
 More info:
 

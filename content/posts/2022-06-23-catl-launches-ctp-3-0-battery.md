@@ -71,9 +71,7 @@ Now I'm waiting for Korean, Japanese and eventually European battery makers to l
 
 {{< video src="https://video.catl.com/video/enqilin.mp4" >}}
 
- 
-
- 
+---
 
 More info:
 

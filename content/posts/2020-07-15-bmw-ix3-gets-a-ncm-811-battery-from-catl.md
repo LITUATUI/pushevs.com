@@ -67,9 +67,7 @@ Anyway, for its fifth-generation electric powertrains BMW will start with NCM 81
 
 {{< youtube BxiYwbT7Ufw >}}
 
- 
-
- 
+---
 
 More info:
 

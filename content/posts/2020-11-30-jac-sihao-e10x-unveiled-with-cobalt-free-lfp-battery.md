@@ -61,9 +61,7 @@ Unfortunately, Volkswagen's roadmap shows that it plans to introduce a proper re
 
 ![Volkswagen roadmap for electric cars](images/Volkswagen-roadmap-for-electric-cars.avif)
 
- 
-
- 
+---
 
 More info:
 

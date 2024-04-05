@@ -37,9 +37,7 @@ The strongest part of this platform is the super-safe and cheap battery made wit
 
 {{< youtube amfY_PdMxMk >}}
 
- 
-
- 
+---
 
 More info:
 

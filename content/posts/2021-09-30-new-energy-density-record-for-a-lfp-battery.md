@@ -45,9 +45,7 @@ Anyway, an energy density of 176,1 Wh/kg is impressive for a LFP battery pack. I
 
 {{< youtube H6UhGHTYwJ0 >}}
 
- 
-
- 
+---
 
 More info:
 

@@ -129,9 +129,7 @@ Finally, you can see the full video presentation of SVOLT's cobalt-free battery 
 
 {{< youtube Amnu5FBL58g >}}
 
- 
-
- 
+---
 
 More info:
 

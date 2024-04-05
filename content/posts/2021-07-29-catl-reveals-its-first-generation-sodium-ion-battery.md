@@ -63,9 +63,7 @@ As I understand it, CATL sodium-ion batteries are now only available for [big in
 
 {{< youtube LxKtCquWx5c >}}
 
- 
-
- 
+---
 
 More info:
 

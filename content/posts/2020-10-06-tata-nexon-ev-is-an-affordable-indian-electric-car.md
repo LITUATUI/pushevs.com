@@ -73,9 +73,7 @@ I'll leave you with a video review of the Tata Nexon EV. I like it, do you?
 
 {{< youtube JsTY1jGOvO0 >}}
 
- 
-
- 
+---
 
 More info:
 

@@ -139,9 +139,7 @@ What do you think? Is the current "Knight edition" enough for you - if sold at t
 
 {{< youtube QrzlDJpjhfc >}}
 
- 
-
- 
+---
 
 More info:
 

@@ -89,9 +89,7 @@ I'm still curious about the fast charging rates...
 
 {{< youtube VhkPmRFjJfg >}}
 
- 
-
- 
+---
 
 More info:
 

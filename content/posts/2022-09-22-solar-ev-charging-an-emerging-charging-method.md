@@ -105,9 +105,7 @@ The solar DLB box can also be used with the APP **“Z-BOX”**, you can experi
 
 To sum up, solar EV charging, as an eye-catching new combination at the moment, is popular because of the two factors reducing carbon footprint and saving money. BENY is committed to continuously improving its product advantages and optimizing the customer experience. Therefore after collecting high-quality customer feedback and in-depth market research, BENY launched the new solar DLB box and developed new modes. If you already have a PV system in your home, please don’t miss this opportunity, come and try the great experience of using the BENY EV charger with a solar DLB box. Contact us via email: [benyi@zjbeny.com](mailto:benyi@zjbeny.com)
 
- 
-
- 
+---
 
 More info:
 

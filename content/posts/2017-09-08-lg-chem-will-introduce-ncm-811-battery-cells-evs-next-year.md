@@ -73,9 +73,7 @@ As a side note, BMW only expects to use NCM 811 battery cells in 2021 with its n
 
 ![BMW Group Technology Workshops –E-Mobility in December 2016](images/bmw-group-technology-workshops-e-mobility-in-december-2016.avif)
 
- 
-
- 
+---
 
 More info:
 

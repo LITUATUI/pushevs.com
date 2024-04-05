@@ -51,9 +51,7 @@ Finally, with the Mégane E-Tech Electric, Renault is expected to debut the new 
 
 ![LG Energy Solution at the InterBattery 2021 event](images/LG-Energy-Solution-at-the-InterBattery-2021-event.avif)
 
- 
-
- 
+---
 
 More info:
 

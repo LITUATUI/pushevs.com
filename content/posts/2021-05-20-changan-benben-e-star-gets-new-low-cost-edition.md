@@ -97,9 +97,7 @@ While more expensive, the refreshed edition seems like a proper A-segment electr
 
 Anyway, I think that the Changan Benben E-Star refreshed edition looks great, but the [Leapmotor T03 offers much better value for money](/2021/05/14/leapmotor-t03-gets-cheaper-with-lfp-battery/). It has more range (403 km in NEDC) and optional safety features rare in the A-segment, such as ACC (Adaptive Cruise Control), LKA (Lane Keep Assist) and AEB (Automatic Emergency Braking). Another good alternative is the [JAC Sihao E10X.](/2020/11/30/jac-sihao-e10x-unveiled-with-cobalt-free-lfp-battery/)
 
- 
-
- 
+---
 
 More info:
 

@@ -103,9 +103,7 @@ In Australia the BYD Atto 3 already has prices, 44.381 AUD (30.442 euros) for t
 
 {{< youtube tKkWjCihdTM >}}
 
- 
-
- 
+---
 
 More info:
 

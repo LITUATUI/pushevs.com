@@ -61,9 +61,7 @@ Some published research papers suggest that LNMO is the cobalt-free battery chem
 
 ![Battery chemistries comparison by Tesla](images/Battery-chemistries-comparison-by-Tesla.avif)
 
- 
-
- 
+---
 
 More info:
 
