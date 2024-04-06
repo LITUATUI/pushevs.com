@@ -18,8 +18,6 @@ github.com/hbstack/blog v0.26.2 h1:iuH8CwpvBfus11PLxSeIcUQCtNdjyAeK6XdSw0SiAfQ=
 github.com/hbstack/blog v0.26.2/go.mod h1:WBmo3M7F5HFabY2nWU8g2oJ8RK7rAynxKwVWf15AAIQ=
 github.com/hbstack/blog/modules/content-panel v0.1.21 h1:g43IVjn3O6QCQSvCbgr9iYCgZcI5XG8YAiuVPb269Ok=
 github.com/hbstack/blog/modules/content-panel v0.1.21/go.mod h1:fVnvVtnfo3R78jnGLgckfC43j7rYMMN+l1PhU9E6Jas=
-github.com/hbstack/blog/modules/disqus v0.1.20 h1:h7IKmKnxVoI9uP95v1rzVtlDTYNuDhUY2CSO+U/ldUQ=
-github.com/hbstack/blog/modules/disqus v0.1.20/go.mod h1:nRgiu2tPVVsWnzRZECPwvKj0BsZkCc6OF5eDVEdK4XE=
 github.com/hbstack/blog/modules/featured-image v0.2.21 h1:G4nwll995EsnEAJOBUKJMjH12HtJ0YFPL0nH8m7qneI=
 github.com/hbstack/blog/modules/featured-image v0.2.21/go.mod h1:+gxtGAEh7aXDDKQA0wWzdi9HPLcqCSRtRp63F+NN8QU=
 github.com/hbstack/blog/modules/giscus v0.1.23 h1:k70d91K6mU6LJGhXYh1Mrpk+MFFrxwTOGyCVWHWHgbo=
@@ -44,8 +42,6 @@ github.com/hbstack/code-block-panel v0.1.2 h1:7ZW54ZA7tBNr5oQSWrBrAvEyXfm0Usk9+N
 github.com/hbstack/code-block-panel v0.1.2/go.mod h1:VK2kn+hD3pr5HPz8izFAUyFG0lB/nXybe8ix5uc/LLs=
 github.com/hbstack/content-panel v0.8.0 h1:0v3TKmWwIqH4HgEBbhp+gOy1fkxEujCAnucS2s6eNhc=
 github.com/hbstack/content-panel v0.8.0/go.mod h1:lEyMXJYCNHL6fkT260oX2FnXF6gD5Vd3EytifVuz3iQ=
-github.com/hbstack/disqus v0.1.1 h1:lNIpdC8XU2PbV7Fahd9vUNg471B6gIEkRr0cZ6kadK4=
-github.com/hbstack/disqus v0.1.1/go.mod h1:DY7oRsTTkvcVCdYFQqgUkJLTicLgwku/RQV+Y6OpxlQ=
 github.com/hbstack/featured-image v0.2.1 h1:sRIzjV6YPVG7Ah0Hxjiuxd9bQnEV+62McOgXZjGNV7g=
 github.com/hbstack/featured-image v0.2.1/go.mod h1:hux3nYqQUVnQHPttJxVrvwfTsULGuVGRGFk3lO2Si54=
 github.com/hbstack/footer v0.4.1 h1:dGEIcqCM6K/s9bygnFQlPcVMJn+BblAjaESied8H7ug=

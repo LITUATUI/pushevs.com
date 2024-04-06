@@ -1,6 +1,6 @@
 # see https://hugomods.com/en/docs/google-analytics/.
-googleAnalytics: 'G-J9QV7TYJZC' # Google Analytics, please make sure you've imported the Google Analytics module.
+# googleAnalytics: 'G-J9QV7TYJZC' # Google Analytics, please make sure you've imported the Google Analytics module.
 
-services:
-  disqus:
-    shortname: pushevs
+# services:
+#  disqus:
+#    shortname: pushevs
