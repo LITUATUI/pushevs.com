@@ -32,14 +32,19 @@
 	}
 }
 
+.navbar {
+  max-width: 1300px;
+  margin: auto;
+}
+
 .sponsor-header {
-    padding-top: 55px;
-    max-width: 1280px;
-    margin: auto;
+  padding-top: 60px;
+  max-width: 1300px;
+  margin: auto;
 }
 
 .hb-footer {
-  max-width: 1280px;
+  max-width: 1300px;
   margin: auto;
 }
 
@@ -51,11 +56,23 @@
 }
 
 #left-sidebar-carousel {
-  position: fixed; left: 0; top: 55px; height: 100vh;
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;
+  width: fit-content;
+  width: -moz-fit-content;
+  max-height: 100vh;
 }
 
 #sponsor-right-sidebar {
-  position: fixed; right:0; top: 55px; height: 100vh;
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 0;
+  width: fit-content;
+  width: -moz-fit-content;
+  max-height: 100vh;
 }
 
 .text-secondary {
