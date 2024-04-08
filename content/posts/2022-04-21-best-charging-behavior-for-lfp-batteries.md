@@ -104,7 +104,7 @@ LFP is not perfect, there are no perfect batteries, batteries are either not goo
 
 Summing up...
 
-Degradation over time due to the chemical reactions that occur during charge and discharge cycles are invevitable, but more pronounced and detrimental at extreme DoD (depth of discharge) levels.
+Degradation over time due to the chemical reactions that occur during charge and discharge cycles are inevitable, but more detrimental and pronounced at extreme DoD (depth of discharge) levels.
 
 If you care about keeping a lithium-ion battery healthy, my advice is to cycle it between 20 and 70 %, as the data in [my most popular article suggests](/2018/04/27/battery-charging-full-versus-partial/). On the other hand, if you care more about having a reliable GoM, that estimates your remaining range more accurately, fully charge the battery more often.
 
