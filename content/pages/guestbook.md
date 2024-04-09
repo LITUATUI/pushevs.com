@@ -5,4 +5,4 @@ images:
   - "/images/rocket-ship.avif"
 ---
 
-In here visitors can leave a suggestion, comment or just say hello.
+In here visitors can leave a comment to make a suggestion or just to say hello.
