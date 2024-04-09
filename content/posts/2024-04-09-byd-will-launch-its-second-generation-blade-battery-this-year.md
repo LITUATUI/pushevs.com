@@ -39,10 +39,10 @@ Summing up.
 
 2024 will have great module-less battery packs to power the electric revolution.
 
-- **NCM**: 255 Wh/kg - 70-80 euros per kWh
-- **LMFP**: 190 Wh/kg - 50-55 euros per kWh
-- **LFP**: 150 Wh/kg - 40-50 euros per kWh
-- **Sodium-ion**: 140 Wh/kg - 35-40 euros per kWh (coming soon)
+- **NCM CTP battery**: 255 Wh/kg - 70-80 euros per kWh
+- **LMFP CTP battery**: 190 Wh/kg - 50-55 euros per kWh
+- **LFP CTP battery**: 150 Wh/kg - 40-50 euros per kWh
+- **Sodium-ion CTP battery**: 140 Wh/kg - 35-40 euros per kWh (coming soon)
 
 Not having to relly on a sole battery chemistry will help to drive battery costs further down for carmakers.
 
