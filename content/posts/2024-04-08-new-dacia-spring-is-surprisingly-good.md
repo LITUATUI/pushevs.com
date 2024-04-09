@@ -1,6 +1,6 @@
 ---
 title: "New Dacia Spring is surprisingly good"
-slug: '2024-04-08-new-dacia-spring-is-surprisingly-good'
+slug: 'new-dacia-spring-is-surprisingly-good'
 authors: "pedrolima"
 date: 2024-04-08T20:38:11+01:00
 categories:
