@@ -55,3 +55,5 @@ More info:
 https://carnewschina.com/2024/04/08/byds-2nd-generation-blade-battery-to-launch-this-year/
 
 https://cnevpost.com/2024/01/17/battery-price-war-catl-byd-costs-down/
+
+https://www.mitsui.com/mgssi/en/report/detail/__icsFiles/afieldfile/2023/09/19/2308t_zhao_e.pdf
