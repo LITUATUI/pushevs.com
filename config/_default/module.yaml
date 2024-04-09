@@ -54,10 +54,11 @@ imports:
   # - path: github.com/hbstack/docs/modules/social-share-buttons
 
   # other modules
-  - path: github.com/hugomods/google-analytics
+  # - path: github.com/hugomods/google-analytics
   # - path: github.com/hugomods/google-adsense
   - path: github.com/hbstack/background-image
   - path: github.com/hbstack/header/modules/news
+  # - path: github.com/hbstack/gallery 
   # - path: github.com/hbstack/announcement-bar
 
   # hugo-easy-gallery
