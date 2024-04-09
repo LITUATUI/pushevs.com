@@ -1,5 +1,7 @@
 ---
 title: "Glossary"
+images:
+  - "/images/space-book.avif"
 ---
 
 These are some terms that often appear on this website.

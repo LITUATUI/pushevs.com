@@ -1,5 +1,7 @@
 ---
 title: "Links"
+images:
+  - "/images/space_telescope.avif"
 ---
 
 These are some of my favorite websites regarding electric vehicles in no particular order.

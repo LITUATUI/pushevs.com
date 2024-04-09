@@ -1,5 +1,7 @@
 ---
 title: "About"
+images:
+  - "/images/sherlock_holmes.avif"
 ---
 
 ### The purpose
