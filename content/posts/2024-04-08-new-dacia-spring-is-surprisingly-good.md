@@ -80,7 +80,7 @@ However, I think that it deserved a larger battery, not only to give it a little
 
 I also think that in Europe 11 kW (3-phase) on-board chargers should be standard by now and 22 kW (2 chargers in parallel) optional, even in small electric cars like this one.
 
-Finally, head-up displays are such cheap equipments that greatly improve safety that carmakers should make them standard as soon as possible. Gadly, I do see them being used much more often lately.
+Finally, head-up displays are such cheap equipments that greatly improve safety that carmakers should make them standard as soon as possible. Gladly, I do see them being used much more often lately.
 
 Anyway, first deliveries are expected in last quarter of this year. What do you think?
 
