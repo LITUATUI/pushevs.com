@@ -25,7 +25,8 @@ This small electric car comes in three variants.
 ### Basic specs
 
 - **Seats**: 4
-- **Length**: 3,70 meters
+- **Length**: 3,70 m
+- **Turning circle**: 4,80 m
 - **Trunk capacity**: 308 L - 1.004 L with the rear seats folded down
 - **Frunk capacity**: 35 L
 - **Weight**: 984 kg
