@@ -96,14 +96,14 @@ hb:
     giscus:
       repo: LITUATUI/pushevs.com
       repo_id: R_kgDOLjPA9g
-      category: General
-      category_id: DIC_kwDOLjPA9s4CeLwe
+      category: Announcements
+      category_id: DIC_kwDOLjPA9s4CeLwd
       mapping: og:title
   #docs:
       #giscus:
       #repo: LITUATUI/pushevs.com
-      #repo_id: R_kgDOK1LmSQ
-      #category_id: DIC_kwDOK1LmSc4CbdiM
+      #repo_id: R_kgDOLjPA9g
+      #category_id: DIC_kwDOLjPA9s4CeLwd
     social_share_buttons:
       alignment: center
       media:
