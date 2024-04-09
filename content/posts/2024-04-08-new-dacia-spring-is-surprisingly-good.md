@@ -25,8 +25,11 @@ This small electric car comes in three variants.
 ### Basic specs
 
 - **Seats**: 4
-- **Length**: 3,70 m
-- **Turning circle**: 4,80 m
+- **Length**: 3.701 mm
+- **Width**: 1.767 mm
+- **Height**: 1.519 mm
+- **Wheelbase**: 2.423 mm
+- **Turning circle**: 4.800 mm
 - **Trunk capacity**: 308 L - 1.004 L with the rear seats folded down
 - **Frunk capacity**: 35 L
 - **Weight**: 984 kg
@@ -39,9 +42,11 @@ This small electric car comes in three variants.
 - **Maximum speed**: 125 km/h
 - **Range (WLTP)**: 220 km (137 miles)
 - **Battery capacity**: 26,8 kWh (usable) - 28,9 kWh (total)
+- **Battery weight**: 195 kg
+- **Battery energy density**: 148 Wh/kg
 - **Battery chemistry**: NCM
 - **DC fast charging**: 30 kW - from 20 to 80 % in 45 minutes (600 euros option)
-- **On-board charging**: 7 kW - from 20 to 100 % in 4 hours
+- **On-board charging**: 7 kW - from 0 to 100 % in 4 hours
 - **Consumption**: 14,6 kWh/100 km
 
 What's most impressive is that it comes packed with advanced driver-assistance systems (ADAS) to meet the latest European Global Safety Regulation 2 (GSR2) safety standards.
