@@ -44,7 +44,7 @@ Summing up.
 - **LFP CTP battery**: 150 Wh/kg - 40-50 euros per kWh
 - **Sodium-ion CTP battery**: 140 Wh/kg - 35-40 euros per kWh (coming soon)
 
-Not having to relly on a sole battery chemistry will help to drive battery costs further down for carmakers.
+Not having to rely on a sole battery chemistry will help to drive battery costs further down for carmakers.
 
 Now policy makers need to start making polluting cars even harder to sell with higher taxes. Unfortunately, legacy carmakers will only fully embrace electric cars when selling air-poisoning vehicles gets extremely difficult.
 
