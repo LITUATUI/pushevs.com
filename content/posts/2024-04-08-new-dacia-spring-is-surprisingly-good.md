@@ -41,9 +41,8 @@ This small electric car comes in three variants.
 - **Electric motor**: 33 or 48 kW
 - **Maximum speed**: 125 km/h
 - **Range (WLTP)**: 220 km (137 miles)
-- **Battery capacity**: 26,8 kWh (usable) - 28,9 kWh (total)
-- **Battery weight**: 195 kg
-- **Battery energy density**: 148 Wh/kg
+- **Battery capacity**: 26,8 kWh
+- **Battery weight**: 186 kg
 - **Battery chemistry**: NCM
 - **DC fast charging**: 30 kW - from 20 to 80 % in 45 minutes (600 euros option)
 - **On-board charging**: 7 kW - from 0 to 100 % in 4 hours
