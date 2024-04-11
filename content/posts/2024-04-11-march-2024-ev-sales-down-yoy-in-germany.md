@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "March 2024 - EV sales down YoY in Germany"
 slug: "march-2024-ev-sales-down-yoy-in-germany"
 authors: "maximilianholland"
