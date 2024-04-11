@@ -81,7 +81,7 @@ The top variant even comes with V2L (vehicle-to-load) capability so you can use 
 
 I really like what the Dacia Spring has become with this last update. It now comes packed with safety features and its efficiency is impressive. The V2L capability is extremely useful for people that often go to remote areas without electricity.
 
-However, I think that it deserved a larger battery, not only to give it a little more range and stronger regenerative braking, but also to better use the handy V2L capability. A 40 kWh LFP battery would be perfect, no need for more for this kind of small and cheap electric car.
+However, I think that it deserved a larger battery, not only to give it a little more range and stronger regenerative braking, but also to better use the handy V2L capability. A 40 kWh LFP battery would be perfect, no need for more in this kind of small and cheap electric car.
 
 I also think that in Europe 11 kW (3-phase) on-board chargers should be standard by now and 22 kW (2 chargers in parallel) optional, even in small electric cars like this one.
 
