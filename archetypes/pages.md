@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-slug: '{{ .File.BaseFileName }}'
+slug: "{{ .File.BaseFileName }}"
 images:
   - "/images/watch-tower.avif"
 ---

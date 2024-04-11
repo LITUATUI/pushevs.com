@@ -1,8 +1,8 @@
 ---
 title: "LG Energy Solution most energy dense battery cells"
-slug: lg-energy-solution-most-energy-dense-battery-cells
+slug: "lg-energy-solution-most-energy-dense-battery-cells"
 authors: "pedrolima"
-date: 2024-04-01T19:52:56+01:00
+date: "2024-04-01"
 categories:
   - "general"
 images:

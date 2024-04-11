@@ -1,8 +1,8 @@
 ---
 title: "Comment system and push notifications"
-slug: 'comment-system-and-push-notifications'
+slug: "comment-system-and-push-notifications"
 authors: "pedrolima"
-date: 2024-04-02T12:39:43+01:00
+date: "2024-04-02"
 images:
   - "/images/watch-tower.avif"
 ---

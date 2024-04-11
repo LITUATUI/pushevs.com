@@ -2,7 +2,7 @@
 title: "Migration from Wordpress to Hugo"
 slug: "migration-from-wordpress-to-hugo"
 authors: "pedrolima"
-date: 2024-03-16T22:06:41Z
+date: "2024-03-16"
 images:
   - "images/Hugo-static-site-generator.avif"
 ---

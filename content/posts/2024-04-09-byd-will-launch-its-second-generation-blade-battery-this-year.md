@@ -1,8 +1,8 @@
 ---
 title: "BYD will launch its second generation Blade Battery this year"
-slug: 'byd-will-launch-its-second-generation-blade-battery-this-year'
+slug: "byd-will-launch-its-second-generation-blade-battery-this-year"
 authors: "pedrolima"
-date: 2024-04-09T11:18:10+01:00
+date: "2024-04-09"
 categories:
   - "general"
 images:

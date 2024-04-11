@@ -1,8 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-slug: '{{ .File.BaseFileName }}'
+slug: "{{ .File.BaseFileName }}"
 authors: "pedrolima"
-date: {{ .Date }}
+date: "{{ .Date }}"
 categories:
   - "general"
 images:
