@@ -247,6 +247,7 @@ main:
       icon:
         vendor: fab
         name: github
+        className: text-primary
       description: The code repository.
 
   - name: Telegram
@@ -257,8 +258,8 @@ main:
       icon:
         vendor: simple
         name: telegram
-        color: blue
-      description: Ask questions and share your ideas.
+        className: text-primary
+      description: Stay updated.
 
   - name: Glossary
     parent: info
@@ -268,18 +269,19 @@ main:
       icon:
         vendor: font-awesome-solid
         name: book
+        className: text-primary
       description: Check here for unknown acronyms.
 
-  - name: Links
+  - name: Guestbook
     parent: info
-    url: /links
+    url: /guestbook
     weight: 5
     params:
       icon:
         vendor: font-awesome-solid
-        name: link
-        color: silver
-      description: Interesting reading.
+        name: book-open
+        className: text-primary
+      description: Leave a comment.
   
   - name: About
     parent: info
@@ -289,5 +291,5 @@ main:
       icon:
         vendor: font-awesome-solid
         name: question
-        color: red
+        className: text-primary
       description: What this project is about.
