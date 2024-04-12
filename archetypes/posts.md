@@ -4,7 +4,7 @@ slug: "{{ .File.BaseFileName }}"
 authors: "pedrolima"
 date: "{{ .Date }}"
 categories:
-  - "general"
+  - "General"
 images:
   - "/images/watch-tower.avif"
 ---
