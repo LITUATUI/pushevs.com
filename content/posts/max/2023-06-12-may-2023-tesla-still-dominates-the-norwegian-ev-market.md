@@ -3,10 +3,12 @@ title: "May 2023 - Tesla still dominates the Norwegian EV market"
 slug: "may-2023-tesla-still-dominates-the-norwegian-ev-market"
 authors: "maximilianholland"
 date: "2023-06-12"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y.avif"
+categories:
+  - "EV sales"
+tags:
+  - "Norway"
+images:
+  - "/ev-sales-images/Norway-flag.avif"
 ---
 
 Growth continued for the Norwegian plugin EV market in May 2023, as combined plugin share hit almost 90%, up from 85% a year ago. Full electrics alone took almost 81% share, grabbing 7.5% more of the remaining market than last year. The overall auto market saw volumes of 13.342 units, up almost 16% YoY, and higher than May 2019. The Tesla Model Y was the month’s bestselling vehicle, miles ahead of others in volume.

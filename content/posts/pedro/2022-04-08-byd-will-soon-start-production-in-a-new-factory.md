@@ -3,9 +3,9 @@ title: "BYD will soon start production in a new factory"
 slug: "byd-will-soon-start-production-in-a-new-factory"
 authors: "pedrolima"
 date: "2022-04-08"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/2022-BYD-Atto-3.avif"
 ---
 

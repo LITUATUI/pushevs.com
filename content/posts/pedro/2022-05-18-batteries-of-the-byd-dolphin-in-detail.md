@@ -3,9 +3,9 @@ title: "Batteries of the BYD Dolphin in detail"
 slug: "batteries-of-the-byd-dolphin-in-detail"
 authors: "pedrolima"
 date: "2022-05-18"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Battery-pack-of-BYD-Dolphin.avif"
 ---
 

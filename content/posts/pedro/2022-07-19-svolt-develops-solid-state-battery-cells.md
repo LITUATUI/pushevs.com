@@ -3,9 +3,9 @@ title: "SVOLT develops solid-state battery cells"
 slug: "svolt-develops-solid-state-battery-cells"
 authors: "pedrolima"
 date: "2022-07-19"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/SVOLTs-solid-state-cell-prototype.avif"
 ---
 

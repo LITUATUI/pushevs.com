@@ -1,12 +1,14 @@
 ---
-title: "Spring is sprung in France"
+title: "April 2023 - Spring is sprung in France"
 slug: "spring-is-sprung-in-france"
 authors: "maximilianholland"
 date: "2023-05-06"
-categories: 
-  - "general"
-images: 
-  - "/images/2022-Dacia-Spring.avif"
+categories:
+  - "EV sales"
+tags:
+  - "France"
+images:
+  - "/ev-sales-images/France-flag.avif"
 ---
 
 France saw plugin electric vehicles take 21.1% share of the auto market in April, flat year-on-year, in a growing overall market. Full battery electrics, however, grew share, whilst plugin hybrids dropped share. Overall auto volume was 132,509 units, up some 22% YoY, though still far below pre-2020 seasonal norms (~183,000). The bestselling plugin was the Dacia Spring.

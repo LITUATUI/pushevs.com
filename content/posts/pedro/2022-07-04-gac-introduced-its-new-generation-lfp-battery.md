@@ -3,9 +3,9 @@ title: "GAC introduced its new-generation LFP battery"
 slug: "gac-introduced-its-new-generation-lfp-battery"
 authors: "pedrolima"
 date: "2022-07-04"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/GAC-introduced-its-new-generation-LFP-battery.avif"
 ---
 

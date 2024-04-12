@@ -3,9 +3,9 @@ title: "Samsung SDI presents new high-capacity battery cell"
 slug: "samsung-sdi-presents-new-high-capacity-battery-cell"
 authors: "pedrolima"
 date: "2018-05-26"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Samsung-SDI-at-Energy-Storage-Europe-2018.avif"
 ---
 

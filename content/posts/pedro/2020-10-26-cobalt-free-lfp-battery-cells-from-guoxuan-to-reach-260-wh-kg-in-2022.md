@@ -3,9 +3,9 @@ title: "Cobalt-free LFP battery cells from Guoxuan to reach 260 Wh/kg by 2022"
 slug: "cobalt-free-lfp-battery-cells-from-guoxuan-to-reach-260-wh-kg-in-2022"
 authors: "pedrolima"
 date: "2020-10-26"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Volkswagen-is-the-biggest-shareholder-of-the-Chinese-battery-cell-maker-Guoxuan.avif"
 ---
 

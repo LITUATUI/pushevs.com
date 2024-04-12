@@ -3,9 +3,9 @@ title: "CALB to build battery production base in Portugal"
 slug: "calb-to-build-battery-production-base-in-portugal"
 authors: "pedrolima"
 date: "2022-11-03"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CALB-and-the-Portuguese-government-signing-a-memorandum-at-Sines.avif"
 ---
 

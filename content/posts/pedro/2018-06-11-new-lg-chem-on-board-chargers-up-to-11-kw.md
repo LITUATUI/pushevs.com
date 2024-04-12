@@ -3,9 +3,9 @@ title: "New LG Chem on-board chargers up to 11 kW"
 slug: "new-lg-chem-on-board-chargers-up-to-11-kw"
 authors: "pedrolima"
 date: "2018-06-11"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/LG-Chem-on-board-chargers.avif"
 ---
 

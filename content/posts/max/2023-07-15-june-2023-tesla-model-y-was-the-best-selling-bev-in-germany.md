@@ -3,10 +3,12 @@ title: "June 2023 - Tesla Model Y was the best selling BEV in Germany"
 slug: "june-2023-tesla-model-y-was-the-best-selling-bev-in-germany"
 authors: "maximilianholland"
 date: "2023-07-15"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y-made-in-Germany.avif"
+categories:
+  - "EV sales"
+tags:
+  - "Germany"
+images:
+  - "/ev-sales-images/Germany-flag.avif"
 ---
 
 June saw plugin EVs at 24.6% share in Germany, down from 26.0% year on year. Full electrics grew their share at a decent rate, up from 14.4% to 18.9%, the share of plugin hybrids halved, however, after incentives were cut. Overall auto volume was 280,047 units, up 24.7% YoY, still far down on the pre-2020 norm (roughly 330,000). The Tesla Model Y was the best selling BEV in June, and third best seller of any auto.

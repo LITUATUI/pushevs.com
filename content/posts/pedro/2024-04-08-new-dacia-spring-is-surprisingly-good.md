@@ -4,7 +4,7 @@ slug: "new-dacia-spring-is-surprisingly-good"
 authors: "pedrolima"
 date: "2024-04-08"
 categories:
-  - "general"
+  - "General"
 images:
   - "/albuns/2024-dacia-spring/New_Dacia_SPRING_34.avif"
 ---

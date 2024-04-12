@@ -3,9 +3,9 @@ title: "Gotion unveils its Astroinno L600 LMFP battery"
 slug: "gotion-unveils-its-astroinno-l600-lmfp-battery"
 authors: "pedrolima"
 date: "2023-05-20"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Gotion-Astroinno-L600-LMFP-battery-cell.avif"
 ---
 

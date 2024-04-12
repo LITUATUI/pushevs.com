@@ -1,12 +1,14 @@
 ---
-title: "Tesla Model Y continues to lead auto sales in Norway"
+title: "March 2023 - Tesla Model Y continues to lead auto sales in Norway"
 slug: "tesla-model-y-continues-to-lead-auto-sales-in-norway"
 authors: "maximilianholland"
 date: "2023-04-08"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y-with-mountains.avif"
+categories:
+  - "EV sales"
+tags:
+  - "Norway"
+images:
+  - "/ev-sales-images/Norway-flag.avif"
 ---
 
 Norway’s plugin electric vehicles took 91.1% share of the auto market in March, down from 91.9% year on year. The slight dent in share came from a drop in plugin hybrid volume, against overall market growth. Overall auto volume was 19,366 units, up some 19% YoY, and the highest March sales since at least 2016 (though compensating from a hangover earlier in Q1).

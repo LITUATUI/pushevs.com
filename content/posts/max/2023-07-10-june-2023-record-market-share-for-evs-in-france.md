@@ -3,10 +3,12 @@ title: "June 2023 - Record market share for EVs in France"
 slug: "june-2023-record-market-share-for-evs-in-france"
 authors: "maximilianholland"
 date: "2023-07-10"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y-and-Tesla-Model-3.avif"
+categories:
+  - "EV sales"
+tags:
+  - "France"
+images:
+  - "/ev-sales-images/France-flag.avif"
 ---
 
 France saw a new EV record high of 26.9% market share in June, up from 19.8% year on year. Full electrics grew from 12.8% to 17.4% share, while plugin hybrids grew from 7.0% to 9.4%. Overall auto volume was 190,847 units, up some 12% YoY, though still below long term norms, and with almost all the growth coming from plugins.

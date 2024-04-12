@@ -3,9 +3,9 @@ title: "PEUGEOT e-208 official specs"
 slug: "peugeot-e-208-official-specs"
 authors: "pedrolima"
 date: "2019-02-25"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Zero-emission-PEUGEOT-e-208-GT.avif"
 ---
 

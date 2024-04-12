@@ -3,9 +3,9 @@ title: "GS Yuasa new cells"
 slug: "gs-yuasa-new-cells"
 authors: "pedrolima"
 date: "2015-11-12"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/gs-yuasa-lev75-battery-cell.avif"
 ---
 

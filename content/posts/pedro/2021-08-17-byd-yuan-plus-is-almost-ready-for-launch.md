@@ -3,9 +3,9 @@ title: "BYD Yuan Plus is almost ready for launch"
 slug: "byd-yuan-plus-is-almost-ready-for-launch"
 authors: "pedrolima"
 date: "2021-08-17"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Yuan-Plus.avif"
 ---
 

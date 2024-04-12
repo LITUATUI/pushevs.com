@@ -3,9 +3,9 @@ title: "2023 BYD e2 is officially launched"
 slug: "2023-byd-e2-is-officially-launched"
 authors: "pedrolima"
 date: "2023-04-06"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/2023-BYD-e2.avif"
 ---
 

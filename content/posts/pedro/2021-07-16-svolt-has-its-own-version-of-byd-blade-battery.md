@@ -3,9 +3,9 @@ title: "SVOLT has its own version of BYD Blade battery"
 slug: "svolt-has-its-own-version-of-byd-blade-battery"
 authors: "pedrolima"
 date: "2021-07-16"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/SVOLT-cobalt-free-prismatic-battery-cells-for-EVs.avif"
 ---
 

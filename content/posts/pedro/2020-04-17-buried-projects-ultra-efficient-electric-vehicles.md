@@ -3,9 +3,9 @@ title: "Buried projects: ultra efficient electric vehicles"
 slug: "buried-projects-ultra-efficient-electric-vehicles"
 authors: "pedrolima"
 date: "2020-04-17"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Volkswagen-Nils.avif"
 ---
 

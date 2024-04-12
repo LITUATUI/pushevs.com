@@ -3,9 +3,9 @@ title: "New generation of MG electric cars are coming to Europe"
 slug: "new-generation-of-mg-electric-cars-are-coming-to-europe"
 authors: "pedrolima"
 date: "2021-06-02"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/MG-MARVEL-R-Electric.avif"
 ---
 

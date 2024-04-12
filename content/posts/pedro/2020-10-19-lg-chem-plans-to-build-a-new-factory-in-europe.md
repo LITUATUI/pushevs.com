@@ -3,9 +3,9 @@ title: "LG Chem plans to build a new factory in Europe"
 slug: "lg-chem-plans-to-build-a-new-factory-in-europe"
 authors: "pedrolima"
 date: "2020-10-19"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/LG-Chem-Global-Manufacturing-Capacity.avif"
 ---
 

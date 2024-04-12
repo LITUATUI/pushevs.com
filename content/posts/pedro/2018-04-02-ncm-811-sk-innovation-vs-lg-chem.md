@@ -3,9 +3,9 @@ title: "NCM 811: SK Innovation vs. LG Chem"
 slug: "ncm-811-sk-innovation-vs-lg-chem"
 authors: "pedrolima"
 date: "2018-04-02"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/SK-innovation-vs-LG-Chem.avif"
 ---
 

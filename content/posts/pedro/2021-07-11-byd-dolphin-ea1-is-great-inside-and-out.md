@@ -3,9 +3,9 @@ title: "BYD Dolphin (EA1) is great inside and out"
 slug: "byd-dolphin-ea1-is-great-inside-and-out"
 authors: "pedrolima"
 date: "2021-07-11"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Dolphin-EA1-side.avif"
 ---
 

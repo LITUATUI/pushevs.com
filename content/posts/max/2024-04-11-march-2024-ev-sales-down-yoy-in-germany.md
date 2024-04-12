@@ -4,9 +4,11 @@ slug: "march-2024-ev-sales-down-yoy-in-germany"
 authors: "maximilianholland"
 date: "2024-04-11"
 categories:
-  - "general"
+  - "EV sales"
+tags:
+  - "Germany"
 images:
-  - "/ev-sales-images/2024-03-Germany-Passenger-Auto-Registrations.avif"
+  - "/ev-sales-images/Germany-flag.avif"
 ---
 
 March saw plugin EVs take 18.0% share in Germany, down year on year, remaining stuck in a hangover from sudden incentive abandonment in late December. BEVs were down some 29% in YoY volume, while PHEVs were down 4.5%. Overall auto volume was 263,844 units, down 6% YoY, and down 25% from 2017-2019 seasonal norms (~350,000 units). The best selling BEV was the Tesla Model Y.

@@ -3,9 +3,9 @@ title: "CATL reveals its first generation sodium-ion battery"
 slug: "catl-reveals-its-first-generation-sodium-ion-battery"
 authors: "pedrolima"
 date: "2021-07-29"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CATL-first-generation-sodium-ion-battery.avif"
 ---
 

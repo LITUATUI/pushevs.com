@@ -3,9 +3,9 @@ title: "NCM 90: successor of NCM 811 battery cells"
 slug: "ncm-90-successor-of-ncm-811-battery-cells"
 authors: "pedrolima"
 date: "2019-07-11"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Yoon-Ye-seon-head-of-SK-Innovations-Battery-Business-Division.avif"
 ---
 

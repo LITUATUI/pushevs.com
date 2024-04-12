@@ -3,9 +3,9 @@ title: "Comparison of two cobalt-free battery technologies"
 slug: "comparison-of-two-cobalt-free-battery-technologies"
 authors: "pedrolima"
 date: "2020-06-09"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Cathodes-overview-by-Nano-One.avif"
 ---
 

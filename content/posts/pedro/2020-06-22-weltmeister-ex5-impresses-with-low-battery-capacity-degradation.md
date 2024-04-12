@@ -3,9 +3,9 @@ title: "Weltmeister EX5 impresses with low battery capacity degradation"
 slug: "weltmeister-ex5-impresses-with-low-battery-capacity-degradation"
 authors: "pedrolima"
 date: "2020-06-22"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Weltmeister-EX5.avif"
 ---
 

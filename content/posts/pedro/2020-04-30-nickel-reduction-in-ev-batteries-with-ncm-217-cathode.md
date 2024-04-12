@@ -3,9 +3,9 @@ title: "Nickel reduction in EV batteries with NCM 217 cathode"
 slug: "nickel-reduction-in-ev-batteries-with-ncm-217-cathode"
 authors: "pedrolima"
 date: "2020-04-30"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Cathode-evolution-roadmap-by-BASF.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "BYD Yuan Pro arrives with a cobalt-free LFP battery"
 slug: "byd-yuan-pro-arrives-with-a-cobalt-free-lfp-battery"
 authors: "pedrolima"
 date: "2021-03-22"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Yuan-Pro.avif"
 ---
 

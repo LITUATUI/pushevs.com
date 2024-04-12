@@ -3,9 +3,9 @@ title: "Lithium metal battery improved with new electrolyte"
 slug: "lithium-metal-battery-improved-with-new-electrolyte"
 authors: "pedrolima"
 date: "2021-08-25"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Researchers-at-the-Karlsruhe-Institute-of-Technology-KIT.avif"
 ---
 

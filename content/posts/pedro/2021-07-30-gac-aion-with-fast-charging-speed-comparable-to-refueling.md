@@ -3,9 +3,9 @@ title: "GAC Aion with fast charging speed comparable to refueling"
 slug: "gac-aion-with-fast-charging-speed-comparable-to-refueling"
 authors: "pedrolima"
 date: "2021-07-30"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/GAC-Aion-with-fast-charging-speed-comparable-to-refueling.avif"
 ---
 

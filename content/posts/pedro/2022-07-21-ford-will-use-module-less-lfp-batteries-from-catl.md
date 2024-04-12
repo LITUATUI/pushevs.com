@@ -3,9 +3,9 @@ title: "Ford will use module-less LFP batteries from CATL"
 slug: "ford-will-use-module-less-lfp-batteries-from-catl"
 authors: "pedrolima"
 date: "2022-07-21"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Ford-EV-Plan.avif"
 ---
 

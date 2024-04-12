@@ -3,9 +3,9 @@ title: "Possible upgrades with NCM 712 battery cells from LG Chem"
 slug: "possible-upgrades-with-ncm-712-battery-cells-from-lg-chem"
 authors: "pedrolima"
 date: "2020-04-23"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/LG-Chem-pouch-battery-cell.avif"
 ---
 

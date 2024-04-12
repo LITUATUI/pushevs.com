@@ -3,9 +3,9 @@ title: "SVOLT Energy aims to become the biggest battery cell maker by 2025"
 slug: "svolt-energy-aims-to-become-the-biggest-battery-cell-maker-by-2025"
 authors: "pedrolima"
 date: "2021-12-09"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/SVOLT-Energy-aims-to-reach-600-GWh-by-2025.avif"
 ---
 

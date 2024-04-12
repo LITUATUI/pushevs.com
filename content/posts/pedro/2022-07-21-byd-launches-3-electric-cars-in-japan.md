@@ -3,9 +3,9 @@ title: "BYD launches 3 electric cars in Japan"
 slug: "byd-launches-3-electric-cars-in-japan"
 authors: "pedrolima"
 date: "2022-07-21"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Seal-BYD-Atto-3-and-BYD-Dolphin-were-showcased-at-the-conference.avif"
 ---
 

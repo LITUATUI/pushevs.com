@@ -3,9 +3,9 @@ title: "NETA V Co-sport Magic Edition arrives"
 slug: "neta-v-co-sport-magic-edition-arrives"
 authors: "pedrolima"
 date: "2021-06-23"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/NETA-V-Co-sport-Magic-Edition.avif"
 ---
 

@@ -3,10 +3,12 @@ title: "June 2023 - Tesla Model Y was overall bestseller in the UK"
 slug: "june-2023-tesla-model-y-was-overall-bestseller-in-the-uk"
 authors: "maximilianholland"
 date: "2023-07-14"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y.avif"
+categories:
+  - "EV sales"
+tags:
+  - "UK"
+images:
+  - "/ev-sales-images/UK-flag.avif"
 ---
 
 June saw plugin EVs take 25.1% of the UK auto market, up from 21.6% year on year. Both full electrics and plugin hybrids grew volume at a healthy clip. Overall auto volume was 177,266 units, up some 26% YoY, but still well below pre-2020 norms. The Tesla Model Y was the UK’s bestselling vehicle in June.

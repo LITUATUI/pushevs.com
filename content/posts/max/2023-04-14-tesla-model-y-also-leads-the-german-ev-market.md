@@ -1,12 +1,14 @@
 ---
-title: "Tesla Model Y also leads the German EV market"
+title: "March 2023 - Tesla Model Y also leads the German EV market"
 slug: "tesla-model-y-also-leads-the-german-ev-market"
 authors: "maximilianholland"
 date: "2023-04-14"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y-made-in-Germany.avif"
+categories:
+  - "EV sales"
+tags:
+  - "Germany"
+images:
+  - "/ev-sales-images/Germany-flag.avif"
 ---
 
 Germany’s plugin electric vehicles took 21.6% of the auto market in March, down from 25.6% year on year. BEV grew share slightly, but PHEVs lost half their share YoY, due to recent policy changes. Overall auto volume was 281,361 units, up over 16% YoY, but still well down from pre-2020 seasonal norms.

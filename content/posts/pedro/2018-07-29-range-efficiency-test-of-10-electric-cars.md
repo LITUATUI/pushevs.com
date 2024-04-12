@@ -3,9 +3,9 @@ title: "Range and efficiency test of 10 electric cars"
 slug: "range-efficiency-test-of-10-electric-cars"
 authors: "pedrolima"
 date: "2018-07-29"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Circuit-de-Barcelona-Catalunya.avif"
 ---
 

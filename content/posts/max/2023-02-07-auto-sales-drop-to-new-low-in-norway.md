@@ -1,12 +1,14 @@
 ---
-title: "Auto sales drop to new low in Norway"
+title: "January 2023 - Auto sales drop to new low in Norway"
 slug: "auto-sales-drop-to-new-low-in-norway"
 authors: "maximilianholland"
 date: "2023-02-07"
-categories: 
-  - "general"
-images: 
-  - "/images/Volkswagen-ID.-Buzz.avif"
+categories:
+  - "EV sales"
+tags:
+  - "Norway"
+images:
+  - "/ev-sales-images/Norway-flag.avif"
 ---
 
 Norway saw plugin electric vehicles take 76.3% share of the auto market in January, down from 90.5% year on year. The January auto market was highly anomalous due to the new year’s introduction of tighter auto emissions and tax increases, which had pulled sales forward into December. Overall January auto volumes were just 1,860 units, under 5% of December’s volume, and the lowest monthly volume in over 60 years! The auto market will resume more typical patterns in the months ahead. January’s bestseller was the Volkswagen ID.Buzz.

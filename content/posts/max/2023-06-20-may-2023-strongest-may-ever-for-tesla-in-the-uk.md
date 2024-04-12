@@ -3,10 +3,12 @@ title: "May 2023 - Strongest May ever for Tesla in the UK"
 slug: "may-2023-strongest-may-ever-for-tesla-in-the-uk"
 authors: "maximilianholland"
 date: "2023-06-20"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y.avif"
+categories:
+  - "EV sales"
+tags:
+  - "UK"
+images:
+  - "/ev-sales-images/UK-flag.avif"
 ---
 
 Tesla hits the UK with its strongest ever May, helping lift the plugin electric vehicle market share to 23.1%, up from 18.3% year on year. BEVs have grown well, whilst PHEVs have remained mostly flat. Overall market volume was 145,204 units, some 17% up YoY, though still below the pre-2020 norms. The Tesla Model Y was the bestselling BEV in May.

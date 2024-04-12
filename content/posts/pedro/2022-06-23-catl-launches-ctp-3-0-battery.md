@@ -3,9 +3,9 @@ title: "CATL launches CTP 3.0 battery"
 slug: "catl-launches-ctp-3-0-battery"
 authors: "pedrolima"
 date: "2022-06-23"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CATL-CTP-3.0-highlights.avif"
 ---
 

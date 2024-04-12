@@ -3,9 +3,9 @@ title: "LION Smart shows off a BMW i3 with a 100 kWh battery"
 slug: "lion-smart-shows-off-a-bmw-i3-with-a-100-kwh-battery"
 authors: "pedrolima"
 date: "2018-09-05"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Proof-of-concept-in-BMW-i3-by-LION-Smart.avif"
 ---
 

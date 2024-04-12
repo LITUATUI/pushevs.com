@@ -3,9 +3,9 @@ title: "Volkswagen e-Golf range calculator"
 slug: "volkswagen-e-golf-range-calculator"
 authors: "pedrolima"
 date: "2018-01-28"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/volkswagen-e-golf-range-calculator.avif"
 ---
 

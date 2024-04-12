@@ -3,9 +3,9 @@ title: "CATL achieves 304 Wh/kg in new battery cells"
 slug: "catl-achieves-304-wh-kg-in-new-battery-cells"
 authors: "pedrolima"
 date: "2019-03-30"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CATL-pouch-vs-prismatic-battery-cells.avif"
 ---
 

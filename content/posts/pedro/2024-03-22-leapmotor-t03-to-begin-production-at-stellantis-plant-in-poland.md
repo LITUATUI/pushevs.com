@@ -4,7 +4,7 @@ slug: "leapmotor-t03-to-begin-production-at-stellantis-plant-in-poland"
 authors: "pedrolima"
 date: "2024-03-22"
 categories:
-  - "general"
+  - "General"
 images:
   - "/images/Leapmotor-T03.avif"
 ---

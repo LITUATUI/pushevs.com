@@ -3,9 +3,9 @@ title: "Volvo C40 Recharge is now available to order"
 slug: "volvo-c40-recharge-is-now-available-to-order"
 authors: "pedrolima"
 date: "2021-06-02"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Volvo-C40-Recharge.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "Renault moves away from LFP batteries"
 slug: "renault-moves-away-from-lfp-batteries"
 authors: "pedrolima"
 date: "2021-07-01"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/2021-Renault-eWays-press-conference-Renault-5-Electric-highlights.avif"
 ---
 

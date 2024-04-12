@@ -3,9 +3,9 @@ title: "CATL expects to introduce NCM 811 battery cells next year"
 slug: "catl-expects-to-introduce-ncm-811-battery-cells-next-year"
 authors: "pedrolima"
 date: "2018-08-14"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CATL-Energy-Density-Development-Roadmap.avif"
 ---
 

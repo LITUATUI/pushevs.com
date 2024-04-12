@@ -3,9 +3,9 @@ title: "Most advanced battery cells available"
 slug: "most-advanced-battery-cells"
 authors: "pedrolima"
 date: "2018-05-09"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Tesla-battery-cell.avif"
 ---
 

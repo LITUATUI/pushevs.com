@@ -3,9 +3,9 @@ title: "BYD Dolphin is now available to pre-order"
 slug: "byd-dolphin-is-now-available-to-pre-order"
 authors: "pedrolima"
 date: "2021-08-13"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Dolphin-is-now-available-to-pre-order.avif"
 ---
 

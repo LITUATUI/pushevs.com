@@ -3,9 +3,9 @@ title: "Volkswagen replaces its battery cell supplier"
 slug: "volkswagen-replaces-battery-cell-supplier"
 authors: "pedrolima"
 date: "2017-01-09"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/worker-holding-a-samsung-sdi-battery-cell.avif"
 ---
 

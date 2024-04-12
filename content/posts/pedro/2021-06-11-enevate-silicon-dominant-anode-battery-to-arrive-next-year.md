@@ -3,9 +3,9 @@ title: "Enevate silicon-dominant anode battery to arrive next year"
 slug: "enevate-silicon-dominant-anode-battery-to-arrive-next-year"
 authors: "pedrolima"
 date: "2021-06-11"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Enevate-silicon-dominant-anode-battery-technology.avif"
 ---
 

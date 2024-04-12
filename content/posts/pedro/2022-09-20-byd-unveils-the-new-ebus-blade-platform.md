@@ -3,9 +3,9 @@ title: "BYD unveils the new eBus Blade Platform"
 slug: "byd-unveils-the-new-ebus-blade-platform"
 authors: "pedrolima"
 date: "2022-09-20"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-eBus-Blade-Platform.avif"
 ---
 

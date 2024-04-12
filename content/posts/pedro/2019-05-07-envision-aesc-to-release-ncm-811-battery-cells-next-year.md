@@ -3,9 +3,9 @@ title: "Envision AESC to release NCM 811 battery cells next year"
 slug: "envision-aesc-to-release-ncm-811-battery-cells-next-year"
 authors: "pedrolima"
 date: "2019-05-07"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Envision-AESC-roadmap.avif"
 ---
 

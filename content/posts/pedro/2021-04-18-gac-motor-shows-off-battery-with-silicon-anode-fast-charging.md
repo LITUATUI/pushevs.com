@@ -3,9 +3,9 @@ title: "GAC Motor shows off battery with silicon anode fast charging"
 slug: "gac-motor-shows-off-battery-with-silicon-anode-fast-charging"
 authors: "pedrolima"
 date: "2021-04-18"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/GAC-Motor-testing-3C-charging.avif"
 ---
 

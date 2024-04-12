@@ -3,9 +3,9 @@ title: "Samsung SDI is already producing high-nickel content battery cells"
 slug: "samsung-sdi-is-already-producing-high-nickel-content-battery-cells"
 authors: "pedrolima"
 date: "2021-06-09"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Samsung-SDI-Gen-5-prismatic-battery-cell.avif"
 ---
 

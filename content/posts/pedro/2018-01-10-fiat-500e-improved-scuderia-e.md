@@ -3,9 +3,9 @@ title: "Fiat 500e improved by Scuderia-E"
 slug: "fiat-500e-improved-scuderia-e"
 authors: "pedrolima"
 date: "2018-01-10"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/fiat-500e-improved-by-scuderia-e.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "Tesla Model 3 was Europe’s second best-selling car in June"
 slug: "tesla-model-3-was-europe-second-best-selling-car-in-june"
 authors: "pedrolima"
 date: "2021-08-10"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Tesla-Model-3-MIC-waiting-to-be-shipped-to-Europe.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "NIO begins deliveries of ES6 with NCM 811 battery"
 slug: "nio-begins-deliveries-of-es6-with-ncm-811-battery"
 authors: "pedrolima"
 date: "2019-06-20"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/NIO-ES6.avif"
 ---
 

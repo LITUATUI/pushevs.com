@@ -3,10 +3,12 @@ title: "April 2023 - Good month for Volkswagen in the UK"
 slug: "april-2023-good-month-for-volkswagen-in-the-uk"
 authors: "maximilianholland"
 date: "2023-05-17"
-categories: 
-  - "general"
-images: 
-  - "/images/Volkswagen-ID.4.avif"
+categories:
+  - "EV sales"
+tags:
+  - "UK"
+images:
+  - "/ev-sales-images/UK-flag.avif"
 ---
 
 The UK car market saw plugin electric vehicles take 21.9% share of sales in April 2023, up from 16.2% year on year. Full battery electrics grew strongly in both share, and in volume. Overall auto volume was 132,990 units, up 11.6% YoY, though still down from the roughly 170,000 pre-2020 seasonal norm. The UK’s best selling BEV brand in April was Volkswagen.

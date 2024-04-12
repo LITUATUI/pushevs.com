@@ -3,9 +3,9 @@ title: "BYD could surpass CATL as biggest battery maker"
 slug: "byd-could-surpass-catl-as-biggest-battery-maker"
 authors: "pedrolima"
 date: "2022-06-01"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Top-EV-battery-makers-in-China-by-CnEVPost.avif"
 ---
 

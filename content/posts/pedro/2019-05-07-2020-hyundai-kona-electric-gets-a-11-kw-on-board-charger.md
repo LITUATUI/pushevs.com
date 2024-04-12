@@ -3,9 +3,9 @@ title: "2020 Hyundai Kona Electric gets a 11 kW on-board charger"
 slug: "2020-hyundai-kona-electric-gets-a-11-kw-on-board-charger"
 authors: "pedrolima"
 date: "2019-05-07"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/2019-Hyundai-Kona-Electric.avif"
 ---
 

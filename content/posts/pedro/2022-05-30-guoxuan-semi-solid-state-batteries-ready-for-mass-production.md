@@ -3,9 +3,9 @@ title: "Guoxuan semi-solid state batteries ready for mass production"
 slug: "guoxuan-semi-solid-state-batteries-ready-for-mass-production"
 authors: "pedrolima"
 date: "2022-05-30"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Guoxuan-semi-solid-state-battery-cell.avif"
 ---
 

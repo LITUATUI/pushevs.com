@@ -3,9 +3,9 @@ title: "BYD EA1 gets MIIT approval"
 slug: "byd-ea1-gets-miit-approval"
 authors: "pedrolima"
 date: "2021-06-15"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-EA1-spy-shot.avif"
 ---
 

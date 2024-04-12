@@ -3,9 +3,9 @@ title: "First 100 BYD Tang SUVs sent to Norway"
 slug: "first-100-byd-tang-suvs-sent-to-norway"
 authors: "pedrolima"
 date: "2021-06-08"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/The-first-shipment-of-100-pure-electric-Tang-SUVs-to-Norway.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "Wuling Bingo had a good sales month"
 slug: "wuling-bingo-had-a-good-sales-month"
 authors: "pedrolima"
 date: "2023-05-01"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Wuling-Bingo.avif"
 ---
 

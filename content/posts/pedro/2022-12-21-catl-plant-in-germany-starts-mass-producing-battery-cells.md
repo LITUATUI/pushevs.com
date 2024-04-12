@@ -3,9 +3,9 @@ title: "CATL plant in Germany starts mass producing battery cells"
 slug: "catl-plant-in-germany-starts-mass-producing-battery-cells"
 authors: "pedrolima"
 date: "2022-12-21"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CATL-plant-in-Germany.avif"
 ---
 

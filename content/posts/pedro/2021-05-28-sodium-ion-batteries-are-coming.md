@@ -4,9 +4,9 @@ slug: "sodium-ion-batteries-are-coming"
 authors: "pedrolima"
 date: "2021-05-28"
 featured: true
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Na-ion-battery-cell-by-NAIMA-project.avif"
 ---
 

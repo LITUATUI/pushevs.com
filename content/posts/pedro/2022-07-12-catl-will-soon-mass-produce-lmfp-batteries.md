@@ -3,9 +3,9 @@ title: "CATL will soon mass produce LMFP batteries"
 slug: "catl-will-soon-mass-produce-lmfp-batteries"
 authors: "pedrolima"
 date: "2022-07-12"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CATL-battery-roadmap.avif"
 ---
 

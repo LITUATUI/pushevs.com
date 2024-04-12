@@ -3,9 +3,9 @@ title: "JAC Sihao E10X unveiled with cobalt-free LFP battery"
 slug: "jac-sihao-e10x-unveiled-with-cobalt-free-lfp-battery"
 authors: "pedrolima"
 date: "2020-11-30"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/JAC-Sihao-E10X.avif"
 ---
 

@@ -4,7 +4,7 @@ slug: "byd-will-launch-its-second-generation-blade-battery-this-year"
 authors: "pedrolima"
 date: "2024-04-09"
 categories:
-  - "general"
+  - "General"
 images:
   - "/images/BYD_second_generation_CTP_battery.avif"
 ---

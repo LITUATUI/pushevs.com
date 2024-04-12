@@ -3,9 +3,9 @@ title: "LG Energy Solution unveils its plans for LFP batteries"
 slug: "lg-energy-solution-unveils-its-plans-for-lfp-batteries"
 authors: "pedrolima"
 date: "2022-05-19"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/LG-Energy-Solution-Michigan.avif"
 ---
 

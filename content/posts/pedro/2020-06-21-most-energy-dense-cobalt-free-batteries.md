@@ -3,9 +3,9 @@ title: "Most energy dense cobalt-free LFP batteries"
 slug: "most-energy-dense-cobalt-free-batteries"
 authors: "pedrolima"
 date: "2020-06-21"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Yutong-E12-electric-bus-with-LFP-battery.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "ORA Cherry Cat gets battery capacity and range revealed"
 slug: "ora-cherry-cat-gets-battery-capacity-and-range-revealed"
 authors: "pedrolima"
 date: "2021-08-11"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/ORA-Cherry-Cat-front.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "43 kWh battery for the Renault Zoe"
 slug: "43-kwh-battery-for-the-renault-zoe"
 authors: "pedrolima"
 date: "2016-08-03"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/43-kwh-battery-for-the-renault-zoe.avif"
 ---
 

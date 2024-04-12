@@ -1,12 +1,14 @@
 ---
-title: "Tesla continues to dominate EV sales in the UK"
+title: "February 2023 - Tesla continues to dominate EV sales in the UK"
 slug: "tesla-continues-to-dominate-ev-sales-in-the-uk"
 authors: "maximilianholland"
 date: "2023-03-10"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y-and-Tesla-Model-3.avif"
+categories:
+  - "EV sales"
+tags:
+  - "UK"
+images:
+  - "/ev-sales-images/UK-flag.avif"
 ---
 
 The UK saw plugin electric vehicles take 22.9% share of the auto market in February 2023, down from 25.6% year on year. Overall auto volume was 74,441 units, up some 26% YoY, though still down from the ~81.000 unit seasonal norm, pre-2020. The Tesla Model Y was the UK’s best selling full electric vehicle for the month.

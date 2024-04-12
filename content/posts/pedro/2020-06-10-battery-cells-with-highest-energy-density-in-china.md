@@ -3,9 +3,9 @@ title: "Battery cells with highest energy density in China"
 slug: "battery-cells-with-highest-energy-density-in-china"
 authors: "pedrolima"
 date: "2020-06-10"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CATL-Energy-Density-Development-Roadmap.avif"
 ---
 

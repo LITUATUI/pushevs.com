@@ -3,9 +3,9 @@ title: "BYD Dolphin gets its third version homologated"
 slug: "byd-dolphin-gets-its-third-version-homologated"
 authors: "pedrolima"
 date: "2021-08-11"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Dolphin-on-the-road.avif"
 ---
 

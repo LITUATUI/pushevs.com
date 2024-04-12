@@ -3,9 +3,9 @@ title: "Farasis Energy reaches 330 Wh/kg with new battery cell"
 slug: "farasis-energy-reaches-330-wh-kg-with-new-battery-cell"
 authors: "pedrolima"
 date: "2021-04-11"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Farasis-Energy-goals-for-electric-cars.avif"
 ---
 

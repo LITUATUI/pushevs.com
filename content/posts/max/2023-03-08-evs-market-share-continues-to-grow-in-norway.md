@@ -1,12 +1,14 @@
 ---
-title: "EVs market share continues to grow in Norway"
+title: "February 2023 - EVs market share continues to grow in Norway"
 slug: "evs-market-share-continues-to-grow-in-norway"
 authors: "maximilianholland"
 date: "2023-03-08"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y.avif"
+categories:
+  - "EV sales"
+tags:
+  - "Norway"
+images:
+  - "/ev-sales-images/Norway-flag.avif"
 ---
 
 February saw Norway’s plugin electric vehicle share continue to grow to 90.1%, from 86.1% year on year. All the growth came from full electrics, whilst plugin hybrids lost share. Overall auto volume was 7,439 units, down some 9% YoY. The bestselling vehicle was the Tesla Model Y.

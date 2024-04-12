@@ -3,9 +3,9 @@ title: "Fast charging curves"
 slug: "fast-charging-curves"
 authors: "pedrolima"
 date: "2018-05-21"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Fastned-fast-charging-station.avif"
 ---
 

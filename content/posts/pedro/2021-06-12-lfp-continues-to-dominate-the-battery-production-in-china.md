@@ -3,9 +3,9 @@ title: "LFP continues to dominate the battery production in China"
 slug: "lfp-continues-to-dominate-the-battery-production-in-china"
 authors: "pedrolima"
 date: "2021-06-12"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Tesla-Model-3-MIC-waiting-to-be-shipped-to-Europe.avif"
 ---
 

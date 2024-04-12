@@ -3,9 +3,9 @@ title: "CALB aims to become a top battery cell maker very soon"
 slug: "calb-aims-to-become-a-top-battery-cell-maker"
 authors: "pedrolima"
 date: "2021-06-07"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CALB-battery-cell-production-capacity-roadmap.avif"
 ---
 

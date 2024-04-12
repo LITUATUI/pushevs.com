@@ -3,9 +3,9 @@ title: "CATL gets approval for battery cell production in Germany"
 slug: "catl-gets-approval-for-battery-cell-production-in-germany"
 authors: "pedrolima"
 date: "2022-04-06"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Contemporary-Amperex-Technology-Thuringia-GmbH.avif"
 ---
 

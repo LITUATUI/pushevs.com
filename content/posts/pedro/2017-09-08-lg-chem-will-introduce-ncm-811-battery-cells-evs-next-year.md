@@ -3,9 +3,9 @@ title: "LG Chem will introduce NCM 811 battery cells for EVs next year"
 slug: "lg-chem-will-introduce-ncm-811-battery-cells-evs-next-year"
 authors: "pedrolima"
 date: "2017-09-08"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/lg-chem-battery-cell.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "Hozon Auto introduces the new NETA V Pro"
 slug: "hozon-auto-introduces-the-new-neta-v-pro"
 authors: "pedrolima"
 date: "2021-11-08"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/NETA-V-Pro.avif"
 ---
 

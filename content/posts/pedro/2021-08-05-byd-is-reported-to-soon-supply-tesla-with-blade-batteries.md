@@ -3,9 +3,9 @@ title: "BYD is reported to soon supply Tesla with Blade batteries"
 slug: "byd-is-reported-to-soon-supply-tesla-with-blade-batteries"
 authors: "pedrolima"
 date: "2021-08-05"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Blade-Battery-prismatic-cells.avif"
 ---
 

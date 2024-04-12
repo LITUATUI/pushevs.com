@@ -3,9 +3,9 @@ title: "SVOLT unveils its second-generation L600 short blade battery"
 slug: "svolt-unveils-its-second-generation-l600-short-blade-battery"
 authors: "pedrolima"
 date: "2021-11-22"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/SVOLT-unveils-its-second-generation-L600-short-blade-battery.avif"
 ---
 

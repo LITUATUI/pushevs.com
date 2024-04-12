@@ -3,9 +3,9 @@ title: "Renault Zoe charging time and efficiency"
 slug: "renault-zoe-charging-time-efficiency"
 authors: "pedrolima"
 date: "2016-12-17"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/renault-zoe-charging-time.avif"
 ---
 

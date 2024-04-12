@@ -3,9 +3,9 @@ title: "Tesla Model 3 cobalt-free LFP version details"
 slug: "tesla-model-3-cobalt-free-lfp-version-details"
 authors: "pedrolima"
 date: "2020-06-11"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Tesla-Model-3-made-in-China.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "Leapmotor T03 is a great small electric car"
 slug: "leapmotor-t03-great-small-electric-car"
 authors: "pedrolima"
 date: "2020-08-03"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Leapmotor-T03.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "Facts about the BYD Dolphin (EA1)"
 slug: "facts-about-the-byd-dolphin-ea1"
 authors: "pedrolima"
 date: "2021-07-06"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Dolphin-EA1.avif"
 ---
 

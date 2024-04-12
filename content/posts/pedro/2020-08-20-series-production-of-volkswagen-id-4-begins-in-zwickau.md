@@ -3,9 +3,9 @@ title: "Series production of Volkswagen ID.4 begins in Zwickau"
 slug: "series-production-of-volkswagen-id-4-begins-in-zwickau"
 authors: "pedrolima"
 date: "2020-08-20"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Volkswagen-ID.4.avif"
 ---
 

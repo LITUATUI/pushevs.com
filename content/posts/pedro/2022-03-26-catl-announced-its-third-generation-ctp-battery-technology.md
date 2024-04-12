@@ -3,9 +3,9 @@ title: "CATL announced its third-generation CTP battery technology"
 slug: "catl-announced-its-third-generation-ctp-battery-technology"
 authors: "pedrolima"
 date: "2022-03-26"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CATL-CTP-3.0.avif"
 ---
 

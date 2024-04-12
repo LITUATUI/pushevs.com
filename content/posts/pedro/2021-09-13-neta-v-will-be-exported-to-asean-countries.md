@@ -3,9 +3,9 @@ title: "NETA V will be exported to ASEAN countries"
 slug: "neta-v-will-be-exported-to-asean-countries"
 authors: "pedrolima"
 date: "2021-09-13"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/NETA-V-in-yellow.avif"
 ---
 

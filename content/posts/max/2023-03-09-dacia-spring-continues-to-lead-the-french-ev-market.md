@@ -1,12 +1,14 @@
 ---
-title: "Dacia Spring continues to lead the French EV market"
+title: "February 2023 - Dacia Spring continues to lead the French EV market"
 slug: "dacia-spring-continues-to-lead-the-french-ev-market"
 authors: "maximilianholland"
 date: "2023-03-09"
-categories: 
-  - "general"
-images: 
-  - "/images/Dacia-Spring-charging.avif"
+categories:
+  - "EV sales"
+tags:
+  - "France"
+images:
+  - "/ev-sales-images/France-flag.avif"
 ---
 
 France’s plugin electric vehicle share reached 23.8% in February, up from 20.1% year on year. Full electrics grew share, whilst plugin hybrids remained static. Overall auto volume was 126,237 units, up over 9% YoY. The Dacia Spring was once again the best selling full electric.

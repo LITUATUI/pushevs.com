@@ -3,9 +3,9 @@ title: "BYD has reportedly received 10 GWh of orders from Tesla for LFP batterie
 slug: "byd-has-reportedly-received-10-gwh-of-orders-from-tesla-for-lfp-batteries"
 authors: "pedrolima"
 date: "2021-10-21"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Blade-Battery-prismatic-cells.avif"
 ---
 

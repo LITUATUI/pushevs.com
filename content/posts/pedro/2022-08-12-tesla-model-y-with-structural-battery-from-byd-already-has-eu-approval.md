@@ -3,9 +3,9 @@ title: "Tesla Model Y with structural battery from BYD already has EU approval"
 slug: "tesla-model-y-with-structural-battery-from-byd-already-has-eu-approval"
 authors: "pedrolima"
 date: "2022-08-12"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Tesla-Model-Y-made-in-Germany.avif"
 ---
 

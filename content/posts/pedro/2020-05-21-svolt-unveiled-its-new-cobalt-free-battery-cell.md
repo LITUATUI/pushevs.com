@@ -3,9 +3,9 @@ title: "SVOLT unveiled its new cobalt-free battery cell"
 slug: "svolt-unveiled-its-new-cobalt-free-battery-cell"
 authors: "pedrolima"
 date: "2020-05-21"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/SVOLT-cobalt-free-battery-cell-launch-event.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "The comeback of LFP batteries"
 slug: "the-comeback-of-lfp-batteries"
 authors: "pedrolima"
 date: "2019-08-16"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/ETC-battery-energy-density-evolution.avif"
 ---
 

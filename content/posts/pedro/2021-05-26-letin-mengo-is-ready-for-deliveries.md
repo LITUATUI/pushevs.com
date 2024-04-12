@@ -3,9 +3,9 @@ title: "LETIN Mengo is ready for deliveries"
 slug: "letin-mengo-is-ready-for-deliveries"
 authors: "pedrolima"
 date: "2021-05-26"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Launching-ceremony-of-the-LETIN-Mengo.avif"
 ---
 

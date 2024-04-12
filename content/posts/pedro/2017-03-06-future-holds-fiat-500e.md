@@ -3,9 +3,9 @@ title: "What the future holds for the Fiat 500e?"
 slug: "future-holds-fiat-500e"
 authors: "pedrolima"
 date: "2017-03-06"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/2016-fiat-500e-in-red.avif"
 ---
 

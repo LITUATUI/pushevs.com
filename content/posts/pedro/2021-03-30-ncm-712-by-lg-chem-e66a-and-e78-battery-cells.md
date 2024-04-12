@@ -3,9 +3,9 @@ title: "NCM 712 by LG Chem: E66A and E78 battery cells in detail"
 slug: "ncm-712-by-lg-chem-e66a-and-e78-battery-cells"
 authors: "pedrolima"
 date: "2021-03-30"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/LG-Chem-pouch-battery-cell.avif"
 ---
 

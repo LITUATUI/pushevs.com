@@ -3,9 +3,9 @@ title: "Renault Zoe ZE 40 battery details"
 slug: "renault-zoe-ze-40-battery-details"
 authors: "pedrolima"
 date: "2016-10-09"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/renault-zoe-with-400-km-nedc-range-at-paris-motor-show.avif"
 ---
 

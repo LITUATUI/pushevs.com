@@ -3,9 +3,9 @@ title: "SVOLT reached 200 Wh/kg with LFP battery cells"
 slug: "svolt-reached-200-wh-kg-with-lfp-battery-cells"
 authors: "pedrolima"
 date: "2022-03-28"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/SVOLT-batteries-for-electric-cars.avif"
 ---
 

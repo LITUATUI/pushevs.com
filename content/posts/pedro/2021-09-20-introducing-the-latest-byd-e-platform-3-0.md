@@ -3,9 +3,9 @@ title: "Introducing the latest BYD e-platform 3.0"
 slug: "introducing-the-latest-byd-e-platform-3-0"
 authors: "pedrolima"
 date: "2021-09-20"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/New-BYD-e-Platform-3.0.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "Elio Motors wants to produce an affordable three-wheeled electric car"
 slug: "elio-motors-wants-to-produce-an-affordable-three-wheeled-electric-car"
 authors: "pedrolima"
 date: "2021-10-01"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Elio-E.avif"
 ---
 

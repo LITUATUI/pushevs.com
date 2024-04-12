@@ -3,9 +3,9 @@ title: "LG Chem will soon supply NCMA battery cells to Tesla"
 slug: "lg-chem-will-soon-supply-ncma-battery-cells-to-tesla"
 authors: "pedrolima"
 date: "2021-06-01"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Tesla-Model-Y.avif"
 ---
 

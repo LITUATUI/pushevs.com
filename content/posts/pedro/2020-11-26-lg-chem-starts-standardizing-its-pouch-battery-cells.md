@@ -3,9 +3,9 @@ title: "LG Chem starts standardizing its pouch battery cells"
 slug: "lg-chem-starts-standardizing-its-pouch-battery-cells"
 authors: "pedrolima"
 date: "2020-11-26"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/LG-Chem-pouch-battery-cells.avif"
 ---
 

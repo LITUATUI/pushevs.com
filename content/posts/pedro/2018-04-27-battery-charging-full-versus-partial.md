@@ -4,9 +4,9 @@ slug: "battery-charging-full-versus-partial"
 authors: "pedrolima"
 date: "2018-04-27"
 featured: true
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Charging-limit-option-on-Hyundai-Kona-Electric.avif"
 ---
 

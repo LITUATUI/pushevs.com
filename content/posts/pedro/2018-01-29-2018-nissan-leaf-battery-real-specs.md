@@ -3,9 +3,9 @@ title: "2018 Nissan Leaf battery real specs"
 slug: "2018-nissan-leaf-battery-real-specs"
 authors: "pedrolima"
 date: "2018-01-29"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/aesc-new-battery-cell-specs.avif"
 ---
 

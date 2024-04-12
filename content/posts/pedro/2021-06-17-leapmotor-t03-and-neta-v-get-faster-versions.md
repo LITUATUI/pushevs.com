@@ -3,9 +3,9 @@ title: "Leapmotor T03 and NETA V get faster versions"
 slug: "leapmotor-t03-and-neta-v-get-faster-versions"
 authors: "pedrolima"
 date: "2021-06-17"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Leapmotor-T03-and-NETA-V.avif"
 ---
 

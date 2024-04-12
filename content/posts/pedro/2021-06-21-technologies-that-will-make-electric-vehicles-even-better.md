@@ -4,9 +4,9 @@ slug: "technologies-that-will-make-electric-vehicles-even-better"
 authors: "pedrolima"
 date: "2021-06-21"
 featured: true
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Lightyear-One-in-the-Death-Valley.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "New generation Renault ZOE battery details"
 slug: "new-generation-renault-zoe-battery-details"
 authors: "pedrolima"
 date: "2020-05-14"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/New-generation-Renault-ZOE-battery.avif"
 ---
 

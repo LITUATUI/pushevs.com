@@ -3,9 +3,9 @@ title: "Dacia Spring has its price revealed in France"
 slug: "dacia-spring-has-its-price-revealed-in-france"
 authors: "pedrolima"
 date: "2021-03-11"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/2021-New-Dacia-Spring.avif"
 ---
 

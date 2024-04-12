@@ -3,9 +3,9 @@ title: "Guoxuan closer to mass-produce 230 Wh/kg LFP battery cells"
 slug: "guoxuan-closer-to-mass-produce-230-wh-kg-lfp-battery-cells"
 authors: "pedrolima"
 date: "2022-03-29"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Guoxuan-at-China-EV100-Forum.avif"
 ---
 

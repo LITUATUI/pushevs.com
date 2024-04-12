@@ -3,9 +3,9 @@ title: "Solaris ebuses will be powered by LFP-CTP batteries from CATL"
 slug: "solaris-ebuses-will-be-powered-by-lfp-ctp-batteries-from-catl"
 authors: "pedrolima"
 date: "2022-05-27"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Solaris-Urbino-electric-bus.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "BYD Seagull will be cheaper than the Dolphin"
 slug: "byd-seagull-will-be-cheaper-than-the-dolphin"
 authors: "pedrolima"
 date: "2022-05-23"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Seagull-spy-shot.avif"
 ---
 

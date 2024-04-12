@@ -4,7 +4,7 @@ slug: "lg-energy-solution-most-energy-dense-battery-cells"
 authors: "pedrolima"
 date: "2024-04-01"
 categories:
-  - "general"
+  - "General"
 images:
   - "/images/Renault-5-E-Tech-powertrain.avif"
 ---

@@ -3,9 +3,9 @@ title: "These were the best-selling electric cars in China last month"
 slug: "these-were-the-best-selling-electric-cars-in-china-last-month"
 authors: "pedrolima"
 date: "2021-06-12"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Wuling-Hong-Guang-MINI-EV.avif"
 ---
 

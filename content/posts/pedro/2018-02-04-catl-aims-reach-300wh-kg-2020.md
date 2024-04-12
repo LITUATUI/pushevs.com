@@ -3,9 +3,9 @@ title: "CATL aims to reach 300 Wh/kg before 2020"
 slug: "catl-aims-reach-300wh-kg-2020"
 authors: "pedrolima"
 date: "2018-02-04"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/catl-cell-roadmap.avif"
 ---
 

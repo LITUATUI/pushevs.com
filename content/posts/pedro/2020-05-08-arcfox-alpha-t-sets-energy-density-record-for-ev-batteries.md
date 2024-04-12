@@ -3,9 +3,9 @@ title: "ARCFOX Alpha-T sets energy density record for EV batteries"
 slug: "arcfox-alpha-t-sets-energy-density-record-for-ev-batteries"
 authors: "pedrolima"
 date: "2020-05-08"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/ARCFOX-Alpha-T.avif"
 ---
 

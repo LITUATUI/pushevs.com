@@ -3,9 +3,9 @@ title: "Xpeng Motors to launch 480 kW fast charging technology"
 slug: "xpeng-motors-to-launch-480-kw-fast-charging-technology"
 authors: "pedrolima"
 date: "2021-10-25"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Xpeng-Motors-new-480-kW-fast-charging-technology.avif"
 ---
 

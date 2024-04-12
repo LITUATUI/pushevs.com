@@ -3,9 +3,9 @@ title: "LG Chem started NCM 712 battery cells production last year"
 slug: "lg-chem-started-ncm-712-battery-cells-production-last-year"
 authors: "pedrolima"
 date: "2020-06-05"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/LG-Chem-pouch-battery-cell.avif"
 ---
 

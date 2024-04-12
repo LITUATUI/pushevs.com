@@ -4,9 +4,9 @@ slug: "best-charging-behavior-for-lfp-batteries"
 authors: "pedrolima"
 date: "2022-04-21"
 featured: true
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Blade-Battery-prismatic-cells.avif"
 ---
 

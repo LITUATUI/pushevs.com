@@ -3,9 +3,9 @@ title: "MG MG4 Electric is the new best value electric car"
 slug: "mg-mg4-electric-is-the-new-best-value-electric-car"
 authors: "pedrolima"
 date: "2022-08-31"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/MG-MG4-Electric.avif"
 ---
 

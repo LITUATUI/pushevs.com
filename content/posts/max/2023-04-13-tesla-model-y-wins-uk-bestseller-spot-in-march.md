@@ -1,12 +1,14 @@
 ---
-title: "Tesla Model Y wins UK bestseller spot in March"
+title: "March 2023 - Tesla Model Y wins UK bestseller spot in March"
 slug: "tesla-model-y-wins-uk-bestseller-spot-in-march"
 authors: "maximilianholland"
 date: "2023-04-13"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y.avif"
+categories:
+  - "EV sales"
+tags:
+  - "UK"
+images:
+  - "/ev-sales-images/UK-flag.avif"
 ---
 
 The UK saw plugin electric vehicles take 22.4% of the auto market in March, down from 22.7% year on year. BEVs saw fractional market share growth YoY, and a new volume record, whilst PHEVs saw a slight decline. Combustion-only powertrains lost 2.5% share YoY. Overall auto volume was 287,825 units, up some 18% YoY, though still some 19% down from March 2019 levels. The Tesla Model Y was the UK’s overall best selling auto in March.

@@ -3,9 +3,9 @@ title: "CATL remains world's largest EV battery maker in Q1 2022"
 slug: "catl-remains-world-largest-ev-battery-maker-in-q1-2022"
 authors: "pedrolima"
 date: "2022-05-02"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CATL-CTP-3.0.avif"
 ---
 

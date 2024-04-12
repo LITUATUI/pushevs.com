@@ -3,9 +3,9 @@ title: "The best EV prismatic battery cells are Chinese"
 slug: "best-ev-prismatic-battery-cells-chinese"
 authors: "pedrolima"
 date: "2018-01-23"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/catl-battery-cell-overview.avif"
 ---
 

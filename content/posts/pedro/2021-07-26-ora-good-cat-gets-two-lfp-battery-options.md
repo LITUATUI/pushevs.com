@@ -3,9 +3,9 @@ title: "ORA Good Cat gets two LFP battery options"
 slug: "ora-good-cat-gets-two-lfp-battery-options"
 authors: "pedrolima"
 date: "2021-07-26"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/ORA-Haomao-ES11.avif"
 ---
 

@@ -1,12 +1,14 @@
 ---
-title: "Dacia Spring takes the lead in France"
+title: "January 2023 - Dacia Spring takes the lead in France"
 slug: "dacia-spring-takes-the-lead-in-france"
 authors: "maximilianholland"
 date: "2023-02-08"
-categories: 
-  - "general"
-images: 
-  - "/images/2022-Dacia-Spring.avif"
+categories:
+  - "EV sales"
+tags:
+  - "France"
+images:
+  - "/ev-sales-images/France-flag.avif"
 ---
 
 France’s auto market saw plugin electric vehicles (EVs) take 22.3% share of new sales in January, up from 17.6% year on year. Full electrics saw stronger growth than plugin hybrids. Overall auto volumes were 111,939 units, some 9% higher YoY, but still well below pre-2020 seasonal norms. January’s best selling full electric was the Dacia Spring.

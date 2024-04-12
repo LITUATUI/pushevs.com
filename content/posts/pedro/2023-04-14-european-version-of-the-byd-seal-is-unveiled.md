@@ -3,9 +3,9 @@ title: "European version of the BYD Seal is unveiled"
 slug: "european-version-of-the-byd-seal-is-unveiled"
 authors: "pedrolima"
 date: "2023-04-14"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/European-version-of-the-BYD-Seal.avif"
 ---
 

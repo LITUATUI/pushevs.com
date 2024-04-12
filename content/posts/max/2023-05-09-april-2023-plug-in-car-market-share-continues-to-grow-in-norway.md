@@ -3,10 +3,12 @@ title: "April 2023 - Plug-in car market share continues to grow in Norway"
 slug: "april-2023-plug-in-car-market-share-continues-to-grow-in-norway"
 authors: "maximilianholland"
 date: "2023-05-09"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y-with-mountains.avif"
+categories:
+  - "EV sales"
+tags:
+  - "Norway"
+images:
+  - "/ev-sales-images/Norway-flag.avif"
 ---
 
 Norway increased its plugin electric vehicle market share to 91.1% in April 2023, up from 84.2% year-on-year. The auto market is still settling down after policy changes that came in at the start of the year. Overall auto volume was 8,976 units,  down 7.7% year-on-year. The bestselling vehicle was, again, the Tesla Model Y.

@@ -3,9 +3,9 @@ title: "Tesla Model 3 efficiency is impressive"
 slug: "tesla-model-3-efficiency-impressive"
 authors: "pedrolima"
 date: "2017-08-01"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/tesla-model-3-production-version.avif"
 ---
 

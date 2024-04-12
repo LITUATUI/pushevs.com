@@ -3,9 +3,9 @@ title: "Cobalt-free LFP battery cells to reach 210 Wh/kg this year"
 slug: "cobalt-free-lfp-battery-cells-to-reach-210-wh-kg-this-year"
 authors: "pedrolima"
 date: "2020-09-19"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Winding-jelly-roll-and-stacking-technologies.avif"
 ---
 

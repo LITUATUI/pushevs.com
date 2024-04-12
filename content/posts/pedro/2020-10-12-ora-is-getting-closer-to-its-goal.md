@@ -3,9 +3,9 @@ title: "ORA is getting closer to its goal"
 slug: "ora-is-getting-closer-to-its-goal"
 authors: "pedrolima"
 date: "2020-10-12"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/ORA-R2-White-cat-and-ORA-R1-Black-cat.avif"
 ---
 

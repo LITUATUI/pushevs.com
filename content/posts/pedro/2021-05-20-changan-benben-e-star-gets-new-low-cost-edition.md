@@ -3,9 +3,9 @@ title: "Changan Benben E-Star gets new low-cost edition"
 slug: "changan-benben-e-star-gets-new-low-cost-edition"
 authors: "pedrolima"
 date: "2021-05-20"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Changan-Benben-E-Star-National-Edition.avif"
 ---
 

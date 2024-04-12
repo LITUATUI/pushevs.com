@@ -3,9 +3,9 @@ title: "Calculating on-board chargers efficiency"
 slug: "calculating-on-board-chargers-efficiency"
 authors: "pedrolima"
 date: "2020-10-22"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/On-board-charger-for-electric-car.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "Sono Motors’ Sion gets better with a new LFP battery"
 slug: "sono-motors-sion-gets-better-with-a-new-lfp-battery"
 authors: "pedrolima"
 date: "2021-06-24"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Sono-Motors-Sion-charging-a-Tesla-Model-S.avif"
 ---
 

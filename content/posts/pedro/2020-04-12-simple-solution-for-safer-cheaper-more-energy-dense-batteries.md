@@ -3,9 +3,9 @@ title: "Simple solution for safer, cheaper and more energy-dense batteries"
 slug: "simple-solution-for-safer-cheaper-more-energy-dense-batteries"
 authors: "pedrolima"
 date: "2020-04-12"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Blade-Battery-prismatic-cells.avif"
 ---
 

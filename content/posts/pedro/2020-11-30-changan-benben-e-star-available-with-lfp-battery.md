@@ -3,9 +3,9 @@ title: "Changan Benben E-Star available with cobalt-free LFP battery"
 slug: "changan-benben-e-star-available-with-lfp-battery"
 authors: "pedrolima"
 date: "2020-11-30"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Changan-Benben-E-Star.avif"
 ---
 

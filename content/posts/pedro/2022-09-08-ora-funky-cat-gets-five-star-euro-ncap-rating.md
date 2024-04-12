@@ -3,9 +3,9 @@ title: "ORA Funky Cat gets five-star Euro NCAP rating"
 slug: "ora-funky-cat-gets-five-star-euro-ncap-rating"
 authors: "pedrolima"
 date: "2022-09-08"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/ORA-Funky-Car-Euro-NCAP.avif"
 ---
 

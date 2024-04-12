@@ -3,9 +3,9 @@ title: "Renault ends battery rental in Portugal and France"
 slug: "renault-ends-battery-rental-in-portugal-france"
 authors: "pedrolima"
 date: "2020-07-28"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Renault-ZOE-configurator-in-Portugal.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "Sono Motors Sion solar production is underwhelming"
 slug: "sono-motors-sion-solar-production-is-underwhelming"
 authors: "pedrolima"
 date: "2021-06-04"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Sono-Motors-Sion-charging-a-Tesla-Model-S.avif"
 ---
 

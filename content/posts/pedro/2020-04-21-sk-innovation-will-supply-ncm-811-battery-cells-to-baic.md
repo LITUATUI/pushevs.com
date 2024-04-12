@@ -3,9 +3,9 @@ title: "SK Innovation will supply NCM 811 battery cells to BAIC"
 slug: "sk-innovation-will-supply-ncm-811-battery-cells-to-baic"
 authors: "pedrolima"
 date: "2020-04-21"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/SK-Innovation-researchers-hold-up-battery-cells.avif"
 ---
 

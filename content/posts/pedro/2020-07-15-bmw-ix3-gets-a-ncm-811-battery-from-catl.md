@@ -3,9 +3,9 @@ title: "BMW iX3 gets a NCM 811 battery from CATL"
 slug: "bmw-ix3-gets-a-ncm-811-battery-from-catl"
 authors: "pedrolima"
 date: "2020-07-15"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BMW-iX3-powertrain.avif"
 ---
 

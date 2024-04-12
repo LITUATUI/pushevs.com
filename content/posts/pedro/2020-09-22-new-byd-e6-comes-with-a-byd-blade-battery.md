@@ -3,9 +3,9 @@ title: "New BYD e6 comes with a BYD Blade Battery"
 slug: "new-byd-e6-comes-with-a-byd-blade-battery"
 authors: "pedrolima"
 date: "2020-09-22"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/New-BYD-e6-with-BYD-Blade-Battery.avif"
 ---
 

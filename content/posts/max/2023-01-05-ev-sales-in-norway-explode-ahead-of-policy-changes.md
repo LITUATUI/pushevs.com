@@ -1,12 +1,14 @@
 ---
-title: "EV sales in Norway explode ahead of policy changes"
+title: "December 2022 - EV sales in Norway explode ahead of policy changes"
 slug: "ev-sales-in-norway-explode-ahead-of-policy-changes"
 authors: "maximilianholland"
 date: "2023-01-05"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y.avif"
+categories:
+  - "EV sales"
+tags:
+  - "Norway"
+images:
+  - "/ev-sales-images/Norway-flag.avif"
 ---
 
 Norway's auto market saw plugin EV volume explode to take 87.6% share in December, with huge numbers of BEVs registered, and overall auto volumes double those of seasonal norms. The freak volume in December 2022 resulted from one-off pull-forward effects ahead of new policies and auto taxes applying from 2023 onwards.

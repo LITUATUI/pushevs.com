@@ -3,9 +3,9 @@ title: "BYD Seagull is officially launched"
 slug: "byd-seagull-is-officially-launched"
 authors: "pedrolima"
 date: "2023-04-19"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Seagull.avif"
 ---
 

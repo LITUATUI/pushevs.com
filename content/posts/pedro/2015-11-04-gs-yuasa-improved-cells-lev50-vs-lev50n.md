@@ -3,9 +3,9 @@ title: "GS Yuasa's improved cells: LEV50 vs LEV50N"
 slug: "gs-yuasa-improved-cells-lev50-vs-lev50n"
 authors: "pedrolima"
 date: "2015-11-04"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/gs-yuasa-lev50-4-module.avif"
 ---
 

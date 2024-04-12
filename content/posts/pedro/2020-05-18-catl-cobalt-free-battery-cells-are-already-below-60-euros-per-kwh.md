@@ -3,9 +3,9 @@ title: "CATL's cobalt-free battery cells are already below 60 euros per kWh"
 slug: "catl-cobalt-free-battery-cells-are-already-below-60-euros-per-kwh"
 authors: "pedrolima"
 date: "2020-05-18"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CATL-cobalt-free-LFP-battery-cell.avif"
 ---
 

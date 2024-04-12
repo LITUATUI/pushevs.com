@@ -3,9 +3,9 @@ title: "Modern Panasonic prismatic battery cells"
 slug: "modern-panasonic-prismatic-battery-cells"
 authors: "pedrolima"
 date: "2020-07-03"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Lexus-UX-300e-battery.avif"
 ---
 

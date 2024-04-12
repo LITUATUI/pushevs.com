@@ -3,9 +3,9 @@ title: "SK On is considering developing LFP batteries"
 slug: "sk-on-is-considering-developing-lfp-batteries"
 authors: "pedrolima"
 date: "2021-10-10"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/SK.avif"
 ---
 

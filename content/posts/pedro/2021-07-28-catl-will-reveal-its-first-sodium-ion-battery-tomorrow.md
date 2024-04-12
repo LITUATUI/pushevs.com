@@ -3,9 +3,9 @@ title: "CATL will reveal its first sodium-ion battery tomorrow"
 slug: "catl-will-reveal-its-first-sodium-ion-battery-tomorrow"
 authors: "pedrolima"
 date: "2021-07-28"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CATL-sodium-ion-battery-announcement-event.avif"
 ---
 

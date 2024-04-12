@@ -3,10 +3,12 @@ title: "May 2023 - Tesla Model Y conquers Sweden"
 slug: "may-2023-tesla-model-y-conquers-sweden"
 authors: "maximilianholland"
 date: "2023-06-14"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y-with-mountains.avif"
+categories:
+  - "EV sales"
+tags:
+  - "Sweden"
+images:
+  - "/ev-sales-images/Sweden-flag.avif"
 ---
 
 Plugin electric vehicles saw strong year on year growth in market share in Sweden, taking 61.9% of the market, from 47.5% in May 2022. Full electrics carried all of the growth, alone accounting for 40.9% share, with plugin hybrids slightly losing share YoY. Overall auto volume was 28,492 units, up some 8% YoY, though year to date volume remains some 5% down compared to 2022. The best selling car in May was the Tesla Model Y.

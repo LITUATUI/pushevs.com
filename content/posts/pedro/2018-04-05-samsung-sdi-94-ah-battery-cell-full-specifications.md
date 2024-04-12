@@ -3,9 +3,9 @@ title: "Samsung SDI 94 Ah battery cell full specifications"
 slug: "samsung-sdi-94-ah-battery-cell-full-specifications"
 authors: "pedrolima"
 date: "2018-04-05"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Samsung-SDI-94-Ah-cell-specs-1-13.avif"
 ---
 

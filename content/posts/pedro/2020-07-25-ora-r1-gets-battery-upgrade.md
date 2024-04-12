@@ -3,9 +3,9 @@ title: "ORA R1 gets a battery upgrade"
 slug: "ora-r1-gets-battery-upgrade"
 authors: "pedrolima"
 date: "2020-07-25"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/ORA-R1.avif"
 ---
 

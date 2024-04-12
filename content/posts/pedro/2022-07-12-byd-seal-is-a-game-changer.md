@@ -3,9 +3,9 @@ title: "BYD Seal is a game changer"
 slug: "byd-seal-is-a-game-changer"
 authors: "pedrolima"
 date: "2022-07-12"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Seal.avif"
 ---
 

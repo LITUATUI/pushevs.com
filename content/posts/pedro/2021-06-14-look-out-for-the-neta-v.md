@@ -3,9 +3,9 @@ title: "Look out for the NETA V"
 slug: "look-out-for-the-neta-v"
 authors: "pedrolima"
 date: "2021-06-14"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/NETA-V.avif"
 ---
 

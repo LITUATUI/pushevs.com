@@ -3,9 +3,9 @@ title: "BYD Blade prismatic battery cell specs and possibilities"
 slug: "byd-blade-prismatic-battery-cell-specs-possibilities"
 authors: "pedrolima"
 date: "2020-05-26"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Blade-prismatic-battery-cell.avif"
 ---
 

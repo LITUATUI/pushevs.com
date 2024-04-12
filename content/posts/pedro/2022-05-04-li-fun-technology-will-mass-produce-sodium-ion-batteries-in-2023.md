@@ -3,9 +3,9 @@ title: "Li-FUN Technology will mass produce sodium-ion batteries in 2023"
 slug: "li-fun-technology-will-mass-produce-sodium-ion-batteries-in-2023"
 authors: "pedrolima"
 date: "2022-05-04"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Li-FUN-sodium-ion-battery-cells.avif"
 ---
 

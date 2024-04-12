@@ -3,9 +3,9 @@ title: "Renault Megane E-Tech battery details"
 slug: "renault-megane-e-tech-battery-details"
 authors: "pedrolima"
 date: "2023-05-14"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Renault-Megane-E-Tech.avif"
 ---
 

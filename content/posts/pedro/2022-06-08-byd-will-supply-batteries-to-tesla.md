@@ -3,9 +3,9 @@ title: "BYD will supply batteries to Tesla"
 slug: "byd-will-supply-batteries-to-tesla"
 authors: "pedrolima"
 date: "2022-06-08"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Blade-Battery-prismatic-cells.avif"
 ---
 

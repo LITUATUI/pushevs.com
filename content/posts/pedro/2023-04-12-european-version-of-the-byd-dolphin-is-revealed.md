@@ -3,9 +3,9 @@ title: "European version of the BYD Dolphin is revealed"
 slug: "european-version-of-the-byd-dolphin-is-revealed"
 authors: "pedrolima"
 date: "2023-04-12"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/European-version-of-the-BYD-Dolphin.avif"
 ---
 

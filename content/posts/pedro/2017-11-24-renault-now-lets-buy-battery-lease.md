@@ -3,9 +3,9 @@ title: "Renault now lets you buy out the battery lease"
 slug: "renault-now-lets-buy-battery-lease"
 authors: "pedrolima"
 date: "2017-11-24"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/renault-zoe-and-battery.avif"
 ---
 

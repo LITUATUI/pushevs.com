@@ -3,10 +3,12 @@ title: "May 2023 - Germans love the domestic Tesla Model Y"
 slug: "may-2023-germans-love-the-domestic-tesla-model-y"
 authors: "maximilianholland"
 date: "2023-06-17"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y-made-in-Germany.avif"
+categories:
+  - "EV sales"
+tags:
+  - "Germany"
+images:
+  - "/ev-sales-images/Germany-flag.avif"
 ---
 
 The auto market in Germany saw plugin EVs take 22.9% share in May 2023, down from 25.3% year on year. Full electrics gained share, but were outpaced by the losses in plugin hybrid share, due to recent policy changes. Overall auto volume was 246,966 units, up by some 20% YoY, though down from pre-2020 norms. The bestselling full electric in May was the Tesla Model Y, boosted by domestic production.

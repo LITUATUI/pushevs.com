@@ -1,12 +1,14 @@
 ---
-title: "Tesla Model Y strengthens its position in Sweden"
+title: "March 2023 - Tesla Model Y strengthens its position in Sweden"
 slug: "tesla-model-y-strengthens-its-position-in-sweden"
 authors: "maximilianholland"
 date: "2023-04-07"
-categories: 
-  - "general"
-images: 
-  - "/images/Tesla-Model-Y-made-in-Germany.avif"
+categories:
+  - "EV sales"
+tags:
+  - "Sweden"
+images:
+  - "/ev-sales-images/Sweden-flag.avif"
 ---
 
 Sweden’s plugin electric vehicles took almost 60% of the auto market in March, up from 55.6% year on year. BEVs alone took 41.6% of the market, up from 31.8% YoY. Overall auto market volume was 30,261 units, up some 5% YoY, though still below historical seasonal norms. The Tesla Model Y was the overall best selling vehicle of any kind, taking 10.6% of all passenger auto sales!

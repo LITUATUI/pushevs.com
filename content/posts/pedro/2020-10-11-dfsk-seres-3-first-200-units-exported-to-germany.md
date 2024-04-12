@@ -3,9 +3,9 @@ title: "DFSK SERES 3 - First 200 units exported to Germany"
 slug: "dfsk-seres-3-first-200-units-exported-to-germany"
 authors: "pedrolima"
 date: "2020-10-11"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/DFSK-SERES-3-First-200-units-exported-to-Germany.avif"
 ---
 

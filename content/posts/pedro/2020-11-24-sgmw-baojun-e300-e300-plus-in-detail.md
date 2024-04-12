@@ -3,9 +3,9 @@ title: "SGMW Baojun E300/E300 Plus in detail"
 slug: "sgmw-baojun-e300-e300-plus-in-detail"
 authors: "pedrolima"
 date: "2020-11-24"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Baojun-E300-and-Baojun-E300-Plus.avif"
 ---
 

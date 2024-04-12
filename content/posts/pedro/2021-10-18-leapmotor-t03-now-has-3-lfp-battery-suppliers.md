@@ -3,9 +3,9 @@ title: "Leapmotor T03 now has 3 LFP battery suppliers"
 slug: "leapmotor-t03-now-has-3-lfp-battery-suppliers"
 authors: "pedrolima"
 date: "2021-10-18"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Leapmotor-T03.avif"
 ---
 

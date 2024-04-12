@@ -3,9 +3,9 @@ title: "Tesla Model 3 with solar roof option"
 slug: "tesla-model-3-solar-roof-option"
 authors: "pedrolima"
 date: "2016-11-06"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/tesla-model-3-with-solar-roof.avif"
 ---
 

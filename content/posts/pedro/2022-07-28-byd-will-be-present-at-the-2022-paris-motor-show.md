@@ -3,9 +3,9 @@ title: "BYD will be present at the 2022 Paris Motor Show"
 slug: "byd-will-be-present-at-the-2022-paris-motor-show"
 authors: "pedrolima"
 date: "2022-07-28"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-will-be-present-at-the-Paris-Motor-Show.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "New FIAT 500 prices in Germany and Portugal"
 slug: "new-fiat-500-prices-in-germany-portugal"
 authors: "pedrolima"
 date: "2020-11-16"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/New-FIAT-500-prices-in-Portugal.avif"
 ---
 

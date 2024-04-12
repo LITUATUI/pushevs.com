@@ -3,9 +3,9 @@ title: "Renault Mégane E-Tech Electric is almost ready for mass production"
 slug: "renault-megane-e-tech-electric-is-almost-ready-for-mass-production"
 authors: "pedrolima"
 date: "2021-06-08"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/2021-New-Renault-MEGANE-E-TECH-Electric-pre-production.avif"
 ---
 

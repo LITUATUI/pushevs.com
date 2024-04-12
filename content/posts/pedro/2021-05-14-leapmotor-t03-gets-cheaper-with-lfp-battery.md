@@ -3,9 +3,9 @@ title: "Leapmotor T03 gets cheaper with LFP battery"
 slug: "leapmotor-t03-gets-cheaper-with-lfp-battery"
 authors: "pedrolima"
 date: "2021-05-14"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/2021-Leapmotor-T03.avif"
 ---
 

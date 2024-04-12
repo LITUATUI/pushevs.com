@@ -3,9 +3,9 @@ title: "Volkswagen's strategy for batteries"
 slug: "volkswagen-strategy-for-batteries"
 authors: "pedrolima"
 date: "2016-09-13"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/2015-volkswagen-e-golf-battery.avif"
 ---
 

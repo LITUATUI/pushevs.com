@@ -3,9 +3,9 @@ title: "This is why BYD Blade battery is ahead of competition"
 slug: "this-is-why-byd-blade-battery-is-ahead-of-competition"
 authors: "pedrolima"
 date: "2021-08-10"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Blade-battery-with-CTP-technology.avif"
 ---
 

@@ -1,12 +1,14 @@
 ---
-title: "EVs in France reach record market share"
+title: "December 2022 - EVs in France reach record market share"
 slug: "evs-in-france-reach-record-market-share"
 authors: "maximilianholland"
 date: "2023-01-08"
-categories: 
-  - "general"
-images: 
-  - "/images/2021-New-Dacia-Spring.avif"
+categories:
+  - "EV sales"
+tags:
+  - "France"
+images:
+  - "/ev-sales-images/France-flag.avif"
 ---
 
 December saw France's plug-in electric vehicles grow to take 25.0% share of the auto market, up fractionally from 24.4% a year ago. Full electrics grew at a decent rate, but plugin hybrids fell. Overall auto volumes for the month were flat year on year, but full year 2022 volumes were down almost 8% on 2021. The Dacia Spring was December's bestselling BEV.

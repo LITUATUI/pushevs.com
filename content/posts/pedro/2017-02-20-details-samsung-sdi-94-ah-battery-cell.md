@@ -3,9 +3,9 @@ title: "More details on the Samsung SDI 94 Ah battery cell"
 slug: "details-samsung-sdi-94-ah-battery-cell"
 authors: "pedrolima"
 date: "2017-02-20"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/samsung-sdi-94ah-battery-cell-rebadged-as-gwl-power.avif"
 ---
 

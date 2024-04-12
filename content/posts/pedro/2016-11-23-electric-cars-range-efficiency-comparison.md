@@ -3,9 +3,9 @@ title: "Electric cars: range and efficiency comparison"
 slug: "electric-cars-range-efficiency-comparison"
 authors: "pedrolima"
 date: "2016-11-23"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/epa-electric-label.avif"
 ---
 

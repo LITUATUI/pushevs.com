@@ -3,9 +3,9 @@ title: "VSPC develops cobalt-free LFMP battery cell"
 slug: "vspc-develops-cobalt-free-lfmp-battery-cell"
 authors: "pedrolima"
 date: "2020-12-11"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Lithium-Australia-logo.avif"
 ---
 

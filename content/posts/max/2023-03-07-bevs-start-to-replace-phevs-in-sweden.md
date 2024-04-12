@@ -1,12 +1,14 @@
 ---
-title: "BEVs start to replace PHEVs in Sweden"
+title: "February 2023 - BEVs start to replace PHEVs in Sweden"
 slug: "bevs-start-to-replace-phevs-in-sweden"
 authors: "maximilianholland"
 date: "2023-03-07"
-categories: 
-  - "general"
-images: 
-  - "/images/2023_Volvo_XC40_Recharge.avif"
+categories:
+  - "EV sales"
+tags:
+  - "Sweden"
+images:
+  - "/ev-sales-images/Sweden-flag.avif"
 ---
 
 In February, Sweden’s plugin electric vehicles continued to dominate with a 54.0% share of auto sales, up from 51.6% year on year. Full electric share grew substantially, whilst plugin hybrid share decreased. Overall auto volume was 18,442 units, down some 13% YoY. The Volvo XC40 was February’s best selling BEV yet again, holding the lead for the 5th consecutive month.

@@ -3,9 +3,9 @@ title: "Tata Nexon EV is an affordable Indian electric car"
 slug: "tata-nexon-ev-is-an-affordable-indian-electric-car"
 authors: "pedrolima"
 date: "2020-10-06"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Tata-Nexon-EV.avif"
 ---
 

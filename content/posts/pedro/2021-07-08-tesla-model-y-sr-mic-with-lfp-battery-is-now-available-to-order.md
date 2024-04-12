@@ -3,9 +3,9 @@ title: "Tesla Model Y SR MIC with LFP battery is now available to order"
 slug: "tesla-model-y-sr-mic-with-lfp-battery-is-now-available-to-order"
 authors: "pedrolima"
 date: "2021-07-08"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Tesla-Model-Y-configurator-in-China.avif"
 ---
 

@@ -1,12 +1,14 @@
 ---
-title: "Electric car sales remain low in the UK"
+title: "January 2023 - Electric car sales remain low in the UK"
 slug: "electric-car-sales-remain-low-in-the-uk"
 authors: "maximilianholland"
 date: "2023-02-09"
-categories: 
-  - "general"
-images: 
-  - "/images/IMF-economic-forecast.avif"
+categories:
+  - "EV sales"
+tags:
+  - "UK"
+images:
+  - "/ev-sales-images/UK-flag.avif"
 ---
 
 The UK auto market saw plugin electric vehicles (EVs) take 20.0% share of new sales in January, flat from 20.4% year on year. Full electrics grew slightly whilst plugin hybrids shrank. Overall auto volume was 131,994 units, up some 15% YoY, but still 21% below pre-2020 seasonal norms. Volkswagen was the UK’s best selling BEV brand in January.

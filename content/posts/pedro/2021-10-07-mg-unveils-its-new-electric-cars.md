@@ -3,9 +3,9 @@ title: "MG unveils its new electric cars"
 slug: "mg-unveils-its-new-electric-cars"
 authors: "pedrolima"
 date: "2021-10-07"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/MG-model-range-2021.avif"
 ---
 

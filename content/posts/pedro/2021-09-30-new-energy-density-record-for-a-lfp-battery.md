@@ -3,9 +3,9 @@ title: "New energy density record for a LFP battery"
 slug: "new-energy-density-record-for-a-lfp-battery"
 authors: "pedrolima"
 date: "2021-09-30"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/XCMG-Group.avif"
 ---
 

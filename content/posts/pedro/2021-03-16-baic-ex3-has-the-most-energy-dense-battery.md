@@ -3,9 +3,9 @@ title: "BAIC EX3 has the most energy dense battery"
 slug: "baic-ex3-has-the-most-energy-dense-battery"
 authors: "pedrolima"
 date: "2021-03-16"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BAIC-EX3.avif"
 ---
 

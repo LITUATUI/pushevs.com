@@ -3,9 +3,9 @@ title: "ORA Cherry Cat debuts NMx cobalt-free battery from SVOLT"
 slug: "ora-cherry-cat-debuts-nmx-battery-from-svolt"
 authors: "pedrolima"
 date: "2021-07-15"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/ORA-Cherry-Cat.avif"
 ---
 

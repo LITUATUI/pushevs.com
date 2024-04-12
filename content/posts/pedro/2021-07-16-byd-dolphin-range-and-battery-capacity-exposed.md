@@ -3,9 +3,9 @@ title: "BYD Dolphin: range and battery capacity exposed"
 slug: "byd-dolphin-range-and-battery-capacity-exposed"
 authors: "pedrolima"
 date: "2021-07-16"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/BYD-Dolphin.avif"
 ---
 

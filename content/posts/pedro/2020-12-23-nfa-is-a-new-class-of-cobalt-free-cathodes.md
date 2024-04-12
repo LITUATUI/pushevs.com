@@ -3,9 +3,9 @@ title: "NFA is a new class of cobalt-free cathodes"
 slug: "nfa-is-a-new-class-of-cobalt-free-cathodes"
 authors: "pedrolima"
 date: "2020-12-23"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/NFA-cobalt-free-cathode.avif"
 ---
 

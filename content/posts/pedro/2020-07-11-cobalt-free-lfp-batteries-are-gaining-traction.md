@@ -3,9 +3,9 @@ title: "Cobalt-free LFP batteries are gaining traction"
 slug: "cobalt-free-lfp-batteries-are-gaining-traction"
 authors: "pedrolima"
 date: "2020-07-11"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Different-battery-cathode-chemistries-comparison.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "Wuling Hong Guang MINI EV had a strong first full sales month"
 slug: "wuling-hong-guang-mini-ev-had-a-strong-first-full-sales-month"
 authors: "pedrolima"
 date: "2020-08-26"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Wuling-Hong-Guang-MINI-EV.avif"
 ---
 

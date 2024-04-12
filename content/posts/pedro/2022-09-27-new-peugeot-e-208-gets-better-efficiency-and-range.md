@@ -3,9 +3,9 @@ title: "New PEUGEOT e-208 gets better efficiency and range"
 slug: "new-peugeot-e-208-gets-better-efficiency-and-range"
 authors: "pedrolima"
 date: "2022-09-27"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/New-PEUGEOT-e-208.avif"
 ---
 

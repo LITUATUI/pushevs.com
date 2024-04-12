@@ -3,9 +3,9 @@ title: "Developments on LFP battery technology"
 slug: "developments-on-lfp-battery-technology"
 authors: "pedrolima"
 date: "2021-07-13"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/SVOLT-battery-roadmap.avif"
 ---
 

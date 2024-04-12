@@ -3,9 +3,9 @@ title: "Electric SUV smart #1 tech specs"
 slug: "electric-suv-smart-1-tech-specs"
 authors: "pedrolima"
 date: "2022-04-08"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Electric-SUV-smart-1.avif"
 ---
 

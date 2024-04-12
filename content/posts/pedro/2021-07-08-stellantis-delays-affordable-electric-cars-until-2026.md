@@ -3,9 +3,9 @@ title: "Stellantis delays affordable electric cars until 2026"
 slug: "stellantis-delays-affordable-electric-cars-until-2026"
 authors: "pedrolima"
 date: "2021-07-08"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Stellantis-EV-affordability-delayed-until-2026.avif"
 ---
 

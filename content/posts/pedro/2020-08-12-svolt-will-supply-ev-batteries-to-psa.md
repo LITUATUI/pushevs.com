@@ -3,9 +3,9 @@ title: "SVOLT will supply EV batteries to PSA"
 slug: "svolt-will-supply-ev-batteries-to-psa"
 authors: "pedrolima"
 date: "2020-08-12"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/SVOLT-cobalt-free-battery-cell-launch-event.avif"
 ---
 

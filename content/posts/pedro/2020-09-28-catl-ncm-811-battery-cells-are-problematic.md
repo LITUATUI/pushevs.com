@@ -3,9 +3,9 @@ title: "CATL's NCM 811 battery cells are problematic"
 slug: "catl-ncm-811-battery-cells-are-problematic"
 authors: "pedrolima"
 date: "2020-09-28"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CATL-NCM-811-prismatic-battery-cells.avif"
 ---
 

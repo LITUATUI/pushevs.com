@@ -3,9 +3,9 @@ title: "CATL will launch a 10 C-rate EV battery"
 slug: "catl-will-launch-a-10-c-rate-ev-battery"
 authors: "pedrolima"
 date: "2022-07-04"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/CATL-new-battery-features.avif"
 ---
 

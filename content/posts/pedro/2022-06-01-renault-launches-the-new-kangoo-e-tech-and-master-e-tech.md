@@ -3,9 +3,9 @@ title: "Renault launches the new Kangoo E-TECH and Master E-TECH"
 slug: "renault-launches-the-new-kangoo-e-tech-and-master-e-tech"
 authors: "pedrolima"
 date: "2022-06-01"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/2022-All-New-Kangoo-Van-E-TECH-and-New-Master-E-TECH-52-kWh.avif"
 ---
 

@@ -3,9 +3,9 @@ title: "Guoxuan unveils a cobalt-free LFP pouch battery cell with 212 Wh/kg"
 slug: "guoxuan-unveils-a-cobalt-free-lfp-pouch-battery-cell-with-212-wh-kg"
 authors: "pedrolima"
 date: "2021-01-10"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Guoxuan-unveils-a-cobalt-free-LFP-pouch-battery-cell-with-212-Wh-kg.avif"
 ---
 

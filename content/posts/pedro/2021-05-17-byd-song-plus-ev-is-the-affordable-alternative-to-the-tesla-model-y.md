@@ -3,9 +3,9 @@ title: "BYD Song Plus EV is the affordable alternative to the Tesla Model Y"
 slug: "byd-song-plus-ev-is-the-affordable-alternative-to-the-tesla-model-y"
 authors: "pedrolima"
 date: "2021-05-17"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/New-BYD-Song-Plus-EV.avif"
 ---
 

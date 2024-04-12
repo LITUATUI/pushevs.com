@@ -3,9 +3,9 @@ title: "LG Energy Solution is developing LFP battery cells"
 slug: "lg-energy-solution-is-developing-lfp-battery-cells"
 authors: "pedrolima"
 date: "2021-09-07"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/LG-Energy-Solution-at-the-InterBattery-2021-event.avif"
 ---
 

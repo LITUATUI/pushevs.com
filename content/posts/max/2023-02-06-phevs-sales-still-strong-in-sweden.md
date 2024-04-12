@@ -1,10 +1,14 @@
 ---
-title: "PHEVs sales still strong in Sweden"
+title: "January 2023 - PHEVs sales still strong in Sweden"
 slug: "phevs-sales-still-strong-in-sweden"
 authors: "maximilianholland"
 date: "2023-02-06"
-categories: 
-  - "general"
+categories:
+  - "EV sales"
+tags:
+  - "Sweden"
+images:
+  - "/ev-sales-images/Sweden-flag.avif"
 ---
 
 Sweden’s plugin electric vehicle share in January was 52.4%, flat from 52.9% year on year. The temporary pause in growth comes after a pull-forward in December. Overall auto volume in January was 35,476 units, some 27% down from January 2022. The best selling full electric was the Volvo XC40.

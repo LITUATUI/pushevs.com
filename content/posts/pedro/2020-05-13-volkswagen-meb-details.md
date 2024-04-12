@@ -3,9 +3,9 @@ title: "Volkswagen MEB details"
 slug: "volkswagen-meb-details"
 authors: "pedrolima"
 date: "2020-05-13"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Modular-electric-drive-matrix-MEB-by-Volkswagen.avif"
 ---
 

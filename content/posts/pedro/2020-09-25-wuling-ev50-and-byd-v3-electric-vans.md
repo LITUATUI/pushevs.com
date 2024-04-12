@@ -3,9 +3,9 @@ title: "Wuling EV50 and BYD V3 electric vans"
 slug: "wuling-ev50-and-byd-v3-electric-vans"
 authors: "pedrolima"
 date: "2020-09-25"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/Wuling-EV50.avif"
 ---
 

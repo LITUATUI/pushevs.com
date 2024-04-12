@@ -3,9 +3,9 @@ title: "JAC Yiwei 3 will also be powered by sodium-ion batteries"
 slug: "jac-yiwei-3-will-also-be-powered-by-sodium-ion-batteries"
 authors: "pedrolima"
 date: "2023-05-05"
-categories: 
-  - "general"
-images: 
+categories:
+  - "General"
+images:
   - "/images/JAC-Yiwei-3-powered-by-sodium-ion-battery.avif"
 ---
 

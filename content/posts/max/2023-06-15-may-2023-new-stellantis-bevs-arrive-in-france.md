@@ -3,10 +3,12 @@ title: "May 2023 - New Stellantis BEVs arrive in France"
 slug: "may-2023-new-stellantis-bevs-arrive-in-france"
 authors: "maximilianholland"
 date: "2023-06-15"
-categories: 
-  - "general"
-images: 
-  - "/images/Jeep-Avenger-BEV.avif"
+categories:
+  - "EV sales"
+tags:
+  - "France"
+images:
+  - "/ev-sales-images/France-flag.avif"
 ---
 
 May saw France’s plugins take over 24% market share, up from 20.9% year on year, with new Stellantis BEVs arriving. Full electrics grew from 12.0% to 15.6% share, while plugin hybrids slightly lost share. Overall auto volume was 145,536 units, up some 15% YoY, though still down on pre-2020 norms. The bestselling BEV in May was the Tesla Model Y.
