@@ -39,7 +39,7 @@ In second place was MG Motor, with the MG4 being the second highest selling BEV 
 
 ![](ev-sales-images/2023-06-UK-BEV-Brand-_-Est.avif)
 
-There were no dramatic changes in the brand rankings [compared to last month](/2023/06/20/2023-05-strongest-may-ever-for-tesla-in-the-uk/), just some minor shuffling of places.
+There were no dramatic changes in the brand rankings [compared to last month](/2023/06/20/may-2023-strongest-may-ever-for-tesla-in-the-uk/), just some minor shuffling of places.
 
 The Tesla Model Y was both June’s overall best selling vehicle (5,539 units), and the 4th best selling of the year to date, with 19,551 units.
 

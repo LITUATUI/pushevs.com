@@ -1,6 +1,6 @@
 ---
 title: "January 2023 - Dacia Spring takes the lead in France"
-slug: "dacia-spring-takes-the-lead-in-france"
+slug: "january-2023-dacia-spring-takes-the-lead-in-france"
 authors: "maximilianholland"
 date: "2023-02-08"
 categories:

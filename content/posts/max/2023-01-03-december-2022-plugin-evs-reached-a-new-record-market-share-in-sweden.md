@@ -1,6 +1,6 @@
 ---
 title: "December 2022 - Plugin EVs reached a new record market share in Sweden"
-slug: "plugin-evs-reached-a-new-record-market-share-in-sweden"
+slug: "december-2022-plugin-evs-reached-a-new-record-market-share-in-sweden"
 authors: "maximilianholland"
 date: "2023-01-03"
 categories:

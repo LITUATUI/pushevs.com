@@ -15,7 +15,7 @@ Growth continued for the Norwegian plugin EV market in May 2023, as combined plu
 
 ![](ev-sales-images/2023-05-Norway-Passenger-Auto-Registrations.avif)
 
-The 88.9% combined plugin total was made up of 80.7% BEVs, and 8.2% PHEVs.  A year ago their scores were 85.1% combined, with 73.2% BEV, and 11.9% PHEV. Combined score has just dipped below the >90% maintained over the past three months, but will get back well above 90% in June. The market is still finding its new equilibrium after [January 1st incentive changes](/2023/01/05/ev-sales-in-norway-explode-ahead-of-policy-changes/).
+The 88.9% combined plugin total was made up of 80.7% BEVs, and 8.2% PHEVs.  A year ago their scores were 85.1% combined, with 73.2% BEV, and 11.9% PHEV. Combined score has just dipped below the >90% maintained over the past three months, but will get back well above 90% in June. The market is still finding its new equilibrium after [January 1st incentive changes](/2023/01/05/december-2022-ev-sales-in-norway-explode-ahead-of-policy-changes/).
 
 Volume of PHEVs was down only about 20% from May last year (despite much less incentive support), whilst BEV volumes increased by over 27% YoY.
 

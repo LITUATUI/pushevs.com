@@ -53,7 +53,7 @@ Let’s look at the longer term sales charts:
 
  
 
-Tesla significantly leads the trailing 3-month chart, with over 50% greater sales than the second placed Volvo XC40, thanks to a [huge volume in March](/2023/04/07/tesla-model-y-strengthens-its-position-in-sweden/).
+Tesla significantly leads the trailing 3-month chart, with over 50% greater sales than the second placed Volvo XC40, thanks to a [huge volume in March](/2023/04/07/march-2023-tesla-model-y-strengthens-its-position-in-sweden/).
 
 It is good to see a relatively affordable touring (or “estate”) BEV in 9th, the MG5. It seems this format may still be popular in some parts of Europe, though the MG5 is the only BEV example available so far.
 

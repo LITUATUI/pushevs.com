@@ -1,6 +1,6 @@
 ---
 title: "March 2023 - Tesla Model Y continues to lead auto sales in Norway"
-slug: "tesla-model-y-continues-to-lead-auto-sales-in-norway"
+slug: "march-2023-tesla-model-y-continues-to-lead-auto-sales-in-norway"
 authors: "maximilianholland"
 date: "2023-04-08"
 categories:
@@ -51,7 +51,7 @@ In other notable news, further back in the pack, the Peugeot 208 had its highest
 
 In terms of the progress of newer models: the Nissan Ariya (which debuted in August ’22) saw its highest ever monthly volumes (226 units), and climbed to 15th spot. The new Hyundai Ioniq 6 sedan build upon its debut last month, with a decent climb to 198 units, and 19th spot.
 
-Finally, the Nio ET5 made its Norway debut in March, registering a healthy 41 initial units (for info on this new model, see my [Sweden report](/2023/04/07/tesla-model-y-strengthens-its-position-in-sweden/)).
+Finally, the Nio ET5 made its Norway debut in March, registering a healthy 41 initial units (for info on this new model, see my [Sweden report](/2023/04/07/march-2023-tesla-model-y-strengthens-its-position-in-sweden/)).
 
 Let’s now step back for the broader view:
 
@@ -98,7 +98,7 @@ In a smaller market like Norway, a month or two of deliveries made (or paused) c
 
 ## Outlook
 
-Norway’s economy is escaping some of the worst of the fate of other European neighbours. We saw in yesterday’s report that neighbouring [Sweden](/2023/04/07/tesla-model-y-strengthens-its-position-in-sweden/) is now in an inflationary recession (“stagflation”). Norway has escaped this, partly due to its substantial fossil fuel exports (giving its current account a [record surplus](https://www.dbrsmorningstar.com/research/412175/dbrs-morningstar-confirms-the-kingdom-of-norway-at-aaa-stable-trend) in 2022), against the backdrop of European energy supply disruption.
+Norway’s economy is escaping some of the worst of the fate of other European neighbours. We saw in yesterday’s report that neighbouring [Sweden](/2023/04/07/march-2023-tesla-model-y-strengthens-its-position-in-sweden/) is now in an inflationary recession (“stagflation”). Norway has escaped this, partly due to its substantial fossil fuel exports (giving its current account a [record surplus](https://www.dbrsmorningstar.com/research/412175/dbrs-morningstar-confirms-the-kingdom-of-norway-at-aaa-stable-trend) in 2022), against the backdrop of European energy supply disruption.
 
 According to a recent forecast from the country’s central bank, [_Norges Bank_](https://www.dbrsmorningstar.com/research/412175/dbrs-morningstar-confirms-the-kingdom-of-norway-at-aaa-stable-trend), the economy is on track for modest 1.1% growth in 2023. Since energy and food are internationally traded, Norwegian consumer prices have also been exposed to Europe’s inflationary trends in recent months, despite the country’s overall balance of trade benefiting overall from the higher energy prices (via exports).
 

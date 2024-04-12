@@ -1,6 +1,6 @@
 ---
 title: "January 2023 - Auto sales drop to new low in Norway"
-slug: "auto-sales-drop-to-new-low-in-norway"
+slug: "january-2023-auto-sales-drop-to-new-low-in-norway"
 authors: "maximilianholland"
 date: "2023-02-07"
 categories:
@@ -21,7 +21,7 @@ Norway saw plugin electric vehicles take 76.3% share of the auto market in Janua
 
 January’s combined plugin result of 76.3% comprised 66.5% full electrics (BEVs), and 9.8% plugin hybrids (PHEVs). These compared with respective shares of 90.5%, 83.7%, and 6.8% a year ago.
 
-Due to the anomalous tax discontinuity mentioned above, we have to take January’s picture with a pinch of salt — it doesn’t tell us very much. For a recap on what the new emissions and tax changes involve, take a look back at [my summary in last month’s report](/2023/01/05/ev-sales-in-norway-explode-ahead-of-policy-changes/).
+Due to the anomalous tax discontinuity mentioned above, we have to take January’s picture with a pinch of salt — it doesn’t tell us very much. For a recap on what the new emissions and tax changes involve, take a look back at [my summary in last month’s report](/2023/01/05/december-2022-ev-sales-in-norway-explode-ahead-of-policy-changes/).
 
 The new policies affect both plugins and non-plugins, although the latter are hit much harder. For example, petrol-only vehicles (with relatively high CO2 emissions) are now taxed much higher in Norway. That’s the reason why there was a December rush of 2,503 petrol-only units, whilst January saw just 36 units, roughly two orders of magnitude less!
 

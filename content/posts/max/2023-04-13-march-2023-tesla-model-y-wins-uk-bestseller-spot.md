@@ -1,6 +1,6 @@
 ---
-title: "March 2023 - Tesla Model Y wins UK bestseller spot in March"
-slug: "tesla-model-y-wins-uk-bestseller-spot-in-march"
+title: "March 2023 - Tesla Model Y wins UK bestseller spot"
+slug: "march-2023-tesla-model-y-wins-uk-bestseller-spot"
 authors: "maximilianholland"
 date: "2023-04-13"
 categories:
@@ -23,7 +23,7 @@ Hybrids (HEVs) and mild hybrids continued to see strong growth in the UK, with 3
 
 HEVs can save around 25% fuel use over ICE-only, whereas for mild hybrids, the figure is around 10% to 15% (EPA estimates, depends heavily on typical driving cycle). Whilst these are welcome improvements over ICE-only — especially when introduced in 1997 — they are not the final answer in a world where compelling BEVs now exist, and their technology and affordability is rapidly improving, along with densifying charging networks.
 
-Diesels continued to slide, taking just 3.8% of the market (only December ’22 was lower), from 5.6% YoY. Their trajectory in the chart below suggests that they may dwindle to around 1% by 2025. This is [roughly where they are in Norway](/2023/04/08/tesla-model-y-continues-to-lead-auto-sales-in-norway/) today.
+Diesels continued to slide, taking just 3.8% of the market (only December ’22 was lower), from 5.6% YoY. Their trajectory in the chart below suggests that they may dwindle to around 1% by 2025. This is [roughly where they are in Norway](/2023/04/08/march-2023-tesla-model-y-continues-to-lead-auto-sales-in-norway/) today.
 
  
 

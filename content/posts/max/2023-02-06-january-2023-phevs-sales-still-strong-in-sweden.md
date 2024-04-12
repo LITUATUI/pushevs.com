@@ -1,6 +1,6 @@
 ---
 title: "January 2023 - PHEVs sales still strong in Sweden"
-slug: "phevs-sales-still-strong-in-sweden"
+slug: "january-2023-phevs-sales-still-strong-in-sweden"
 authors: "maximilianholland"
 date: "2023-02-06"
 categories:

@@ -1,6 +1,6 @@
 ---
 title: "February 2023 - Tesla continues to dominate EV sales in the UK"
-slug: "tesla-continues-to-dominate-ev-sales-in-the-uk"
+slug: "february-2023-tesla-continues-to-dominate-ev-sales-in-the-uk"
 authors: "maximilianholland"
 date: "2023-03-10"
 categories:

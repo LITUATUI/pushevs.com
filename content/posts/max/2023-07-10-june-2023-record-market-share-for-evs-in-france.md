@@ -39,7 +39,7 @@ In 4th place was the MG4 (its highest ever ranking), and in 5th was the ever-pop
 
 The Renault Megane put in its best monthly volume since December, at 2,377 units, taking 6th spot. This makes for _six BEV models with over 2,000 monthly sales_ in June, a new record. With the Peugeot e-208 not far behind, can we expect that to increase to 7 models in September?
 
-With limited BEV model data this month, we can’t say for sure whether any newcomers made debuts in the French market. We can confirm that the still new Jeep Avenger continued to grow monthly volume (441 units, from [a 334 debut last month](/2023/06/15/2023-05-new-stellantis-bevs-arrive-in-france/)), placing it in 16th spot in June.
+With limited BEV model data this month, we can’t say for sure whether any newcomers made debuts in the French market. We can confirm that the still new Jeep Avenger continued to grow monthly volume (441 units, from [a 334 debut last month](/2023/06/15/may-2023-new-stellantis-bevs-arrive-in-france/)), placing it in 16th spot in June.
 
 Let’s now look at the trailing 3 month volumes:
 

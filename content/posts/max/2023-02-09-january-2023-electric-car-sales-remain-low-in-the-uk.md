@@ -1,6 +1,6 @@
 ---
 title: "January 2023 - Electric car sales remain low in the UK"
-slug: "electric-car-sales-remain-low-in-the-uk"
+slug: "january-2023-electric-car-sales-remain-low-in-the-uk"
 authors: "maximilianholland"
 date: "2023-02-09"
 categories:
@@ -21,7 +21,7 @@ January’s combined plugin share of 20.0% comprised 13.1% full battery electric
 
 It’s normal for January’s plugin share to take a significant step back from December’s results, when manufacturers  push to meet fleet emissions requirements, and to boost their PR credentials for annual plugin progress. This year, there was additional pressure in some European markets for a “big December” since many plugin incentives have also been cut as of January 1st. So where December often sees a pull-forward, January inevitably sees a bit of a hangover.
 
-Whilst this year [France](/2023/02/08/dacia-spring-takes-the-lead-in-france/) saw YoY plugin share growth in January, both the UK and [Sweden](/2023/02/06/phevs-sales-still-strong-in-sweden/) have seen January’s plugin results flat,  and both [Norway](/2023/02/07/auto-sales-drop-to-new-low-in-norway/) and Germany saw a decline. The good news is that flatness or decline is mostly due to _falling PHEV sales_ (stemming from incentive cuts), whilst the performance of BEVs has been more resilient.
+Whilst this year [France](/2023/02/08/january-2023-dacia-spring-takes-the-lead-in-france/) saw YoY plugin share growth in January, both the UK and [Sweden](/2023/02/06/january-2023-phevs-sales-still-strong-in-sweden/) have seen January’s plugin results flat,  and both [Norway](/2023/02/07/january-2023-auto-sales-drop-to-new-low-in-norway/) and Germany saw a decline. The good news is that flatness or decline is mostly due to _falling PHEV sales_ (stemming from incentive cuts), whilst the performance of BEVs has been more resilient.
 
 Meanwhile, diesel-only vehicles continued their decline, reaching 4.0% share of the market in January, from 5.2% YoY. Petrols were flat YoY in January, but are also on a slide over the long term. Plugless hybrids continue to replace combustion-only powertrains, offering a bit more efficiency, which — whilst a slight emissions improvement on the status quo ante — are only a temporary fix, and will lose out to plugins over the longer term.
 

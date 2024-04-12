@@ -1,6 +1,6 @@
 ---
 title: "December 2022 - EVs took more than half of the German car market"
-slug: "in-december-evs-took-more-than-half-of-the-german-car-market"
+slug: "december-2022-evs-took-more-than-half-of-the-german-car-market"
 authors: "maximilianholland"
 date: "2023-01-08"
 categories:

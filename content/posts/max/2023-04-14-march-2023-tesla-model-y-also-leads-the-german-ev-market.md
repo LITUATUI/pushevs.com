@@ -1,6 +1,6 @@
 ---
 title: "March 2023 - Tesla Model Y also leads the German EV market"
-slug: "tesla-model-y-also-leads-the-german-ev-market"
+slug: "march-2023-tesla-model-y-also-leads-the-german-ev-market"
 authors: "maximilianholland"
 date: "2023-04-14"
 categories:
@@ -17,7 +17,7 @@ Germany’s plugin electric vehicles took 21.6% of the auto market in March, dow
 
 March’s combined plugin share of 21.6% comprised 15.7% full electrics (BEVs), and 6.0% plugin hybrids (PHEVs). These shares compare with corresponding YoY figures of 25.6%, 14.3%, and 11.3%.
 
-Recall that we are still in the hangover phase of the significant plugin incentive cuts that came in on January 1st (see reports from [December](/2023/01/08/in-december-evs-took-more-than-half-of-the-german-car-market/) and [January](/2023/02/13/domestic-tesla-model-y-dominated-the-german-ev-market-in-january/) for more detail). Despite this, in volume terms, BEVs saw decent YoY growth, slightly ahead of the overall market, growing sales 28% to 44,125 units. This was close to the 3rd highest volume ever (trailing the past two Decembers).
+Recall that we are still in the hangover phase of the significant plugin incentive cuts that came in on January 1st (see reports from [December](/2023/01/08/december-2023-evs-took-more-than-half-of-the-german-car-market/) and [January](/2023/02/13/january-2023-domestic-tesla-model-y-dominated-the-german-ev-market-in-january/) for more detail). Despite this, in volume terms, BEVs saw decent YoY growth, slightly ahead of the overall market, growing sales 28% to 44,125 units. This was close to the 3rd highest volume ever (trailing the past two Decembers).
 
 PHEVs — which lost the entire _Umweltbonus_ incentive from January 1st — saw sales hit harder, thus the almost halving of share YoY. Their volume was down some 38% YoY, to 16,776 units.
 

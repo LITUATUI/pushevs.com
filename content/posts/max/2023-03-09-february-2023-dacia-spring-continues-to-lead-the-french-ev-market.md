@@ -1,6 +1,6 @@
 ---
 title: "February 2023 - Dacia Spring continues to lead the French EV market"
-slug: "dacia-spring-continues-to-lead-the-french-ev-market"
+slug: "february-2023-dacia-spring-continues-to-lead-the-french-ev-market"
 authors: "maximilianholland"
 date: "2023-03-09"
 categories:

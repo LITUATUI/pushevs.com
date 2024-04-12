@@ -1,6 +1,6 @@
 ---
 title: "December 2022 - EVs dominated the UK car market"
-slug: "evs-dominated-the-uk-car-market-in-december"
+slug: "december-2022-evs-dominated-the-uk-car-market"
 authors: "maximilianholland"
 date: "2023-01-09"
 categories:

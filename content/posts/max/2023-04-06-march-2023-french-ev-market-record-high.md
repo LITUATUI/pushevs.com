@@ -1,6 +1,6 @@
 ---
-title: "March 2023 - French EV market record high in March"
-slug: "french-ev-market-record-high-in-march"
+title: "March 2023 - French EV market record high"
+slug: "march-2023-french-ev-market-record-high"
 authors: "maximilianholland"
 date: "2023-04-06"
 categories:

@@ -1,6 +1,6 @@
 ---
 title: "December 2022 - EVs in France reach record market share"
-slug: "evs-in-france-reach-record-market-share"
+slug: "december-2022-evs-in-france-reach-record-market-share"
 authors: "maximilianholland"
 date: "2023-01-08"
 categories:
@@ -27,7 +27,7 @@ In _volume_ terms, the picture was more subdued, since the wider context is that
 
 The bigger picture is that France remains under-supplied with BEVs, and the same is true across Europe as whole. Different national markets may get allocation priority at different times. Rarely do growth rates accurately reflect consumer preferences, since overall supplies remain limited.
 
-For example, we have just seen [Norway receive relatively huge allocations](/2023/01/05/ev-sales-in-norway-explode-ahead-of-policy-changes/) from the pool of BEV supply in November and December, to boost sales ahead of vehicle tax increases in 2023. So, whilst France was allocated 45,290 BEV units across November and December, Norway received 49,628 units. This despite the French auto market being typically roughly 10x the size that of Norway, and typical monthly French BEV volumes being 2x those of Norway.
+For example, we have just seen [Norway receive relatively huge allocations](/2023/01/05/december-2022-ev-sales-in-norway-explode-ahead-of-policy-changes/) from the pool of BEV supply in November and December, to boost sales ahead of vehicle tax increases in 2023. So, whilst France was allocated 45,290 BEV units across November and December, Norway received 49,628 units. This despite the French auto market being typically roughly 10x the size that of Norway, and typical monthly French BEV volumes being 2x those of Norway.
 
 In short -- given the inherently limited overall pool of supply -- depending on shifting allocation priorities, some national markets will sometimes have boosted growth rates, and others suppressed growth rates. Certainly in the past few months of this year France has not received high priority, and thus its headline growth rates look a bit subdued, compared to neighbours like Norway, Sweden, or Germany.
 

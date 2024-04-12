@@ -1,6 +1,6 @@
 ---
 title: "March 2023 - Tesla Model Y strengthens its position in Sweden"
-slug: "tesla-model-y-strengthens-its-position-in-sweden"
+slug: "march-2023-tesla-model-y-strengthens-its-position-in-sweden"
 authors: "maximilianholland"
 date: "2023-04-07"
 categories:

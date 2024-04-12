@@ -29,7 +29,7 @@ Tesla was once again the UK’s leading BEV brand in May, selling 3,439 vehicles
 
 This is a big YoY improvement for Tesla, and the best May result on record, by a wide margin. May 2022 only saw a couple of dozen Tesla vehicles delivered.
 
-The [Tesla Gigafactory Berlin-Brandenburg’s ramping output](/2023/06/17/2023-05-germans-love-the-domestic-tesla-model-y/) has allowed more stabilization of Tesla’s European deliveries. At the same time, vehicles for left hand drive markets like the UK (and Japan, and many others throughout Asia), which are all made in Shanghai, can now be given a bit more frequent (or consistent) batching.
+The [Tesla Gigafactory Berlin-Brandenburg’s ramping output](/2023/06/17/may-2023-germans-love-the-domestic-tesla-model-y/) has allowed more stabilization of Tesla’s European deliveries. At the same time, vehicles for left hand drive markets like the UK (and Japan, and many others throughout Asia), which are all made in Shanghai, can now be given a bit more frequent (or consistent) batching.
 
 ![](ev-sales-images/2023-05-UK-BEV-Brand-_-Est.avif)
 

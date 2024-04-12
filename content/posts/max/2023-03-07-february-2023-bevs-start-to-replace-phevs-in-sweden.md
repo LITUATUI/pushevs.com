@@ -1,6 +1,6 @@
 ---
 title: "February 2023 - BEVs start to replace PHEVs in Sweden"
-slug: "bevs-start-to-replace-phevs-in-sweden"
+slug: "february-2023-bevs-start-to-replace-phevs-in-sweden"
 authors: "maximilianholland"
 date: "2023-03-07"
 categories:
@@ -21,7 +21,7 @@ In February, Sweden’s plugin electric vehicles continued to dominate with a 54
 
 February’s overall plugin result of 54.0% comprised 33.2% full electrics (BEVs), and 20.8% plugin hybrids (PHEVs). These compare with respective shares of 51.6%, 25.6%, and 26.0%, YoY.
 
-We can see that BEVs are continuing strong growth in share, whilst PHEVs are now declining. This is partly a result of deliberate [policy changes](/2023/02/06/phevs-sales-still-strong-in-sweden/) that have sought to support BEVs over PHEVs.  The plugin market is still re-settling after a strong pull-forward in December, and will take a couple more months to find a new equilibrium.
+We can see that BEVs are continuing strong growth in share, whilst PHEVs are now declining. This is partly a result of deliberate [policy changes](/2023/02/06/january-2023-phevs-sales-still-strong-in-sweden/) that have sought to support BEVs over PHEVs.  The plugin market is still re-settling after a strong pull-forward in December, and will take a couple more months to find a new equilibrium.
 
 Plugless HEVs are slowly decreasing, having hovered around 9% share over the past 6 months, from near 15% in 2020. Combustion-only powertrains have averaged under 29% recently, from 53% in 2020.  On current trends, we can expect plugins to regularly exceed 80% share a couple of years from now.
 

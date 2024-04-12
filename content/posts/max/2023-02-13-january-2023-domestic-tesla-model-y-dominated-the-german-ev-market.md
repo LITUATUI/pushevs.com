@@ -1,6 +1,6 @@
 ---
 title: "January 2023 - Domestic Tesla Model Y dominated the German EV market"
-slug: "domestic-tesla-model-y-dominated-the-german-ev-market-in-january"
+slug: "january-2023-domestic-tesla-model-y-dominated-the-german-ev-market"
 authors: "maximilianholland"
 date: "2023-02-13"
 categories:

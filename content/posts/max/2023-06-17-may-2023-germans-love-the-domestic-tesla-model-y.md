@@ -17,7 +17,7 @@ The auto market in Germany saw plugin EVs take 22.9% share in May 2023, down fro
 
 May’s overall plugin result of 22.9% comprised 17.3% battery electrics (BEVs), and 5.6% plugin hybrids (PHEVs). These figures compare with May 2022 results of 25.3%, 14.1%, and 11.2%.
 
-Where the split between BEVs and PHEVs was more balanced a year ago, recent [emissions-related policy changes](/2023/01/08/in-december-evs-took-more-than-half-of-the-german-car-market/) have cut all financial support for PHEVs, leading to a dramatically diminished share. PHEVs have remained in the 5% to 6% share range this year, from 12% to 14% over the same period last year.
+Where the split between BEVs and PHEVs was more balanced a year ago, recent [emissions-related policy changes](/2023/01/08/december-2023-evs-took-more-than-half-of-the-german-car-market/) have cut all financial support for PHEVs, leading to a dramatically diminished share. PHEVs have remained in the 5% to 6% share range this year, from 12% to 14% over the same period last year.
 
 Looking at unit volumes, BEVs have grown by over 46% YoY, reaching 42,780 units. PHEVs however fell by 40% YoY, to 13,803 units.
 
@@ -41,7 +41,7 @@ Yet the Model Y still delivered more units than any other BEV. Expect to see hug
 
 There weren’t many surprises in the top 20. The BMW i4 saw its best ever monthly volume, at 1,347 units, climbing to 8th place. Likewise did its younger sibling, the BMW iX1 (1,325 units), taking 9th.
 
-In terms of newcomer BEVs further down the ranks, the biggest news was the first appearance of Stellantis’ Jeep Avenger, with a debut of 313 units. I discussed the Avenger in my [France report](/2023/06/15/2023-05-new-stellantis-bevs-arrive-in-france/) if you want details of this new model. It should do well in Europe.
+In terms of newcomer BEVs further down the ranks, the biggest news was the first appearance of Stellantis’ Jeep Avenger, with a debut of 313 units. I discussed the Avenger in my [France report](/2023/06/15/may-2023-new-stellantis-bevs-arrive-in-france/) if you want details of this new model. It should do well in Europe.
 
 There were no other absolute newcomers in May. The “Smart #1” climbed to a new personal-best volume of 497 units (from previous best, 313 units in March), and may perhaps enter the monthly top 2o soon.
 

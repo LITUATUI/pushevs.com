@@ -1,6 +1,6 @@
 ---
 title: "February 2023 - EVs market share continues to grow in Norway"
-slug: "evs-market-share-continues-to-grow-in-norway"
+slug: "february-2023-evs-market-share-continues-to-grow-in-norway"
 authors: "maximilianholland"
 date: "2023-03-08"
 categories:

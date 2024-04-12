@@ -1,6 +1,6 @@
 ---
 title: "April 2023 - Spring is sprung in France"
-slug: "spring-is-sprung-in-france"
+slug: "april-2023-spring-is-sprung-in-france"
 authors: "maximilianholland"
 date: "2023-05-06"
 categories:
