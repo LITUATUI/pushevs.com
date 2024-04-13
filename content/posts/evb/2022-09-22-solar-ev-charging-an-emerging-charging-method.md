@@ -3,9 +3,9 @@ title: "Solar EV Charging – An Emerging Charging Method"
 slug: "solar-ev-charging-an-emerging-charging-method"
 authors: "EVB"
 date: "2022-09-22"
-categories: 
-  - "sponsored"
-images: 
+categories:
+  - "Sponsored"
+images:
   - "/images/Solar-EV-Charging-by-Beny.avif"
 ---
 

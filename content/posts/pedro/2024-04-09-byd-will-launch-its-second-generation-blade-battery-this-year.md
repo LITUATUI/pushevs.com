@@ -19,7 +19,7 @@ This second generation CTP (cell-to-pack) battery from BYD will reach a gravimet
 
 At this level of energy density, the cells are definitely LMFP.
 
-Curiously, [Gotion will also have its LMFP battery](https://pushevs.com/2023/05/20/gotion-unveils-its-astroinno-l600-lmfp-battery/) released this year with an energy density of 190 Wh/kg at the pack level.
+Curiously, [Gotion will also have its LMFP battery](/2023/05/20/gotion-unveils-its-astroinno-l600-lmfp-battery/) released this year with an energy density of 190 Wh/kg at the pack level.
 
 As for BYD's main competitor, CATL, is also expected to launch its [LMFP battery](/2022/07/12/catl-will-soon-mass-produce-lmfp-batteries/) soon with a gravimetric energy density of 210-230 Wh/kg and volumetric of 450-500 Wh/L at the cell level.
 

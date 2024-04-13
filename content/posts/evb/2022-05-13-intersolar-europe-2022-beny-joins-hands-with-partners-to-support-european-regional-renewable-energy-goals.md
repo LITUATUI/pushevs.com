@@ -3,9 +3,9 @@ title: "Intersolar Europe 2022 - BENY joins hands with partners to support Europ
 slug: "intersolar-europe-2022-beny-joins-hands-with-partners-to-support-european-regional-renewable-energy-goals"
 authors: "EVB"
 date: "2022-05-13"
-categories: 
-  - "sponsored"
-images: 
+categories:
+  - "Sponsored"
+images:
   - "/images/BENY-at-Intersolar-Europe-2022.avif"
 ---
 

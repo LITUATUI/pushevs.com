@@ -21,29 +21,21 @@ The 63 Ah Samsung SDI battery cell's size is the same of the 94 Ah cells that w
 
 **63 Ah Samsung SDI**
 
-Capacity: 63 Ah
-
-Voltage: 3,75 V
-
-Watt-hour rating: 236,25 Wh
-
-Mass: 1.880 g
-
-Size: (125 x 173 x 45) mm
+- Capacity: 63 Ah
+- Voltage: 3,75 V
+- Watt-hour rating: 236,25 Wh
+- Mass: 1.880 g
+- Size: (125 x 173 x 45) mm
 
  
 
 **94 Ah Samsung SDI**
 
-Capacity: 94 Ah
-
-Voltage: 3,7 V
-
-Watt-hour rating: 350 Wh
-
-Mass: 2.000 g
-
-Size: (125 x 173 x 45) mm
+- Capacity: 94 Ah
+- Voltage: 3,7 V
+- Watt-hour rating: 350 Wh
+- Mass: 2.000 g
+- Size: (125 x 173 x 45) mm
 
  
 
