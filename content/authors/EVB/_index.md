@@ -1,9 +1,12 @@
 ---
 title: EVB
-description: EVB is a sponsor of PushEVs.
-images:
-  - /avatars/EVB.png
+description: EVB is a sponsor that provides smart charging solutions.
 socials:
   twitter: EVBcharging
-  gmail: mailto:info@evb.com
+  facebook: evbcharging
+  instagram: evb_ev_charger
+  linkedin: 86454154
+  email: info@evb.com
+images:
+  - "avatars/EVB.png"
 ---
