@@ -5,6 +5,7 @@ socials:
   twitter: Dr_Maximilian
   linkedin: maximilianholland
   github: MaxH72
+  amazon: https://amzn.to/4cTHdA5
   email: max.holland@gmail.com
 images:
   - "avatars/maximilianholland.avif"
