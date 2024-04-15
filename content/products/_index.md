@@ -1,4 +1,5 @@
 ---
+title: "Products"
 cascade:
   params:
     comments: false

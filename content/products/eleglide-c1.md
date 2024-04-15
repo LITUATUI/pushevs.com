@@ -1,12 +1,9 @@
 ---
 title: "Eleglide C1"
 external_url: "/eleglide"
-authors: "geekbuying"
 pinned: true
 categories:
-  - "Products"
-tags:
-  - "eBike" 
+  - "eBikes" 
 images:
   - "/sponsor-images/eleglide/Eleglide_horizontal.avif"
 ---
