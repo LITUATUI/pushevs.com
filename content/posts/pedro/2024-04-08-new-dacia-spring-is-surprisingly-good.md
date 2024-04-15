@@ -97,7 +97,7 @@ Anyway, first deliveries are expected in last quarter of this year. What do you 
   {{< figure src="/albuns/2024-dacia-spring/New_Dacia_SPRING_12.avif" alt="2024 Dacia Spring dashboard" >}}
   {{< figure src="/albuns/2024-dacia-spring/New_Dacia_SPRING_14.avif" alt="2024 Dacia Spring interior" >}}
   {{< figure src="/albuns/2024-dacia-spring/New_Dacia_SPRING_24.avif" alt="2024 Dacia Spring back" >}}
-  {{< figure src="/albuns/2024-dacia-spring/New_Dacia_SPRING_34.avif" alt="Dacia Spring charging" >}}
+  {{< figure src="/albuns/2024-dacia-spring/New_Dacia_SPRING_34.avif" alt="2024 Dacia Spring charging" >}}
 {{< /gallery >}}
 
 {{< youtube C8QFogKvt6M >}}
