@@ -11,11 +11,7 @@ images:
 
 Today the giant Chinese battery cell maker CATL revealed its first generation sodium-ion battery and it's better than I expected.
 
- 
-
 Let's see some highlights of the press release.
-
- 
 
 > Based on a series of innovations in the chemistry system, CATL’s first generation of sodium-ion batteries has the advantages of high-energy density, fast-charging capability, excellent thermal stability, great low-temperature performance and high-integration efficiency, among others.
 > 
@@ -31,11 +27,7 @@ Let's see some highlights of the press release.
 > 
 > As of now, CATL has started its industrial deployment of sodium-ion batteries, and plans to form a basic industrial chain by 2023. CATL invites upstream suppliers and downstream customers, as well as research institutions to jointly accelerate the promotion and development of sodium-ion batteries.
 
- 
-
 ![CATL first-generation sodium-ion battery compared to LFP (LiFePO4)](images/CATL-first-generation-sodium-ion-battery-compared-to-LFP-LiFePO4.avif)
-
- 
 
 **CATL sodium-ion battery (SIB) specs**
 
@@ -43,23 +35,17 @@ Let's see some highlights of the press release.
 - **Fast charging**: 80 % in 15 minutes
 - **Capacity retention at low temperatures**: above 90 % at -20º C
 
- 
-
 I was expecting that at best the first generation would have a gravimetric energy density of 150 Wh/kg. However, with battery cells that achieve an energy density of 160 Wh/kg, if combined with CTP (cell-to-pack) technology, module-less battery packs can reach 144 Wh/kg, which make this first generation SIB not only adequate for energy storage systems (ESSs), but also for electric vehicles.
 
 Now the goal is to surpass 200 Wh/kg in the next generation.
 
 Moreover, the performance at low temperatures is impressive, for example the [NCM 622 battery cells from LG used in the old generation Renault ZOE ZE 40](/2019/02/10/renault-zoe-ze-40-full-battery-specs/) only retain 60,2 % of their capacity at -20º C.
 
- 
-
 Anyway, at first, sodium-ion batteries will be mostly used in energy storage systems and it'll still be extremely positive for electric vehicles, because more lithium will become available to build energy-dense EV batteries.
 
 Soon, EV fast charging stations will have batteries to serve as buffers and keep the electrical grid more stable, SIBs seem perfect for the job. Tesla should definitely consider this battery technology to build its Megapack.
 
 As I understand it, CATL sodium-ion batteries are now only available for [big industrial projects, like megapacks](https://www.globaltimes.cn/page/202106/1227249.shtml). By 2023 they’ll become available to any OEM (Original Equipment Manufacturer).
-
- 
 
 {{< youtube LxKtCquWx5c >}}
 

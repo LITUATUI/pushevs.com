@@ -11,8 +11,6 @@ images:
 
 Nothing much to say here, this is currently the best EV platform.
 
- 
-
 > Wang Chuanfu, the Chairman and President of BYD, said that the e-platform 3.0 is the vital factor for its transition toward intelligence from electrification in the change of NEVs and also the cradle for the next generation of EVs. BYD’s integrated new energy solutions encompass energy acquisition, storage, and application. With the help of this comprehensive solution, BYD aims to build a zero-emission ecosystem within a closed-loop to address global warming through practical action.
 > 
 > Regarding safety, equipped with ultra-safe blade batteries while integrating the pack into the car body, the e-platform 3.0 builds up a special pure electric vehicle frame structure to increase the rigidity of the vehicle.
@@ -23,17 +21,9 @@ Nothing much to say here, this is currently the best EV platform.
 > 
 > Finally, the brand-new electric AWD system features 0-100 km/h acceleration improved to 2.9 s, resulting in energy consumption comparable to that of 2WD vehicles, while letting users enjoy the high performance of AWD EVs.
 
- 
-
 ![BYD Blade battery with thermal management](images/BYD-Blade-battery-with-thermal-management.avif)
 
- 
-
 The strongest part of this platform is the super-safe and cheap battery made with long prismatic LFP (LiFePO4) cells - that are cobalt-free. The BYD Blade battery is already at 55 euros per kWh and with its TMS (Thermal Management System) works great even at low temperatures - as you can see in the chart above.
-
- 
-
- 
 
 {{< youtube amfY_PdMxMk >}}
 

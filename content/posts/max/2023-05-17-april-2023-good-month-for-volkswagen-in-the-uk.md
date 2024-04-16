@@ -57,8 +57,6 @@ Volkswagen group, with BEVs from Volkswagen brand, Audi, Cupra (and SEAT), Skoda
 
 Over a longer time period, Tesla has been doing slightly better than Volkswagen Group until recently. The UK market, with its right-hand drive vehicles, is often delivered to in production batches, and we can only really look at full year results, or a trailing 12 month view, to get a balanced picture. In full year 2022, Tesla was about 19% ahead of Volkswagen Group on UK BEV volume. Over the most recent trailing 12 months to end-of-April 2023, the two are pretty much even. The good news for consumers is that both are growing volumes fast.
 
- 
-
 ## Outlook
 
 The UK auto industry body, _[the SMMT](https://www.smmt.co.uk/2023/05/new-car-market-grows-for-ninth-month-running/)_, note that the annual growth in auto sales is one of the bright spots in an otherwise gloomy UK economy. The general UK economic outlook is currently for flat economic output in 2023, with a recent hopeful chance to avoid an outright recession, which is an improvement over how things looked a couple of months ago. It’s still one of the worst outlooks, globally.

@@ -43,8 +43,6 @@ The Tesla Model Y leads, as we would expect, but at a volume around 2x that of i
 
 Just below the middle of the table, the relative newcomers, the MG4, the Toyota BZ4X, and the BYD Atto 3 have all now established themselves — and their brands’ BEV-credentials — in the Swedish market. They can build on this foundation with more BEV models in the future.
 
- 
-
 ## Outlook
 
 The Swedish auto industry association, [_Mobility Sweden_](https://mobilitysweden.se/statistik/Nyregistreringar_per_manad_1/nyregistreringar-2023_3/svag-personbilsmarknad-under-forsta-halvaret-medan-tunga-lastbilar-vaxer-starkt), points out that H1’s overall auto market was 2% down in volume, year on year, saying _“The low registration figures are largely an effect of the current economic situation which affects the car market.”_ (Machine translation).

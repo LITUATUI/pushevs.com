@@ -11,15 +11,9 @@ images:
 
 Hozon Auto is now launching the new NETA V Pro as a more affordable alternative to the popular BYD Dolphin.
 
- 
-
 > Positioned as a 70,000-class smart technology cabin, Nezha V has delivered 40,372 units since its launch on November 3, 2020, becoming the top seller of pure electric SUVs among new car companies. With outstanding product highlights such as high-value, high-performance, and high-quality products, Nezha V has been deeply recognized by young consumers, especially in first- and second-tier cities that account for more than 50% of delivery.
 
- 
-
 Let's see some details.
-
- 
 
 **NETA V Pro**
 
@@ -41,17 +35,9 @@ Let's see some details.
 - **Range**: 401 km (NEDC) and around 300 km in WLTP
 - **Starting price (after subsidies)**: 76.900 yuan (10.377 euros)
 
- 
-
 ![Nezha V Pro dashboard](images/Nezha-V-Pro-dashboard.avif)
 
- 
-
 The NETA V Pro will also get V2H (vehicle-to-home) capability after an upcoming OTA (over-the-air) update.
-
- 
-
- 
 
 **BYD Dolphin (Long range version)**
 
@@ -74,15 +60,9 @@ The NETA V Pro will also get V2H (vehicle-to-home) capability after an upcoming 
 - **Range**: 420 km (NEDC), roughly 315 km in WLTP
 - **Starting price (after subsidy)**: 111.800 yuan (15.087 euros)
 
- 
-
 ![BYD Dolphin interior](images/BYD-Dolphin-interior.avif)
 
- 
-
 While I was writing this article I noticed that the BYD Dolphin is now listed at MIIT's (Ministry of Industry and Information Technology) website with a new version (BYD7004BEV4) that has a slightly higher range compared to previous versions - increased from 405 to 420 km.
-
- 
 
 Anyway, the NETA V Pro and the BYD Dolphin also have OTA (over-the-air) updates and are packed with safety features that you normally don’t see in a car this price, such as:
 
@@ -93,8 +73,6 @@ Anyway, the NETA V Pro and the BYD Dolphin also have OTA (over-the-air) updates 
 - Active Lane Keeping (LKS)
 - Traffic Sign Recognition (TSR)
 - Traffic Jam Assist (TJA)
-
- 
 
 I really like both models, regarding value for money we can't find any better and they have the right dimensions for most people - compact and yet big enough to fit 5 passengers when required. Spec wise they are very similar, but the NETA V Pro is more efficient and the BYD Dolphin has a higher top speed. I hope that Hozon will soon introduce a LFP variant so it can increase production to keep up with the high demand.
 

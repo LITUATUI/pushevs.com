@@ -11,11 +11,7 @@ images:
 
 With the Seagull, BYD wants to dominate the electric A-segment market, first in China, then other countries.
 
- 
-
 Let's see some details of this small electric car.
-
- 
 
 - **Length × width × height**: 3.780×1.715×1.540 mm
 - **Wheelbase**: 2.500 mm
@@ -41,8 +37,6 @@ Let's see some details of this small electric car.
 - **Cruise control system**: standard
 - **Vehicle warranty**: Lifetime warranty for the electric system (first owner), and the warranty period for the whole vehicle is 6 years or 150.000 kilometers
 
- 
-
 **Safety equipment (optional in the high level version)**
 
 - Adaptive Cruise Control (ACC)
@@ -52,19 +46,13 @@ Let's see some details of this small electric car.
 - Intelligent Speed ​​Limit Alarm (ISLI)
 - Forward Collision Warning (FCW)
 
- 
-
 **Starting prices**
 
 - **Entry level version**: 78.800 yuan (10.445 euros)
 - **Mid level version**: 83.800 yuan (11.108 euros)
 - **High level version**: 95.800 yuan (12.699 euros)
 
- 
-
 The BYD Seagull shares much of its equipment with the Dolphin and the e2 - that are also part of the Ocean series. The lifetime warranty is probably referring to a 3 in 1 electric system, which includes the motor, motor control unit (MCU/inverter) and the gearbox, but it isn't clear from the translation of the Chinese website.
-
- 
 
 Anyway, if the high level version comes to Europe for the same price of the Dacia Spring, it will have no problem dominating the A-segment market. The BYD Seagull is an awesome small electric car.
 

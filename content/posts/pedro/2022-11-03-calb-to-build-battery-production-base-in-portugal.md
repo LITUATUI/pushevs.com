@@ -13,11 +13,7 @@ The Chinese battery maker CALB and the Portuguese government signed a memorandum
 
 While there aren't much details known yet, it seems that the location chosen was the costal city of Sines, which has Europe’s second largest deep water port capable and a railway system that connects the region to the rest of Europe.
 
- 
-
 The initial phase aims to start battery cell production by the end of 2025 with a anual capacity of 15 GWh. In 2028, a second phase is planned to expand production capacity from 15 to 45 GWh.
-
- 
 
 CALB is currently the world's seventh-largest maker of EV batteries and third in China, only behind CATL and BYD.
 

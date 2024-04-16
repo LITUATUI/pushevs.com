@@ -21,11 +21,7 @@ The YoY fall in share of plugins reflects the temporary bounce back of petrol-po
 
 BEVs actually gained YoY volume by roughly 20%, to 12,310 units, but these gains were submerged by the bigger push of petrol sales. PHEV volumes were essentially flat, YoY.
 
- 
-
 ![](ev-sales-images/2023-02-UK-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## UK Top BEV Brands
 
@@ -33,11 +29,7 @@ From _[the SMMT’s](https://www.smmt.co.uk/2023/03/uk-new-car-market-posts-sev
 
 Beyond this, the SMMT doesn’t provide dedicated BEV model data, but we do have a summary of a representative portion of brand share data from the DVLA new licence database, gathered via API by [_New Automotive_](https://newautomotive.org/).
 
- 
-
 ![](ev-sales-images/2023-02-UK-BEV-Brand-_-Est.avif)
-
- 
 
 Audi came in 2nd spot, likely mostly thanks to the Q4 e-tron. Polestar came in third (all the Polestar 2). Volkswagen and Kia filled out the top 5 spots.
 
@@ -70,15 +62,11 @@ Here’s a brief look at manufacturing group rankings:
 
 ![](ev-sales-images/2023-02-UK-BEV-Group-_-Est.-Trailing-Qtr.avif)
 
- 
-
 The top 3 ranks are unchanged for almost half a year now, with Tesla, Volkswagen Group, and BMW Group, again filling the top spots. BMW however did lose some weighting, whilst both Tesla and VW gained, growing their gap over all the others.
 
 Renault Nissan climbed from 8th (in the 3 months to November) to 4th, despite Nissan losing share. This is likely mostly thanks to the Renault Megane, which started initial UK deliveries in late 2022, and growing volume since. If so, this would also explain the Megane’s recent slight loss of weighting in home market France, where its sales were concentrated for most of last year.
 
 Stellantis fell from 5th to 8th over the period. Other movements in group ranking were relatively minor shuffles.
-
- 
 
 ## Outlook
 

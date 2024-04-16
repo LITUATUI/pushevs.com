@@ -13,27 +13,17 @@ Years ago LG Chem decided that for pouch battery cells it would first replace NC
 
 We're always talking about NCM 811 cathodes and easily forget that NCM 712 battery cells arrived quietly and are already powering electric cars in Europe.
 
- 
-
 ![Battery cell chemistries used by LG Chem](images/Battery-cell-chemistries-used-by-LG-Chem.avif)
-
- 
 
 The new generation Renault ZOE was the first electric car in Europe to get the NCM 712 battery cells from LG Chem, but soon others will follow.
 
 By observing what changed in the Renault ZOE, we can estimate possible changes in other electric cars that still use the same LGX E63 battery cells of the old generation Renault ZOE.
 
- 
-
 Let's start by observing the changes in the Renault ZOE.
-
- 
 
 **Renault ZOE**
 
 ![New generation Renault ZOE](images/New-generation-Renault-ZOE.avif)
-
- 
 
 [**Renault ZOE (old ZE 40 battery)**](/2019/02/10/renault-zoe-ze-40-full-battery-specs/)
 
@@ -45,8 +35,6 @@ Let's start by observing the changes in the Renault ZOE.
 - Chemistry: NCM 622
 - Manufacturer: LG Chem
 - WLTP range: 317 km (197 miles)
-
- 
 
 **Renault ZOE (new ZE 50 battery)**
 
@@ -61,19 +49,11 @@ Let's start by observing the changes in the Renault ZOE.
 
 The battery capacity increased around 11 kWh, while the weight increased by 21 kg.
 
- 
-
- 
-
 Now let's estimate possible upgrades for electric cars that still use the same LG E63 battery cells of the old generation Renault ZOE, namely the very popular Hyundai IONIQ Electric and Hyundai Kona Electric.
-
- 
 
 **Hyundai IONIQ Electric**
 
 ![New Hyundai IONIQ Electric](images/New-Hyundai-IONIQ-Electric.avif)
-
- 
 
 **Current battery with NCM 622 cells**
 
@@ -85,8 +65,6 @@ Now let's estimate possible upgrades for electric cars that still use the same L
 - Chemistry: NCM 622
 - Manufacturer: LG Chem
 - WLTP range: 311 km (193 miles)
-
- 
 
 **Possible battery with NCM 712 cells**
 
@@ -101,15 +79,9 @@ Now let's estimate possible upgrades for electric cars that still use the same L
 
 The battery capacity would increase around 10 kWh, while the weight would increase by 19 kg.
 
- 
-
- 
-
 **Hyundai Kona Electric**
 
 ![Hyundai Kona Electric side-front-rear view](images/Hyundai-Kona-Electric-side-front-rear-view.avif)
-
- 
 
 **Current Long range version with NCM 622 cells**
 
@@ -121,8 +93,6 @@ The battery capacity would increase around 10 kWh, while the weight would increa
 - Chemistry: NCM 622
 - Manufacturer: LG Chem
 - WLTP range: 484 km (301 miles)
-
- 
 
 **Possible Long range version with NCM 712 cells**
 
@@ -137,13 +107,9 @@ The battery capacity would increase around 10 kWh, while the weight would increa
 
 The battery capacity would increase around 16,5 kWh, while the weight would increase by 32 kg.
 
- 
-
 Here is where I have my doubts as it was briefly discussed in the comment section of the previous article.
 
 Recently Hyundai announced that the European-made Kona Electric gets a WLTP range increase from 449 to 484 km. Hyundai explains this 8 % range increase with new more efficient tires, but new tires alone can't explain all this difference in range and efficiency, 2-3 % maybe, but not 8 %.
-
- 
 
 **Possible explanation number 1**
 
@@ -151,15 +117,11 @@ In [2018 Hyundai had to downgrade the WLTP range of the Kona Electric from 470 
 
 If Hyundai never had to downgrade the previous WLTP range, now an increase of range from 470 to 484 km would represent only 3 % and this could be explained solely by the new tires.
 
- 
-
 **Possible explanation number 2**
 
 Another possible explanation is that the European-manufactured Hyundai Kona Electric got better efficiency and range, not only from more efficient tires, but also from a lighter battery pack made with NCM 712 battery cells. If this is the case, it means that Hyundai decided to use the new more energy-dense NCM 712 battery cells not to increase the battery capacity, but instead reduce the weight, size and cost of the battery pack. This weight reduction would give the Hyundai Kona Electric more range, better efficiency, better acceleration, better stopping distance and lower production costs.
 
 I think that the explanation number 1 is more plausible and the European-made Hyundai Kona Electric still uses NCM 622 battery cells. However, If you know the correct answer let us know in the comment section, this one needs good detective work.
-
- 
 
 **Update...**
 
@@ -167,13 +129,9 @@ After reading some comments and do the math, I'm now convinced that the 2020 Che
 
 Let's see what GM managed to do with the Chevrolet Bolt EV.
 
- 
-
 **Chevrolet Bolt EV and Opel Ampera-e**
 
-![2020 Chevrolet Bolt EV](images/2020-Chevrolet-Bolt-EV.avif)
- 
-[Old generation](https://media.chevrolet.com/media/us/en/chevrolet/vehicles/bolt-ev/2018.tab1.html)
+![2020 Chevrolet Bolt EV](images/2020-Chevrolet-Bolt-EV.avif)[Old generation](https://media.chevrolet.com/media/us/en/chevrolet/vehicles/bolt-ev/2018.tab1.html)
 
 - Total battery capacity: 62,2 kWh
 - Usable battery capacity: 58 kWh (variable)
@@ -183,8 +141,6 @@ Let's see what GM managed to do with the Chevrolet Bolt EV.
 - Chemistry: NCM 622
 - Manufacturer: LG Chem
 - EPA range: 383 km (238 miles)
-
- 
 
 [New 2020 generation](https://media.chevrolet.com/media/us/en/chevrolet/vehicles/bolt-ev/2020.tab1.html)
 
@@ -197,29 +153,19 @@ Let's see what GM managed to do with the Chevrolet Bolt EV.
 - Manufacturer: LG Chem
 - EPA range: 417 km (259 miles)
 
- 
-
 The battery capacity advertised by Chevrolet is neither total nor usable, is something in between…
 
 Regarding the new 2020 generation, it is likely that there was a change to NCM 712 battery cells and although the increase in energy density seems minimal, there is an explanation. The [2020 Chevrolet Bolt EV now has the “cold weather battery pack” that according to GM allows 150 % faster DC charging in cold weather](https://www.torquenews.com/8861/my-first-impressions-2020-chevrolet-bolt-ev).
 
 This “cold weather battery pack” means better insulation and heating of the battery but is likely to result in extra weight. Explaining why the energy density of the battery pack only increased from 143 to 158 Wh/kg, while in the Renault ZOE, the upgrade to NCM 712 battery cells resulted in an energy density increase from 145 to 169 Wh/kg.
 
- 
-
 If the European-made Hyundai Kona Electric does in fact already have NCM 712 battery cells it also got its weight reduced, I need to check this out.
-
- 
 
 Anyway, as I see it the Hyundai Kona Electric doesn't need more range than it currently has, for most people price is still the problem, not range. The more energy-dense NCM 712 battery cells should be used to make a lighter, smaller and cheaper battery pack.
 
 As for the Hyundai IONIQ Electric I think that it definitely needs the battery capacity upgrade, not only to basically match the WLTP range of the popular new Renault ZOE, but also to surpass the Peugeot e-208/Opel Corsa-e. Moreover, thanks to its incredible efficiency, even with a smaller battery capacity it would have more range than the Nissan LEAF e+, which gets a WLTP range of 385 km (239 miles) from a big 62 kWh battery.
 
- 
-
 ![LG Chem battery cells overview](images/LG-Chem-battery-cells-overview.avif)
-
- 
 
 This article was meant to show you what the battery technology we already have available can achieve. Automakers like Toyota that say they are waiting for the perfect battery (which is an unicorn and will never exist) to finally embrace electric cars, are the ones that want nothing done.
 

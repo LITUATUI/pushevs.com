@@ -13,8 +13,6 @@ The BYD e6 is an electric car aimed for taxi services that has been in productio
 
 Unfortunately, even with some upgrades since its debut, the BYD e6 always remained a sluggish, heavy and inefficient vehicle. However, now with a facelift it becomes lighter with more range and higher efficiency.
 
- 
-
 The BYD e6 currently has a 82 kWh battery that weights 700 kg (117 Wh/kg), while the BYD Han EV has a 77 kWh battery that weighs roughly 550 kg (140 Wh/kg).
 
 While the BYD Blade Battery can have different capacities, it seems that the new BYD e6 adopts the same 77 kWh pack of the BYD Han EV. If true it gets a battery that’s 150 kg lighter.
@@ -29,8 +27,6 @@ In a more realistic test cycle such as the WLTP, the range would be around 375 k
 
 The power of the motor also increased from 90 to 100 kW and seems to be more efficient.
 
- 
-
 **New BYD e6 specs**
 
 - **Length**: 4.695 mm
@@ -42,21 +38,13 @@ The power of the motor also increased from 90 to 100 kW and seems to be more eff
 - **Range (NEDC)**: 500 km / 311 miles (not confirmed)
 - **Battery capacity**: 77 kWh (not confirmed)
 
- 
-
 ![New BYD e6 with BYD Blade Battery rear](images/New-BYD-e6-with-BYD-Blade-Battery-rear.avif)
-
- 
 
 With the fast introduction of its BYD Blade Battery to multiples electric car models, BYD is showing us how fast an automaker can adopt new battery technologies if it really wants electric cars to succeed.
 
 On the other end of the spectrum, we have Toyota that in its Prius PHEV is still using old 25 Ah PHEV2 cells (available since 2013) from Panasonic, when this same battery cell maker already has available a substitute with [twice the capacity (51 Ah) that Toyota could use](/2020/07/03/modern-panasonic-prismatic-battery-cells/). There's no excuses to keep using outdated technology, unless it helps the narrative that the future is "self-charging" hybrids...
 
- 
-
 Anyway, I think that by next year all electric cars from BYD will have a [module-less Blade Battery](/2020/04/12/simple-solution-for-safer-cheaper-more-energy-dense-batteries/), even the smaller ones such as the e1 and e2.
-
- 
 
 Thanks Leo B for the heads up.
 

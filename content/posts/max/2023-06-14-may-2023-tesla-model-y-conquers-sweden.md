@@ -53,11 +53,7 @@ Having launched in Sweden only in March, the Toyota BZ4X saw the biggest moves, 
 
 Further back, the Volkswagen ID.Buzz has done well since its first volume deliverers in November, and has now climbed to #25 position. Any bets on whether it has the demand momentum (or perhaps that should be… the supply volume) to break into the top 20?
 
- 
-
 ## Outlook
-
- 
 
 Auto industry body [_Mobility Sweden_](https://mobilitysweden.se/statistik/Nyregistreringar_per_manad_1/nyregistreringar-2023_3/okning-av-nya-personbilar-i-maj-men-arets-nya-ordrar-har-halverats) is still concerned about weakening order books for BEVs, after incentives were cut last November. They fear that, after the backlog of pre-November orders is worked through (in the coming few months), BEV registration volumes will show noticeable decline.
 

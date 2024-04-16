@@ -17,11 +17,7 @@ During the next years, both chemistries will probably play an important role in 
 
 While NCMA batteries are more energy dense, cobalt-free LNMO battery cells are extremely safe and affordable.
 
- 
-
 Automakers like PSA that focus in the affordable car market will benefit the most from cobalt-free batteries.
-
- 
 
 **Specs of cobalt-free battery cell from SVOLT**
 
@@ -35,8 +31,6 @@ Automakers like PSA that focus in the affordable car market will benefit the mos
 - **Gravimetric energy density**: 240 Wh/kg
 - **Volumetric energy density**: 590 Wh/L
 - **Chemistry**: LNMO
-
- 
 
 **Hypothetical** **battery pack**
 
@@ -53,13 +47,9 @@ Automakers like PSA that focus in the affordable car market will benefit the mos
 - **Passive material cost**: 1.000 euros
 - **Total cost**: 6.544 euros (83 euros per kWh)
 
- 
-
 The hypothetical battery made with SVOLT's 226 Ah cell would be great for large electric cars, but for smaller electric cars a shorter cell with less capacity would be more adequate. A Peugeot e-208 doesn't need a 79,2 kWh battery...
 
 Therefore, I expect SVOLT to have its LNMO battery cells available with different capacities and heights.
-
- 
 
 Anyway, SVOLT's supply contract with PSA is expected to exceed 7 GWh, enough for 140.000 EV batteries (50 kWh each).
 

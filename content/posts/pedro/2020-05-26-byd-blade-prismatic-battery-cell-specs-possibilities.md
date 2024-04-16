@@ -17,19 +17,11 @@ If you're wondering why Tesla is still using thousands of tiny cylindrical batte
 
 Only in late 2016, high energy density battery cells started to be available in pouch format, like the LGX E63 made by LG Chem.
 
- 
-
 In 2020, assembling big battery packs with tiny cells doesn't make sense and I wouldn't be surprised if Tesla announces a battery pack made with cobalt-free prismatic battery cells in "battery day". This would be great, not only for Tesla, but also for electric bicycle manufacturers who would benefit from an immediate increase of cylindrical cells available on the market.
-
- 
 
 ![Battery costs roadmap by Volkswagen](images/battery-costs-roadmap-by-volkswagen.avif)
 
- 
-
 Anyway, this article isn't about Volkswagen or Tesla, it's about the LFP cobalt-free prismatic battery cell used in BYD Blade Battery. Let's see its specs and potential.
-
- 
 
 **BYD Blade battery cell specs**
 
@@ -46,25 +38,15 @@ Anyway, this article isn't about Volkswagen or Tesla, it's about the LFP cobalt-
 - **Gravimetric energy density**: 165 Wh/kg (estimation)
 - **Chemistry**: LiFePO4 (LFP)
 
- 
-
 Unfortunately I couldn't find the weight of this cell. However, according to the MIIT (Ministry of Industry and Information Technology) catalog the gravimetric energy density at the battery pack level is 140 Wh/kg, which means 165 Wh/kg at cell level (considering a GCTP of 85 %) and a weight around 3,92 kg.
-
- 
 
 BYD Blade Battery is a module-less CTP (cell-to-pack) battery pack. Without modules, the long prismatic battery cells connected in series are put in an array and then inserted into a battery pack, making it as simple as possible.
 
 The simplicity of the CTP technology helps to achieve a good energy density at the battery pack level, even if the energy density of the cells isn't amazing.
 
- 
-
 ![BYD unveils the volumetric and gravimetric cell-to-pack ratio of the new battery packs](images/BYD-unveils-the-volumetric-and-gravimetric-cell-to-pack-ratio-of-the-new-battery-packs.avif)
 
- 
-
 Now let's see the specs of a BYD Blade Battery prototype.
-
- 
 
 **BYD Blade battery pack specs (prototype)**
 
@@ -80,17 +62,11 @@ Now let's see the specs of a BYD Blade Battery prototype.
 - **Gravimetric energy density**: 139 Wh/kg (estimation)
 - **GCTP (Gravimetric cell-to-pack ratio)**: 84,5 % (estimation)
 
- 
-
 With standard battery packs assembled with modules, on average the VCTP is 40 %, which means that the volume of the active material (cells) only represents 40 % of the total volume of the battery.
-
- 
 
 **Real applications**
 
 The first electric car to use the BYD Blade Battery is the BYD Han EV that'll be available with two battery capacities (65 and 77 kWh).
-
- 
 
 The 65 kWh battery pack will give a NEDC range of 506 km (314 miles), which in WLTP should be around 380 km (236 miles).
 
@@ -99,33 +75,23 @@ My guess is that this battery pack is made with 101 or 102 cells.
 - **101 cells**: 65,3 kWh (101 x 3,2 V x 202 Ah)
 - **102 cells**: 65,9 kWh (102 x 3,2 V x 202 Ah)
 
- 
-
 The 77 kWh battery pack will give a NEDC range of 605 km (376 miles), which in WLTP should be around 454 km (282 miles).
 
 My guess is that this battery pack is made with 120 cells.
 
 - **120 cells**: 77,6 kWh (120 x 3,2 V x 202 Ah)
 
- 
-
 ![BYD Han EV with Blade Battery](images/BYD-Han-EV-with-Blade-Battery.avif)
-
- 
 
 The BYD Han EV is a long (4.980 mm) electric car, aimed to be an alternative to the Tesla Model S.
 
 This leaves us with a question...
-
- 
 
 **Can the BYD Blade Battery be used in smaller electric cars?**
 
 The BYD Han EV with its long wheelbase (2.920 mm) has no problem to accommodate a long battery. However, it's interesting to know if a smaller electric car could also accommodate a BYD Blade Battery.
 
 Let's see how much space does the BYD Blade Battery use.
-
- 
 
 **65 kWh battery pack (cells only)**
 
@@ -141,8 +107,6 @@ Let's see how much space does the BYD Blade Battery use.
 
 If we consider a VCTP of 62,41 %, the battery pack's total volume is around 236 L. As for the battery's weight it should be around 468 kg if we consider a GCTP of 85,5 %.
 
- 
-
 **77 kWh battery pack (cells only)**
 
 - **Cells**: 120
@@ -157,8 +121,6 @@ If we consider a VCTP of 62,41 %, the battery pack's total volume is around 236 
 
 If we consider a VCTP of 62,41 %, the battery pack's total volume is around 277 L. As for the battery's weight according to the MIIT catalog it's 549 kg.
 
- 
-
 So the answer is yes, a smaller electric car could accommodate a BYD Blade Battery.
 
 For example, the 2020 Chevrolet Bolt EV gets an EPA range of 259 miles (417 km) from a 66 kWh battery whose size is 285 L and weighs 430 kg.
@@ -167,13 +129,7 @@ Given the high weight of the 77 kWh BYD Blade Battery, the 65 kWh version would 
 
 Moreover, with 80 euros per kWh at the battery pack level, the battery would cost 5.200 euros.
 
- 
-
 ![BYD Blade Battery prismatic cells](images/BYD-Blade-Battery-prismatic-cells.avif)
-
- 
-
- 
 
 **Summing up**
 

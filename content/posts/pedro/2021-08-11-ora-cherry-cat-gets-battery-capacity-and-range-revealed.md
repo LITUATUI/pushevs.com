@@ -11,11 +11,7 @@ images:
 
 The Cherry Cat is the first SUV made by ORA and will be available with LFP (LiFePO4) and NMx cobalt-free batteries made by SVOLT for different ranges/prices.
 
- 
-
 The general characteristics of this electric car were [already known](/2021/07/15/ora-cherry-cat-debuts-nmx-battery-from-svolt/) and are listed below.
-
- 
 
 **ORA Cherry Cat (LFP version)**
 
@@ -29,8 +25,6 @@ The general characteristics of this electric car were [already known](/2021/07/1
 - **Max speed**: 180 km/h
 - **Battery**: LFP (LiFePO4) by SVOLT
 
- 
-
 **ORA Cherry Cat (NMx version)**
 
 - **Length**: 4.510 mm
@@ -43,11 +37,7 @@ The general characteristics of this electric car were [already known](/2021/07/1
 - **Max speed**: 180 km/h
 - **Battery**: NMx (LNMO) by SVOLT
 
- 
-
 However, only now we know the characteristics of the different cobalt-free batteries. Let's take a look.
-
- 
 
 **LFP (LiFePO4) battery**
 
@@ -56,8 +46,6 @@ However, only now we know the characteristics of the different cobalt-free batte
 - **Energy density**: 145,1 Wh/kg
 - **Range**: 470 km (NEDC) and around 350 km in WLTP
 
- 
-
 **NMx (LNMO) battery**
 
 - **Capacity**: 84 kWh (79,62 kWh usable)
@@ -65,13 +53,9 @@ However, only now we know the characteristics of the different cobalt-free batte
 - **Energy density**: 172,3 Wh/kg
 - **Range**: 600 km (NEDC) and around 450 km in WLTP
 
- 
-
 I'm a bit disappointed with the energy density of the NMx battery and was expecting at least 200 Wh/kg thanks to a CTP (cell-to-pack) configuration. However, the poor GCTP (gravimetric cell-to-pack) ratio (around 72 %) suggests the usage of modules inside the battery pack.
 
 Hopefully, in the near future SVOLT will make module-less packs with the NMx prismatic battery cells to increase the energy density.
-
- 
 
 Anyway, we still don't know the starting price nor the fast charging rates of the ORA Cherry Cat.
 

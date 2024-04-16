@@ -13,11 +13,7 @@ Developing a battery chemistry is always an exercise that requires making conces
 
 In this long article we'll see where the battery technology is going with the focus on the development of NCM cathodes. I'll leave anodes and electrolytes to another time.
 
- 
-
 Let's start by comparing some popular battery chemistries for electric vehicles. Rates vary from 1 (worst) to 5 (best).
-
- 
 
 **Anodes**
 
@@ -29,8 +25,6 @@ Let's start by comparing some popular battery chemistries for electric vehicles.
 - Safety: (★★★★★) 5/5
 - Cost: (★) 1/5
 
- 
-
 **Cathodes**
 
 **Lithium Ferro Phosphate (LFP)**
@@ -41,8 +35,6 @@ Let's start by comparing some popular battery chemistries for electric vehicles.
 - Safety: (★★★★★) 5/5
 - Cost: (★★★★) 4/5
 
- 
-
 **Lithium Nickel Cobalt Manganese (NCM 333 or 111)**
 
 - Energy density: (★★★) 3/5
@@ -50,8 +42,6 @@ Let's start by comparing some popular battery chemistries for electric vehicles.
 - Cycle life: (★★★★) 4/5
 - Safety: (★★★★) 4/5
 - Cost: (★★) 2/5
-
- 
 
 **Lithium Nickel Cobalt Manganese (NCM 523)**
 
@@ -61,8 +51,6 @@ Let's start by comparing some popular battery chemistries for electric vehicles.
 - Safety: (★★★) 3/5
 - Cost: (★★★) 3/5
 
- 
-
 **Lithium Nickel Cobalt Manganese (NCM 622)**
 
 - Energy density: (★★★★) 4/5
@@ -70,8 +58,6 @@ Let's start by comparing some popular battery chemistries for electric vehicles.
 - Cycle life: (★★★) 3/5
 - Safety: (★★★) 3/5
 - Cost: (★★★) 3/5
-
- 
 
 **Lithium Nickel Cobalt Manganese (NCM 811)**
 
@@ -81,8 +67,6 @@ Let's start by comparing some popular battery chemistries for electric vehicles.
 - Safety: (★★) 2/5
 - Cost: (★★★★) 4/5
 
- 
-
 **Lithium Nickel Cobalt Aluminium (NCA)**
 
 - Energy density: (★★★★★) 5/5
@@ -90,8 +74,6 @@ Let's start by comparing some popular battery chemistries for electric vehicles.
 - Cycle life: (★★★) 3/5
 - Safety: (★★) 2/5
 - Cost: (★★★★) 4/5
-
- 
 
 The LTO and LFP chemistries are only used when really fast charging (5-10 C) is required, for example in electric buses. While NCA is used by Tesla, almost every automaker uses batteries with NCM cathodes.
 
@@ -116,11 +98,7 @@ The NCM 90 (NCM 9.5.5) cathodes further reduce the need of cobalt, which is sca
 
 Now let's look behind the hype and see where this battery technology development is currently at.
 
- 
-
 ![Cycling performance of NCM cathodes using Li metal anode](images/Cycling-performance-of-NCM-cathodes-using-Li-metal-anode.avif)
-
- 
 
 The charts above show us cycle life of different NCM cathodes at very high charging voltages. Don't be scared by the apparent high degradation of the cells. It's expected for such high charging voltages, the kind of voltages that we usually see on smartphone batteries.
 
@@ -141,8 +119,6 @@ I would like to see how the NCM 90 cathode behaves when cycled between 2,8 and 4
 Until we have completely cobalt-free batteries, NCM 90 cathodes are a required step forward to allow the massification of electric cars.
 
 Anyway, SK Innovation was the first battery cell maker to announce the NCM 90 battery cells, but I doubt it'll be the first to produce them. I think that it'll probably be either CATL or BYD.
-
- 
 
 This article was only possible thanks to [Sci-Hub](https://sci-hub.se/). "Sci-Hub is a project to make knowledge free" that gives everybody access to research articles that are usually trapped behind paywalls. Sci-Hub is the democratization of Science.
 

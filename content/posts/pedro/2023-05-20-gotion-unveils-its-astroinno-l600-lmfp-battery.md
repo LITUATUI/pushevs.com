@@ -11,11 +11,7 @@ images:
 
 The Chinese battery maker Gotion unveiled more details on its new LMFP battery cell and pack.
 
- 
-
 Let's see the press release.
-
- 
 
 > #### New product release:Astroinno L600 battery can achieve a range of 1000km without relying on NCM material
 > 
@@ -25,17 +21,11 @@ Let's see the press release.
 > 
 > Astroinno battery pack adopts the sandwich-structure double-sided liquid cooling technology and a minimalist design approach, which reduces the number of structural parts of the battery pack by 45% and lowers the weight of structural parts by 32%. The minimalist electrical design enables the length of the battery pack wiring harness to drop from 303 meters to 80 meters, which is only 26% of that of previous battery packs, but the volumetric cell to pack ratio has reached 76% and the pack energy density has reached 190Wh/kg, outperforming the energy density of NCM batteries currently on the market. In other words, without adopting the NCM battery system, Gotion High-Tech’s Astroinno battery pack has achieved a range of 1000km for the first time in the industry, and achieves over 1800 cycles of 18-minute fast charging.
 
- 
-
 ![Gotion Astroinno battery pack](images/Gotion-Astroinno-battery-pack.avif)
-
- 
 
 On paper the Astroinno battery is quite impressive, with good energy density, long cycle life and great fast charging, all this with a cobalt-free chemistry.
 
 Gotion is the most advanced battery cell maker specialized on LFP and LMFP battery cells by far, but it's CATL and BYD that mass produce most of them. Volkswagen has been Gotion's largest shareholder since 2020, which is funny, because both companies love to publish press releases about their future products.
-
- 
 
 Anyway, it's nice to know that when Volkswagen finally gets serious about electric cars, the German automaker will have a good cobalt-free battery tech to power them. Meanwhile, BYD and CATL are already powering the electric revolution.
 

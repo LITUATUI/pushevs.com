@@ -21,15 +21,9 @@ In unit volumes, BEVs grew 49% YoY to 22,667 units, while PHEV grew 12% to 12,63
 
 Diesel share dropped from 17.5% YoY, to just 10.4%, the lowest share of the recent decades.  We can expect it to dip below 10% in the coming few months, and largely remain below thereafter.
 
- 
-
 ![](ev-sales-images/2023-05-France-Monthly-Powertrain-Market-Share.avif)
 
- 
-
 ## Bestsellers in May
-
- 
 
 France’s bestsellers in May remained in line with recent trends, with the Tesla Model Y taking the top spot, at 2,708 units, just slightly ahead of the Fiat 500e, at 2,601 units.
 
@@ -45,21 +39,15 @@ Talking of the Stellantis BEVs, the new Peugeot e-308 also saw its first registe
 
 Another newcomer to the French Market at significant volume was the new BYD Atto 3, with 60 units in May (it had landed just 6 demo units over the previous two month). Recall that the Atto 3 already started delivering in the Netherlands, Norway and Sweden at the end of 2022.
 
- 
-
 ![Citroën H Van](images/Citroen-H-Van.avif)
 
 The Volkswagen ID.Buzz, which landed in France  only in April, with an initial 46 units, has already stepped up to 79 units in May. If the ID.Buzz continues to prove (relatively) popular in France, should Citroën release an updated version of the classic _Citroën Type H van_ (above) to compete with it? Answers down below please!
-
- 
 
 ![](ev-sales-images/2023-05-France-BEVs-Trailing-Qtr.avif)
 
 Looking at the 3 month chart, the Model Y is still very dominant (though not as much so in France as we have seen in [Sweden](/2023/06/14/May-2023-tesla-model-y-conquers-sweden/) and [Norway](/2023/06/12/May-2023-tesla-still-dominates-the-norwegian-ev-market/)).
 
 Overall the top 15 spots were remarkably static compared to 3 months prior, with only small moves up or down. There were no all-new faces in the top 20.
-
- 
 
 ## Outlook
 

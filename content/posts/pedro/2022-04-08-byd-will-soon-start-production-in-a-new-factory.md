@@ -11,15 +11,9 @@ images:
 
 BYD's fifth car factory in China is expected to start production on April 15 at Fuzhou city, Jiangxi province, with a planned annual production capacity of 200.000 vehicles.
 
- 
-
 This is especially good news since the Chinese automaker recently announced that is now producing BEVs (Battery Electric Vehicles) and PHEVs (Plug-in Hybrid Electric Vehicles) only.
 
- 
-
 Let's see all the production bases of BYD (already operating and under construction).
-
- 
 
 1. **Shenzhen** (already operating)
 2. **Xi'an** (already operating)
@@ -31,15 +25,9 @@ Let's see all the production bases of BYD (already operating and under construct
 8. **Jinan** (under construction)
 9. **Xiangyang** (under construction)
 
- 
-
 As for global sales goals, if supply chain conditions improve, BYD expects to sell at least 2 million vehicles in 2022, which represents a solid increase from the previous year - when 320.810 BEVs and 272.935 PHEVs were sold.
 
- 
-
 Right now BYD can't produce enough electric cars to meet demand and there are already more than 400.000 customers on waiting list, which keeps on increasing day by day.
-
- 
 
 Let's see the whole range of popular BYD BEVs.
 
@@ -51,11 +39,7 @@ Let's see the whole range of popular BYD BEVs.
 - Han EV
 - Seal (coming soon)
 
- 
-
 The [BYD Yuan Plus](/2021/08/17/byd-yuan-plus-is-almost-ready-for-launch/) is about to get its global version called Atto 3 released and is seen as BYD's first real effort to become popular abroad.
-
- 
 
 **BYD Atto 3 standard version**
 
@@ -75,8 +59,6 @@ The [BYD Yuan Plus](/2021/08/17/byd-yuan-plus-is-almost-ready-for-launch/) is ab
 - **Range**: 320 km in WLTP
 - **Consumption**: 157 Wh/km in WLTP
 
- 
-
 **BYD Atto 3 long range version**
 
 - **Length**: 4.455 mm
@@ -95,11 +77,7 @@ The [BYD Yuan Plus](/2021/08/17/byd-yuan-plus-is-almost-ready-for-launch/) is ab
 - **Range**: 420 km in WLTP
 - **Consumption**: 144 Wh/km in WLTP
 
- 
-
 In Australia the BYD Atto 3 already has prices, 44.381 AUD (30.442 euros) for the 50 kWh version and 47.381 AUD (32.500 euros) for the 60 kWh version. Considering that in Australia, electric cars are even more overpriced than in Europe or North-America, doesn't seem bad.
-
- 
 
 {{< youtube tKkWjCihdTM >}}
 

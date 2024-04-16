@@ -13,11 +13,7 @@ images:
 
 Germany saw plugin electric vehicle (EV) share at a low ebb in January, just 15.1%, from 21.6% year on year. The one-off low result comes in the shadow of record plugin share in December, ahead of reduced incentives from January 1st; the imbalance will normalise in the coming months. Overall auto volumes were 179,225 units, just 2% lower than January 2022, though still well down from pre-Covid seasonal norms. The best selling BEV was the Tesla Model Y.
 
- 
-
 ![](ev-sales-images/2023-01-Germany-Passenger-Auto-Registrations.avif)
-
- 
 
 January’s combined plugin share of 15.1% comprised full electrics (BEVs) at 10.1%, and plugin hybrids with 4.9%. Their respective shares in January 2022 were 21.6%, 11.3%, and 10.3%.
 
@@ -33,11 +29,7 @@ Personally, I think the only “incentive” for PHEVs should be the _intrinsic
 
 Because of these fiscal incentive disjunctures, we can’t read too much into the December-through-January pattern of plugin sales, other than saying that the overall the move to EV will continue. We will get more of a handle on 2023’s plugin trajectory perhaps by the end of Q2, and certainly later throughout the second half.
 
- 
-
 ![](ev-sales-images/2023-01-Germany-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## Best selling BEVs
 
@@ -49,11 +41,7 @@ With the local Tesla Gigafactory in Brandenburg now producing decent volumes of 
 
 In second place was the Volkswagen ID.4/ID.5 pair, with the refreshed Audi e-tron (which from now on is badged as the Q8 e-tron), taking third.
 
- 
-
 ![](ev-sales-images/2023-01-Germany-BEVs.avif)
-
- 
 
 The Tesla Model Y’s January volumes were in fact so strong that it actually took _4th spot in the overall auto market_ for the month (behind the VW Golf, VW Tiguan, and VW T-Roc), something never previously seen in the first month of a fiscal quarter.
 
@@ -66,8 +54,6 @@ There were four BEV models _new to the German market_ in January; the BYD Atto
 Let’s now turn to the three month picture:
 
 ![](ev-sales-images/2023-01-Germany-BEVs-Trailing-Qtr.avif)
-
- 
 
 Tesla’s models have a very strong lead, on the basis of massive volumes since November. Volkswagen’s ID models will need to step up to catch up. This is not just in Germany — the balance is roughly similar at the Europe-wide level.
 
@@ -84,8 +70,6 @@ Let’s take a quick look at the manufacturing group performance:
 The top four ranks are unchanged since the three months to October. Volkswagen Group has actually taken 2.2% more of the German BEV market pie since the prior period. Tesla lost 1.5%, Stellantis gained 2.2%, and Renault–Nissan gained 1.1%.
 
 In the lower half, BMW Group slipped from 6th to 7th (just outside this table), and Mercedes Group climbed from 7th to 5th, pushing Hyundai Group down a spot to 6th.
-
- 
 
 ## Outlook
 

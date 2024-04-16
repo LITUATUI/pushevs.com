@@ -11,8 +11,6 @@ images:
 
 The small Wuling Hong Guang MINI EV continues to dominate electric car sales in China. It's impressive that this electric car remains so popular now that better alternatives are available.
 
- 
-
 1. **Wuling Hong Guang MINI EV**: 29.706
 2. **Tesla Model Y**: 12.728
 3. **Tesla Model 3**: 9.208
@@ -28,15 +26,9 @@ The small Wuling Hong Guang MINI EV continues to dominate electric car sales in 
 13. **BYD e2**: 3.106
 14. **NIO ES6**: 3.017
 
- 
-
 One of the best alternatives to the Wuling Hong Guang MINI EV currently available is the Changan Benben E-Star, that recently became even cheaper with the introduction of the [National Edition](/2021/05/20/changan-benben-e-star-gets-new-low-cost-edition/).
 
- 
-
 ![Changan Benben E-Star National Edition](images/Changan-Benben-E-Star-National-Edition.avif)
-
- 
 
 As for Tesla, considering that it sells much more expensive electric cars, its sales figures are impressive. Furthermore, if the introduction of a cheaper Tesla Model Y version with a LFP battery gets confirmed as expected, sales will likely skyrocket.
 

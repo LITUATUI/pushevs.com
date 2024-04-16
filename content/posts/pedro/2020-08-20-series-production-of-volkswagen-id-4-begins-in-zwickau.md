@@ -11,11 +11,7 @@ images:
 
 Volkswagen's first electric compact SUV is now being built in Zwickau, Saxony, Germany.
 
- 
-
 First let's see the press release, then I'll make some considerations.
-
- 
 
 > Volkswagen’s electric offensive continues to gather speed: Series production of the brand’s first all-electric SUV, the ID.4, gets underway in Zwickau. The world premiere of the ID.4 follows at the end of September. Volkswagen is thus underscoring its ambition to become the world market leader in e-mobility. To this end, the Group is investing some €33 billion in the period to 2024, €11 billion of which have been earmarked for the Volkswagen brand. The brand expects to produce 1.5 million electric cars in 2025.
 > 
@@ -25,11 +21,7 @@ First let's see the press release, then I'll make some considerations.
 > 
 > Zwickau plays a key role in the system changeover to e-mobility: For the first time, a large car manufacturing plant is being entirely converted to e-mobility, with investments running at some €1.2 billion. All conversion work will be completed as scheduled this year. In 2021, the first full production year as an EV factory, some 300,000 electric vehicles based on the modular electric drive matrix (MEB) will leave the Zwickau plant. The site will therefore become largest and most efficient EV factory in Europe and a trailblazer in the transformation of Volkswagen’s global production network. Preparations to roll out the electric SUV at international level are also in full swing. Pre-production of the ID.4 has already started at the Anting plant in China, the Chattanooga site will start the ID.4 production in 2022.
 
- 
-
 ![Modular electric drive matrix (MEB) by Volkswagen](images/Modular-electric-drive-matrix-MEB-by-Volkswagen.avif)
-
- 
 
 > **Profile of Volkswagen’s first all-electric SUV.**
 > 
@@ -47,11 +39,7 @@ First let's see the press release, then I'll make some considerations.
 > 
 > With its resolute entry into e-mobility, Volkswagen is making an important contribution to climate protection and thereby creating long-term perspectives for some 100,000 employees at its German plants. Apart from manufacturing at the Zwickau factory, the Components plants in Brunswick, Kassel, Salzgitter and Wolfsburg are also involved in the production of electric vehicles. They manufacture key components such as the electric motors or the battery systems. The ID.3 will also be built at the Gläserne Manufaktur in Dresden from 2021. The car manufacturing plants in Emden and Hanover are scheduled to begin building electric vehicles from 2022.
 
- 
-
 The Volkswagen ID.4 made in Europe is using the new NCM 712 battery cells made by LG Chem in Poland. Later on, the made in USA version will get its battery cells from SK Innovation and the made in China version will probably get its battery cells from CATL.
-
- 
 
 **Volkswagen ID.4 made in Europe**
 
@@ -65,8 +53,6 @@ The Volkswagen ID.4 made in Europe is using the new NCM 712 battery cells made b
 - **Gravimetric energy density**: 265 Wh/kg
 - **Chemistry**: NCM 712
 
- 
-
 **Battery pack (low capacity)**
 
 - **Total capacity**: 55 kWh
@@ -77,8 +63,6 @@ The Volkswagen ID.4 made in Europe is using the new NCM 712 battery cells made b
 - **TMS**: active liquid cooling
 
 As a side note, this exactly the same battery configuration we have in the new generation Renault ZOE.
-
- 
 
 **Battery pack (medium capacity)**
 
@@ -91,8 +75,6 @@ As a side note, this exactly the same battery configuration we have in the new g
 
 This battery pack has the highest voltage of the three. Great for DC fast charging.
 
- 
-
 **Battery pack (high capacity)**
 
 - **Total capacity**: 82 kWh
@@ -102,19 +84,13 @@ This battery pack has the highest voltage of the three. Great for DC fast chargi
 - **Total cell weight**: 309 kg
 - **TMS**: active liquid cooling
 
- 
-
 ![Battery costs roadmap by Volkswagen](images/battery-costs-roadmap-by-volkswagen.avif)
-
- 
 
 Made with very energy dense and affordable NCM 712 batteries - that cost below 100 euros per kWh -, the expensive Volkswagen ID.3 and ID.4 will be extremely profitable electric cars (on average way more than 15.000 euros per unit). That's why Volkswagen will only try to sell the cheaper electric triplets (UpMiiGo) made on the old NSF (New Small Family) platform when it's required to reach EU emissions targets.
 
 This year thanks to the COVID-19 lockdowns, ICE (Internal Combustion Engine) car sales dropped a lot, this is great but also means that Volkswagen won't have to sell as many electric cars as it was previously expected. The very profitable ID.3 and ID.4 will be enough to comply with EU emissions regulations and VW doesn't need to sell any more triplets this year...
 
 The same could be said about Renault and its new ZOE made with the same NCM 712 battery cells from LG Chem. It's an extremely profitable electric car (more than 10.000 euros per unit), that's why advertising and availability are high for this model. You don't have to wait very long to get one after you order it.
-
- 
 
 Anyway, I really think that the Volkswagen ID.3 and ID.4 will play a very important role in the massification of electric cars. Not only they seem to be great electric cars, the MEB platform is flexible enough that it'll eventually adapt to use [CTP (cell-to-pack) cobalt-free batteries](/2020/04/12/simple-solution-for-safer-cheaper-more-energy-dense-batteries/). This is the future and the step required to allow an annual production above one million units. Until then the "car of the people" won't be electric.
 

@@ -11,27 +11,17 @@ images:
 
 During this summer, 30 pre-production units of the Mégane E-Tech Electric will be driven by Renault engineers for final testing before mass production begins.
 
- 
-
 > Revealed during Renault eWays: The Challenge towards Zero Emissions, Mégane eVision showcar announced Renault’s first step on C-segment electric vehicles ; enhancing a comprehensive lineup of fully electric passenger cars: with the A-segment Twingo E-Tech Electric, and the B-segment bestseller ZOE.
 > 
 > Based on the CMF-EV platform, the all-new Mégane E-Tech Electric features a 160kW (217hp) e-motor and a 60kWh battery pack enabling up to 450km WLTP. Also called MéganE (pronounced “Mégane e”), the car starts to reveal its final silhouette as a fleet of 30 pre-production cars will be driven on open roads this summer by our engineers.
 > 
 > Made in the Douai factory, all the pre-production cars will be covered with a taylor-made pattern from Renault Design. Consisting in a play of lines and patterns from our new and iconic logo, this design creates a dazzle-like camouflage.
 
- 
-
 This is one of the most awaited electric cars in Europe and will share the new CMF-EV platform with the upcoming Nissan ARIYA.
-
- 
 
 ![Nissan ARIYA](images/Nissan-Ariya.avif)
 
- 
-
 The Renault Mégane E-Tech Electric with a WLTP range of 450 km from a 60 kWh battery suggests that it'll have a consumption similar to the smaller ZOE. It seems that the higher weight is compensated by better aerodynamics and/or powertrain efficiency.
-
- 
 
 **Update**
 
@@ -43,11 +33,7 @@ Anyway, it seems that with the new platform Renault will finally abandon its Cha
 
 The good news is that with a common on-board charger the new powertrain will be more reliable and efficient. The not so good news is that a simple - but often unreliable - 22 kW on-board charger will no longer come as standard in Renault's electric cars.
 
- 
-
 Finally, with the Mégane E-Tech Electric, Renault is expected to debut the new NCMA battery cells from LG Energy Solution (LG Chem's battery business).
-
- 
 
 ![LG Energy Solution at the InterBattery 2021 event](images/LG-Energy-Solution-at-the-InterBattery-2021-event.avif)
 

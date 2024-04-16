@@ -13,8 +13,6 @@ On October 8, the first 200 units of the DFSK SERES 3 were shipped to Germany an
 
 This electric car has similar dimensions to the Kia e-Niro, a starting price of 32.500 euros and a 52,56 kWh cobalt-free LFP (LiFePO4) battery.
 
- 
-
 Let's see some of its specs.
 
 - **Length**: 4.385 mm
@@ -33,15 +31,9 @@ Let's see some of its specs.
 - **Slow charging**: 8 hours
 - **Starting price**: 32.500 euros (before subsidies)
 
- 
-
 In the more realistic WLTP test cycle the range should be around 300 km and the consumption 17,5 kWh/100 km.
 
- 
-
 ![DFSK SERES 3](images/DFSK-SERES-3.avif)
-
- 
 
 We still don't know what safety rating this electric car will get in the Euro NCAP crash tests. Last year the [MG ZS EV scored a perfect 5-star rating](https://www.euroncap.com/en/results/mg/zs-ev/39678), while the [Aiways U5 only got 3 stars](https://www.euroncap.com/en/results/aiways/u5/39672).
 

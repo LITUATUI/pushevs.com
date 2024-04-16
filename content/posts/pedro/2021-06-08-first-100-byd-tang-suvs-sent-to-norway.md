@@ -11,8 +11,6 @@ images:
 
 BYD sent the first 100 units of the Tang EV to Norway, which is BYD’s most expensive passenger BEV. This is a big SUV that seats 7 persons and has AWD (All-Wheel Drive).
 
- 
-
 > **Rotterdam, Netherlands** – BYD, the world’s leading New Energy Vehicle (NEV) manufacturer, and one of the first to produce one million electric passenger cars globally, is today shipping the first 100 European-specification BYD Tang SUVs for customers in Norway.
 > 
 > The consignment marks the company’s entry into the competitive European passenger car market, with a product which combines BYD’s very latest battery and NEV technology with European design and specification appeal. The BYD brand is already firmly established in Scandinavia, and across Europe, as the market-leading manufacturer of electric buses for the public transport sector.
@@ -29,11 +27,7 @@ BYD sent the first 100 units of the Tang EV to Norway, which is BYD’s most exp
 > 
 > Chief among its new technological features is the new, game-changing and space-saving **Blade Battery**, boasting performance figures of 0-100 km/h in just 4.6-seconds from its 86.4 kWh battery capacity, and a class-leading single-charge range of over 500km (NEDC). While charging to between 30% and 80% of capacity is attained in a remarkably brief 30-minutes, it is the Blade Battery’s ultra-safe credentials which are truly impressive, with stringent nail penetration and furnace test results yielding dramatic improvements over conventional lithium-ion phosphate technology.
 
- 
-
 ![BYD Tang EV](images/BYD-Tang-EV.avif)
-
- 
 
 The starting price of the BYD Tang EV in Norway is 599.900 NOK (59.065 euros), while in China starts at 295.700 yuan (37.640 euros) before subsidies and 279.500 yuan (35.578 euros) after subsidies.
 

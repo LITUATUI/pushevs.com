@@ -11,11 +11,7 @@ images:
 
 The NIO ES6 is an all-electric SUV for the Chinese market that has a 84 kWh battery pack made with NCM 811 battery cells from CATL. NIO has announced that deliveries to customers are underway.
 
- 
-
 Let's see the press release.
-
- 
 
 > **Shanghai, China – June 18, 2019** – Today, NIO officially began delivery of the 5-seater high-performance, long-range, electric SUV, NIO ES6, to its users. NIO ES6 Premier Edition vehicles were delivered to users in Beijing, Shanghai and Guangzhou.
 > 
@@ -25,19 +21,13 @@ Let's see the press release.
 > 
 > The ES6 was officially launched on December 15, 2018. The ES6 has a base price of 358,000 yuan before subsidies.
 
- 
-
 Some more technical details from a previous press release.
-
- 
 
 > - A length of 4,850 mm, width of 1,965 mm and wheelbase of 2,900 mm offer a comfortably large space
 > - Standard-fit dual motors in conjunction with intelligent electric all-wheel drive deliver 0-100 km/h acceleration in as little as 4.7 seconds and 100-0 km/h braking distance of 33.9 meters
 > - The first SUV featuring a combination of permanent magnet and induction motors, of which the permanent magnet motor with a 97% energy conversion rate, allowing for performance and energy efficiency alike
 > - The 84-kWh lithium battery pack, optional across the model range, features world-class nickel-cobalt-manganese (NCM) 811 cathode material, with energy density of up to 170 Wh/kg, and NEDC range of 510 km
 > - The only body design in its class, with a hybrid structure of aluminum alloy and carbon fiber gives overall torsional stiffness of 44,930 Nm/degree
-
- 
 
 As far as I know this was the first mass produced electric car with NCM 811 battery cells to be delivered to customers. A year ago everybody thought - myself included - that it would be the Koreans battery cell makers (LG Chem and SK Innovation) to celebrate this feat. Instead, it's the [Chinese battery cell maker CATL](/2019/03/30/catl-achieves-304-wh-kg-in-new-battery-cells/) that wins the trophy.
 

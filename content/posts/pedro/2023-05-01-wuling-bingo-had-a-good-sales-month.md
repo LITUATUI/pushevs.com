@@ -13,11 +13,7 @@ The Wuling Bingo was launched on March 29 in China with a starting price of 59.8
 
 This impressive small electric car is a direct alternative to the [BYD Seagull](/2023/04/19/byd-seagull-is-officially-launched/).
 
- 
-
 Let's see some details.
-
- 
 
 - **Length × width × height**: 3.950×1.708×1.580 mm
 - **Wheelbase**: 2.560 mm
@@ -34,8 +30,6 @@ Let's see some details.
 - **Fast charging time**: 35 minutes from 30 to 80 % (high level version)
 - **AC charging**: 3,3 kW
 - **Starting prices**: 58.800 - 83.800 yuan (7.887 - 11.048 euros)
-
- 
 
 Small cars were very popular in Europe before automakers began to force customers into buying more profitable and bigger cars, such as SUVs and CUVs. Hopefully, the A-segment will become popular again with its electrification.
 

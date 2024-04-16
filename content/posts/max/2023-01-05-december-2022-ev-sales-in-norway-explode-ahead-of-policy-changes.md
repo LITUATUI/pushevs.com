@@ -15,19 +15,13 @@ Norway's auto market saw plugin EV volume explode to take 87.6% share in Decembe
 
 BEVs saw pull-forward sales, with volume around 2.5x their previous monthly record, ahead of new weight taxes, and VAT taxes. Petrol vehicles also saw a relative sales surge ahead of increased emissions taxes. Several interesting new BEV models joined the market, and the Tesla Model Y was the overall best seller.
 
- 
-
 ![December 2022 - Norway Passenger Auto Registrations](ev-sales-images/2022-12-Norway-Passenger-Auto-Registrations.avif)
-
- 
 
 December's combined plugin share of 87.6% was completely dominated by full electrics (BEVs), taking 82.8% share. Plugin hybrids (PHEVs) took just 4.8% share, their lowest for many years. The respective shares a year ago were 67.1% and 22.9%.
 
 The full year 2022 shares were 79.3% for BEVs, and 8.5% for PHEVs, combining to 87.8%. These compare to respective 2021 figures of 64.5%, 21.7%, and 86.2.%
 
 PHEV's relatively low share was not due to their fall in volume, rather that the volume of BEVs and petrol vehicles were much higher than usual. December's overall auto market volume of 39,497 units was almost double the December volume of 2021 and 2020 (both around 20,570 units), and 2.5x times the average monthly volume seen in 2022. BEVs alone sold 32.713 units, over twice their previous record volume. Petrol vehicle volumes were 4x to 5x recent seasonal norms.  The reason for the high volume of these two powertrains was pull-forward sales, ahead of looming tax changes in January 2023.
-
- 
 
 ## Pull forward ahead of tax changes
 
@@ -43,19 +37,11 @@ Since consumers naturally wanted to try to avoid these effective cost increases 
 
 Furthermore, there are also increased taxes for combustion vehicles, most notably related to CO2 emissions. These also amount to effective increases in cost of several thousand Euros per vehicle, especially for larger vehicles and/or those with bigger engines. Petrol vehicles are particularly affected, thus they also saw a rush of pull-forward sales, before the January 1st policy change, gaining 4x or 5x their typical volumes.
 
- 
-
 ![Norway Monthly Powertrain Market Share](ev-sales-images/2022-12-Norway-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 The isolated powertrain volume chart below illustrates the abnormal volumes of December's BEVs, and petrol vehicles. We can expect patterns to return closer to the recent balance in a few months from now. January and February will likely show some negative rebound effects for BEVs and petrols:
 
- 
-
 ![Norway Monthly Powertrain Volume](ev-sales-images/2022-12-Norway-Monthly-Powertrain-Volume.avif)
-
- 
 
 ## Norway’s bestsellers
 
@@ -63,11 +49,7 @@ Tesla was able to capitalise on the surge in BEV demand, supplying a record 4,51
 
 The Volkswagen ID.4, and Volvo XC40, took the #2 and #3 spots, far off from the Model Y, but still well above their typical monthly volumes.
 
- 
-
 ![Norway BEVs - December 2022](ev-sales-images/2022-12-Norway-BEVs.avif)
-
- 
 
 In terms of significant changes, the Mercedes EQC claimed its highest ever ranking, thanks to over 4x its more typical monthly volumes, due to the looming tax changes noted above. Likewise, the Ford Mustang Mach-E, most variants of which are around 600,000 NOK, saw a 5.5x jump in volume, gaining 10th spot.
 
@@ -85,11 +67,7 @@ Now that there is a lot more competition in the premium full sized market, it wi
 
 Let's now step back and look at the trailing 3-month rankings:
 
- 
-
 ![Norway BEVs December - 2022 - Trailing Qtr](ev-sales-images/2022-12-Norway-BEVs-Trailing-Qtr.avif)
-
- 
 
 Sales of the larger, heavier models, priced above 500,000 NOK, have been juiced in November and December by the pull-forward discussed above. As this is a one-off situation, there's not much point in over-analysing the temporary changes in ranking that have resulted. Let's return to this in the Spring when things have settled down again.
 
@@ -97,17 +75,11 @@ In terms of long-term favourites, the Tesla Model Y, Volkswagen ID.4, and Skoda 
 
 The Volvo XC40 has stepped up in the past few months, taking 3rd in the above rankings. It's good to see the Volvo and Polestar brands get back to strength in Norway, as they have in neighbouring Sweden. Let's see if they can sustain this renewed resolve over an extended period.
 
- 
-
 ## What has changed since a year ago?
 
 Below are Norway's top 10 favourite BEVs for the full year 2022:
 
- 
-
 ![Norway BEVs Totals 2022](ev-sales-images/2022-Norway-BEVs-Totals.avif)
-
- 
 
 What has changed since a year ago? The Tesla Model 3, which was #1 in 2021, has fallen away completely, now at #16.
 
@@ -118,8 +90,6 @@ The BMW iX has come from nowhere to take #5 spot, likewise its sibling i4 has ta
 Other YoY changes are less dramatic, more of a shuffling of places.
 
 Will 2023 see more market innovation, and the arrival of disruptive new BEV models? We will have to wait and see.
-
- 
 
 ## Outlook
 

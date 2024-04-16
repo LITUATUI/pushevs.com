@@ -11,11 +11,7 @@ images:
 
 LG Energy Solution finally unveiled its plans for LFP (LiFePO4) batteries at the 2022 Smarter E event in Munich.
 
- 
-
 Jorg Jurgens, LGES director of energy storage systems EMEA (Europe, the Middle East, and Africa), revealed the company's plans to pv magazine.
-
- 
 
 > The new RESU Flex series will feature the NMC battery chemistry. The South Korean manufacturer has long been faithful to NMC, but it now plans to develop and release LFP-standard cells by October 2023 and LFP long cells by the fourth quarter of 2024. Jurgens told pv magazine that the transition will be a smooth one, as the LFP cells will be produced in the same format and sizes, so the systems will be able to use the same modules and racks as before.
 > 
@@ -25,17 +21,11 @@ Jorg Jurgens, LGES director of energy storage systems EMEA (Europe, the Middle E
 > 
 > [pv magazine](https://www.pv-magazine.com/2022/05/18/lg-energy-solution-unveils-new-battery-storage-solutions-moves-to-lfp/)
 
- 
-
 Summing up.
-
- 
 
 **Standard LFP cell**: production by October 2023 in Holland in the US state of Michigan
 
 **Long LFP cell**: production by Q4 of 2024 in Holland in the US state of Michigan
-
- 
 
 My guess is the standard sized cell will probably be used mostly in energy storage systems (ESS), while the long sized cell will be used in electric vehicles. This means that only by 2025 we get to see electric cars powered by LFP cells made by LG, which is disappointing.
 

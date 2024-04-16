@@ -13,11 +13,7 @@ Chinese customers can now order the Tesla Model Y Standard Range MIC (Made in Ch
 
 After subsidies the price drops to 276.000 yuan (35.932 euros), only 10 % higher than Tesla's most-basic Model 3 sedan made in China.
 
- 
-
 First deliveries of this new more affordable version are expected to start next month.
-
- 
 
 **Tesla Model Y SR MIC highlights**
 
@@ -27,15 +23,9 @@ First deliveries of this new more affordable version are expected to start next 
 - **Starting price (before government subsidies)**: 291.840 yuan (37.995 euros)
 - **Starting price (after government subsidies)**: 276.000 yuan (35.932 euros)
 
- 
-
 Considering that this should be exactly the same SR version that was recently introduced in Hong Kong, the WLTP range is 455 km.
 
- 
-
 Anyway, Tesla had to introduce this more affordable version, because above 300.000 yuan (39.057 euros) electric cars in China aren't eligible for government subsidies.
-
- 
 
 CATL is now supplying LFP (LiFePO4) battery cells to the two most popular Tesla models.
 

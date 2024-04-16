@@ -13,11 +13,7 @@ LG Chem offers complete and easy solutions for automakers that want to electrify
 
 In Europe, 3-phase on-board chargers will soon become standard and LG Chem acknowledges it by making the 11 kW variant available from the start. While it's a shame that a compact 22 kW variant isn't already available, there's always the possibility of using two 11 kW chargers in parallel to reach 22 kW.
 
- 
-
 > • Rated 3.3 kW, 6.6 kW, 11kW • High-efficiency (95％ at maximum) • Highly reliable and energy-efficient system • Wide Out Voltage Range
-
- 
 
 I really think that powerful on-board chargers are very important, since the DC-fast chargers are very scarse. With decent charging capabilities, electric cars wouldn't need to carry extremely heavy batteries everywhere - that by increasing the car's weight, decrease safety (by decreasing acceleration and increasing stopping distance) and efficiency.
 

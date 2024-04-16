@@ -11,11 +11,7 @@ images:
 
 We finally have the specs for the European version of the BYD Seal.
 
- 
-
 Let's see the press release.
-
- 
 
 > - **Appealing, dynamic, sporty, technologically advanced full-electric D-segment sedan**
 > - **Available with a highly efficient Blade Battery - 82 kWh with up to 570km range (WLTP) and DC Charging (30-80%) up to 150 kW in just 26 minutes**
@@ -124,11 +120,7 @@ Let's see the press release.
 > 
 > More information and exact prizes will be announced closer to the official launch of BYD SEAL in August 2023.
 
- 
-
 {{< video src="https://cdn.uc.assets.prezly.com/ebf6ed37-62b7-4d7a-9593-0f370c6ad6bd/BYD\_SEAL\_B-roll.mp4" >}}
-
- 
 
 ### **Main Specifications BYD SEAL**
 
@@ -150,8 +142,6 @@ Let's see the press release.
 | DC charging time (30-80%, min) | 26 |
 | Heat Pump | Standard |
 | V2L function | Standard |
-
- 
 
 Good specs, but I think that by now a 22 kW on-board charger should be standard in premium electric cars. The price should be around 50.000 euros. What do you think?
 

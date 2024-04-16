@@ -19,8 +19,6 @@ Moreover, profit margins can even double if Tesla starts sourcing more component
 
 Automakers that say they are losing money with their overpriced electric cars are either lying or doing it wrong. Maybe it's both...
 
- 
-
 Let's see the specs of the Tesla Model 3 made in China with LFP battery.
 
 - **Length**: 4.694 mm
@@ -38,29 +36,19 @@ Let's see the specs of the Tesla Model 3 made in China with LFP battery.
 - **Moor RPM**: 5.000
 - **Motor torque**: 404 Nm
 
- 
-
 In the more realistic WLTP test cycle the range should be around 351 km (218 miles).
 
 Unfortunately we still don't know the capacity of the battery or cells. Some [rumors suggest that the battery pack is made with 108 cells](https://www.gg-lb.com/art-40365.html) (108s1p). It's suggested that CATL's battery pack is either module-less or it has 4 modules and each module has 27 cells as you can see from the drawing below.
 
- 
-
 ![Hypothetical Tesla Model 3 LFP battery from CATL](images/Hypothetical-Tesla-Model-3-LFP-battery-from-CATL.avif)
 
- 
-
 Anyway, the gravimetric energy density of 125 Wh/kg at the battery pack level is disappointing, considering that the [BYD Blade Battery achieves 140 Wh/kg](/2020/05/26/byd-blade-prismatic-battery-cell-specs-possibilities/).
-
- 
 
 **Summing up...**
 
 Energy density: 125 Wh/kg (not amazing)
 
 Profit margin: 35 % (very amazing)
-
- 
 
 Now I wonder what's next. If Tesla starts producing a supermini at its upcoming plant in Germany and sells it for less than 30.000 euros before subsidies, it'll easily dominate the European market.
 

@@ -11,11 +11,7 @@ images:
 
 We finally know the exact figures of range and battery capacity for the BYD Dolphin, thanks to recent documents published by the Ministry of Industry and Information Technology (MIIT).
 
- 
-
 Let's see those figures.
-
- 
 
 **BYD Dolphin standard range version**
 
@@ -33,11 +29,7 @@ Let's see those figures.
 - **Range**: 301 km (NEDC), roughly 225 km in WLTP
 - **Consumption**: 10,3 kWh/100 km (NEDC), roughly 13,7 kWh/100 km in WLTP
 
- 
-
 The standard range version will probably be available only in the domestic market.
-
- 
 
 **BYD Dolphin longer range version**
 
@@ -55,13 +47,9 @@ The standard range version will probably be available only in the domestic marke
 - **Range**: 405 km (NEDC), roughly 300 km in WLTP
 - **Consumption**: 11 kWh/100 km (NEDC), roughly 14,7 kWh/100 km in WLTP
 
- 
-
 Unfortunately the ranges are lower than what was previously expected. I was expecting that the first two versions to become available would already come with NEDC ranges around 400 and 500 km. Nonetheless, I believe that a third version will arrive later with more range and faster acceleration - aimed for foreign markets.
 
 First deliveries to Australian customers are scheduled for early next year. Will they get the 405 km NEDC range version, or an upcoming version with more range will be already available by then?
-
- 
 
 Anyway, I think that without a NEDC range around 500 km - and 400 km in WLTP - the BYD Dolphin needs to be priced similarly to the Dacia Spring - below 20.000 euros - to convince European customers.
 

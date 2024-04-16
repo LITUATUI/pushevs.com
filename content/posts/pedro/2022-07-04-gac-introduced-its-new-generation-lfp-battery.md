@@ -11,11 +11,7 @@ images:
 
 GAC Tech day was held at GAC R&D Center, where the company announced its new generation of LFP batteries.
 
- 
-
 > GAC GROUP also launched its new-generation super iron lithium battery built on microcrystalline technology (SmLFP), which provides batteries with 13.5% higher cell quality energy density and 20% greater volume energy density than regular mass-produced iron phosphate lithium battery cells available on the market.
-
- 
 
 **Highlights**:
 
@@ -26,11 +22,7 @@ GAC Tech day was held at GAC R&D Center, where the company announced its new gen
 - **Fast charging**: above 2 C-rate
 - **Life cycle**: 1,5 million kilometers
 
- 
-
 Nonetheless, GAC isn't the only company that expects to greatly improve the energy density of LFP batteries in 2023. Battery makers such as SVOLT and Guoxuan High-Tech expect to reach 230 Wh/kg with LFP battery cells, which translates to an energy density around 200 Wh/kg at the pack level - if the CTP (cell to pack) approach is used.
-
- 
 
 A 60 kWh EV battery that weighs around 300 kg and can be charged from 10 to 80 % in roughly 20 minutes seems a good fit for a mainstream electric car. What do you think?
 

@@ -17,15 +17,11 @@ The Tesla Model Y broke all records, with the highest monthly sales of any vehic
 
 ![](ev-sales-images/2023-03-Norway-Passenger-Auto-Registrations.avif)
 
- 
-
 March’s combined plugin result of 91.1% comprised 86.8% full electrics (BEVs), and 4.3% plugin hybrids. Their respective shares a year ago were 91.9%, 86.1%, and 5.8%.
 
 Plugless hybrids (HEVs) did better than PHEVs, growing their share from a year ago (6.1% from 2.7%). This is likely a temporary blip, the result of a resettling of the market following regulatory changes that came in on January 1st. Overall, HEVs have been on a long term decline since mid 2020.
 
 Petrol-only vehicles saw their lowest share in modern history, taking just 1% of the market. Even adding in diesel-only vehicles, the combined ICE-only share was at a record low of 2.7%, from 5.3% YoY.
-
- 
 
 ![](ev-sales-images/2023-03-Norway-Monthly-Powertrain-Market-Share.avif)
 
@@ -39,11 +35,7 @@ Note that the performance of these other BEVs was not weak in absolute terms, it
 
 \[Clarification: the unit numbers we use for our ranking charts use a different counting methodology from the OFV, so model totals differ slightly, typically within 1%\].
 
- 
-
 ![](ev-sales-images/2023-03-Norway-BEVs.avif)
-
- 
 
 The Volvo XC40 jumped ahead of the Volkswagen ID.4, and ID.3, pushing them down to 4th and 5th spots, respectively. The ID. Buzz saw its highest volume since December, and took 6th.
 
@@ -93,8 +85,6 @@ Sliders:
 - **Hyundai Ioniq 5** down from 12th to 23rd
 
 In a smaller market like Norway, a month or two of deliveries made (or paused) can be the equivalent of an on-or-off tap in influencing a model’s short term ranking. It doesn’t necessarily reflect the longer term relative demand for a model.
-
- 
 
 ## Outlook
 

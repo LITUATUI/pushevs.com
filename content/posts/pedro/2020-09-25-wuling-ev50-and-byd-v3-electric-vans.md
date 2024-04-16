@@ -11,11 +11,7 @@ images:
 
 The Wuling EV50 and BYD V3 are two new electric vans that share the same body, but they have different cobalt-free LFP batteries.
 
- 
-
 Let's start with the Wuling EV50 that gets a 60 kW motor and two batteries options.
-
- 
 
 **Pack 1**
 
@@ -24,8 +20,6 @@ Let's start with the Wuling EV50 that gets a 60 kW motor and two batteries optio
 - **Energy density**: 130,12 Wh/kg
 - **Range**: 300 km (186 miles)
 
- 
-
 **Pack 2**
 
 - **Capacity**: 41,86 kWh
@@ -33,15 +27,9 @@ Let's start with the Wuling EV50 that gets a 60 kW motor and two batteries optio
 - **Energy density**: 135,91 Wh/kg
 - **Range**: 245 km (152 miles)
 
- 
-
 Wuling says that the LFP battery packs will last for at least 2 million kilometres and the starting price for the Wuling EV50 is 108.000 yuan (13.596 euros).
 
- 
-
 However, the BYD V3 is the best version, with a more powerful motor and a more energy dense BYD Blade Battery.
-
- 
 
 **BYD V3 specs**
 
@@ -56,8 +44,6 @@ However, the BYD V3 is the best version, with a more powerful motor and a more e
 - **Battery pack energy density**: 141,09 Wh/kg
 - **Motor**: 75 kW and 220 N.m of torque
 - **Maximum speed**: 90 km/h (56 mph)
-
- 
 
 In a more realistic test cycle such as the WLTP, the range would be around 245 km (152 miles), which is pretty acceptable for an electric cargo van. This electric van seems perfect for postal services.
 

@@ -13,11 +13,7 @@ Previously, the ORA Good Cat had a LFP (LiFePO4) battery in the standard range v
 
 Fortunately, recent Ministry of Industry and Information Technology (MIIT) homologation documents show us that a LFP battery will also be available in the long range version.
 
- 
-
 Let's see some details that I managed to extract from MIIT documents.
-
- 
 
 **ORA Good Cat standard range specs (CC7000BJ01GBEV)**
 
@@ -40,8 +36,6 @@ Let's see some details that I managed to extract from MIIT documents.
 - **TMS**: liquid-cooling
 - **Drag coefficient**: 0,289 Cd
 
- 
-
 **ORA Good Cat long range specs (CC7000BJ02DBEV)**
 
 - **Length**: 4.235 mm
@@ -63,15 +57,11 @@ Let's see some details that I managed to extract from MIIT documents.
 - **TMS**: liquid-cooling
 - **Drag coefficient**: 0,289 Cd
 
- 
-
 The new LFP battery made with cells from SVOLT for the long range version isn't available to order yet. Right now, the long range version with a NCM battery has a starting price after subsidies of 133.900 yuan (17.490 euros). We still don't know if the NCM battery will remain as an option in the long range version, or it will be completely replaced by LFP to cut costs.
 
 Both the affordable EV brand ORA and the battery cell maker SVOLT come from the same parent group GWM (Great Wall Motors).
 
 Anyway, with an energy density of 143,4 Wh/kg, this new LFP battery is more energy dense than some [packs made with NCM battery cells that are currently powering electric cars](/2020/04/04/comparison-of-different-ev-batteries-in-2020/). For example, the battery pack of the Peugeot e-208 - made with NCM 523 battery cells from CATL - has an energy density of 140 Wh/kg.
-
- 
 
 Thanks [Kingun](https://twitter.com/thekingun) for the heads up.
 

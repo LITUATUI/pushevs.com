@@ -11,8 +11,6 @@ images:
 
 After postponing multiple times its three-wheeled gas car, now Elio Motors wants to produce an electric version to become a more affordable alternative to Aptera.
 
- 
-
 > **ELIO MOTORS ANNOUNCES INTENT TO PRODUCE AN ELECTRIC VERSION OF ITS POPULAR VEHICLE.**
 > 
 > Phoenix, AZ— September 9, 2021 — Elio Motors OTCMKTS: ELIO, (eliomotors.com) is announcing their intention to produce an electric version of their three-wheeled vehicle. The announcement is based on the change in consumer demand and finance markets’ new appetite for electric vehicles. The Elio-E model has a targeted base at $14,900 making it the most affordable entry level electric vehicle on the market.
@@ -25,8 +23,6 @@ After postponing multiple times its three-wheeled gas car, now Elio Motors wants
 > 
 > Elio plans to offer its base three-wheeled Elio-E at a targeted price of under $15,000, giving consumers an economical and safe entry level option into the electric market that is thousands below other competitors’ offerings.
 
- 
-
 **Highlights**
 
 - 150 mile (241 km) range
@@ -38,13 +34,9 @@ After postponing multiple times its three-wheeled gas car, now Elio Motors wants
 - Tire Sizes: Front: 135/80 R15 / Rear: 175/65 R15 with Tire Deflation Detection System
 - Starting price of 14.900 USD (12.870 euros)
 
- 
-
 Years ago, when Elio Motors announced its plans to produce a fuel-efficient and affordable three-wheeled gas car, many people thought that the startup company shouldn't waste resources on gas and should go all electric instead.
 
 Now with its new plan, maybe there's hope for Elio Motors...
-
- 
 
 What do you think? Will Elio Motors ever produce a car that people can buy?
 

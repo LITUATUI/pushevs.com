@@ -11,11 +11,7 @@ images:
 
 The new generation Renault ZOE gets a WLTP range up to 395 km (245 miles) from its ZE 50 battery. As I wrote in the previous article, the battery pack is made with 192 LGX E78 battery cells from LG Chem.
 
- 
-
 Let's see the details.
-
- 
 
 **Battery cell**
 
@@ -27,8 +23,6 @@ Let's see the details.
 - **Gravimetric energy density**: 265 Wh/kg
 - **Chemistry**: NCM 712
 
- 
-
 **New generation ZE 50 battery**
 
 - **Total battery capacity**: 54,66 kWh
@@ -39,19 +33,11 @@ Let's see the details.
 - **Total cell weight**: 206 kg (63 %)
 - **TMS**: active air cooling
 
- 
-
 This battery weighs 326 kg, of which 206 kg (63 %) are from the cells. The rest 120 kg (37 %) of the weight is from the metal cases, cabling, BMS (Battery Management System) and TMS (Thermal Management System).
-
- 
 
 ![New Renault ZOE](images/New-Renault-ZOE.avif)
 
- 
-
 Curiously, in the new generation Renault ZOE the ZE 40 battery is identical to the ZE 50 battery, but its capacity is software-limited by the BMS (Battery Management System). It’s not the same [ZE 40 battery that was available in the old generation](/2019/02/10/renault-zoe-ze-40-full-battery-specs/).
-
- 
 
 **New generation ZE 40 battery**
 
@@ -63,17 +49,11 @@ Curiously, in the new generation Renault ZOE the ZE 40 battery is identical to t
 - **Total cell weight**: 206 kg (63 %)
 - **TMS**: active air cooling
 
- 
-
 ![In the new generation Renault ZOE the ZE 40 battery is just a ZE 50 battery with capacity limited by the BMS](images/In-the-new-generation-Renault-ZOE-the-ZE-40-battery-is-just-a-ZE-50-battery-with-capacity-limited-by-the-BMS.avif)
-
- 
 
 If you get a new generation Renault ZOE R110 with a ZE 40 battery, only 75 % of the total battery capacity is usable. [This greatly improves its cycle life](/2018/04/27/battery-charging-full-versus-partial/).
 
 Do you remember the plug-in hybrid Chevrolet Volt that was virtually immune to battery capacity degradation? Its LG Chem battery was only 60 % usable in the first generation and 75 % in the second.
-
- 
 
 Anyway, with the ZE 40 battery you get a WLTP range up to 317 km (197 miles), while with the ZE 50 battery you get a WLTP range up to 395 km (245 miles), which represents 25 % more. The price difference between the two battery options is 2.000 euros.
 

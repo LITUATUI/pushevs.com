@@ -11,11 +11,7 @@ images:
 
 The new PEUGEOT e-208 will arrive on the market in 2023 with more power, range and efficiency.
 
- 
-
 Let's see the press release.
-
- 
 
 > **NEW e-208 100% ELECTRIC: MORE FUN, MORE EFFICIENT, AND UP TO 400 KM OF RANGE WITH A NEW ELECTRIC ENGINE**
 > 
@@ -44,8 +40,6 @@ Let's see the press release.
 > **A range of services is available to make customers' daily lives easier:** • The MyPeugeot smartphone application allows customers to communicate with their vehicle and schedule a remote charge or launch a thermal pre-conditioning remotely. • The Free2Move eSolutions smartphone application allows users to plan their journey, in particular by anticipating when to charge since the charging stations along the journey are listed.
 > 
 > The new PEUGEOT e-208 will arrive on the market in 2023.
-
- 
 
 The average consumption of just 12 kWh/100 km in WLTP is impressive and it shows that there is still a lot of room for improvement when it comes to efficiency in other electric cars. Now, the popular Renault ZOE E-TECH seems to be outpaced and in need of an upgrade or a price cut.
 

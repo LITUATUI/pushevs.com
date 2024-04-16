@@ -11,11 +11,7 @@ images:
 
 Renault finally renewed its all-electric LCV (light commercial vehicle) lineup with faster charging and more range.
 
- 
-
 Let's see some details of the two improved electric vehicles.
-
- 
 
 **Renault Kangoo E-TECH**
 
@@ -28,11 +24,7 @@ Let's see some details of the two improved electric vehicles.
 - **On-board charger**: 11 kW (standard) or 22 kW (optional)
 - **Fast charging**: 80 kW (optional)
 
- 
-
 Comes standard with a heat pump that "provides optimal performance when the temperature is between -15 and +15°C."
-
- 
 
 **Renault Master E-TECH**
 
@@ -41,8 +33,6 @@ Comes standard with a heat pump that "provides optimal performance when the temp
 - **Range**: 200 km (WLTP)
 - **On-board charger**: 7,4 kW
 - **Fast charging**: 22 kW (optional)
-
- 
 
 Some safety features included:
 
@@ -54,8 +44,6 @@ Some safety features included:
 - Automatic Lights and Wipers (standard)
 - Active Emergency Braking System (AEBS), active on city roads and highways
 - Lane Departure Warning
-
- 
 
 The Renault Kangoo E-TECH seems to be the most balanced vehicle of the two and the Renault Master E-TECH feels a bit underwhelming. If the Renault Master E-TECH had better specs, it could be transformed into a good camper van and compete with the Volkswagen ID. Buzz. What do you think Renault, about introducing an improved camper variant in this vehicle?
 

@@ -11,8 +11,6 @@ images:
 
 NFA may soon join LNMO and LFMP as a promising cobalt-free cathode chemistry for EV batteries.
 
- 
-
 > ### Highlights
 > 
 > - Introducing a new class of cobalt-free, nickel-rich layered cathode (LiNixFeyAlzO2).
@@ -31,13 +29,9 @@ NFA may soon join LNMO and LFMP as a promising cobalt-free cathode chemistry for
 > 
 > Although research on the NFA class is in the early stages, Belharouak said that his team’s preliminary results to date indicate that cobalt may not be needed for next-generation lithium-ion batteries.
 
- 
-
 NFA (nickel, iron and aluminum-based cathode) is still in an early stage of development. Right now the energy density is good but the cycle life is still very poor, with only 88 % capacity retained after 100 cycles and 72 % after 200 cycles.
 
 But don't worry, in this initial phase of development the poor cycle life is to be expected. Just a few years ago, the first NCM 811 batteries developed in the lab also had a very poor cycle life, but now the mass-produced technology has an EOL (End-Of-Life) that already surpasses 1.000 cycles.
-
- 
 
 Anyway, it's yet to be seen if this new cobalt-free cathode chemistry will ever be adopted by a major battery cell maker.
 

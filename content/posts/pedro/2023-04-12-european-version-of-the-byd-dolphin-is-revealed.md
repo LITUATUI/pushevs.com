@@ -11,11 +11,7 @@ images:
 
 We finally have the specs for the European version of the BYD Dolphin.
 
- 
-
 Let's see the press release.
-
- 
 
 > - **All new BYD C-segment hatchback assures stress-free travelling**
 > - **Available with a highly efficient 60 kWh LFP Blade Battery with a 427km range (WLTP) and DC Charging (SOC 30%-80%) in just 29 minutes**
@@ -68,15 +64,9 @@ Let's see the press release.
 > 
 > More information and exact prices will be announced closer to the official launch of BYD DOLPHIN in June 2023.
 
- 
-
 {{< video src="https://cdn.uc.assets.prezly.com/35ce1eab-8fe0-4ec4-978e-74d2ae392078/BYD%20DOLPHIN%20B-roll.mp4" >}}
 
- 
-
 Now the specs.
-
- 
 
 ### **Main specifications BYD DOLPHIN (60 kWh)**
 
@@ -99,23 +89,15 @@ Now the specs.
 | Heat Pump | Standard |
 | V2L function | Standard |
 
- 
-
 Compared to the Chinese version, the European BYD Dolphin is larger, has longer range and a more powerful motor, but the price is disappointing.
 
- 
-
 {{< tweet user="VLOelmann" id="1645799626702991363" >}}
-
- 
 
 With a starting price of 30.000 euros, the BYD Dolphin seems aimed to compete with the MG4 Electric. My opinion is that both models should do well until the new Tesla hatchback eventually dominates this price range. Then there will be a need for price cuts...
 
 The good news is that the [Qin EV, the Dolphin and the Seagull models are expected to be the first BYD electric cars to get versions with a sodium-ion battery](https://cnevpost.com/2022/11/22/byd-to-mass-produce-sodium-ion-batteries-q2-2023-report/) later this year, which will help to cut down the prices easily.
 
 Thanks [Pedro Ventura](https://twitter.com/2_kamikaze_2) for the heads up.
-
- 
 
 What do you think about the Euro version of the BYD Dolphin compared to its main rival, the MG 4 Electric? Are you more interested in the future cheaper version with sodium-ion battery?
 

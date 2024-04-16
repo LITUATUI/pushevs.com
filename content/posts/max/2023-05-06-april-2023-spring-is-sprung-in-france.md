@@ -15,8 +15,6 @@ France saw plugin electric vehicles take 21.1% share of the auto market in April
 
 ![](ev-sales-images/2023-04-France-Passenger-Auto-Registrations-SQ.avif)
 
- 
-
 April’s combined plugin result of 21.1% comprised full battery electrics (BEVs) at 12.9%, and plugin hybrids (PHEVs) at 8.2%. These compare with respective YoY figures of 21.1%, 11.7%, and 9.4%. We can see that BEVs are still growing decently, whilst PHEVs are sliding.
 
 In volume terms, against an overall market up 22%, BEV volume grew almost 35% YoY, to 17,112 units. PHEVs only grew volume by 6% YoY (to 10,878 units), trailing broader market growth, and thus losing share.
@@ -25,25 +23,15 @@ Diesel share shrank to a new record low of 10.5% (from 15.8% YoY). Petrol share 
 
 ![](ev-sales-images/2023-04-France-Monthly-Powertrain-Market-Share.avif)
 
- 
-
 ## Bestselling BEVs
 
 After Tesla’s record French volume push in March, other brands had a chance to shine in April. The diminutive Dacia Spring was back on top, with 2,432 units, followed by the Peugeot 208 in second, and the Fiat 500 in third.
 
- 
-
 ![](ev-sales-images/2023-04-France-BEVs.avif)
-
- 
 
 There were no newcomers in the top 20, and most models saw a decline in sales volume compared to the end-of-quarter push in March. In fact, the only notable newcomer to the French market was the BYD Atto 3, with just 5 initial units for sampling. We will have to wait till later in the year for new models to be launched in volume.
 
- 
-
 Let’s now look at the trailing 3 months:
-
- 
 
 ![](ev-sales-images/2023-04-France-BEVs-Trailing-Qtr.avif)
 
@@ -52,8 +40,6 @@ Here we find most of the usual faces, with some mild shuffling of ranking. The T
 The movements in model ranking are modest and unremarkable, so I will skip the snakes-and-ladders analysis this time around.
 
 That the Tesla Model Y is now dominating the French BEV market, remains remarkable. This is 1.5x to 2x the price of most other BEV models in the top 10, and almost 3x the price of traditionally popular vehicles. This goes to show the importance of — not just offering a compelling value BEV (as others in the top 20 are also, e.g. the MG4) — but _producing it in large enough volume_ to meet all potential demand and avoid long wait queues.
-
- 
 
 ## Outlook
 

@@ -11,11 +11,7 @@ images:
 
 CATL released more details on its new module-less battery packs called Qilin, which are expected to be mass produced and come on the market in 2023.
 
- 
-
 First, let's see the press release.
-
- 
 
 > On June 23, CATL launched Qilin, the third generation of its CTP (cell-to-pack) technology. With a record-breaking volume utilization efficiency of 72% and an energy density of up to 255 Wh/kg, it achieves the highest integration level worldwide so far, capable of delivering a range of over 1,000 km in a breeze.
 > 
@@ -31,21 +27,13 @@ First, let's see the press release.
 > 
 > The CTP 3.0 batteries, or Qilin, are expected to be mass produced and come on the market in 2023. From simulated computing in the micro world to artful streamlining inside the battery structure, CATL remains focused on technological ingenuity and independent innovation, aiming to promote the overtaking of fossil fuel vehicles by electric ones.
 
- 
-
 ![CATL CTP 3.0 TMS strengths](images/CATL-CTP-3.0-TMS-strengths.avif)
 
- 
-
 There are a lot of things to like in this CTP (cell-to-pack) technology.
-
- 
 
 The VCTP (volumetric cell to pack) ratio is 72 %, which is the percentage of the total battery pack volume dedicated to the active material that actually stores energy (cells), leaving 28 % of the total volume to the passive material, responsible of assembling and protecting the cells. For comparison, the popular [BYD Blade battery had an estimated VCTP ratio of 62,41 % when released](/2020/05/26/byd-blade-prismatic-battery-cell-specs-possibilities/).
 
 The GCTP (gravimetric cell to pack) ratio isn't announced, but it should be around 85-90 %, which is common in module-less battery packs.
-
- 
 
 CATL will use multiple metal plates between the cells multiplying the heat transfer surface area by 4, making the TMS (Thermal Management System) very fast and efficient in heating or cooling the battery. This will not only enable to heat the battery in just 5 minutes when there are freezing temperatures, but also cool down the battery so it can be charged at a constant 4 C-rate and only take 10 minutes from 10 to 80 %.
 
@@ -55,19 +43,13 @@ CATL claims that the NCM packs will enable a range of 1.000 km, probably in Chin
 
 While cheaper LFP packs with the same weight would be able to provide a range around 627 km in CLTC and 490 km in WLTP.
 
- 
-
 Summing up, faster charging and longer range will be possible with the new module-less battery packs.
 
 Considering that 4 C-rate charge is available (public charging network needs to improve), the range provided by module-less LFP packs will be more than enough for most people. Imagine an efficient electric car with a 60 kWh LFP battery that can be charged at a constant 240 kW rate, do you really need more battery capacity?
 
- 
-
 Anyway, battery packs with modules is something that belongs in the beta testing era of electric vehicles. I'm confident that in 2/3 years virtually all battery packs in mass-produced electric vehicles will be module-less.
 
 Now I'm waiting for Korean, Japanese and eventually European battery makers to launch their CTP batteries. I'm curious to see what they'll bring new to the table. Right now the Chinese companies are way ahead.
-
- 
 
 {{< video src="https://video.catl.com/video/enqilin.mp4" >}}
 

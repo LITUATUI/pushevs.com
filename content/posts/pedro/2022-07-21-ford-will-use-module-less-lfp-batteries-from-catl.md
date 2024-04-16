@@ -11,8 +11,6 @@ images:
 
 Finally! Ford will use module-less LFP (LiFePO4) batteries from CATL to cut costs by 10-15 percent starting next year. Moreover, the carmaker plans to localize and use 40 GWh of LFP capacity in North America starting in 2026.
 
- 
-
 > DEARBORN, Mich., July 21, 2022 – Building on strong demand for its new EVs, Ford today announced a series of initiatives for sourcing battery capacity and raw materials that light a clear path to reach its targeted annual run rate of 600,000 electric vehicles by late 2023 and more than 2 million by the end of 2026.
 > 
 > The company detailed its global vehicle portfolio plans supporting these production goals as part of its Ford+ plan. Ford expects a compound annual growth rate for EVs to exceed 90% through 2026, more than double forecasted global industry growth.
@@ -54,13 +52,7 @@ Finally! Ford will use module-less LFP (LiFePO4) batteries from CATL to cut cost
 > 
 > The company intends to use this additional capacity to complement three previously announced battery plants in Kentucky and Tennessee that are part of the BlueOval SK joint venture between Ford and SK On, which was officially formed last week. Ford has signed an additional MOU with SK On as well as Koç Holdings to create a joint venture in Turkey for expanded battery capacity there.
 
- 
-
- 
-
 ![Ford EV Plan Infographic](images/Ford-EV-Plan-Infographic.avif)
-
- 
 
 Ford also expects to have 9 all-electric models available in Europe by 2024... Not bad for a legacy carmaker.
 

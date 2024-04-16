@@ -15,11 +15,7 @@ The tide has turned in the electrification of the German auto market, with plugi
 
 Overall auto volumes in December were 314,318 units, up some 38% on December 2021. 2022’s total auto sales were 2.65 million units, up just 1.1% from 2021. December’s overall bestselling vehicle (of any kind) was the Tesla Model 3 with 9,566 registrations.
 
- 
-
 ![December 2022 - Germany Passenger Auto Registrations](ev-sales-images/2022-12-Germany-Passenger-Auto-Registrations.avif)
-
- 
 
 December’s combined plugin share of 55.4% is a new record, up from 35.7% year-on-year. The combined result comprises 33.2% full battery electrics (BEVs), and 22.3% plugin hybrids (PHEVs). This compares to share weightings of 21.3%, and 14.4%, in December 2021.
 
@@ -37,11 +33,7 @@ _Full year 2022_ in Germany saw total volumes of BEVs reach 470,592 units. This
 
 The combined share of combustion-only powertrains dipped below one third of the market for the first time ever, with diesel-only powertrains falling to 10.8% (from 15.7% YoY).
 
- 
-
 ![Germany Monthly Powertrain Market Share](ev-sales-images/2022-12-Germany-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## Bestselling BEVs - Month, Quarter, Year
 
@@ -49,11 +41,7 @@ Tesla’s usual huge push in the last month of the year resulted in the Model 3 
 
 The Tesla Model Y took second spot, with the Volkswagen ID.4/ID.5 coming in 3rd. Not to be outshone, the VW ID.3 made a notable record of its own — outselling its ICE older brother, the iconic VW Golf, for the first time.
 
- 
-
 ![Germany BEVs December 2022](ev-sales-images/2022-12-Germany-BEVs.avif)
-
- 
 
 In fact, if we separate out autos by powertrain variant (e.g., the Fiat 500’s summed December sales were 70% the BEV version, and much of the remainder, the HEV version), most of December’s overall top 10 models-by-individual-powertrain were BEVs or PHEVs.
 
@@ -67,11 +55,7 @@ Similarly, the long-awaited refreshed versions of Tesla’s two big vehicles, th
 
 Since Tesla (and some others) tend to bias deliveries towards the end of each quarter, let’s take a step back and look at the trailing 3-month performance of the top BEV models:
 
- 
-
 ![Germany BEVs Dec 2022 Trailing Qtr](ev-sales-images/2022-12-Germany-BEVs-Trailing-Qtr.avif)
-
- 
 
 Here, the Model 3 still takes an easy lead, though the second spot is a close race. The Model Y, with Gigafactory Grünheide production now ramping quickly, has every chance to separate itself from the pack in 2023.
 
@@ -79,11 +63,7 @@ Overall, it’s good to see some strength-in-depth coming to Europe’s largest 
 
 Since we’re now in the new year, let’s look back on 2022’s full year bestselling BEVs:
 
- 
-
 ![Germany BEVs Full Year 2022](ev-sales-images/2022-Germany-BEVs-Full-Year.avif)
-
- 
 
 Again, Tesla’s top 2 dominate the chart. At these volumes, the Teslas are in fact the #9 and #10 _overall bestselling vehicles for 2022_ in Germany.
 
@@ -91,17 +71,11 @@ Now, with local production ramping, if Tesla is able to hit huge volumes, the Mo
 
 German consumers are arguably less Tesla-fanatical than UK folks, and to climb as high as #3 in Germany would likely need an altogether more affordable base model than the €54,000 current entry price. Perhaps a variant starting in the mid-forty-thousand euro range (around where the VW ID.4 starts) might do the trick. But until Tesla has more production capacity than demand, there is little motivation to offer a more affordable variant.
 
- 
-
 ## Manufacturing group performance
 
 Finally, let’s have a look at which auto manufacturing groups are leading in BEV sales volume in Europe’s largest auto market. Here’s the trailing 3-month view:
 
- 
-
 ![Germany BEV Groups Dec 2022 Trailing Qtr](ev-sales-images/2022-12-Germany-BEV-Groups-Trailing-Qtr.avif)
-
- 
 
 There have been a few changes since Q3. Volkswagen Group is still top, but with more than 2× the volume than it delivered in Q3. Tesla and Stellantis have switched places, thanks to the latter growing sales more rapidly compared to Q3.
 
@@ -109,17 +83,11 @@ Similarly, Renault–Nissan switched places with Hyundai Motor Group to grab 4th
 
 Here is the full year manufacturing group picture for Germany:
 
- 
-
 ![Germany BEV Groups Full Year 2022](ev-sales-images/2022-Germany-BEV-Groups-Full-Year.avif)
-
- 
 
 As we can see, the ranking is exactly the same as the Q4 table above, and even the relative weightings are mostly similar. Note that — for the top 4 groups — between 42% and 45% of their total annual volume was delivered in the final quarter of the year!
 
 Taking a step back, it’s worth remembering that the results in a single market — even one as dominant as Germany — are influenced by decisions over how to allocate the limited production of BEVs across different European markets, in all of which BEV demand currently outstrips supply. Often, local brands favour allocating units to their home market (Volvo in Sweden, VW in Germany, Renault and Peugeot in France). We will wait to see the summed Europe market report later this month to see who the overall volume leaders are in the European region as a whole.
-
- 
 
 ## Outlook
 

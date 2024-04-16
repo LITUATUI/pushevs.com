@@ -11,15 +11,9 @@ images:
 
 The BYD Dolphin is one of the most expected electric cars this year for its great value for money.
 
- 
-
 We already saw the specs of the two first versions that will soon be delivered in China, but now a third version got homologated by the MIIT (Ministry of Industry and Information Technology).
 
- 
-
 Let's see the first two homologated versions to then compare to the third version.
-
- 
 
 **BYD Dolphin standard range version**
 
@@ -37,8 +31,6 @@ Let's see the first two homologated versions to then compare to the third versio
 - **Range**: 301 km (NEDC), roughly 225 km in WLTP
 - **Consumption**: 10,3 kWh/100 km (NEDC), roughly 13,7 kWh/100 km in WLTP
 
- 
-
 **BYD Dolphin longer range version**
 
 - **Length**: 4.070/4.125 mm
@@ -55,11 +47,7 @@ Let's see the first two homologated versions to then compare to the third versio
 - **Range**: 405 km (NEDC), roughly 300 km in WLTP
 - **Consumption**: 11 kWh/100 km (NEDC), roughly 14,7 kWh/100 km in WLTP
 
- 
-
 And now the recently homologated third version.
-
- 
 
 **BYD Dolphin third version**
 
@@ -73,19 +61,13 @@ And now the recently homologated third version.
 - **Max speed**: 160 km/h
 - **Battery chemistry**: LFP (LiFePO4) Blade battery by BYD
 
- 
-
 This new version is faster, heavier, longer and has larger wheels than the previous. However, range and battery capacity aren't known yet. This can be either a sports variant or the global version to be sold worldwide.
 
 Since the weight only increased by 45 kg, this is not the 500 km NEDC range version that I still expect to arrive later this year.
 
- 
-
 Anyway, the BYD Dolphin will have its first units delivered in China next month with a price range between 110.000 and 130.000 yuan (14.463 and 17.093 euros). As for foreign markets, in Australia first deliveries are scheduled only for early next year, then Europe is next.
 
 I'm still curious about the fast charging rates...
-
- 
 
 {{< youtube VhkPmRFjJfg >}}
 

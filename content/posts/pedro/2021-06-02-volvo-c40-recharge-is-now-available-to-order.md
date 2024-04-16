@@ -11,8 +11,6 @@ images:
 
 Made in Belgium, the Volvo C40 Recharge is now available to order in Europe.
 
- 
-
 > Volvo Cars has officially opened order books for the C40 Recharge, the company’s latest fully electric model.
 > 
 > A landmark car for the company’s recently announced new commercial strategy, the C40 Recharge is available online via volvocars.com in markets across Europe\* as of this week. Customers can order from the comfort of their own home or place an online order together with their retailer.

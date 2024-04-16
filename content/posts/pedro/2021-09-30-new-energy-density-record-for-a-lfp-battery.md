@@ -11,15 +11,9 @@ images:
 
 According to the some recent MIIT (Ministry of Industry and Information Technology) documents, a pure electric dump truck from the XCMG Group now holds the record for having the most energy dense LFP (LiFePO4) battery.
 
- 
-
 The XCMG Group is the leading Chinese construction machinery manufacturer and one of the world's largest.
 
- 
-
 Let's see more details of this electric truck.
-
- 
 
 - **Length**: 10.900 mm
 - **Width**: 2.550 mm
@@ -33,15 +27,9 @@ Let's see more details of this electric truck.
 - **Battery chemistry**: LFP (LiFePO4)
 - **Motor**: 450 kW and 2.800 N.m of torque
 
- 
-
 Unfortunately I couldn't find a picture of this electric truck.
 
- 
-
 Anyway, an energy density of 176,1 Wh/kg is impressive for a LFP battery pack. In the coming months we might see this kind of energy density also in LFP batteries for electric passenger cars.
-
- 
 
 {{< youtube H6UhGHTYwJ0 >}}
 

@@ -11,8 +11,6 @@ images:
 
 The BYD Atto 3 (Yuan Plus) will be the first model to arrive in Japan, followed by the Dolphin and the Seal.
 
- 
-
 > Tokyo, Japan – On July 21, BYD JAPAN Inc., a branch of BYD Company Limited in Japan, held a brand conference in Tokyo, marking BYD's official entry into the passenger vehicle market in Japan. Three BYD models debuted at the conference - BYD ATTO 3, BYD DOLPHIN, and BYD SEAL.
 > 
 > BYD ATTO 3 is slated to become the first BYD passenger vehicle sold in Japan, with sales expected to begin in January 2023. BYD DOLPHIN and BYD SEAL are expected to follow soon after, hitting the market in the middle and second half of 2023, respectively. These three EVs bring more choices and further enhance the local electric passenger vehicle market.
@@ -21,17 +19,11 @@ The BYD Atto 3 (Yuan Plus) will be the first model to arrive in Japan, followed 
 > 
 > Liu Xueliang, General Manager of BYD Asia-Pacific Auto Sales Division, stated: "Starting from today, BYD, along with Japanese dealers and partners, will gradually establish a complete sales and service system to bring a low-carbon lifestyle and a better customer experience for the local people."
 
- 
-
 The three electric car models launched by BYD in Japan are all built on the [new e-platform 3.0](/2021/09/20/introducing-the-latest-byd-e-platform-3-0/).
-
- 
 
 ### BYD Atto 3 (Yuan Plus)
 
 ![2022 BYD Atto 3](images/2022-BYD-Atto-3.avif)
-
- 
 
 ### BYD Atto 3 (Yuan Plus) standard version
 
@@ -51,8 +43,6 @@ The three electric car models launched by BYD in Japan are all built on the [new
 - **Consumption**: 12,2 kWh/100 km (CLTC)
 - **MIIT code**: BYD7003BEVA
 
- 
-
 ### BYD Atto 3 (Yuan Plus) long range version
 
 - **Length**: 4.455 mm
@@ -71,13 +61,9 @@ The three electric car models launched by BYD in Japan are all built on the [new
 - **Consumption**: 12,5 kWh/100 km (CLTC)
 - **MIIT code**: BYD7003BEVA1
 
- 
-
 ### BYD Dolphin
 
 ![BYD Dolphin is now available to pre-order](images/BYD-Dolphin-is-now-available-to-pre-order.avif)
-
- 
 
 ### BYD Dolphin Vigorous version
 
@@ -98,8 +84,6 @@ The three electric car models launched by BYD in Japan are all built on the [new
 - **Fast charging**: 40 kW (from 30 to 80 % in 30 minutes)
 - **Starting price in China (after subsidy)**: 96.800 yuan (12.684 euros)
 
- 
-
 ### BYD Dolphin Free edition
 
 - **Length**: 4.125 mm
@@ -117,8 +101,6 @@ The three electric car models launched by BYD in Japan are all built on the [new
 - **On-board charger**: 7 kW
 - **Fast charging**: 60 kW (from 30 to 80 % in 30 minutes)
 - **Starting price in China (after subsidy)**: 106.800 yuan (13.994 euros)
-
- 
 
 ### BYD Dolphin Fashion edition
 
@@ -138,8 +120,6 @@ The three electric car models launched by BYD in Japan are all built on the [new
 - **Fast charging**: 60 kW (from 30 to 80 % in 30 minutes)
 - **Starting price in China (after subsidy)**: 111.800 yuan (14.649 euros)
 
- 
-
 ### BYD Dolphin Knight edition
 
 - **Length**: 4.150 mm
@@ -158,13 +138,9 @@ The three electric car models launched by BYD in Japan are all built on the [new
 - **Fast charging**: 60 kW (from 30 to 80 % in 30 minutes)
 - **Starting price in China (after subsidy)**: 124.800 yuan (16.352 euros)
 
- 
-
 ### BYD Seal
 
 ![BYD Seal](images/BYD-Seal.avif)
-
- 
 
 ### BYD Seal standard range version
 
@@ -185,8 +161,6 @@ The three electric car models launched by BYD in Japan are all built on the [new
 - **MIIT code**: BYD7006BEVA
 - **Starting price in China**: 212.800 yuan (31.482 euros)
 
- 
-
 ### BYD Seal long range version
 
 - **Length**: 4.800 mm
@@ -206,8 +180,6 @@ The three electric car models launched by BYD in Japan are all built on the [new
 - **MIIT code**: BYD7006BEVA2
 - **Starting price in China**: 262.800 yuan (38.852 euros)
 
- 
-
 ### BYD Seal performance AWD version
 
 - **Length**: 4.800 mm
@@ -226,9 +198,5 @@ The three electric car models launched by BYD in Japan are all built on the [new
 - **Fast charging**: 30 minutes from 30 to 80 % at 150 kW
 - **MIIT code**: BYD7006BEVA1
 - **Starting price in China**: 289.800 yuan (42.874 euros)
-
- 
-
- 
 
 BYD has chosen wisely the three electric car models to make global. A great SUV (Atto 3), a nice hatchback (Dolphin) and an amazing sedan (Seal). What's your favorite?

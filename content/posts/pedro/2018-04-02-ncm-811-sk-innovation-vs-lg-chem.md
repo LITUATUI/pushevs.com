@@ -13,11 +13,7 @@ There are two major battery cell makers that promised NCM 811 EV battery cells f
 
 As you already know, currently most EV batteries have NCM 622 cathodes, which means that besides lithium the cathode contains nickel, cobalt and manganese in a composition ratio of 6:2:2.
 
- 
-
 ![NCM Product Overview by BASF in November 4, 2014](images/ncm-product-overview-by-basf-in-november-4-2014.avif)
-
- 
 
 On the other hand, a NCM 811 cathode has a Ni:Co:Mn composition ratio of 8:1:1.
 
@@ -41,15 +37,9 @@ We'll start with SK Innovation, since it's the battery cell maker that gave us m
 
 The first electric car expected to get them is the electric EQ SUV from Mercedes-Benz that is precisely advertised with roughly 500 km of range and a battery capacity of "more than 70 kWh".
 
- 
-
 ![Mercedes-Benz Generation EQ](images/mercedes-benz-generation-eq.avif)
 
- 
-
 3. The second generation of NCM 811 battery cells won't arrive before 2020. There's no point of using much time to discuss it now in this article.
-
- 
 
 Now that we've seen what SK Innovation promises to deliver with its NCM 811 battery cells, what about LG Chem?
 
@@ -62,8 +52,6 @@ However, until we know the volumetric energy density of the batteries of those e
 Nonetheless, we should acknowledge that's always easier to increase volumetric energy density than gravimetric. That's why LG Chem was able to upgrade the Renault Zoe's battery capacity from 23,3 to 41 kWh while maintaining the same volume, but the weight increased slightly.
 
 Anyway, we're done for today. This was the roundup of the current situation of NCM 811 EV battery cells. The next months will be revealing. Stay tuned!
-
- 
 
 **Update**: it seems that the NCM 811 cells from LG Chem initially will only be available in cylindrical format and used in electric buses.
 

@@ -11,11 +11,7 @@ images:
 
 The Chinese all-electric car maker Hozon Auto has been developing an English version of its website to prepare the expansion to other markets. Now, the carmaker finally announced that it will produce a right-hand drive version of its affordable electric car NETA V to be exported to ASEAN countries.
 
- 
-
 The Association of Southeast Asian Nations (ASEAN) brings together ten Southeast Asian states into one organisation:
-
- 
 
 1. Brunei
 2. Cambodia
@@ -28,11 +24,7 @@ The Association of Southeast Asian Nations (ASEAN) brings together ten Southeast
 9. Thailand
 10. Vietnam
 
- 
-
 In China the NETA V is available in many versions, but the one bellow offers the best value for money.
-
- 
 
 **Long range entertainment version (best value for money version)**
 
@@ -52,19 +44,11 @@ In China the NETA V is available in many versions, but the one bellow offers the
 - **Starting price (before subsidies)**: 80.900 yuan (10.426 euros)
 - **Starting price (after subsidies)**: 70.900 yuan (9.137 euros)
 
- 
-
 This electric car besides affordable is extremely efficient. It has the same range of a BYD Dolphin or a Renautl ZOE ZE 40 but with a smaller battery capacity, which is impressive.
-
- 
 
 ![NETA V in right-hand drive](images/NETA-V-in-right-hand-drive.avif)
 
- 
-
 The [NETA V also has a faster and better equipped version called Co-sport Magic Edition](/2021/06/23/neta-v-co-sport-magic-edition-arrives/) - that would make sense to be exported to more wealthy right-hand drive markets, such as Australia or South Africa.
-
- 
 
 **NETA V Co-sport Magic Edition**
 
@@ -84,19 +68,11 @@ The [NETA V also has a faster and better equipped version called Co-sport Magic 
 - **Starting price (before subsidies)**: 86.900 yuan (11.236 euros)
 - **Starting price (after subsidies)**: 76.900 yuan (9.943 euros)
 
- 
-
 Curiously, this new edition comes with V2L (Vehicle-to-Load) capability as standard.
-
- 
 
 Finally, Hozon Auto also announced that next year it'll export its much-awaited premium electric car NETA S to Europe. This electric car was created in cooperation with Huawei.
 
- 
-
 ![NETA S](images/NETA-S.avif)
-
- 
 
 Anyway, 2022 seems to be the year when good Chinese electric cars start to enter into foreign markets at a higher pace. BYD, Xpeng, NIO, ORA, GAC AION, Leapmotor and Hozon Auto are coming...
 

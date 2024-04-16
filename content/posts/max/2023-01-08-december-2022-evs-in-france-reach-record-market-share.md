@@ -13,11 +13,7 @@ images:
 
 December saw France's plug-in electric vehicles grow to take 25.0% share of the auto market, up fractionally from 24.4% a year ago. Full electrics grew at a decent rate, but plugin hybrids fell. Overall auto volumes for the month were flat year on year, but full year 2022 volumes were down almost 8% on 2021. The Dacia Spring was December's bestselling BEV.
 
- 
-
 ![December 2022 - France Passenger Auto Registrations](ev-sales-images/2022-12-France-Passenger-Auto-Registrations.avif)
-
- 
 
 December's overall plugin result of 25.0% comprised 15.8% full battery electric vehicles (BEVs), and 9.2% plugin hybrids (PHEVs). This is barely changed from their respective shares of 14.6%, and 9.8%, in December 2021.
 
@@ -33,21 +29,13 @@ In short -- given the inherently limited overall pool of supply -- depending on 
 
 In terms of overall powertrain evolution, plugins' steady growth, combined with growth of plugless hybrids also, meant that traditional combustion-only powertrains remained under 50% of new sales for the second month in a row.
 
- 
-
 ![France Monthly Powertrain Market Share](ev-sales-images/2022-12-France-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## Bestselling BEVs
 
 The Dacia Spring was December's top selling BEV in France, bookending the year, following its previous win in January. The Tesla Model 3 took runner up spot, with the Renault Megane taking 3rd, just ahead of the Tesla Model Y.
 
- 
-
 ![France BEVs December 2022](ev-sales-images/2022-12-France-BEVs.avif)
-
- 
 
 The new MG4 took 10th place, in only its 3rd month of volume deliveries. Expect it to climb higher still in the coming months.  The Volkswagen ID.3 also had a relatively strong December, over 3x its recent monthly volumes.
 
@@ -55,27 +43,17 @@ We don't yet have enough depth of monthly model data to detect quietly emerging 
 
 Beyond December's results, let's look at the trailing 3 month model performances:
 
- 
-
 ![France BEVs December 2022 Trailing Qtr](ev-sales-images/2022-12-France-BEVs-Trailing-Qtr.avif)
-
- 
 
 There are no great surprises in the top 10. It is good to see the VW ID.3 reclaim some position, thanks to almost three quarters of its volume coming in the second half of the year. The Renault Zoe had the opposite fate, with two thirds of its annual volume coming in H1, and dwindling performance since, meaning it dropped out of the top 10 in the last 3 months.
 
 On that note, let's look at the full year picture and see what's changed since a year ago:
 
- 
-
 ![France BEVs Full Year 2022](ev-sales-images/2022-France-BEVs-Full-Year.avif)
-
- 
 
 The Peugeot e-208 has climbed from last year's #3, to #1, and the Dacia Spring from #4 to #2. The Tesla Model 3 has fallen from #1 to #3, and Renault Zoe has slid more dramatically from #2 to #7.
 
 Other positions are mostly a shuffle, except that two newer BEVs have entered the top 10, the Model Y, from #21 to #8, and most impressively, the homegrown Renault Megane. The new local hero took 2022's overall #4 rank, despite having only started volume deliveries in May. As the previous charts demonstrate, the Megane is now often challenging for the monthly and quarterly top spot, and looks firmly set to take the overall title in 2023.
-
- 
 
 ## Outlook
 

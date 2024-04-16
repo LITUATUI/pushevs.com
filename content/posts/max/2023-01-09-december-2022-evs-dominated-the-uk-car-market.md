@@ -13,11 +13,7 @@ images:
 
 The UK’s auto market saw plugin electric vehicles take 39.4% share of new sales in December, a new record, up from 33.2% year on year. Full electrics alone took almost a third of the market. Overall auto volumes were up 18% year on year in December, but still down compared to pre-2020 norms. The Tesla Model Y was the UK’s overall 3rd best selling vehicle in 2022, and the top seller in December.
 
- 
-
 ![December 2022 UK Passenger Auto Registrations](ev-sales-images/2022-12-UK-Passenger-Auto-Registrations.avif)
-
- 
 
 December’s combined plugin share of 39.4% comprised 32.9% full battery electrics (BEVs), and 6.5% plugin hybrids (PHEVs). The respective shares in December 2021 were 33.2% plugins, 25.5% BEV, and 7.7% PHEV.
 
@@ -31,11 +27,7 @@ The _volume_ in full year 2022 amounted to 267,203 BEVs, up 40% from 2021, and
 
 Full year 2022 diesel-only vehicles’ share amounted to 5.1%, down from 8.2% in 2021. For petrol-only vehicles, 2022 saw 42.3% share, down from 46.3% in 2021. Expect petrol’s rate of decline to accelerate in the coming years, once diesel sales have effectively ended.
 
- 
-
 ![UK Monthly Powertrain Market Share](ev-sales-images/2022-12-UK-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## UK’s bestselling BEV brands
 
@@ -43,11 +35,7 @@ Tesla made their habitual end-of-quarter huge push in December, with the Model Y
 
 Behind Tesla, the Volkswagen brand (mainly the ID.3 and ID.4) took December’s second place in BEV market share, and BMW (led by the i4) took 3rd.
 
- 
-
 ![UK BEV Brands Est. December 2022](ev-sales-images/2022-12-UK-BEV-Brand-_-Est.avif)
-
- 
 
 In terms of movements, Renault jumped up significantly in December, to #4 spot (from #18 the previous month), likely thanks to the Megane, which seems to have recently started volume deliveries in the UK. Porsche and Skoda brands also climbed the ranks by a few spots compared to November.
 
@@ -55,11 +43,7 @@ Far outside the top 20, the Ora brand saw a few initial deliveries in the UK (ju
 
 Let’s now look at the trailing 3-month brand results:
 
- 
-
 ![UK BEV Brands Est. December 2022-Trailing Qtr](ev-sales-images/2022-12-UK-BEV-Brand-_-Est.-Trailing-Qtr.avif)
-
- 
 
 Here Tesla still has a massive lead, though this is again partly due to the brand’s habit of back-loading deliveries towards the end of the year (see the longer-term full year brand shares below).
 
@@ -69,21 +53,13 @@ As usual, much of the movement is temporary, due to shifting allocation prioriti
 
 Finally in our UK brand analysis, let’s look back at the full year performance:
 
- 
-
 ![UK BEV Brands Est. 2022 Full Year](ev-sales-images/2022-UK-BEV-Brand-_-Est.-Full-Year.avif)
-
- 
 
 Here we can see that Tesla was still very strong, though not quite to the same degree as in those months and quarters where it biases deliveries. BMW and Volkswagen brands took second and third spots. Note Ford’s weak performance in BEVs, and the fact that Toyota doesn’t appear at all in the top 20 (and, by my calculation, only took 0.2% of the UK’s BEV sales in 2022).
 
 Since we reached the end of another year, the UK auto industry association, the _SMMT_, provided a top 10 chart of the bestselling BEV _models_ for the year. We can compare the 2022 list (on the left) with the same list from 2021 (on the right):
 
- 
-
 ![2022 vs 2021 SMMT Year BEVs](ev-sales-images/2022-vs-2021-SMMT-Year-BEVs-crsh.avif)
-
- 
 
 As we saw above, the Tesla Model Y (which started UK deliveries in February 2022) has immediately proved the most popular BEV, and jumped into the top spot.
 
@@ -95,11 +71,7 @@ Tesla’s relative strength in the UK can be seen by the fact that some the othe
 
 Now let’s take a look at manufacturing group performance, first over the Q4 period:
 
- 
-
 ![UK BEV Group Est. December 2022 Trailing Qtr](ev-sales-images/2022-12-UK-BEV-Group-_-Est.-Trailing-Qtr.avif)
-
- 
 
 Compared to Q3, Tesla and VW Group maintained their positions at the top. BMW Group climbed from 5th to 3rd, and Renault-Nissan climbed from 6th to 4th.
 
@@ -107,19 +79,13 @@ The biggest gainer was Geely (owner of Volvo and Polestar) which climbed from 9t
 
 Let’s finally look at the groups’ full year results, and compare with last year.
 
- 
-
 ![UK BEV Group Est. 2022 Full Year](ev-sales-images/2022-UK-BEV-Group-_-Est.-Full-Year.avif)
-
- 
 
 I have partial and indicative data for 2021 (though not 100% complete or 100% accurate). In 2021 VW Group had the overall lead, with Tesla in second. In 2022, VW Group lost market share, whilst Tesla gained share, and took the lead.
 
 It seems that the remaining ranking positions are the same as last year. The market share weightings have improved a bit for Tesla, BMW Group, and Geely, at the expense of lost weightings for Hyundai Motor Group, Stellantis, and VW Group.
 
 As Tesla have shown, the introduction of a competitive new model, backed up by relatively unconstrained production volumes, can change the leadership charts. That means there’s everything to play for in 2023 if other manufacturing groups can step up.
-
- 
 
 ## Outlook
 

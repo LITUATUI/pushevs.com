@@ -11,15 +11,9 @@ images:
 
 Starting to arrive at dealers in China with a pre-sale price range between 212.800 and 289.800 yuan (31.482 and 42.874 euros) the BYD Seal is a game changer. Technology-wise, it's my favorite electric car, by far, leaving the awesome Kia EV6 in a distant second.
 
- 
-
 With this electric car BYD introduces for the first time a 800-volt battery that is also structural and replaces the floor of the car.
 
- 
-
 Let's see some details of the three available variants.
-
- 
 
 ### Standard range version
 
@@ -40,8 +34,6 @@ Let's see some details of the three available variants.
 - **MIIT code**: BYD7006BEVA
 - **Starting price**: 212.800 yuan (31.482 euros)
 
- 
-
 ### Long range version
 
 - **Length**: 4.800 mm
@@ -60,8 +52,6 @@ Let's see some details of the three available variants.
 - **Fast charging**: 30 minutes from 30 to 80 % at 150 kW
 - **MIIT code**: BYD7006BEVA2
 - **Starting price**: 262.800 yuan (38.852 euros)
-
- 
 
 ### Performance AWD version
 
@@ -82,11 +72,7 @@ Let's see some details of the three available variants.
 - **MIIT code**: BYD7006BEVA1
 - **Starting price**: 289.800 yuan (42.874 euros)
 
- 
-
 Now it's time for some observations...
-
- 
 
 Curiously, the BYD Seal and the BYD Han EV have the same wheelbase (distance between the centers of the front and rear wheels), but the latter is 180 mm longer. Meaning that the BYD Seal uses its interior space more efficiently than its older relative.
 
@@ -94,15 +80,9 @@ Fast charging times and rates seem acceptable, but I was expecting a bit better 
 
 The battery energy density isn't as good as the long range version of the [BYD Yuan Plus](/2021/08/17/byd-yuan-plus-is-almost-ready-for-launch/), which reaches 150 Wh/kg. I speculate that the reason behind it, is that the structural battery needs to be made a lot stronger and this results in extra weight at the pack level. However, with the CTB (cell to body) technology BYD saves weight and cost overall, since the module-less battery pack basically replaces the floor of the vehicle.
 
- 
-
 ![BYD CTB (cell to body) technology](images/BYD-CTB-cell-to-body-technology.avif)
 
- 
-
 Anyway, the BYD Seal will be named as Atto 4 on foreign markets and should be heading to Australia before Europe.
-
- 
 
 If BYD manages to produce enough units, the BYD Seal could be a great alternative to the Tesla Model 3. One million units a year would be a reasonable mid-term goal, considering all the [car factories BYD currently has under construction](/2022/04/08/byd-will-soon-start-production-in-a-new-factory/)...
 

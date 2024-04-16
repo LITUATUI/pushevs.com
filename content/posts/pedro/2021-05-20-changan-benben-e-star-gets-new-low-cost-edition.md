@@ -11,21 +11,11 @@ images:
 
 The Changan Benben E-Star is now available in a new low-cost version called National Edition with a starting price of 29.800 yuan (3.792 euros). Yes, you seen it right, it costs less than 4.000 euros and makes the popular Wuling Hong Guang MINI EV look overpriced...
 
- 
-
 The biggest downside of this low-cost edition is that it's based on the old model, the exterior and interior don't look as modern as the refreshed edition, as you can see in the image below.
-
- 
 
 ![Changan Benben E-Star different editions](images/Changan-Benben-E-Star-different-editions.avif)
 
- 
-
- 
-
 Let's see the main differences between the National Edition and the refresh.
-
- 
 
 **Changan Benben E-Star National Edition (Heartbeat trim-level)**
 
@@ -46,8 +36,6 @@ Let's see the main differences between the National Edition and the refresh.
 - **Battery capacity**: 23,38 kWh (LFP chemistry)
 - **Starting price**: 29.800 yuan (3.792 euros)
 
- 
-
 **Changan Benben E-Star National Edition (Xinyue trim-level)**
 
 - **Length**: 3.730 mm
@@ -67,8 +55,6 @@ Let's see the main differences between the National Edition and the refresh.
 - **Battery capacity**: 32,2 kWh (NCM chemistry) and 31,18 kWh (LFP chemistry)
 - **Starting price**: 39.800 yuan (5.064 euros)
 
- 
-
 **Changan Benben E-Star refreshed edition**
 
 - **Length**: 3.770 mm
@@ -86,10 +72,6 @@ Let's see the main differences between the National Edition and the refresh.
 - **Range**: 310 km (NEDC) and around 220 km in WLTP
 - **Battery capacity**: 32,2 kWh (NCM chemistry)
 - **Starting price**: 69.800 yuan (8.882 euros)
-
- 
-
- 
 
 The National Edition shows us how cheap electric cars can be and seems to be a good alternative to the Wuling Hong Guang MINI EV. The name of this edition suggests that it's only made for the domestic market. Moreover, it's as unsafe as most regular heavy quadricycles, since it doesn't even have airbags...
 

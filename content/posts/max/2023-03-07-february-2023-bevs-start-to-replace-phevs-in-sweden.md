@@ -13,11 +13,7 @@ images:
 
 In February, Sweden’s plugin electric vehicles continued to dominate with a 54.0% share of auto sales, up from 51.6% year on year. Full electric share grew substantially, whilst plugin hybrid share decreased. Overall auto volume was 18,442 units, down some 13% YoY. The Volvo XC40 was February’s best selling BEV yet again, holding the lead for the 5th consecutive month.
 
- 
-
 ![February 2023 - Sweden Passenger Auto Registrations](ev-sales-images/2023-02-Sweden-Passenger-Auto-Registrations.avif)
-
- 
 
 February’s overall plugin result of 54.0% comprised 33.2% full electrics (BEVs), and 20.8% plugin hybrids (PHEVs). These compare with respective shares of 51.6%, 25.6%, and 26.0%, YoY.
 
@@ -25,21 +21,13 @@ We can see that BEVs are continuing strong growth in share, whilst PHEVs are now
 
 Plugless HEVs are slowly decreasing, having hovered around 9% share over the past 6 months, from near 15% in 2020. Combustion-only powertrains have averaged under 29% recently, from 53% in 2020.  On current trends, we can expect plugins to regularly exceed 80% share a couple of years from now.
 
- 
-
 ![February Sweden Monthly Powertrain Market Share](ev-sales-images/2023-02-Sweden-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## Top Selling BEVs
 
 The Volvo XC40 again took the top spot in BEV sales in February, for the fifth month running. It is looking unassailable for the time being, certainly amongst its similar priced peers, such as the Volkswagen ID.4 (2nd place), and the Tesla Model Y (3rd).
 
- 
-
 ![](ev-sales-images/2023-02-Sweden-Top-BEVs.avif)
-
- 
 
 Sweden’s auto buyers have, for years, favoured midsized vehicles, whether sedan or, more recently SUV. This preference is at odds with most European markets, where affordable compacts sell at much greater volumes (e.g. VW Golf, Peugeot 208, and similar). So, even when affordable BEVs in the compact categories start to be available at high volume, and take the lead in other European markets, they aren’t necessarily likely to displace the lead of the Volvo XC40 (or its future successors) in the Swedish market.
 
@@ -54,8 +42,6 @@ One of the Nio EL7’s peers, the Hongqi E-HS9, also debuted Swedish sales in Fe
 Now let’s have a look at the 3-month picture:
 
 ![](ev-sales-images/2023-02-Sweden-Top-BEVs-Trailing-Qtr.avif)
-
- 
 
 Unsurprisingly, the Volvo XC-40 took the top spot, from the Volkswagen ID.4, and Volvo C40. These top 3 BEVs were unchanged from the previous 3 month period.
 
@@ -78,8 +64,6 @@ As usual, most of the changes in rankings reflect manufacturers’ constantly sh
 One thing to watch for is the Tesla Model Y’s continuing ramp up of production (and thus supply) from the Berlin Gigafactory. Last week saw 4,000 units produced, so nearing 20,000 units per month, all of which will go to European consumers. Some thousands of units from Shanghai are also still coming to Europe each month.
 
 Given that mid-sized SUVs are Sweden’s most popular category, it’s no great stretch to envisage that at least 1,000 Model Ys per month could be heading to Sweden in the near future, potentially placing it close to the top of the ranks, and pressuring the Volvo XC-40.
-
- 
 
 ## Outlook
 

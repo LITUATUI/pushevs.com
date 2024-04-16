@@ -13,15 +13,9 @@ Hyundai Motor just deleted a press release where it informed that the new model 
 
 Fortunately Stefan Kopeinig saved a screenshot with the important information from the deleted press release.
 
- 
-
 ![](images/Hyundai-Motor-to-upgrade-Kona-Electric-1-2.avif)
 
- 
-
 ![](images/Hyundai-Motor-to-upgrade-Kona-Electric-2-2.avif)
-
- 
 
 Besides the new 3-phase 11 kW on-board charger, the new Hyundai Kona Electric also gets the new Hyundai Blue Link app, optional new centre display touch-screen and heated rear seats.
 

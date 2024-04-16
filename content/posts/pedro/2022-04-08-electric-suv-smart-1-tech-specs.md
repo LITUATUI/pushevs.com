@@ -11,11 +11,7 @@ images:
 
 Now with the official presentation, we have all the technical specs of the smart #1 all-electric SUV.
 
- 
-
 Let's see them.
-
- 
 
 **Drivetrain and Performance:**
 
@@ -37,17 +33,11 @@ Let's see them.
 
 • Digital encryption standards: ISO27701 system (PASS), ISO21434/ECE R155-156 systems (TARGET). • 7 airbags • ADAS Package: Adaptive cruise control with Stop & Go function, active lane keeping system, blind spot assist, highway and traffic jam assist, auto parking assist, adaptive high beam assist.
 
- 
-
 ![Electric SUV smart #1 interior](images/Electric-SUV-smart-1-interior.avif)
-
- 
 
 It looks nice and the specs are good, especially the charging capabilities. The 22 kW on-board charger is something that should be standard by now for all electric cars sold in Europe. It also has a frunk and a HUD (Head Up Display) - that are still rare in most cars.
 
 However, the smart #1 is not as efficient as the Hyundai Kona Electric and it has also less range.
-
- 
 
 Nonetheless, it will be price and availability that will dictate its success. I would be more confident in this department if it had a LFP (LiFePO4) battery instead of NCM.
 

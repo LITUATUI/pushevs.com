@@ -11,11 +11,7 @@ images:
 
 It's no longer a rumor, BYD will supply batteries to Tesla.
 
- 
-
 Lian Yubo, BYD‘s executive vice president confirmed the deal in an interview to the Chinese TV channel CGTN.
-
- 
 
 > Tesla is a very successful company no matter what, BYD respects Tesla and we admire Tesla.
 > 
@@ -26,8 +22,6 @@ Lian Yubo, BYD‘s executive vice president confirmed the deal in an interview t
 > It first launched the Model S and Model X, shaping itself into a high-end brand, giving young people the feeling that it is the representative of fashion, innovation and technology.
 > 
 > Some of our domestic new car makers are actually also learning from it (Tesla), and it is an example for us to learn from.
-
- 
 
 Currently, Tesla Model 3/Y cars made in China have their cobalt-free battery cells supplied by the Chinese giant CATL, but the battery packs aren't very energy dense at 125 Wh/kg. However, [CATL says that by getting rid of modules, their LFP battery packs will be able to reach an energy density of 160 Wh/kg](/2022/03/26/catl-announced-its-third-generation-ctp-battery-technology/) soon.
 

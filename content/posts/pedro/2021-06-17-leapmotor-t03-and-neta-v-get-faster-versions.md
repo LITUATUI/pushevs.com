@@ -11,34 +11,22 @@ images:
 
 Today I bring good news my fellow readers! The Ministry of Industry and Information Technology (MIIT) has just approved faster versions of the Leapmotor T03 and the NETA V to be produced and sold in China.
 
- 
-
 Previously, as it happens with most small electric cars in China, the Leapmotor T03 and the NETA V had their top speeds limited to 100 km/h (capped via firmware). Fortunately, recent MIIT homologation documents show us that these two popular electric cars will have new versions with their top speeds increased.
-
- 
 
 **New top speeds**
 
 - **Leapmotor T03**: 120 km/h with 55 kW motor
 - **NETA V**: 121 km/h with 70 kW motor
 
- 
-
 However, we still don't know if these new upcoming versions with higher top speeds will also have longer ranges or not. Nonetheless, higher top speeds will further increase the demand for these already popular electric cars.
 
 Below we have the current specs of both electric cars.
-
- 
 
 **NETA V**
 
 ![2021 NETA V](images/2021-NETA-V.avif)
 
- 
-
 This super efficient electric car looks like a mixture between the new Hyundai Kona Electric and the Nissan LEAF.
-
- 
 
 **Long range entertainment version (best value for money version)**
 
@@ -58,27 +46,17 @@ This super efficient electric car looks like a mixture between the new Hyundai K
 - **Starting price (before subsidies)**: 80.900 yuan (10.426 euros)
 - **Starting price (after subsidies)**: 70.900 yuan (9.137 euros)
 
- 
-
- 
-
 **Leapmotor T03**
 
 ![Leapmotor T03](images/Leapmotor-T03.avif)
 
- 
-
 This impressive electric car looks like an improved version of a smart EQ forfour.
-
- 
 
 **Prices after subsidies**
 
 - **Standard Edition (LFP battery)**: 59.800 yuan (7.678 euros)
 - **Comfort Edition (NCM battery)**: 71.800 yuan (9.219 euros)
 - **Deluxe Edition (NCM battery)**: 75.800 yuan (9.732 euros)
-
- 
 
 **Basic specs**
 
@@ -89,8 +67,6 @@ This impressive electric car looks like an improved version of a smart EQ forfou
 - **Height**: 1.577 mm
 - **Luggage capacity**: 210 L
 - **Vehicle warranty**: 3 years or 120.000 kilometres
-
- 
 
 **Powertrain**
 
@@ -104,10 +80,6 @@ This impressive electric car looks like an improved version of a smart EQ forfou
 - **DC fast charging**: 30-80 % in 36 minutes
 - **On-board charging**: 30-80 % in 6 hour
 - **System efficiency**: up to 92,3 %
-
- 
-
- 
 
 Anyway, I already wrote articles praising both electric cars and think they could have success in most countries. In my opinion, the Leapmotor T03 and the NETA V are likely the electric cars that offer the best value for money today. While affordable, they still deliver decent range (around 300 km in WLTP) and great safety features that are rare in smaller electric cars. They both make the Dacia Spring look bad...
 

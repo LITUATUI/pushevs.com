@@ -25,8 +25,6 @@ Diesel share continued its steady decline, but petrol share actually rose YoY, f
 
 As we also saw in the UK market, plugless hybrids are doing well in Germany — essentially converting sales of combustion-only vehicles over to this marginally improved technology. They are only a temporary waypoint on the road to full electric vehicles.
 
- 
-
 ![](ev-sales-images/2023-03-Germany-Monthly-Powertrain-Market-Share.avif)
 
 ## Best selling BEVs
@@ -52,8 +50,6 @@ The Tesla Model Y overwhelms all others, with volume close to the next 3 BEVs co
 The Model Y now starts at just under €45,000 in Germany, before incentives, so continues to remain attractive despite the recent trimming of the government bonus. Most other BEVs in the top 20 (except the MG4, and BMW iX1) have lost significant volume since Q4 2022 (before the incentive trim). The Model Y has increased delivery volume by 20% over the period, and gapped all its nearest rivals.
 
 Since we are still in the unsettled and unrepresentative BEV market conditions, following the recent incentive changes, I’m not going to analyse the movements in ranking since Q4 in any greater detail. Suffice it to say that the Model Y, MG4 and BMW iX1 are all climbing the ranks, whilst others just tread water until the market resettles.
-
- 
 
 ## Outlook
 

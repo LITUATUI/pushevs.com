@@ -25,11 +25,7 @@ HEVs can save around 25% fuel use over ICE-only, whereas for mild hybrids, the f
 
 Diesels continued to slide, taking just 3.8% of the market (only December ’22 was lower), from 5.6% YoY. Their trajectory in the chart below suggests that they may dwindle to around 1% by 2025. This is [roughly where they are in Norway](/2023/04/08/march-2023-tesla-model-y-continues-to-lead-auto-sales-in-norway/) today.
 
- 
-
 ![](ev-sales-images/2023-03-UK-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## Leading BEV brands
 
@@ -38,8 +34,6 @@ Tesla had yet another knock-out performance from the Model Y in the UK in March.
 For the Model Y, this represented a 26% YoY volume boost. However, Model 3 shrank sales YoY, such that combined Tesla volumes were down. Likely this was less to do with demand softening, and more to do with the variable logistics of producing and supplying batches of right-hand drive variants for the UK market.
 
 Second placed brand was MG, now offering 3 great value BEVs in the UK market (when will the Marvel R join them?), of which the MG4 was the second best seller after the Model Y. Audi rounded out the top three spots.
-
- 
 
 ![](ev-sales-images/2023-03-UK-BEV-Brand-_-Est.avif)
 
@@ -56,8 +50,6 @@ The Astra and e-308 will finally offer a somewhat larger battery with WLTP range
 Let’s now review the trailing 3-month brand charts:
 
 ![](ev-sales-images/2023-03-UK-BEV-Brand-_-Est.-Trailing-Qtr.avif)
-
- 
 
 Here Tesla remains firmly in the lead, taking over 18% of the UK BEV market in Q1. The remaining ranks are more closely distributed, with MG and Audi in 2nd and 3rd spots.
 
@@ -77,8 +69,6 @@ On the flip side, these brands slid since Q4:
 
 Let’s now briefly review the manufacturing group performance in Q1:
 
- 
-
 ![](ev-sales-images/2023-03-UK-BEV-Group-_-Est.-Trailing-Qtr.avif)
 
 Here Volkswagen Group and Tesla swapped places compared to Q4, with the former gaining 2% share, and the latter losing 7%.
@@ -86,8 +76,6 @@ Here Volkswagen Group and Tesla swapped places compared to Q4, with the former g
 Hyundai climbed from 6th to 3rd, and Stellantis climbed from 8th to 4th. Geely stayed in place in 5th, as did SAIC in 7th. BMW, however, slid from 3rd in Q4, to 6th in Q1.
 
 Renault-Nissan had the biggest drop, from 4th in Q4 (with 9.3% share), to 9th in Q1 (3.8% share).
-
- 
 
 ## Outlook
 

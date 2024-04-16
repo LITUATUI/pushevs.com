@@ -11,15 +11,9 @@ images:
 
 The Cherry Cat is the first SUV made by ORA, which is the affordable brand of the giant Chinese automaker GWM (Great Wall Motors) that also owns the battery cell maker SVOLT.
 
- 
-
 This will be the first electric car to use the NMx (LNMO) cobalt-free battery cells from SVOLT. Moreover, there will also be a version with LFP (LiFePO4) battery cells, which are also cobalt-free.
 
- 
-
 Let's see more details.
-
- 
 
 **ORA Cherry Cat (NMx version)**
 
@@ -33,8 +27,6 @@ Let's see more details.
 - **Max speed**: 180 km/h
 - **Battery**: NMx (LNMO) by SVOLT
 
- 
-
 **ORA Cherry Cat (LFP version)**
 
 - **Length**: 4.510 mm
@@ -47,19 +39,13 @@ Let's see more details.
 - **Max speed**: 180 km/h
 - **Battery**: LFP (LiFePO4) by SVOLT
 
- 
-
 Battery capacity and range aren't known yet, but the longer range version is expected to deliver around 600 km of NEDC range, which is roughly 450 km in WLTP.
 
 The ORA Cherry Cat will also be available in RWD (rear-wheel drive) and AWD (all-wheel drive).
 
- 
-
 Anyway, I'm really curious about the NMx battery cells. Will they be assembled without modules in a CTP (cell-to-pack) configuration?! What will be the energy density of the pack?
 
 SVOLT's NMx battery cells are available in two different sizes.
-
- 
 
 **SVOLT NMx battery cell (MEB compatible)**
 
@@ -73,8 +59,6 @@ SVOLT's NMx battery cells are available in two different sizes.
 - **Cost**: 8 % cheaper than NCM
 - **Available**: Q2 2021
 
- 
-
 **SVOLT NMx battery cell (L6 - BYD Blade alternative)**
 
 - **Dimensions**: 21,5 x 574 x 118 mm
@@ -85,15 +69,9 @@ SVOLT's NMx battery cells are available in two different sizes.
 - **Cost**: 12,5 % cheaper than NCM
 - **Available**: Q4 2021
 
- 
-
 I expect the battery pack to at least surpass 200 Wh/kg.
 
- 
-
 ![SVOLT cobalt-free prismatic battery cells for EVs](images/SVOLT-cobalt-free-prismatic-battery-cells-for-EVs.avif)
-
- 
 
 Tesla and Volkswagen already stated that the cobalt-free battery chemistries LFP and LNMO will become the standard for electric cars. Relegating NCA/NCM/NCMA chemistries to premium niches where range is more important than cost.
 

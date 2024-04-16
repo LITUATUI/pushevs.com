@@ -51,8 +51,6 @@ In the 3 month view, as expected, Tesla still leads by a large margin, from MG M
 
 There are few major changes in the top ranks. One stand-out is Vauxhall (Opel), whose volumes in Q2 doubled over Q1, and the brand climbed from 10th spot, to 5th spot, as a result. Apparently their growth is heavily thanks to the updated Mokka, which has gained a larger battery and much improved efficiency (plus a bit more power). These combine to give around 20% more rated range on the WLTP cycle (now “252 miles”), a useful jump which now makes the Mokka a more viable option for a large portion of UK families.
 
- 
-
 ## Outlook
 
 Despite YoY growth in auto sales, most of which is down to plugin growth, the broader UK economy remains weak. Inflation is static (and high) at 8.7%, whilst headline GDP growth has fallen to 0.2%. Real earnings (taking inflation into account) are falling, putting a squeeze on consumer spending, not helped by rising interest rates. The UK auto industry body, [_the SMMT_](https://www.smmt.co.uk/2023/07/new-car-market-powers-up-as-industry-calls-for-vat-cut-on-ev-public-charging/), refers to this as “a gloomy economic landscape”.

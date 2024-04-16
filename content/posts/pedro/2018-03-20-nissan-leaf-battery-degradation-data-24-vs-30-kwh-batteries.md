@@ -14,13 +14,9 @@ In a recent [study](https://www.preprints.org/manuscript/201803.0122/v1) 283 Ni
 
 The measurements were made by using a OBD2 scanner with the [Leaf Spy app](https://play.google.com/store/apps/details?id=com.Turbo3.Leaf_Spy_Pro).
 
- 
-
 The study has some interesting conclusions and I recommend you to read it (only 14 pages), but in this article I'll focus on one:
 
 - 30 kWh batteries are more affected by charge/discharge cycles (distance traveled) while 24 kWh versions were more affected by time.
-
- 
 
 **Why are 30 kWh batteries more affected by charge/discharge cycles?**
 
@@ -30,8 +26,6 @@ If you want to improve your electric car battery lifespan, you should know that 
 
 Moreover, having the battery sitting at 100 % SoC is worse with the 30 kWh version than it's in the 24 kWh variants. Because in the same conditions the 30 kWh battery will likely be hotter. In the 24 kWh battery pack, each module has 4 cells, while in the 30 kWh variant there are 8 cells per module. A more dense battery pack will dissipate heat more slowly.
 
- 
-
 **Why are 24 kWh batteries more affected by time?**
 
 It's also not surprising that the 24 kWh versions are more affected by time and older Leafs show much higher degradation levels, since the ["lizard" battery only arrived in 2014](https://insideevs.com/breaking-nissan-prices-leaf-battery-replacement-5499-new-packs-heat-durable/) with the 2015 Nissan Leaf.
@@ -40,8 +34,6 @@ It's also not surprising that the 24 kWh versions are more affected by time and 
 - 24 kWh battery (model years 2015-2016): lower degradation levels ("lizard battery")
 
 While the "lizard" battery cells remained with LMO cathodes, they had the electrolyte improved to be more heat tolerant. Only in 2016, Nissan finally started using NCM cathodes in their battery cells with the introduction of the 30 kWh battery version.
-
- 
 
 Anyway, I think that this information is important if you plan to buy an used Nissan Leaf. Choose wisely.
 

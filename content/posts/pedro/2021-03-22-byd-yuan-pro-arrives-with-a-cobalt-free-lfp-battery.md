@@ -13,11 +13,7 @@ Recently, BYD renamed the Yuan EV to Yuan Pro and gave it a new more modern fron
 
 This electric car is now available to order in China and comes with a 50,1 kWh BYD Blade Battery for a NEDC range of 401 km.
 
- 
-
 Let's see some specs.
-
- 
 
 - **Length**: 4.375 mm
 - **Wheelbase**: 2.535 mm
@@ -29,27 +25,15 @@ Let's see some specs.
 - **Battery type**: BYD Blade Battery (cobalt-free LFP in CTP format)
 - **Starting price (after subsidies)**: 121.300 yuan (15.607 euros)
 
- 
-
 The BYD Yuan Pro looks nice, however, the Han EV and D1 will probably be the most popular models for a while.
-
- 
 
 ![BYD D1 made in cooperation with DiDi](images/BYD-D1-made-in-cooperation-with-DiDi.avif)
 
- 
-
 The BYD D1 - that resembles a VW ID.3 - was initially aimed for car sharing services, but is now also available for private buyers with a starting price of 151.800 yuan (19.532 euros).
-
- 
 
 {{< twitter user="DKurac" id="1373476700319670278" >}}
 
- 
-
 Anyway, now BYD has a vast electric car offer in China that will eventually arrive to other important markets (Europe, North America and Australia). Production capacity is growing extremely fast and currently only the smallest electric car model BYD e1 still has a NCM battery, all other models already got upgraded to LFP (LiFePO4) battery cells with CTP (cell-to-pack) batteries.
-
- 
 
 **Electric cars with BYD Blade Battery (ordered from lowest to highest price)**
 
@@ -63,8 +47,6 @@ Anyway, now BYD has a vast electric car offer in China that will eventually arri
 - **BYD Tang EV**: starting price of 179.800 yuan (23.134 euros)
 - **BYD Han EV**: starting price of 229.800 yuan (29.568 euros)
 - **BYD Song Pro EV**: starting price of 279.500 yuan (35.963 euros)
-
- 
 
 The BYD Blade Battery, that combines cobalt-free LFP cells with CTP battery packs, is key to allow electric cars from BYD to compete with ICE (Internal Combustion Engine) cars in price and availability.
 

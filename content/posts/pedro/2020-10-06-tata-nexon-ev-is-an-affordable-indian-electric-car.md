@@ -13,15 +13,9 @@ Tata Nexon EV is an affordable Indian electric car that was revealed on 19 Decem
 
 This electric car looks good and has decent specs for its starting price of 1.399.000 Indian rupees (16.163 euros). In some ways it's similar to the upcoming Dacia Spring.
 
- 
-
 ![Tata Nexon EV](images/Tata-Nexon-EV.avif)
 
- 
-
 Let's see what the Tata Nexon EV has to offer.
-
- 
 
 - **Length**: 3.993 mm
 - **Wheelbase**: 2.498 mm
@@ -39,23 +33,13 @@ Let's see what the Tata Nexon EV has to offer.
 - **Motor and battery warranty**: 8 years or 160.000 km
 - **Vehicle warranty**: 3 years or 125.000 km
 
- 
-
 Notice that the MIDC (Modified Indian Driving Cycle) is even more unrealistic than the now obsolete Europe's NEDC. In the more realistic WLTP test cycle the range would be around 200 km and the consumption around 17 kWh/100 km.
-
- 
 
 ![Battery of Tata Nexon EV](images/Battery-of-Tata-Nexon-EV.avif)
 
- 
-
 While not confirmed, it seems that the 30,2 kWh battery of the Tata Nexon EV uses NCM battery cells made by LG Chem.
 
- 
-
 Tata made sure that the Nexon EV complies with more demanding international safety standards (NCAP), this might indicate that the automaker will eventually export this electric car to EV-hungry markets like Europe. China is less probable because of high import tariffs and this market already has a lot of affordable electric cars available.
-
- 
 
 Anyway, next week we'll have more details on the Dacia Spring. Based on the Renault City K-ZE it'll probably get a 30 kWh battery (26,8 kWh usable), a WLTP range of 200 km and a starting price of 15.000 euros before government subsidies. While it seems to be a good price for the European market, it'll still cost twice as much as the popular ICE (Internal Combustion Engine) car Dacia Sandero...
 
@@ -65,11 +49,7 @@ After dominating the affordable electric car segment and building up trust with 
 
 This is why I think that European automakers are risking a lot by ignoring the affordable electric car segment and leaving an open door for competitors... Volkswagen will regret its decision very soon.
 
- 
-
 I'll leave you with a video review of the Tata Nexon EV. I like it, do you?
-
- 
 
 {{< youtube JsTY1jGOvO0 >}}
 

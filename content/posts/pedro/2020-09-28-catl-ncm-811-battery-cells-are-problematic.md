@@ -15,27 +15,15 @@ However, its 58,8 kWh (96 x 3,6 V x 170 Ah) battery pack made with NCM 811 cells
 
 After three spontaneous combustions GAC decided to abandon NCM 811 from CATL and adopt safer NCM 523 cells from CALB.
 
- 
-
 > NCM 811's poorer safety and stability and NCM 523's higher performance-price ratio prompted GAC NE's shift to the NCM 523, the report cited an Industrial Securities' analyst who preferred to remain anonymous. But other electric models, including Xpeng's P7, Volkswagen's MEB, Nio's ES6 and BMW's plugin-hybrid model X1 are still equipped with CATL's NCM 811 batteries.
-
- 
 
 ![GAC Aion S powered by CATL NCM 811 battery cells](images/GAC-Aion-S-powered-by-CATL-NCM-811-battery-cells.avif)
 
- 
-
 While CATL denies the rumor that suggests it'll abandon the production of NCM 811 battery cells, the damage is done.
-
- 
 
 > We won't give up the 811 battery because this is the necessary route to strive for dominance and power of discourse in the traction battery area. Relinquishing the 811 battery means abandoning the high-end market.
 
- 
-
 Even if CATL manages to completely solve the safety problems of its NCM 811 battery cells, perceptions are important and now some automakers will think twice before ordering them.
-
- 
 
 Anyway, since there's no future for EV battery cells that use cobalt, this might be an opportunity for CATL to swallow its pride and start focusing on its cobalt-free LFP (LiFePO4) battery cells for electric cars - that are safer and cheaper to produce.
 

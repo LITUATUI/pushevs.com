@@ -57,8 +57,6 @@ Mercedes Group leads the pack of followers, in third position, and has improved 
 
 Conversely, both Stellantis, and Renault-Nissan, lost share over the period.
 
- 
-
 ## Outlook
 
 The overall economic outlook in Germany is still cloudy, according to the latest data. Although February was more positive than had been feared, March was weaker, says [_ING_](https://think.ing.com/snaps/german-industrial-production-mar23/). Some analysts fear that a [decline in factory orders](https://www.livemint.com/economy/fears-of-recession-rise-in-germany-post-factory-orders-plummet-11683293614039.html) in March may signal a recession coming, even against the backdrop of a decently robust January and February. Overall inflation remains at 7.2%, with food and energy inflation that consumers are exposed to, much higher still.

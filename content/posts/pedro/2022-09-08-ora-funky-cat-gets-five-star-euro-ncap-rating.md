@@ -11,11 +11,7 @@ images:
 
 Already launched in the UK, the ORA Funky Cat gets five-star Euro NCAP rating.
 
- 
-
 With a starting price of 31.995 GBP (36.869 euros) in the UK, it gets a 48 kWh battery and a WLTP range of 310 km. Curiously [in China, there's a long range version with a 63 kWh battery](/2021/07/26/ora-good-cat-gets-two-lfp-battery-options/).
-
- 
 
 **ORA Good Cat standard range specs in China**
 
@@ -39,8 +35,6 @@ With a starting price of 31.995 GBP (36.869 euros) in the UK, it gets a 48 kWh b
 - **Drag coefficient**: 0,289 Cd
 - **MIIT code**: CC7000BJ01GBEV
 
- 
-
 **ORA Good Cat long range specs in China**
 
 - **Length**: 4.235 mm
@@ -63,19 +57,11 @@ With a starting price of 31.995 GBP (36.869 euros) in the UK, it gets a 48 kWh b
 - **Drag coefficient**: 0,289 Cd
 - **MIIT code**: CC7000BJ02DBEV
 
- 
-
 It's surprising that ORA decided to introduce the standard range version in Europe, instead of going for the long range first. The European version does have a more powerful 126 kW motor.
 
 Considering that in China the ORA Good (Funky) Cat has multiple versions with LFP and NCM batteries, I don't know what battery chemistry the European version has.
 
- 
-
- 
-
 {{< youtube xLXhEmr5fFA >}}
-
- 
 
 Anyway, the ORA Funky Cat seems to be a good and safe electric car, but definitely overpriced when compared to the [MG MG4 Electric](/2022/08/31/mg-mg4-electric-is-the-new-best-value-electric-car/).
 

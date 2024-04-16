@@ -15,11 +15,7 @@ Instead, Renault changed the strategy and moved the goalposts again. Renault's e
 
 The French automaker informed us that it'll keep using modules with NCM battery cells exclusively and the Renault 5 Electric won't actually be affordable, not even in 2024...
 
- 
-
 Let's see the highlights from the press release.
-
- 
 
 > **Renault Group makes a historic acceleration in its EV strategy, leveraging its technological and industrial assets along with 10 years of experience in electric mobility to make bold choices and offer competitive, sustainable, and popular electric vehicles.**                                             
 > 
@@ -36,11 +32,7 @@ Let's see the highlights from the press release.
 >     - **A muscled-up all-electric C-segment with the All-new MéganE in 2022.**
 >     - **Renault Group expertise in generating added value throughout the battery lifecycle with Mobilize: up to 400 euros per year with V2G for EV drivers and a residual value of up to 500 euros per battery**
 
- 
-
 ![2021 - Renault eWays press conference - Renault battery costs roadmap](images/2021-Renault-eWays-press-conference-Renault-battery-costs-roadmap.avif)
-
- 
 
 > ### Batteries: mastering NMC chemistry to produce one million units Alliance-wide by 2030
 > 
@@ -52,27 +44,17 @@ Let's see the highlights from the press release.
 > 
 > In less than 10 years, the Group will **drive its costs down step by step by 60% at pack level**, with a target below 100 dollars/kWh in 2025, and even under 80 dollars/kWh while preparing the arrival of **All Solid State Battery technology** within the Alliance in 2030.
 
- 
-
 ![2021 - Renault eWays press conference - Renault electric cars price to range ratio](images/2021-Renault-eWays-press-conference-Renault-electric-cars-price-to-range-ratio.avif)
-
- 
 
 While Renault talked about the future adoption of [important technologies to improve electric cars](/2021/06/21/technologies-that-will-make-electric-vehicles-even-better/), such as 800-volt systems and V2G (Vehicle-to-Grid), the most important information we got from this eWays event is that Renault won't adopt LFP (LiFePO4) battery cells anytime soon and will focus on NCM chemistry instead. This represents a change in strategy and is surprising in a bad way.
 
 Previously, Renault's CEO Luca de Meo suggested multiple times that in the near future, electric cars from Renault would be available with two batteries chemistries (LFP and NCM). It would be a strategy similar to what Tesla and Volkswagen already announced.
 
- 
-
 ![Battery chemistries comparison by Tesla](images/Battery-chemistries-comparison-by-Tesla.avif)
-
- 
 
 Without LFP batteries the Renault 5 Electric won't be the affordable electric car that we expected it to be. Now with an expected price of 27.600 euros (69 euros per km of range) it's unlikely to become a game changer when it arrives in 2024...
 
 Notice that in 2024 there will be no government subsidies to buy electric cars, this means that in some countries the Renault 5 Electric will actually be more expensive to buy than the Renault ZOE is today. It won't be the affordable electric car that Renault promised us!
-
- 
 
 Pretending that isn't currently possible to make good electric cars that are also affordable is just a strategy that most automakers use to prevent the implementation of stricter emissions regulations. Automakers need to convince the general public and policy makers that with today's battery technology electric cars can't replace nor compete with ICE (Internal Combustion Engine) cars in price and availability. This is an obvious TINA (there is no alternative) strategy that the status quo regularly uses and I constantly try to debunk.
 
@@ -82,13 +64,7 @@ Fortunately, Chinese automakers are proving that good affordable electric cars a
 
 The surprised Pikachu meme sums up the current situation.
 
- 
-
- 
-
 ![Surprised Euro carmakers](images/Surprised-Euro-carmakers.avif)
-
- 
 
 What do you think about Renault eWays event? Were you also disappointed?
 

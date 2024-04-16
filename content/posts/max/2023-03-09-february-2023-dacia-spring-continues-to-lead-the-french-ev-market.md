@@ -13,11 +13,7 @@ images:
 
 France’s plugin electric vehicle share reached 23.8% in February, up from 20.1% year on year. Full electrics grew share, whilst plugin hybrids remained static. Overall auto volume was 126,237 units, up over 9% YoY. The Dacia Spring was once again the best selling full electric.
 
- 
-
 ![](ev-sales-images/2023-02-France-Passenger-Auto-Registrations.avif)
-
- 
 
 February’s combined plugin result of 23.8% comprised 15.5% full electrics (BEVs), and 8.3% plugin hybrids (PHEVs). These respective shares compare with 20.1%, 11.7%, and 8.4%, year on year. All the growth in share has come from BEVs.
 
@@ -25,22 +21,14 @@ With plugless hybrids (HEVs) also growing share (adding 2.6% YoY), traditional c
 
 With diesel-only powertrains now standing at 11.7% share, and declining by around 0.5% per month recently, we can expect them to fall to under 10% share sometime over the summer.
 
- 
-
 ![](ev-sales-images/2023-02-France-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## Bestsellers
 
 The bestselling BEV in February was again the Dacia Spring, which has held the top spot for the past three months. The runner up was the Tesla Model Y, and the Peugeot 208 came in third.
 
- 
-
 ![](ev-sales-images/2023-02-France-BEVs.avif)
 
- 
-
 As usual, we only have partial data for BEV models, so we can’t yet detect the arrival of newcomers at low initial delivery volumes.
 
 Of the “newish” models in the top 20, the Renault Megane continues to be strong, in 5th spot, though not as dominant as it was in H2 2022. The MG4 continues to do well, being inside the top 10 for the third consecutive month, in 6th spot.
@@ -49,8 +37,6 @@ Let’s now step back to view the three month picture:
 
 ![](ev-sales-images/2023-02-France-BEVs-Trailing-Qtr.avif)
 
- 
-
 As usual, we only have partial data for BEV models, so we can’t yet detect the arrival of newcomers at low initial delivery volumes.
 
 Of the “newish” models in the top 20, the Renault Megane continues to be strong, in 5th spot, though not as dominant as it was in H2 2022. The MG4 continues to do well, being inside the top 10 for the third consecutive month, in 6th spot.
@@ -58,8 +44,6 @@ Of the “newish” models in the top 20, the Renault Megane continues to be str
 Let’s now step back to view the three month picture:
 
 ![](ev-sales-images/2023-02-France-BEVs-Trailing-Qtr.avif)
-
- 
 
 Here, on the strength of its three recent monthly bestseller titles, the Dacia Spring is in the clear lead, a great improvement from its 5th spot over the September-to-November period.
 
@@ -93,8 +77,6 @@ As a reminder — this relative strength of a high-price point model (around twi
 In the fullness of time, perhaps years from now, the consumer BEV market will move towards a more classic demand curve, with more affordable vehicles correlating with higher volume, rather than the current anomalous pattern of sales volume distribution, shaped by limited available BEV supply for most models. In the French auto market, the equilibrium demand curve will likely roughly resemble historical patterns, for example with the 2021 median price of €23.2k, plus future inflation. The Nordics support a much higher median (Norway 2021, €34,800), as does Germany (2021 – €33,900) whereas much of southern Europe is lower still (Portugal 2021 – €21,300).
 
 Tesla will of course still be in the mix, with an even more affordable model, which will be available at “Tesla volume”.
-
- 
 
 ## Outlook
 

@@ -15,19 +15,13 @@ Sweden’s plugin electric vehicles took almost 60% of the auto market in March,
 
 ![](ev-sales-images/2023-03-Sweden-Passenger-Auto-Registrations.avif)
 
- 
-
 March’s combined plugin share of 59.9% comprised 41.6% full electrics (BEVs), and 18.3% plugin hybrids (PHEVs). These shares compare YoY with 55.6%, 31.8%, and 23.7%, respectively.
 
 It terms of volumes, BEVs were up nearly 38% YoY, while PHEVs were down by some 19%. Petrol-only vehicles, and HEVs, were essentially flat YoY, and diesels were down by over a third.
 
 Diesel share of the market reached a near record low of 7.6% (only December ’22 was lower, at 6.7%). Petrol share looks set to regularly slide under 20% in Q3 or Q4 this year. Excepting the potential of anomalous logistics events, it is unlikely that non-plugins will ever get near to 50% share of the market again (and soon, 40% will be a stretch).
 
- 
-
 ![](ev-sales-images/2023-03-Sweden-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## Sweden’s Best Selling BEVs
 
@@ -35,11 +29,7 @@ Tesla’s Model Y was (by far) the best selling BEV in March, and in fact the be
 
 This time around, the XC40 had to settle for second, with 1,255 units, far behind the Tesla. The Volkswagen ID.4 came in third (898 units).
 
- 
-
 ![](ev-sales-images/2023-03-Sweden-Top-BEVs.avif)
-
- 
 
 There were no big surprises in the top 20, though let’s give a shout out to the good value MG5 for setting its volume record (413 units) and grabbing 6th spot.
 
@@ -49,11 +39,7 @@ At this price point, the Nio will obviously remain a niche vehicle, but may push
 
 Let’s look at the 3-month view:
 
- 
-
 ![](ev-sales-images/2023-03-Sweden-Top-BEVs-Trailing-Qtr.avif)
-
- 
 
 The Tesla Model Y has now jumped up into first place, from 4th as recently as last quarter. The former leader, the Volvo XC40, has been displaced, now in 2nd, and the VW ID.4 has likewise been shuffled down a spot, into 3rd.
 
@@ -74,8 +60,6 @@ These models were amongst those dropping back:
 With Tesla’s local European production now passing 22,000 units per month (and still climbing), and with Shanghai production still supplementing that, the Model Y is now looking ever harder to displace from the BEV lead across almost all European markets.
 
 In markets already well down the path of the EV transition, the Model Y has a decent chance to be _the overall best selling vehicle_. This despite its price tag of €45,000 to €48,000, for the entry variant!
-
- 
 
 ## Outlook
 

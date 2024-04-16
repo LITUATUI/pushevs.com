@@ -13,15 +13,9 @@ The production of the LETIN Mengo started last month with first units rolling of
 
 Powered by LFP (LiFePO4) batteries, this cute electric car has a starting price of 29.800 yuan (3.815 euros). This is exactly the same starting price of the [Changan Benben E-Star](/2021/05/20/changan-benben-e-star-gets-new-low-cost-edition/).
 
- 
-
 {{< twitter user="DKurac" id="1397489012391038981" >}}
 
- 
-
 Let's see more details.
-
- 
 
 **Entry version**
 
@@ -39,8 +33,6 @@ Let's see more details.
 - **Battery capacity**: 11,52 kWh (LFP chemistry)
 - **Starting price**: 29.800 yuan (3.792 euros)
 
- 
-
 **Mid version**
 
 - **Length**: 3.620 mm
@@ -56,8 +48,6 @@ Let's see more details.
 - **Consumption**: 10 kWh/100 km (NEDC)
 - **Battery capacity**: 17,28 kWh (LFP chemistry)
 - **Starting price**: 39.900 yuan (5.107 euros)
-
- 
 
 **Top version**
 
@@ -75,16 +65,10 @@ Let's see more details.
 - **Battery capacity**: 29,44 kWh (LFP chemistry)
 - **Starting price**: 49.900 yuan (6.388 euros)
 
- 
-
 ![LETIN Mengo](images/LETIN-Mengo.avif)
-
- 
 
 It was the Wuling Hong Guang MINI EV that proved that small electric cars can be extremely popular when priced right, but now better options are available. The LETIN Mengo not only looks much better, it also has better specs.
 
 Nowadays, electric cars like the LETIN Mengo or the [Leapmotor T03](/2021/05/14/leapmotor-t03-gets-cheaper-with-lfp-battery/) make the [Dacia Spring](/2021/03/11/dacia-spring-has-its-price-revealed-in-france/) - that is also made in China - look grossly overpriced in Europe. Don't you agree?
-
- 
 
 {{< youtube U0nj9oHmdm8 >}}

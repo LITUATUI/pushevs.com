@@ -11,11 +11,7 @@ images:
 
 The gap between BYD and CATL in China as been narrowing... Ultimately, I think that BYD will become the world's biggest battery maker.
 
- 
-
 Both battery makers have their pros.
-
- 
 
 **CATL**:
 
@@ -23,14 +19,10 @@ Both battery makers have their pros.
 - Supplies Tesla (but this can also be a problem)
 - Factory in Europe (Germany)
 
- 
-
 **BYD**:
 
 - Great CTP (cell-to-pack) technology combined with cobalt-free battery chemistry: Blade Battery (currently my favorite EV battery pack, by far)
 - It's also an automaker, so all batteries produced have destination
-
- 
 
 In the long run, I think that BYD has the best advantages.
 
@@ -39,8 +31,6 @@ CATL is becoming very dependent of one customer (Tesla) and this isn't a good th
 Some battery makers in China are buying automakers and I think this is a great strategy. This way, all batteries produced have destination and battery makers don't have to rely on laggard legacy automakers to speedup their production plans.
 
 Nonetheless, production localization is equally important. Battery makers need to open production plants in the largest electric car markets.
-
- 
 
 Anyway, there's an underdog that worth mention. SVOLT has its own version of short-blade batteries available in two cobalt-free chemistries (LFP and LNMO) and is targeting start of production in Germany by the end of 2023. This is probably the small battery maker with the best potential to grow - if nothing unexpected happens.
 

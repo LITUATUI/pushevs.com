@@ -13,8 +13,6 @@ images:
 
 Norway increased its plugin electric vehicle market share to 91.1% in April 2023, up from 84.2% year-on-year. The auto market is still settling down after policy changes that came in at the start of the year. Overall auto volume was 8,976 units,  down 7.7% year-on-year. The bestselling vehicle was, again, the Tesla Model Y.
 
- 
-
 ![](ev-sales-images/2023-04-Norway-Passenger-Auto-Registrations.avif)
 
 This is the first time Norway has seen 3 consecutive months with combined plugin share staying above 90% (see graph below). April’s combined share of 91.1% comprised 83.3% full battery electrics (BEVs), and 7.8% plugin hybrids (PHEVs). This compares to respective YoY scores of 84.2%, 74.1%, and 10.1%. We can see that BEVs have continued to grow, whilst PHEVs have been squeezed.
@@ -29,19 +27,13 @@ Recall that [new tax changes](/2023/01/05/december-2022-ev-sales-in-norway-expl
 
 The auto market pattern should mostly resettle sometime in Q3, but there is also the confounding factor of the long time period between placing orders and taking deliveries (registrations). This can be 6 to 12 months or more in some cases (especially for BEVs), so the 2023 market will continue to be somewhat shaped by orders placed under the previous tax regime, perhaps into Q4 2023, or even Q1 2024. Nevertheless, we should get a decent sense of the new trend in powertrain shares, by the end of Q3 this year.
 
- 
-
 ![](ev-sales-images/2023-04-Norway-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## Bestselling BEVs
 
 The Tesla Model Y took the top spot in April — the first time it has done so in the initial month of a new quarter. This is down to Tesla’s improved shipping logistics, thanks to increasing steady European supply coming from Gigafactory Berlin-Brandenburg. We can expect this pattern of more even monthly deliveries to continue to improve, though the Shanghai units, that continue for now to comprise a significant portion of Europe’s supply, will still arrive in peaks and troughs.
 
 In second place was another favourite, the Volkswagen ID.4, and the third spot was taken by its sibling, the ID.Buzz.
-
- 
 
 ![](ev-sales-images/2023-04-Norway-BEVs.avif)
 
@@ -60,8 +52,6 @@ We will now take a look at the longer term rankings:
 In the trailing 3-month picture, the Tesla Model Y’s overall dominance is more clear to see (note that the Model Y still has to be trimmed to fit on the graph)! It has 5.4 times the volume of the runner up, Toyota BZ4X. Other models in the top 20 are mostly familiar faces, with no great surprises.
 
 It’s interesting to see the Volkswagen ID.Buzz quickly becoming so popular, as the first “Minivan” BEV that is designed for families and private consumers (rather than commercial use, and taxis). It is looking like Volkswagen may succeed in its dream to reboot the popularity of the classic “transporter” van/bus that first launched with the “T1” way back in 1949.
-
- 
 
 ## Outlook
 

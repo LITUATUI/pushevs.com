@@ -15,21 +15,13 @@ July was the first full sales month for the electric city car Wuling Hong Guang 
 
 Who would've known that good availability and decent price is important for a small electric car's success?!
 
- 
-
 Depending on the version, in China this small electric car has a starting price between 28.800 and 38.800 yuan (3.540 and 4.769 euros).
 
 The secret for the impressive production volume and price achieved by this small electric car has to be its cobalt-free LFP (LiFePO4) batteries. They are safe, durable and extremely affordable. Without rare raw materials, cobalt-free batteries can be produced at extremely high volumes and this truly affordable electric car won't risk having its production constrained by battery supply...
 
- 
-
 ![Wuling Hong Guang MINI EV rear and front](images/Wuling-Hong-Guang-MINI-EV-rear-and-front.avif)
 
- 
-
 Enough talk, let's see the basic specs of this electric car.
-
- 
 
 - **Length**: 2.920 mm
 - **Wheelbase**: 1.940 mm
@@ -41,11 +33,7 @@ Enough talk, let's see the basic specs of this electric car.
 - **Range**: 120-170 km (NEDC)
 - **Starting price**: between 28.800 and 38.800 yuan (3.540 and 4.769 euros)
 
- 
-
 This electric car counts with four battery pack versions assembled by three different companies.
-
- 
 
 **LZW7004EVPDBB**
 
@@ -58,8 +46,6 @@ This electric car counts with four battery pack versions assembled by three diff
 - **Vehicle gross weight**: 980 kg
 - **Range**: 120 km (NEDC)
 
- 
-
 **LZW7004EVPKAK**
 
 - **Supplier**: Guoxuan
@@ -70,8 +56,6 @@ This electric car counts with four battery pack versions assembled by three diff
 - **Vehicle curb weight**: 665 kg
 - **Vehicle gross weight**: 980 kg
 - **Range**: 120 km (NEDC)
-
- 
 
 **LZW7004EVPHAM**
 
@@ -84,8 +68,6 @@ This electric car counts with four battery pack versions assembled by three diff
 - **Vehicle gross weight**: 1.020 kg
 - **Range**: 170 km (NEDC)
 
- 
-
 **LZW7004EVPDBA**
 
 - **Supplier**: Huating (Hefei)
@@ -97,23 +79,15 @@ This electric car counts with four battery pack versions assembled by three diff
 - **Vehicle gross weight**: 1.020 kg
 - **Range**: 170 km (NEDC)
 
- 
-
 I don't have the specs of most cells used in these four different battery packs, but the 100 Ah cell made by Guoxuan seems to be the "low-cost type", as we can see from the table below.
 
- 
-
 ![Guoxuan prismatic battery cells](images/Guoxuan-prismatic-battery-cells.avif)
-
- 
 
 Moving on... the Wuling Hong Guang MINI EV isn't the only affordable electric car from the SGMW joint-venture, there's also:
 
 **Baojun E100**
 
 ![Baojun E100](images/Baojun-E100.avif)
-
- 
 
 **Baojun E100 specs**
 
@@ -129,13 +103,9 @@ Moving on... the Wuling Hong Guang MINI EV isn't the only affordable electric ca
 - **Range**: 305 km (NEDC)
 - **Starting price**: between 49.800 and 59.800 yuan (6.120 and 7.349 euros)
 
- 
-
 **Baojun E200**
 
 ![Baojun E200](images/Baojun-E200.avif)
-
- 
 
 **Baojun E200 specs**
 
@@ -151,13 +121,9 @@ Moving on... the Wuling Hong Guang MINI EV isn't the only affordable electric ca
 - **Range**: 305 km (NEDC)
 - **Starting price**: between 54.800 and 64.800 yuan (6.734 and 7.963 euros)
 
- 
-
 **Baojun E300 and Baojun E300 Plus**
 
 ![Baojun E300 and Baojun E300 Plus](images/Baojun-E300-and-Baojun-E300-Plus.avif)
-
- 
 
 **Baojun E300 specs**
 
@@ -173,8 +139,6 @@ Moving on... the Wuling Hong Guang MINI EV isn't the only affordable electric ca
 - **Range**: 305 km (NEDC)
 - **Starting price**: between 64.800 and 79.800 yuan (7.963 and 9.806 euros)
 
- 
-
 **Baojun E300 Plus specs**
 
 - **Length**: 2.894 mm
@@ -189,8 +153,6 @@ Moving on... the Wuling Hong Guang MINI EV isn't the only affordable electric ca
 - **Range**: 305 km (NEDC)
 - **Starting price**: between 69.800 and 84.800 yuan (8.578 and 10.421 euros)
 
- 
-
 The Baojun E300 is well equipped with modern safety features rare in small and affordable cars, such as:
 
 - Adaptive Cruise Control
@@ -200,15 +162,11 @@ The Baojun E300 is well equipped with modern safety features rare in small and a
 - Auxiliary and Valet Parking System
 - Guided Vehicle Anti-theft Warning System
 
- 
-
 The 305 km range in NEDC represents around 229 km in WLTP, making this electric car acceptable for many European customers if sold here for a decent price.
 
 Anyway, looking at the table below we conclude that none of these models are eligible for the full government nationwide subsidies in China. However, they do get a 8.000 yuan (982 euros) subsidy if sold in rural areas and in China every electric car benefits from a sales tax exemption until the end of 2022.
 
 ![Electric car subsidy in China depends on range and battery pack energy density - 2019 vs 2020](images/Electric-car-subsidy-in-China-depends-on-range-and-battery-pack-energy-density-2019-vs-2020.avif)
-
- 
 
 Small affordable electric cars are perfect for commuting during weekdays in crowded cities, relegating bigger and heavier cars (electric or not) for the weekends with the family.
 

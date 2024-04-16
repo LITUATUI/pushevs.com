@@ -15,11 +15,7 @@ The tests were conducted around Barcelona in highway and city traffic. All elect
 
 Furthermore, to safely test how much range these electric cars have left when empty battery warnings show up, the last kilometers were made at the Circuit de Barcelona-Catalunya, which is a motorsport race track in Montmeló, Barcelona, Catalonia, Spain.
 
- 
-
 Let's see the results, from worst to best average range figures.
-
- 
 
 **Hyundai IONIQ Electric (28 kWh)**
 
@@ -29,8 +25,6 @@ Let's see the results, from worst to best average range figures.
 - Reserve: 5-8 km
 - Efficiency: 12,2 kWh/100 km
 
- 
-
 **Kia Soul EV (30 kWh)**
 
 - Range test 1: 214 km
@@ -38,8 +32,6 @@ Let's see the results, from worst to best average range figures.
 - Range average: 218 km
 - Reserve: 7 km
 - Efficiency: 13,6 kWh/100 km
-
- 
 
 **Nissan Leaf (40 kWh)**
 
@@ -49,8 +41,6 @@ Let's see the results, from worst to best average range figures.
 - Reserve: 14 km
 - Efficiency: 16,3 kWh/100 km
 
- 
-
 **BMW i3 (33,3 kWh)**
 
 - Range test 1: 225 km
@@ -58,8 +48,6 @@ Let's see the results, from worst to best average range figures.
 - Range average: 231 km
 - Reserve: 30 km
 - Efficiency: 14,8 kWh/100 km
-
- 
 
 **Volkswagen e-Golf (35,8 kWh)**
 
@@ -69,8 +57,6 @@ Let's see the results, from worst to best average range figures.
 - Reserve: 5 km
 - Efficiency: 12,4 kWh/100 km
 
- 
-
 **Renault  Zoe (41 kWh)**
 
 - Range test 1: 273 km
@@ -78,8 +64,6 @@ Let's see the results, from worst to best average range figures.
 - Range average: 284 km
 - Reserve: 15 km
 - Efficiency: 14,6 kWh/100 km
-
- 
 
 **Jaguar I-PACE (90 kWh)**
 
@@ -89,11 +73,7 @@ Let's see the results, from worst to best average range figures.
 - Reserve: 10 km
 - Efficiency: 27,5 kWh/100 km
 
- 
-
 The Jaguar I-PACE tested belongs to a pre-production series, this could explain the lousy range and efficiency. However, don't expect miracles from software tweaks, this is a heavy and un-aerodynamic electric car.
-
- 
 
 **Opel Ampera-e - Chevrolet Bolt EV (60 kWh)**
 
@@ -103,8 +83,6 @@ The Jaguar I-PACE tested belongs to a pre-production series, this could explain
 - Reserve: 30 km
 - Efficiency: 16,1 kWh/100 km
 
- 
-
 **Tesla Model X 100D (100 kWh)**
 
 - Range test 1: 404 km
@@ -112,8 +90,6 @@ The Jaguar I-PACE tested belongs to a pre-production series, this could explain
 - Range average: 400 km
 - Reserve: 10 km
 - Efficiency: 23,4 kWh/100 km
-
- 
 
 **Tesla Model S 100D (100 kWh)**
 
@@ -123,11 +99,7 @@ The Jaguar I-PACE tested belongs to a pre-production series, this could explain
 - Reserve: 10 km
 - Efficiency: 20,6 kWh/100 km
 
- 
-
 {{< youtube hnBy1ZBDtxA >}}
-
- 
 
 Having 10 different electric cars tested is great, nonetheless, there are two important electric cars missing. The Tesla Model 3 and the Hyundai Kona Electric would definitely win the range challenge with great efficiency figures.
 

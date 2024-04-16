@@ -13,11 +13,7 @@ images:
 
 Germany, Europe’s single largest auto market, saw plugin electric vehicles take 21.5% share of sales in February 2023, a drop from 24.9% year on year. Full electric share grew, but plugin hybrid share almost halved. Overall auto volume was 206,210 units, up by some 3% YoY, but still some 18% down from pre-2020 seasonal norms. The Tesla Model Y was the month’s bestselling plugin, and second overall auto (behind the VW Golf).
 
- 
-
 ![](ev-sales-images/2023-02-Germany-Passenger-Auto-Registrations.avif)
-
- 
 
 February’s 21.5% combined plugin result comprised 15.7% battery electrics (BEVs), and 5.8% plugin hybrids (PHEVs). This compares to YoY shares 24.9%, 14.1%, and 10.8%, respectively. BEVs have grown share modestly, but PHEVs have lost significantly.
 
@@ -25,11 +21,7 @@ Overall auto market volume growth came on the back of sales growth of HEVs, BEVs
 
 Recall that these ups and downs represent a resettling of the market after the large pull-forward in November and December (ahead of incentive changes). It will be another few more months before a new normal in powertrain share is clear.
 
- 
-
 ![](ev-sales-images/2023-02-Germany-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## BEV bestsellers
 
@@ -37,11 +29,7 @@ With the local Tesla Gigafactory now cranking out 18,000 units per month (and cl
 
 Across all powertrains, the Tesla Model Y was second only to the Volkswagen Golf in Germany (7,655 units). It was also over 3× the volume of the runners up, the VW ID.4/5 (treated as one model, two variants in the KBA data), and the VW ID.3.
 
- 
-
 ![](ev-sales-images/2023-02-Germany-BEVs.avif)
-
- 
 
 Aside from the Model Y, most others in the top 10 had lacklustre volumes, well below their trailing 3 month average. The only exception was the Mini, which was in line with that recent average.
 
@@ -57,11 +45,7 @@ Let’s keep an eye on how all these newly released models progress in Germany o
 
 We now zoom out for the longer term perspective:
 
- 
-
 ![](ev-sales-images/2023-02-Germany-BEVs-Trailing-Qtr.avif)
-
- 
 
 Compared to the previous time period (September-to-November), the top two spots are the same, both going to Tesla. The VW ID.4/5 has climbed into 3rd, swapping ranks with the Fiat 500. The ID.3 has stayed steady in 4th.
 
@@ -82,8 +66,6 @@ Note that the regular caution about over-interpreting these single-country movem
 We can step back even further, and look at the manufacturing group performance:
 
 ![](ev-sales-images/2023-02-Germany-BEV-Groups-Trailing-Qtr.avif)
-
- 
 
 Compared to the previous period, the top 8 ranks remain exactly the same, but the weightings have changed.
 

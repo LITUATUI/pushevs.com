@@ -11,11 +11,7 @@ images:
 
 The solar powered Sion just got its specs upgraded thanks to a new super-safe LFP (LiFePO4) battery with more capacity that provides more range and faster charging.
 
- 
-
 Let's see the press release from Sono Motors.
-
- 
 
 > - **The New 54 kWh LFP Battery Provides the Sion With an Extended Range of up to 305 km and a Maximum Charging Power of up to 75 kW**
 > - **More Powerful Battery Eliminates Cobalt, Nickel and Manganese**
@@ -33,11 +29,7 @@ Let's see the press release from Sono Motors.
 > - New charging rate of up to 75 kW CCS (previously 50 kW)
 > - Increased life span of up to 3,000 cycles, or up to 900,000 km
 
- 
-
 We can see what changed in the specs below.
-
- 
 
 **Old advertised specifications**
 
@@ -52,8 +44,6 @@ We can see what changed in the specs below.
 - **Trunk volume**: 650 L
 - **Tow bar**: 750 kg
 
- 
-
 **New advertised specifications**
 
 - **Price**: 25.500 euros
@@ -66,23 +56,15 @@ We can see what changed in the specs below.
 - **Range**: 305 km
 - **Solar Range**: on average 112 km/week
 
- 
-
 ![Sion Motors Sion new LFP battery specs](images/Sion-Motors-Sion-new-LFP-battery-specs.avif)
-
- 
 
 The energy density of 150 Wh/kg for this LFP battery pack is alright for today's standards. However, already next year [Guoxuan expects to reach 260 Wh/kg at the cell level and 234 Wh/kg at the pack level with its LFP battery cells that have silicon anodes](/2021/01/10/guoxuan-unveils-a-cobalt-free-lfp-pouch-battery-cell-with-212-wh-kg/).
 
 Unfortunately, the Sion doesn't seem very efficient. With a 55 kWh battery the new Renault ZOE gets a WLTP range of 395 km.
 
- 
-
 Anyway, with startups we never know if they really intent to go into mass production or they are just advertising their new technology hoping to sell it to a big company.
 
 After being delayed once again, mass production is now scheduled to begin in 2023. Sadly, every time its arrival gets delayed, the Sion concept becomes less desirable. Notice that the Renault 5 E-TECH is set to debut in 2023 with LFP batteries and a price below 20.000 euros...
-
- 
 
 What do you think? Will we ever see this electric car reach mass production?
 

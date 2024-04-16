@@ -47,8 +47,6 @@ With the new MG4 now delivering in good volumes, MG Motor has climbed from 5th p
 
 Due to data anomalies at the UK DVLA, we don’t have very comprehensive market data this month, so we can’t dive into much detail about manufacturing group share. All being well, we will be able to review group share again next month.
 
- 
-
 ## UK Outlook
 
 The UK’s economy is drifting between recession and scanty growth, with recent forecasts improving from a previous negative 0.4% GDP for 2023, [to positive 0.3%](https://www.britishchambers.org.uk/news/2023/06/bcc-economic-forecast-upgrade-to-gdp-but-uk-economy-flatlining). Inflation however remains at much higher rates, currently at 8.7% headline rate, though improved from 10.1% a month ago.

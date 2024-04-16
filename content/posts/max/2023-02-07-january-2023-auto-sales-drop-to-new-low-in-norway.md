@@ -13,11 +13,7 @@ images:
 
 Norway saw plugin electric vehicles take 76.3% share of the auto market in January, down from 90.5% year on year. The January auto market was highly anomalous due to the new year’s introduction of tighter auto emissions and tax increases, which had pulled sales forward into December. Overall January auto volumes were just 1,860 units, under 5% of December’s volume, and the lowest monthly volume in over 60 years! The auto market will resume more typical patterns in the months ahead. January’s bestseller was the Volkswagen ID.Buzz.
 
- 
-
 ![](ev-sales-images/2023-01-Norway-Passenger-Auto-Registrations.avif)
-
- 
 
 January’s combined plugin result of 76.3% comprised 66.5% full electrics (BEVs), and 9.8% plugin hybrids (PHEVs). These compared with respective shares of 90.5%, 83.7%, and 6.8% a year ago.
 
@@ -33,21 +29,13 @@ I suspect that — once things settle down — we will find that petrol-only sal
 
 Overall, it will be interesting to see what the auto landscape will look like once these new policies become normalized and new consumer preferences (i.e., orders) start to work their way through into the sales results.
 
- 
-
 ![](ev-sales-images/2023-01-Norway-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## Best Selling BEVs
 
 With the caveat that we can’t read much into January’s tea leaves, the Volkswagen ID. Buzz was the best selling vehicle for the month, fractionally ahead of its sibling the ID.4. Their cousin, the Skoda Enyaq, came in third.
 
- 
-
 ![](ev-sales-images/2023-01-Norway-BEVs.avif)
-
- 
 
 One surprise was the Mazda MX-30, which didn’t see significant drop in supply volume, or registrations, compared to H2 2022. As in neighbouring Sweden, and in other European markets, Mazda is now releasing the range-extender (REx) variant, which may prove popular with folks who might otherwise have shopped for PHEVs or non-plugins. With its modest battery size, and the REx being the in-house “Wankel” design, Mazda should find itself relatively unconstrained in producing this vehicle.
 
@@ -57,13 +45,9 @@ Let’s now look at the 3-month picture, again with the caveat that December and
 
 ![](ev-sales-images/2023-01-Norway-Trailing-Q.avif)
 
- 
-
 The Tesla Model Y leads, as it has for most of the past 18 months. Other regular favourites, the VW ID.4 and the Volvo XC40, take 2nd and 3rd.
 
 Given the current anomalies, I hope you don’t mind if I skip a summary of the risers and fallers this month, and likely next month. Once we get to the March report, I will revisit this and compare the Q1 2023 favourites to those from Q3 2022 (before the “madness” set in).
-
- 
 
 ## Outlook
 

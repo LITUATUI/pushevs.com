@@ -77,8 +77,6 @@ Mercedes dropped down a spot from 3rd to 4th, though its share increased fractio
 
 The other positions were largely unchanged.
 
- 
-
 ## Outlook
 
 Germany’s economy is not in a good place, with GDP contracting by 0.5% in Q1 2023, the worst performance since the 2008 financial crisis (putting aside Covid disruptions). A big part of the problem is high inflation — affecting energy prices for industry, and all prices for consumers — as well as high interest rates. Inflation was at [6.4% in June](https://tradingeconomics.com/germany/indicators), up from 6.1% in May.

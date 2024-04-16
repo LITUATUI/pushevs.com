@@ -31,8 +31,6 @@ Plugless vehicles will continue to be sold in Norway until plugin options — mo
 
 As usual, the Tesla Model Y is again the bestseller, with 3,125 units, almost 3x the volume of the runner up Volkswagen ID.4. The third place goes to the Skoda Enyaq.
 
- 
-
 ![](ev-sales-images/2023-06-Norway-BEVs.avif)
 
 There were no new faces in the top 20, just some shuffling of already established models. The only top 20 model to put in a personal-best performance was the MG4, with 242 units, and gaining 15th spot, a new high. As one of Europe’s best value BEVs, we can expect the MG4 to keep climbing.
@@ -62,8 +60,6 @@ Let’s give a shout out also to the Volkswagen ID. Buzz which continues to do r
 Let me give a quick update on Norway’s fleet transition to plugins. As of the end of Q1 2023 (the latest available fleet data), plugins made up 28.4% of Norway’s passenger car fleet, with BEVs at 21.5%. Once we get the end-of-June figures, they will likely show give-or-take 30% plugin share of the fleet (~22.7% BEV).
 
 The fleet turnover rate to plugins is currently around 5.5% per year, and will be a little over 6% per year once plugins take 95% to 99% of new sales. If very affordable BEVs arrive in plentiful supply, folks may decide to retire their old ICE car “earlier” than usual, to grab the running cost savings of BEVs, and the annual fleet turnover rate could — in principle — approach 7%.
-
- 
 
 ## Outlook
 

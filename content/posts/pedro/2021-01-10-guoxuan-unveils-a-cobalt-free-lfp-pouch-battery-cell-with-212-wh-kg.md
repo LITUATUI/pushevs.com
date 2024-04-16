@@ -13,8 +13,6 @@ Guoxuan is a Chinese battery cell maker known for producing the most energy-dens
 
 Late last year this manufacturer reached a record-breaking energy density of 212 Wh/kg for a LFP battery cell, made with a LFP cathode and a silicon anode. Now, Guoxuan is providing more details about this pouch battery cell.
 
- 
-
 **Battery cell specs**
 
 - **Capacity**: 55 Ah
@@ -23,11 +21,7 @@ Late last year this manufacturer reached a record-breaking energy density of 212
 - **Weight**: 830 g
 - **Energy density**: 212 Wh/kg
 
- 
-
 Moreover, Guoxuan has the goal of reaching 230 Wh/kg already during this year and 260 Wh/kg in 2022.
-
- 
 
 **Guoxuan's LFP battery cell evolution**
 
@@ -38,21 +32,13 @@ Moreover, Guoxuan has the goal of reaching 230 Wh/kg already during this year an
 - **2021**: 230 Wh/kg (207 Wh/kg at pack level with JTM)
 - **2022**: 260 Wh/kg (234 Wh/kg at pack level with JTM)
 
- 
-
 {{< twitter user="DKurac" id="1347734659187183619" >}}
-
- 
 
 Being an inherently safe battery chemistry, battery packs made with LFP (LiFePO4) cells don't require much safety equipment, such as metal firewalls between cells or a complex TMS (Thermal Management System). This means that the GCTPR (gravimetric cell-to-pack ratio) for this battery chemistry is higher than what we have with NCM or NCA battery packs.
 
 Guoxuan uses the JTM (Jelly roll-to-module) technology to achieve a record-breaking GCTPR of 90 %.
 
- 
-
 Let's see what kind of battery packs can we have with the battery cell recently unveiled by Guoxuan.
-
- 
 
 **Hypothetical battery pack 1**
 
@@ -62,8 +48,6 @@ Let's see what kind of battery packs can we have with the battery cell recently 
 - **Weight (pack)**: 125 kg (estimated from a GCTPR of 90 %)
 - **Cost**: 1.915 euros (estimated with 80 euros per kWh)
 
- 
-
 **Hypothetical battery pack 2**
 
 - **Configuration**: 136s2p
@@ -72,8 +56,6 @@ Let's see what kind of battery packs can we have with the battery cell recently 
 - **Weight (pack)**: 251 kg (estimated from a GCTPR of 90 %)
 - **Cost**: 3.830 euros (estimated with 80 euros per kWh)
 
- 
-
 **Hypothetical battery pack 3**
 
 - **Configuration**: 136s3p
@@ -81,8 +63,6 @@ Let's see what kind of battery packs can we have with the battery cell recently 
 - **Weight (cells)**: 339 kg
 - **Weight (pack)**: 376 kg (estimated from a GCTPR of 90 %)
 - **Cost**: 5.745 euros (estimated with 80 euros per kWh)
-
- 
 
 Considering that Volkswagen is the biggest stakeholder of Guoxuan, we might see the German automaker adopting this technology soon.
 

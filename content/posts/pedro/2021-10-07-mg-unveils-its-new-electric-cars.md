@@ -11,11 +11,7 @@ images:
 
 Today MG unveiled its new all-electric model range, comprised by the electric station wagon MG5, its flagship SUV Marvel R Electric and a renewed MG ZS EV.
 
- 
-
 Let's see the press release.
-
- 
 
 > ## All-new MG Marvel R Electric
 > 
@@ -53,19 +49,9 @@ Let's see the press release.
 > 
 > \* All prices quoted may vary slightly by country due to local taxes.
 
- 
-
- 
-
 Let's sum it up...
 
- 
-
- 
-
 ![MG Marvel R Electric](images/MG-Marvel-R-Electric.avif)
-
- 
 
 **MG Marvel R Electric (RWD version)**
 
@@ -78,8 +64,6 @@ Let's sum it up...
 - **Arrival**: end of this month
 - **Starting price**: 39.990 euros
 
- 
-
 **MG Marvel R Electric (AWD version)**
 
 - **Motor**: 212 kW (288 ps) and 665 N.m of torque
@@ -91,13 +75,7 @@ Let's sum it up...
 - **Arrival**: end of this month
 - **Starting price**: 47.990 euros
 
- 
-
- 
-
 ![MG5 Electric](images/MG5-Electric-silver.avif)
-
- 
 
 **MG5 Electric (standard range version)**
 
@@ -108,8 +86,6 @@ Let's sum it up...
 - **Arrival**: first quarter of 2022
 - **Starting price**: under 30.000 euros
 
- 
-
 **MG5 Electric (long range version)**
 
 - **Motor**: 115 kW (156 ps) and 260 N.m of torque
@@ -119,13 +95,7 @@ Let's sum it up...
 - **Arrival**: first quarter of 2022
 - **Starting price**: not yet available
 
- 
-
- 
-
 ![Renewed MG ZS EV](images/Renewed-MG-ZS-EV.avif)
-
- 
 
 **Renewed MG ZS EV (standard range version)**
 
@@ -136,8 +106,6 @@ Let's sum it up...
 - **Arrival**: end of this month
 - **Starting price**: 30.990 euros
 
- 
-
 **Renewed MG ZS EV (long range version)**
 
 - **Range**: 440 km (WLTP)
@@ -147,17 +115,11 @@ Let's sum it up...
 - **Arrival**: end of this month
 - **Starting price**: 34.990 euros
 
- 
-
- 
-
 Summing up, the biggest surprise was the renewed MG ZS EV with faster charging, more range and better efficiency for a similar price. It also looks much nicer now without the fake grill of the previous model...
 
 Notice that the new entry-level model got its battery capacity increased by 13 % (from 44,5 to 50,3 kWh), while its WLTP range increased by 22 % (from 263 to 320 km). Showing that the new model is much more efficient. I just think that its starting price should be lower, since the Renault ZOE offers better range and efficiency for a similar price - after dealer discounts.
 
 As for the other two models, while I think that the Marvel R Electric looks amazing, its efficiency is very poor, just compare it with the Kia e-Niro for example... Regarding the MG5 Electric station wagon, it seems to be an unique and winning product in its segment, with decent price, range and efficiency - at least until better alternatives arrive from competitors.
-
- 
 
 Lastly, by introducing a new generation of electric cars still based on 400-volt powertrains in late 2021, I think that MG missed a big opportunity to establish itself as an advanced electric car brand and it's now only catching up... At least, its flagship SUV Marvel R Electric should have arrived with a 800-volt system.
 

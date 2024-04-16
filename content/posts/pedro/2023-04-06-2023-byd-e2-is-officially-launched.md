@@ -13,11 +13,7 @@ On April 6, the good looking 2023 BYD e2 was officially launched in China with t
 
 The BYD e2 is a nice electric compact hatchback now part of the Ocean series, that sooner or later is going to get an international version and be exported to Europe and Australia.
 
- 
-
 Let's see some of the specs.
-
- 
 
 - **Length × width × height**: 4.260×1.760×1.530 mm
 - **Wheelbase**: 2.610 mm
@@ -45,11 +41,7 @@ Let's see some of the specs.
 
 ![2023 BYD e2 interior](images/2023-BYD-e2-interior.avif)
 
- 
-
 On April 18, my favorite BYD electric car will be launched, the affordable and ultimate urban companion, BYD Seagull.
-
- 
 
 Anyway, what do you think about the 2023 BYD e2?
 

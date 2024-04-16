@@ -11,8 +11,6 @@ images:
 
 The BYD Dolphin is now finally available to pre-order in China. This affordable electric car is packed with nice features and has many different versions to choose from, so let's check them out.
 
- 
-
 **BYD Dolphin Vigorous version**
 
 - **Length**: 4.070 mm
@@ -32,8 +30,6 @@ The BYD Dolphin is now finally available to pre-order in China. This affordable 
 - **Fast charging**: 40 kW (from 30 to 80 % in 30 minutes)
 - **Starting price (after subsidy)**: 96.800 yuan (12.684 euros)
 
- 
-
 **BYD Dolphin Free edition**
 
 - **Length**: 4.125 mm
@@ -51,8 +47,6 @@ The BYD Dolphin is now finally available to pre-order in China. This affordable 
 - **On-board charger**: 7 kW
 - **Fast charging**: 60 kW (from 30 to 80 % in 30 minutes)
 - **Starting price (after subsidy)**: 106.800 yuan (13.994 euros)
-
- 
 
 **BYD Dolphin Fashion edition**
 
@@ -72,8 +66,6 @@ The BYD Dolphin is now finally available to pre-order in China. This affordable 
 - **Fast charging**: 60 kW (from 30 to 80 % in 30 minutes)
 - **Starting price (after subsidy)**: 111.800 yuan (14.649 euros)
 
- 
-
 **BYD Dolphin Knight edition**
 
 - **Length**: 4.150 mm
@@ -92,11 +84,7 @@ The BYD Dolphin is now finally available to pre-order in China. This affordable 
 - **Fast charging**: 60 kW (from 30 to 80 % in 30 minutes)
 - **Starting price (after subsidy)**: 124.800 yuan (16.352 euros)
 
- 
-
 ![BYD Dolphin exterior and interior](images/BYD-Dolphin-exterior-and-interior.avif)
-
- 
 
 The names of the versions were translated from Chinese to English by Google, so don't give it too much credit. Anyway, while more expensive the Knight edition seems worth it. It's packed with safety features that you normally don't see in a car this price, such as:
 
@@ -108,11 +96,7 @@ The names of the versions were translated from Chinese to English by Google, so 
 - Traffic sign recognition (TSR)
 - Traffic Congestion Assist (TJA)
 
- 
-
 Moreover, the two most expensive versions come with a "driving recorder", which I assume it's a dashcam. I don't know why dashcams aren't standard yet in every new car, they help enormously in the case of an accident and the two parts don't agree on what really happened. In some cases it can even help to lower your insurance premiums.
-
- 
 
 Nonetheless, all versions come with nice features as standard, such as:
 
@@ -121,21 +105,13 @@ Nonetheless, all versions come with nice features as standard, such as:
 - Bluetooth and NFC keys so you can open your car with your smartphone
 - OTA (over-the-air) remote firmware updates
 
- 
-
 ![BYD Dolphin opens with NFC key](images/BYD-Dolphin-opens-with-NFC-key.avif)
-
- 
 
 You probably already know by now what I think about this electric car. At this price point nothing comes close, it really offers great value for money.
 
 However, I also think that BYD needs to introduce a global version to be sold worldwide early next year with a bit more range and faster charging. A version with a WLTP range of 400 km and a fast charging rate of 100 kW will make this electric car not only dominate the entry-level market, but also the mid range.
 
- 
-
 What do you think? Is the current "Knight edition" enough for you - if sold at the right price -, or do you really want more range and faster charging?
-
- 
 
 {{< youtube QrzlDJpjhfc >}}
 

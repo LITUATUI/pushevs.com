@@ -11,37 +11,25 @@ images:
 
 The world's biggest battery maker, CATL, announced that its third-generation CTP (cell-to-pack) battery technology is ready for mass production and the official launch is expected in April.
 
- 
-
 > Through continuous technological iteration, CATL has launched the third-generation CTP, which is called Qilin Battery internally. Its system weight, energy density and volumetric energy density continue to stay at the highest level of the industry. With the same chemical system and the same pack size, Qilin can deliver 13% more power than the 4680 battery.
 > 
 > Aiming at the safety of new energy vehicles - more and more enclosed spaces are emerging in our lives now, such as garages, underground parking lots, air-raid shelters, etc. These enclosed spaces feature slow smoke exhaustion, poor lighting, and difficulty in rescue, which poses higher requirements for the safety of battery systems.
 > 
 > If no thermal propagation happens to the system on any single cell failure, the smoke hazard resulting from thermal runaway can be greatly reduced. It is easy to design and install the smoke extraction system based on the smoke production from thermal runaway of single cells in a building. In this way, the safety of new energy vehicles can be greatly improved, thus to protect life and property to the greatest extent.
 
- 
-
 What's great about CTP battery packs, is that without modules and excessive cabling, they are easier, faster and cheaper to assemble. The less passive material the better, since what really matters is the active material (battery cells) that actually stores energy. CTP technology is only possible to use with safe battery cells, that don't easily burn or explode when damaged.
 
- 
-
 Let's see the energy density specs of this third generation battery pack technology from CATL.
-
- 
 
 **LFP version (LiFePO4 is cobalt-free)**
 
 - **Gravimetric energy density**: 160 Wh/kg
 - **Volumetric energy density**: 290 Wh/L
 
- 
-
 **NCM version (contains cobalt)**
 
 - **Gravimetric energy density**: 250 Wh/kg
 - **Volumetric energy density**: 450 Wh/L
-
- 
 
 Right now the most popular CTP technology with cobalt-free battery cells is the BYD Blade Battery - that started with 140 Wh/kg, but already reached 150 Wh/kg in the long-range version of the [BYD Yuan Plus](/2021/08/17/byd-yuan-plus-is-almost-ready-for-launch/).
 

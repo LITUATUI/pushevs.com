@@ -31,8 +31,6 @@ There was a time, not so very long ago, that Tesla would rarely overwhelm Norway
 
 May was a case in point, with the Model Y completely swamping its nearest competitors, and _matching the volume of the next 5 models combined_.
 
- 
-
 ![](ev-sales-images/2023-05-Norway-BEVs.avif)
 
 The runners up were the Volkswagen ID.4, and the BMW iX1. Notice that every member of the top 10 is (approximately) a mid-sized SUV or crossover, save for the ID.Buzz.
@@ -56,8 +54,6 @@ The Volkswagen ID. Buzz, in #4, is proving popular – surely the first minivan 
 Likewise, from an October (re-)launch, the Toyota BZ4X has done well to climb into #5 spot in Norway. The software tweaks mentioned above can only help its popularity grow.
 
 Based on recent trends, we can expect the MG4 to enter the top 20 chart sometime in the next couple of months.
-
- 
 
 ## Outlook
 

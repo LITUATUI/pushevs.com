@@ -13,8 +13,6 @@ Changan Benben E-Star is a cute small electric car currently available with a NE
 
 The good news is that recent MIIT's documents show a new homologated version with a cobalt-free LFP (LiFePO4) battery. However, it's not clear if this electric car will soon have two battery options, or become available only with a LFP battery.
 
- 
-
 **Changan Benben E-Star specs**
 
 - **Length**: 3.770 mm
@@ -36,25 +34,17 @@ The good news is that recent MIIT's documents show a new homologated version wit
 - **Battery energy density**: 140,5 Wh/kg
 - **Starting price**: 69.800 yuan (8.878 euros)
 
- 
-
 ![Changan Benben E-Star interior](images/Changan-Benben-E-Star-interior.avif)
-
- 
 
 It's great to see that Chinese automakers are moving to cobalt-free batteries really fast. This shows us their true commitment to mass produce electric cars. Without cobalt-free batteries electric cars can't compete with ICE (Internal Combustion Engine) cars in price and availability.
 
 Nowadays I don't even bother much with announcements of electric cars that still have cobalt in their batteries, since they won't be produced in high numbers.
-
- 
 
 Anyway, I really like this electric car. Making small electric cars that look good isn't an easy task, most look like cereal boxes with wheels... Changan did a good job.
 
 Since most European legacy automakers are still focused on expensive electric cars to show off their green credentials, Chinese automakers might use small and affordable electric cars to arrive to this continent and start building up trust with consumers.
 
 After consumers know which Chinese brands are reliable, they will have the confidence required to buy more expensive electric cars. This was the strategy that Chinese companies successfully used for smartphones.
-
- 
 
 What do you think? Which kind of Chinese electric cars is more likely to succeed first in Europe? A BYD Han EV or Xpeng P7 that aim to become a more affordable alternative to Tesla or this one that goes for the entry-level market?
 

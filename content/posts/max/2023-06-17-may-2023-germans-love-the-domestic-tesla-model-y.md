@@ -67,8 +67,6 @@ Note that we can’t necessarily read too much in to this, since different manuf
 
 There weren’t many large changes in group rankings, except that Renault-Nissan group continued to drop, from 4th previously, to 7th now. Their share fell from 8.6% to 4.7% over the period.
 
- 
-
 ## Outlook
 
 Although May saw Germany’s EVs take 22.9% of the market, the broader German economy, Europe’s largest, has now registered two successive quarters of negative growth. This means Germany is [_officially in recession_](https://economictimes.indiatimes.com/news/international/business/germany-enters-recession-after-gdp-falls-for-second-successive-quarter/articleshow/100494115.cms), though currently a mild one, by the numbers.

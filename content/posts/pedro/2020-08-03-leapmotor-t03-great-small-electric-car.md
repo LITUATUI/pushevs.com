@@ -13,15 +13,11 @@ Leapmotor started the deliveries of its electric sports car the S01 roughly a ye
 
 With a NEDC range of 403 km (250 miles) - that translates to a WLTP range around 300 km (186 miles) - this electric car is eligible for the full Chinese government subsidy of 22.500 yuan (2.742 euros).
 
- 
-
 **Prices after subsidies**
 
 - **Standard Edition**: 65.800 yuan (8.018 euros)
 - **Comfort Edition**: 71.800 yuan (8.749 euros)
 - **Deluxe Edition**: 75.800 yuan (9.237 euros)
-
- 
 
 **Prices before subsidies**
 
@@ -29,17 +25,11 @@ With a NEDC range of 403 km (250 miles) - that translates to a WLTP range around
 - **Comfort Edition**: 94.300 yuan (11.491 euros)
 - **Deluxe Edition**: 98.300 yuan (11.978 euros)
 
- 
-
 If you're trying to guess how much this electric car could cost in Europe, notice that in China electric cars continue to be exempt from a 10 percent sales tax through the end of 2022.
 
 With a standard VAT of 20 % (average in Europe) and without any government subsidies the price of the Deluxe Edition could increase from 11.978 to 14.374 euros.
 
- 
-
 ![Leapmotor T03 interior](images/Leapmotor-T03-interior.avif)
-
- 
 
 **Basic specs**
 
@@ -51,8 +41,6 @@ With a standard VAT of 20 % (average in Europe) and without any government subsi
 - **Luggage capacity**: 210 L
 - **Weight**: 1.087 kg (Standard Edition), 1.088 kg (Comfort Edition) and 1.122 kg (Deluxe Edition)
 - **Vehicle warranty**: 3 years or 120.000 kilometres
-
- 
 
 **Powertrain**
 
@@ -70,19 +58,13 @@ With a standard VAT of 20 % (average in Europe) and without any government subsi
 
 For the European market the maximum speed would have to increase to 120-130 km/h.
 
- 
-
 ![Leapmotor T03 powertrain](images/Leapmotor-T03-powertrain.avif)
-
- 
 
 The image above demonstrates the beautiful simplicity of electric cars and why they can be cheaper to produce than ICE (Internal Combustion Engine) cars. A production line that assembles electric cars is much simpler, faster and efficient.
 
 Anyway, what makes the Leapmotor T03 a much better alternative to similar Chinese electric cars such as the BYD e1, ORA R1 and ORA R2 is the impressive and vast safety equipment available in the Deluxe Edition.
 
 It also receives OTA (Over-the-Air) software updates. The last one was two weeks ago.
-
- 
 
 **Safety equipment of Deluxe Edition**
 
@@ -99,8 +81,6 @@ It also receives OTA (Over-the-Air) software updates. The last one was two weeks
 - AEB automatic emergency braking system
 - LKA Lane Keeping Assist System
 - APS Intelligent Parking System
-
- 
 
 The high-tech Deluxe Edition seems perfect for the European electric car market, it has many safety features that are rare in small cars, the only things missing are a cobalt-free battery and an annual production of one million units...
 

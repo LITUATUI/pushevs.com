@@ -13,19 +13,13 @@ images:
 
 Sweden’s plugin electric vehicle share in January was 52.4%, flat from 52.9% year on year. The temporary pause in growth comes after a pull-forward in December. Overall auto volume in January was 35,476 units, some 27% down from January 2022. The best selling full electric was the Volvo XC40.
 
- 
-
 ![](ev-sales-images/2023-01-Sweden-Passenger-Auto-Registrations.avif)
-
- 
 
 January’s combined plugin share of 52.4% comprised 28.9% full electrics (BEVs), and 23.5% plugin hybrids (PHEVs). This compares to respective shares of 52.9%, 25.9%, and 27.0% a year ago; thus BEVs are still steadily replacing PHEVs in share.
 
 With plugless hybrids (HEVs) also seeing a slight YoY growth in share, combustion-only vehicles were squeezed, and continued to lose share.
 
 In volume terms, all powertrains except the miniscule “other fuels”, lost volume year on year.
-
- 
 
 ## Murky Incentive Changes
 
@@ -47,21 +41,13 @@ _This likely means that manufacturers will now effectively de-prioritise Swedish
 
 Over the next couple of years, the _overall long term trend_ for plugin powertrains in Sweden will of course remain “up and to the right”.
 
- 
-
 ![](ev-sales-images/2023-01-Sweden-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## Best Selling BEVs
 
 While overall BEV volumes declined, the Volvo XC40 nevertheless retained its top spot in the charts, albeit at a quarter of December’s volumes. The Kia EV6 took #2, and the Volvo C40 took #3.
 
- 
-
 ![](ev-sales-images/2023-01-Sweden-Top-BEVs.avif)
-
- 
 
 Only a couple of the top 20 BEVs increased their volumes in January compared to their recent averages. The Mazda MX-30 got close to its record volumes, with 178 units. It is now available in both the base battery-0nly model, and in a range-extender version (with over 50 miles / 80 km of electric-only range).
 
@@ -74,8 +60,6 @@ In terms of new faces, the BYD Han saw its first Swedish samples arrive in Janua
 Let’s now step back and look at the trailing three month picture:
 
 ![](ev-sales-images/2023-01-Sweden-Top-BEVs-Trailing-Qtr.avif)
-
- 
 
 Continuing to dominate, the Volvo XC40 again took the top spot, a strong turnaround compared to its low ebb between May and August. The Volkswagen ID.4, the previous favourite, again had to settle for 2nd place. The Volvo C40 came 3rd.
 
@@ -101,8 +85,6 @@ It’s somewhat ironic that — just as the most interesting 1st generation rang
 I still think that a BEV+Rex which has decent all-electric range (80+ km /50+ miles) which can be used fully independent of the ICE, is still a good compromise _**at this stage whilst global battery production capacity is still a limiting factor keeping ICE-only sales afloat**_. Three 20 kWh BEV+Rex vehicles in daily use with families and commuters are typically going to electrify a lot more KM driven than a single 60 kWh BEV plus two ICE-only vehicles. Later in life, on the used market, even with a potentially failing Rex engine, these can step into the role of local-duty BEV-only vehicles, for years into the future (much like early Nissan Leafs still do today).
 
 When global battery production capacity is no longer a bottleneck, the calculus will of course be different. We are not there yet. BEV “purists” feel free to preach to me in the comments for this heresy !
-
- 
 
 ## Outlook
 

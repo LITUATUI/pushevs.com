@@ -11,11 +11,7 @@ images:
 
 SVOLT is a Chinese battery cell maker subsidiary of the giant Chinese automaker GWM (Great Wall Motors), that besides LFP (LiFePO4) and NCM is already producing NMx (LNMO) battery cells.
 
- 
-
 SVOLT has its NMx battery cells available in two different sizes. One size is compatible with Volkswagen MEB platform and the other size is a long cell - alternative to the BYD Blade battery.
-
- 
 
 **SVOLT NMx battery cell (MEB compatible)**
 
@@ -34,16 +30,12 @@ SVOLT has its NMx battery cells available in two different sizes. One size is co
 - **Cost**: 8 % cheaper than NCM
 - **Available**: Q2 2021
 
- 
-
 Unfortunately for SVOLT, Volkswagen isn't very serious about electric cars. Therefore, I don't think that Volkswagen will use SVOLT NMx battery cells anytime soon, even if they are already available to order...
 
 **Examples of possible applications**:
 
 - In a 96s1p configuration (96 cells connected in series) the 400-volt battery pack will have a capacity around 41,3 kWh.
 - In a 192s1p configuration (192 cells connected in series) the 800-volt battery pack will have a capacity around 82,6 kWh.
-
- 
 
 **SVOLT NMx battery cell (L6 – BYD Blade alternative)**
 
@@ -62,17 +54,11 @@ Unfortunately for SVOLT, Volkswagen isn't very serious about electric cars. Ther
 - **Cost**: 12,5 % cheaper than NCM
 - **Available**: Q4 2021
 
- 
-
 This format is SVOLT's alternative to the BYD Blade battery. In a 96s1p configuration (96 cells connected in series) the 400-volt battery pack will have a capacity around 81 kWh.
 
 With module-less assembly and a GCTP (gravimetric cell-to-pack) ratio of 90 % the 81 kWh battery pack would weigh around 375 kg.
 
- 
-
 ![SVOLT 226 Ah NMx cobalt-free battery cell](images/SVOLT-226-Ah-NMx-cobalt-free-battery-cell.avif)
-
- 
 
 **BYD Blade battery cell specs**
 
@@ -89,11 +75,7 @@ With module-less assembly and a GCTP (gravimetric cell-to-pack) ratio of 90 % th
 - **Gravimetric energy density**: 166 Wh/kg
 - **Chemistry**: LiFePO4 (LFP)
 
- 
-
 ![BYD Blade prismatic battery cell](images/BYD-Blade-prismatic-battery-cell.avif)
-
- 
 
 Anyway, both long battery cells from BYD and SVOLT were designed to be implemented in 400-volt systems. However, 800-volt systems are the future of electric cars and require twice as much battery cells connected in series than 400-volt systems. This means that BYD and SVOLT will probably release new thinner "Blade" battery cells to allow more cells to be connected in series in the same space.
 

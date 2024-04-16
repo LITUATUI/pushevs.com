@@ -11,11 +11,7 @@ images:
 
 Lithium Australia subsidiary VSPC developed a new cobalt-free LFMP battery cell. LFMP is the high-voltage version of LFP (LiFePO4) and is expected to become its successor.
 
- 
-
 Let's see some highlights of the press release.
-
- 
 
 > ## VSPC – developing the ‘safe’ lithium-ion battery
 > 
@@ -30,11 +26,7 @@ Let's see some highlights of the press release.
 > 
 > VSPC has made significant progress towards improving the energy density of LFP LIB cells by adjusting its proprietary manufacturing processes to incorporate manganese into the cathode active material during production.
 
- 
-
 ![Discharge curves of LFP (left) and LMFP (right) battery cells from VSPC](images/Discharge-curves-of-LFP-left-and-LMFP-right-battery-cells-from-VSPC.avif)
-
- 
 
 > ### Improving on LFP performance
 > 
@@ -52,15 +44,11 @@ Let's see some highlights of the press release.
 > 
 > Commercialisation of LMFP for the production of LIBs would eliminate the requirement for materials from regions in which human rights abuse (including the use of child labour) is rife. Moreover, as noted, using materials derived from industrial waste materials and spent batteries to create precursors for new LFP- or LMFP- type LIBs can enhance sustainability and reduce supply chain risk.
 
- 
-
 The discharge curves of battery cells with LFP and LFMP cathodes are very different. While LFP battery cells maintain a flat voltage curve from almost full to almost empty, LFMP battery cells have a big voltage drop at around 50 % of SoC (State of Charge).
 
 When battery cells have different discharge curves they also require different BMS (Battery Management System) and GOM (Guess-o-Meter) algorithms. This is something that recently has become quite clear in the Tesla Model 3 SR+ made in China.
 
 The Tesla Model 3 SR+ MIC had its initial NCM 811 battery cells from LG Chem replaced by LFP battery cells from CATL and now the GOM doesn't give reliable range estimations. Now Tesla needs to gather data from the new cars to make some adjustments to the BMS and GOM, then it can solve this issue with a OTA (Over-the-Air) firmware upgrade.
-
- 
 
 Anyway, LFMP and LNMO are the two most promising cobalt-free battery technologies for the near future and are expected to become available already next year. They are extremely safe, affordable and have decent energy density. Nonetheless, [LFP batteries are getting better](/2020/09/19/cobalt-free-lfp-battery-cells-to-reach-210-wh-kg-this-year/) and with their proven reliability I expect them to be around for sometime to come.
 

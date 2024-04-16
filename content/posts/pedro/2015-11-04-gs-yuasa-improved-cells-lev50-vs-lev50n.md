@@ -13,21 +13,13 @@ In the summer of 2012 Mitsubishi MiEV's French brothers, Citroen C-Zero and Peug
 
 At the time PSA said that cars would keep the previous range because the regenerative braking was now more efficient. However, there was a change in battery cell chemistry and LEV50 was replaced by LEV50N. A change of electrolyte that allows it to be more heat resistant, similar to what happened in the Leaf with the lizard battery. The Ragone curve (battery efficiency) also improved.
 
- 
-
 > We have developed new large sized 50 Ah lithium ion cells with specific energy of 110 Wh kg for electric vehicle (EV) applications. The cells were redesigned on the basis of advanced technologies optimized composition of lithium manganese oxide positive active material and adoption of electrolyte additive. The cells exhibit excellent performances namely, the high rate discharge capability at 6 C rate at 25 °C is 96% based on 0.2 C rate, and the retained discharge capacity is 90% after 700 cycles under the condition of D.O.D. 100% at 45 °C.
 > 
 > The new product has higher durability in a hot environment and more than two times longer life under given conditions.
 
- 
-
 These new cells retain 80 % of the initial capacity after 5.500 charge/discharge cycles (100 % DOD @ 25°C).
 
- 
-
 ![GS Yuasa LEV50N data sheet](images/GS-Yuasa-LEV50N-data-sheet.avif)
-
- 
 
 When buying a used C-Zero or iOn, go for the 14,5 kWh battery, the new cells are superior to the old ones used in the previous 16 kWh battery. Moreover, since the battery efficiency improved a lot (see the Ragone curve in the PDF documents) you'll be able to get the same range.
 

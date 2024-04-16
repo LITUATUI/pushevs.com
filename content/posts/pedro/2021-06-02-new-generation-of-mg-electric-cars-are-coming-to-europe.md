@@ -13,19 +13,11 @@ MG has been selling the ZS EV in Europe for a while now. The ZS EV belongs to th
 
 As most first generation electric cars, the MG ZS EV isn't very efficient and only gets a WLTP range of 263 km from a 44,5 kWh battery pack made with CATL cells. Its front grill makes it look like a gas car and suggests that GM didn't care much about aerodynamics when designed it.
 
- 
-
 However, MG is about to bring its second generation of all-electric cars to Europe. They will be better looking, more efficient, charge faster and have longer range. Two models are already confirmed.
-
- 
-
- 
 
 **MG5 Electric**
 
 ![MG5 Electric](images/MG5-Electric.avif)
-
- 
 
 - **Body design**: Station Wagon
 - **Trunk Volume**: > 1.400 liters
@@ -39,13 +31,9 @@ However, MG is about to bring its second generation of all-electric cars to Euro
 - **Roof Load**: 75 kg
 - **MG Pilot**: Driver Assistance
 
- 
-
 **MG MARVEL R Electric**
 
 ![MG MARVEL R Electric](images/MG-MARVEL-R-Electric.avif)
-
- 
 
 - **Performance**: 212 kW / 665 Nm
 - **Acceleration**: 1,8 s / 0-50 km/h
@@ -61,19 +49,11 @@ However, MG is about to bring its second generation of all-electric cars to Euro
 - **MG Pilot**: Driver Assistance
 - **Climate Control**: SlimAir & Heat Pump
 
- 
-
- 
-
 The two electric cars above look great, but there is another one that'll be way more important in Europe, an electric supermini expected later this year to compete with the Renault ZOE. The new electric supermini could be named MG3 Electric.
 
 It's a well known fact that Europeans prefer compact hatchbacks. This is the type of car that leads the sales in Europe.
 
- 
-
 ![MG's new electric supermini sketch by Autocar](images/MGs-new-electric-supermini-sketch-by-Autocar.avif)
-
- 
 
 If the new MG electric supermini looks like the sketch above I'm sure that most people in Europe will like it. What do you think?
 

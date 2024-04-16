@@ -11,11 +11,7 @@ images:
 
 Li-FUN Technology recently announced that it will produce the first generation of sodium-ion battery cells later this year in June. The mass production is scheduled for 2023.
 
- 
-
 Let's see some details.
-
- 
 
 **First generation sodium-ion battery cell (prototype)**
 
@@ -27,8 +23,6 @@ Let's see some details.
 - **Format**: pouch
 - **Start of production**: June, 2022
 
- 
-
 **Second generation sodium-ion battery cell (mass production)**
 
 - **Gravimetric energy density**: 160 Wh/kg
@@ -39,13 +33,9 @@ Let's see some details.
 - **Format**: pouch
 - **Start of production**: 2023
 
- 
-
 These sodium-ion battery cells will have great over-discharge resistance and can recover from deep discharges to 0 volts. As for over-charge resistance, if they reach 4 volts, half of the capacity will be lost.
 
 Li-FUN Technology expects to produce sodium-ion batteries mostly for low-cost electric cars, electric buses and energy storage systems (ESS).
-
- 
 
 Anyway, it's clear that this battery maker is mimicking CATL, who also aims to start producing sodium-ion battery cells with similar specs and in the same time frame. However, CATL will probably remain with the prismatic format, instead of pouch.
 

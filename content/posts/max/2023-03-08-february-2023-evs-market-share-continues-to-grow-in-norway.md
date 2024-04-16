@@ -13,11 +13,7 @@ images:
 
 February saw Norway’s plugin electric vehicle share continue to grow to 90.1%, from 86.1% year on year. All the growth came from full electrics, whilst plugin hybrids lost share. Overall auto volume was 7,439 units, down some 9% YoY. The bestselling vehicle was the Tesla Model Y.
 
- 
-
 ![](ev-sales-images/2023-02-Norway-Passenger-Auto-Registrations.avif)
-
- 
 
 February’s 90.1% overall plugin share comprised 83.1% full electrics (BEVs), and 7.0% plugin hybrids (PHEVs). These shares compare with 86.1%, 75.6%, and 10.5%, YoY.
 
@@ -27,11 +23,7 @@ With the new tax policies further disincentivising combustion-only sales, their 
 
 The new equilibrium across BEVs, PHEVs, and plugless hybrids (HEVs), remains to be seen in the coming few months. One might hope that PHEVs > HEVs > combustion-only vehicles, and that BEV growth will continue to compress all of the others. Let’s see how it plays out this year — whatever the short term variabilities, the long term trend is abundantly clear, seen in the graph below.
 
- 
-
 ![](ev-sales-images/2023-02-Norway-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## Best Selling BEVs
 
@@ -41,11 +33,7 @@ With early production snafus now seemingly largely resolved, the still-newish To
 
 In third (and fourth), were the Volkswagen ID.3 (and ID.4).
 
- 
-
 ![](ev-sales-images/2023-02-Norway-BEVs.avif)
-
- 
 
 There was little other news concerning the top 20. Having been largely AWOL since September, the Tesla Model 3 regained a respectable ranking in February, with 272 units, taking 7th. Other models in the top 20 saw mostly small shuffles in position.
 
@@ -68,8 +56,6 @@ Here are the main climbers since the previous 3 month period:
 - **Ford Mustang Mach-E** up from 19th to 11th
 
 Apart from the Tesla Model 3’s ups and downs mentioned above, there were not many other significant changes in ranking over the period.
-
- 
 
 ## Outlook
 

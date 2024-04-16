@@ -13,8 +13,6 @@ images:
 
 The UK auto market saw plugin electric vehicles (EVs) take 20.0% share of new sales in January, flat from 20.4% year on year. Full electrics grew slightly whilst plugin hybrids shrank. Overall auto volume was 131,994 units, up some 15% YoY, but still 21% below pre-2020 seasonal norms. Volkswagen was the UK’s best selling BEV brand in January.
 
- 
-
 ![](ev-sales-images/2023-01-UK-Passenger-Auto-Registrations.avif)
 
 January’s combined plugin share of 20.0% comprised 13.1% full battery electrics (BEVs), and 6.9% plugin hybrids (PHEVs). These compare with respective shares of 20.4%, 12.5%, and 7.9% YoY.
@@ -25,31 +23,19 @@ Whilst this year [France](/2023/02/08/january-2023-dacia-spring-takes-the-lead-
 
 Meanwhile, diesel-only vehicles continued their decline, reaching 4.0% share of the market in January, from 5.2% YoY. Petrols were flat YoY in January, but are also on a slide over the long term. Plugless hybrids continue to replace combustion-only powertrains, offering a bit more efficiency, which — whilst a slight emissions improvement on the status quo ante — are only a temporary fix, and will lose out to plugins over the longer term.
 
- 
-
 ![](ev-sales-images/2023-01-UK-Monthly-Powertrain-Market-Share.avif)
-
- 
 
 ## UK’s leading BEV brands
 
 January saw Tesla at the low-ebb of their logistics cycle, so the Volkswagen brand had a chance to take the lead spot on the UK BEV market. They were closely followed by group sibling brand, Audi, with BMW taking the third position.
 
- 
-
 ![](ev-sales-images/2023-01-UK-BEV-Brand-_-Est.avif)
-
- 
 
 This was a big gain for Audi, who are usually much further down the rankings (7th in December). Others seeing gains were Kia, taking 5th (from 16th in December), and Hyundai (8th, from 14th). Other brands were making more minor moves.
 
 To iron out monthly logistics variations, let’s look at the trailing 3-month results:
 
- 
-
 ![](ev-sales-images/2023-01-UK-BEV-Brand-_-Est.-Trailing-Qtr.avif)
-
- 
 
 Here Tesla retains its usual dominance in the UK market, with Volkswagen and BMW vying for second spot.
 
@@ -57,17 +43,11 @@ Audi has seen a decent upward move to 5th, since three months ago when it was in
 
 Fallers compared to three months prior include Mercedes (5th to 9th), Hyundai (6th to 10th) and a few of the Stellantis brands (Vauxhall/Opel, Peugeot, Fiat, and DS). As usual, many of these moves will prove temporary, and regional allocation decisions can change things again in the future.
 
- 
-
 ![](ev-sales-images/2023-01-UK-BEV-Group-_-Est.-Trailing-Qtr.avif)
-
- 
 
 Above is a quick look at the manufacturing group charts. Tesla is dominant, but the Volkswagen group is not far behind. Recall that Volkswagen Group was temporarily in the lead in July and August, after Tesla’s Shanghai production snafus.
 
 BMW Group took 3rd, where it has been steady since October, on the strength of its diverse BEV model line up. The i4 is popular in the UK market, and won _Auto Express_‘ premium car of the year in 2022. The BMW UK website displays all the BEV models front and centre, and in January some 22% of BMW’s UK sales were BEV (the highest of any large legacy brand), almost doubling from January 2022.
-
- 
 
 ## **Outlook**
 
