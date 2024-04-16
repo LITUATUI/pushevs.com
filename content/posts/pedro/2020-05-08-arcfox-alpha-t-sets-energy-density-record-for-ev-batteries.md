@@ -13,7 +13,7 @@ The Ministry of Industry and Information Technology of China regularly publishes
 
 In this catalog we have a lot of interesting information about Chinese electric cars. Let's see some of it.
 
-**Geely Geometry C**
+## Geely Geometry C
 
 ![Geely Geometry C](images/Geely-Geometry-C.avif)
 
@@ -32,7 +32,7 @@ In this catalog we have a lot of interesting information about Chinese electric 
 
 Geely Geometry C uses battery cells made by CATL.
 
-**ARCFOX α-T (Alpha-T)**
+## ARCFOX α-T (Alpha-T)
 
 ![ARCFOX α-T](images/ARCFOX-α-T.avif)
 
@@ -70,7 +70,7 @@ Geely Geometry C uses battery cells made by CATL.
 
 [ARCFOX α-T uses NCM 811 battery cells made by SK Innovation.](/2020/04/21/sk-innovation-will-supply-ncm-811-battery-cells-to-baic/)
 
-**Polestar (Jixing) 2 (72 kWh)**
+## Polestar (Jixing) 2 (72 kWh)
 
 ![Polestar 2](images/Polestar-2.avif)
 
@@ -91,7 +91,7 @@ Geely Geometry C uses battery cells made by CATL.
 
 Polestar uses LG Chem and CATL as battery cell suppliers.
 
-**GAC Aion V**
+## GAC Aion V
 
 ![GAC Aion V](images/GAC-Aion-V.avif)
 
@@ -127,7 +127,7 @@ Polestar uses LG Chem and CATL as battery cell suppliers.
 
 **Pre-sale price (after subsidies)**: 170.000 yuan (21.909 euros)
 
-**AIWAYS U5**
+## AIWAYS U5
 
 ![AIWAYS U5](images/AIWAYS-U5.avif)
 
@@ -165,7 +165,7 @@ Polestar uses LG Chem and CATL as battery cell suppliers.
 
 AIWAYS U5 uses battery cells made by CATL.
 
-**NETA (Nezha) U**
+## NETA (Nezha) U
 
 ![NETA U](images/NETA-U.avif)
 
@@ -203,7 +203,7 @@ AIWAYS U5 uses battery cells made by CATL.
 
 NETA U uses battery cells made by CATL.
 
-**Chery eQ5**
+## Chery eQ5
 
 ![Chery eQ5](images/Chery-eQ5.avif)
 

@@ -60,7 +60,7 @@ Now let's see the specs of a BYD Blade Battery prototype.
 - **VCTP (Volumetric cell-to-pack ratio)**: 62,41 %
 - **Weight**: 427 kg (estimation)
 - **Gravimetric energy density**: 139 Wh/kg (estimation)
-- **GCTP (Gravimetric cell-to-pack ratio)**: 84,5 % (estimation)
+- **GCTP (Gravimetric cell-to-pack) ratio**: 84,5 % (estimation)
 
 With standard battery packs assembled with modules, on average the VCTP is 40 %, which means that the volume of the active material (cells) only represents 40 % of the total volume of the battery.
 

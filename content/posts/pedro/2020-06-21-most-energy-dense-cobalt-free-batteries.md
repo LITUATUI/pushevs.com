@@ -25,63 +25,63 @@ Now let's see a small list of some interesting electric buses with LFP batteries
 - **Range**: 675 km (419 miles)
 - **Capacity**: 350,07 kWh
 - **Energy density**: 161,29 Wh/kg
-
+---
 - **Brand**: Yutong
 - **Model**: ZK6816BEVG6
 - **Length**: 8,145 m
 - **Range**: 400 km (249 miles)
 - **Capacity**: 175,03 kWh
 - **Energy density**: 161,29 Wh/kg
-
+---
 - **Brand**: Yutong
 - **Model**: ZK6856BEVG5
 - **Length**: 8,545 m
 - **Range**: 390 km (242 miles)
 - **Capacity**: 175,03 kWh
 - **Energy density**: 161,29 Wh/kg
-
+---
 - **Brand**: Yutong
 - **Model**: ZK6816BEVG3
 - **Length**: 8,145 m
 - **Range**: 400 km (249 miles)
 - **Capacity**: 175,03 kWh
 - **Energy density**: 161,27 Wh/kg
-
+---
 - **Brand**: Yutong
 - **Model**: ZK6856BEVG3
 - **Length**: 8,545 m
 - **Range**: 390 km (242 miles)
 - **Capacity**: 175,03 kWh
 - **Energy density**: 161,27 Wh/kg
-
+---
 - **Brand**: Geely
 - **Model**: DNC6120BEVG8
 - **Length**: 12 m
 - **Range**: 565 km (351 miles)
 - **Capacity**: 338,4 kWh
 - **Energy density**: 161,27-160,43 Wh/kg
-
+---
 - **Brand**: Jinlong United Automotive Industry (Suzhou)
 - **Model**: KLQ6106GAEVN5
 - **Length**: 10,49 m
 - **Range**: 595 km (370 miles)
 - **Capacity**: 303,4 kWh
 - **Energy density**: 161,27-160,43 Wh/kg
-
+---
 - **Brand**: Shenlong
 - **Model**: SLK6125UBEVP1
 - **Length**: 11,995 m
 - **Range**: 570 km (354 miles)
 - **Capacity**: 326,73 kWh
 - **Energy density**: 161-160 Wh/kg
-
+---
 - **Brand**: Dongguan Zhongqi Hongyuan Automobile
 - **Model**: KMT6119HBEV
 - **Length**: 10,995 m
 - **Range**: 510 km (317 miles)
 - **Capacity**: 303,4 kWh
 - **Energy density**: 161-160 Wh/kg
-
+---
 - **Brand**: Yaxing
 - **Model**: JS6108GHBEV30
 - **Length**: 10,5 m

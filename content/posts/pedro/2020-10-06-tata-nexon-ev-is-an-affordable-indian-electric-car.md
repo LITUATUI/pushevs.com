@@ -13,7 +13,7 @@ Tata Nexon EV is an affordable Indian electric car that was revealed on 19 Decem
 
 This electric car looks good and has decent specs for its starting price of 1.399.000 Indian rupees (16.163 euros). In some ways it's similar to the upcoming Dacia Spring.
 
-![Tata Nexon EV](images/Tata-Nexon-EV.avif)
+![Tata Nexon EV](images/Tata-Nexon-EV-front.avif)
 
 Let's see what the Tata Nexon EV has to offer.
 

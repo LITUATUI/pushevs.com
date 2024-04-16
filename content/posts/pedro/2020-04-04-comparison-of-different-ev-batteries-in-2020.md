@@ -28,7 +28,7 @@ Anyway, right now it seems that two cathode chemistries will dominate the EV bat
 
 Now that I gave you a bit of context let's move to the interesting part and compare some batteries of popular electric cars.
 
-**Volkswagen e-Golf**
+## Volkswagen e-Golf
 
 ![2019 Volkswagen e-Golf](images/2019-Volkswagen-e-Golf.avif)
 
@@ -43,7 +43,7 @@ Now that I gave you a bit of context let's move to the interesting part and comp
 
 NCM 333 means that the cathode besides lithium contains nickel, cobalt and manganese in a composition ratio of 3:3:3 (equal parts), which is the same for NCM 111.
 
-**Volkswagen e-up, SEAT Mii Electric and Skoda CITIGOe iV**
+## Volkswagen e-up, SEAT Mii Electric and Skoda CITIGOe iV
 
 ![New ŠKODA CITIGOe iV](images/New-SKODA-CITIGOe-iV.avif)
 
@@ -56,7 +56,7 @@ NCM 333 means that the cathode besides lithium contains nickel, cobalt and manga
 - Manufacturer: LG Chem
 - TMS: passive air cooling
 
-**Renault Twingo ZE**
+## Renault Twingo ZE
 
 ![New 2020 Renault Twingo ZE side-rear](images/New-2020-Renault-Twingo-ZE-side-rear.avif)
 
@@ -68,7 +68,7 @@ NCM 333 means that the cathode besides lithium contains nickel, cobalt and manga
 - Manufacturer: LG Chem
 - TMS: active liquid cooling
 
-**Renault ZOE**
+## Renault ZOE
 
 ![New Renault ZOE in Glacier White colour](images/New-Renault-ZOE-in-Glacier-White-colour.avif)
 
@@ -100,9 +100,9 @@ ZE 50 battery of new generation Renault ZOE
 
 LG Chem already stated that it reserves the NCM 811 chemistry to cylindrical cells and pouch cells get NCM 712 first, then NCMA in 2022.
 
-**BMW i3**
+## BMW i3
 
-![BMW i3](images/BMW-i3.avif)](/2020/04/BMW-i3.avif)
+![BMW i3](images/BMW-i3.avif)
 
 [Old generation 94 Ah battery](/2018/04/05/samsung-sdi-94-ah-battery-cell-full-specifications/)
 
@@ -126,7 +126,7 @@ New generation 120 Ah battery
 - Manufacturer: Samsung SDI
 - TMS: active liquid cooling
 
-**Peugeot e-208 and Opel Corsa-e**
+## Peugeot e-208 and Opel Corsa-e
 
 ![Peugeot e-208](images/Peugeot-e-208.avif)
 
@@ -139,7 +139,7 @@ New generation 120 Ah battery
 - Manufacturer: CATL
 - TMS: active liquid cooling
 
-**Nissan LEAF**
+## Nissan LEAF
 
 ![2018 Nissan Leaf on the road](images/2018-Nissan-Leaf-on-the-road.avif)
 
@@ -167,7 +167,7 @@ New generation 120 Ah battery
 
 Both battery packs use the same NCM 523 battery cells, but AESC did manage to maximize the disposition of the cells to fit more in the same space. With 288 cells the bigger battery pack is discharged at lower C-rates, which also helps to increase the current efficiency (coulombic efficiency), otherwise its capacity would just be 59,19 kWh (39,46 kWh x 3 / 2).
 
-**Chevrolet Bolt EV and Opel Ampera-e**
+## Chevrolet Bolt EV and Opel Ampera-e
 
 ![2020 Chevrolet Bolt EV](images/2020-Chevrolet-Bolt-EV.avif)
 
@@ -199,7 +199,7 @@ Regarding the new 2020 generation, it is likely that there was a change to NCM 7
 
 This "cold weather battery pack" means better insulation and heating of the battery but is likely to result in extra weight. Explaining why the energy density of the battery pack only increased from 143 to 158 Wh/kg, while in the Renault ZOE, the upgrade to NCM 712 battery cells resulted in an energy density increase from 145 to 168 Wh/kg.
 
-**Hyundai Kona Electric**
+## Hyundai Kona Electric
 
 ![2019 Hyundai Kona Electric](images/2019-Hyundai-Kona-Electric.avif)
 
@@ -216,7 +216,7 @@ Long range version
 
 This battery pack is made with the same LG Chem LGX E63 cells that we find in the Renault ZE 40 battery, but instead of 192 cells (96s2p), Hyundai uses 294 cells (98s3p).
 
-**Hyundai IONIQ Electric**
+## Hyundai IONIQ Electric
 
 ![Hyundai IONIQ Electric](images/New-Hyundai-IONIQ-Electric.avif)
 
@@ -231,7 +231,7 @@ This battery pack is made with the same LG Chem LGX E63 cells that we find in th
 
 This battery pack is made with the same LG Chem LGX E63 cells that we find in the Renault ZE 40 battery, but instead of 192 cells (96s2p), Hyundai uses 176 cells (88s2p).
 
-**Kia e-Soul**
+## Kia e-Soul
 
 ![Kia e-Soul](images/Kia-e-Soul.avif)
 
@@ -244,7 +244,7 @@ This battery pack is made with the same LG Chem LGX E63 cells that we find in th
 - Manufacturer: SK Innovation
 - TMS: active liquid cooling
 
-**Kia e-Niro**
+## Kia e-Niro
 
 ![Kia e-Niro](images/Kia-e-Niro.avif)
 
@@ -257,7 +257,7 @@ This battery pack is made with the same LG Chem LGX E63 cells that we find in th
 - Manufacturer: SK Innovation
 - TMS: active liquid cooling
 
-**Jaguar I-PACE**
+## Jaguar I-PACE
 
 ![Jaguar I-PACE](images/Jaguar-I-PACE.avif)
 
@@ -272,7 +272,7 @@ This battery pack is made with the same LG Chem LGX E63 cells that we find in th
 
 Jaguar uses the same LG Chem LGX N2.1 battery cells that we find in the old generation battery pack of the Chevrolet Bolt EV. But instead of 288 cells (96s3p), Jaguar uses 432 cells (108s4p) in their battery packs.
 
-**Mercedes-Benz EQC**
+## Mercedes-Benz EQC
 
 ![Mercedes-Benz EQC in white](images/Mercedes-Benz-EQC-in-white.avif)
 
@@ -285,7 +285,7 @@ Jaguar uses the same LG Chem LGX N2.1 battery cells that we find in the old gene
 - Manufacturer: LG Chem or SK Innovation (there are conflicting reports)
 - TMS: active liquid cooling
 
-**Audi e-tron 55 quattro**
+## Audi e-tron 55 quattro
 
 ![Audi e-tron 55 quattro](images/Audi-e-tron-55-quattro.avif)
 
@@ -298,7 +298,7 @@ Jaguar uses the same LG Chem LGX N2.1 battery cells that we find in the old gene
 - Manufacturer: LG Chem
 - TMS: active liquid cooling
 
-**Porsche Taycan Turbo S**
+## Porsche Taycan Turbo S
 
 ![Porsche Taycan Turbo S](images/Porsche-Taycan-Turbo-S.avif)
 
@@ -311,7 +311,7 @@ Jaguar uses the same LG Chem LGX N2.1 battery cells that we find in the old gene
 - Manufacturer: LG Chem
 - TMS: active liquid cooling
 
-**Tesla Model X**
+## Tesla Model X
 
 ![Tesla Model X](images/Tesla-Model-X.avif)
 
@@ -326,7 +326,7 @@ Long range version
 - Manufacturer: Panasonic
 - TMS: active liquid cooling
 
-**Tesla Model S**
+## Tesla Model S
 
 ![Tesla Model S](images/Tesla-Model-S.avif)
 
@@ -341,7 +341,7 @@ Long range version
 - Manufacturer: Panasonic
 - TMS: active liquid cooling
 
-**Tesla Model 3**
+## Tesla Model 3
 
 ![Tesla Model 3 production version](images/tesla-model-3-production-version.avif)
 

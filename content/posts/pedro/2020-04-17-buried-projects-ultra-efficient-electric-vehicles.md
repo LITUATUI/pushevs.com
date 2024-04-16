@@ -19,7 +19,7 @@ Unfortunately all of those projects were buried and now automakers seem to forge
 
 In this article we'll see some concepts of ultra efficient electric vehicles that had great potential to change the way we move in and between cities. We'll start with my favorite.
 
-**Opel Rak-e**
+## Opel Rak-e
 
 ![Opel Rak-e concept car](images/opel-rak-e-concept-car.avif)
 
@@ -36,7 +36,7 @@ The Opel RAK-e premiered at the 64th Frankfurt Motor Show in September 2011. It 
 - Height: 1.190 mm
 - Weight: 380 kg
 
-**Volkswagen Nils**
+## Volkswagen Nils
 
 ![Volkswagen Nils concept car charging](images/volkswagen-nils-concept-car-charging.avif)
 
@@ -54,7 +54,7 @@ The Volkswagen Nils also premiered at the 64th Frankfurt Motor Show in September
 - Height: 1.200 mm
 - Weight: 460 kg
 
-**Audi Urban Concept**
+## Audi Urban Concept
 
 ![Audi Urban Concept](images/Audi-Urban-Concept.avif)
 
@@ -72,7 +72,7 @@ You might have guessed, the Audi Urban Concept also premiered at the 64th Frankf
 - Height: 1.189 mm
 - Weight: 480 kg
 
-**Nissan Land Glider**
+## Nissan Land Glider
 
 ![Nissan Land Glider Concept](images/nissan-land-glider-concept.avif)
 
@@ -80,7 +80,7 @@ The Nissan Land Glider is a concept electric car from Nissan that was presented 
 
 While having an unique "tilt" setup, it employs a special leaning function that holds occupants firmly in place even when the vehicle is cornering at extremely tight angles.
 
-**Veeco RT**
+## Veeco RT
 
 ![Veeco RT](images/Veeco-RT-side.avif)
 
