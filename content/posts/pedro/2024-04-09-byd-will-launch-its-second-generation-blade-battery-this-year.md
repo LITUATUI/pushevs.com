@@ -15,7 +15,7 @@ When it was launched, the energy density was at 140 Wh/kg, then slowly increased
 
 Recently, BYD Chairman Wang Chuanfu revealed for the first time at a financial report communication meeting that BYD is currently developing a second-generation blade battery to be released as soon as August 2024.
 
-This second generation CTP (cell-to-pack) battery from BYD will reach a gravimetric energy density of 190 Wh/kg, which sugests that at the cell level the density will be around 220 Wh/kg - considering a GCTP (gravimetric cell-to-pack) ratio of 85 %.
+This second generation CTP (cell-to-pack) battery from BYD will reach a gravimetric energy density of 190 Wh/kg, which suggests that at the cell level the density will be around 220 Wh/kg - considering a GCTP (gravimetric cell-to-pack) ratio of 85 %.
 
 At this level of energy density, the cells are definitely LMFP.
 
