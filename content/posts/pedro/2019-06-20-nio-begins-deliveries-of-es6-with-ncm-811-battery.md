@@ -39,7 +39,8 @@ For another example, let's see the Renault ZOE battery figures.
 
 In the comment section of another article, Ralf K. already did the math.
 
-> ZE 40 Energy density at battery pack level: 44,9 kWh / 305 kg = 147 Wh/kg. ZE 50 Energy density at battery pack level: 54 kWh / 326 kg = 165 Wh/kg.
+> - ZE 40 Energy density at battery pack level: 44,9 kWh / 305 kg = 147 Wh/kg
+> - ZE 50 Energy density at battery pack level: 54 kWh / 326 kg = 165 Wh/kg
 
 Looking at the data it seems that the new Renault ZE 50 battery pack is either using NCM 712 or NCM 811 battery cells from LG Chem. They are probably NCM 712, since [LG Chem said that the NCM 811 cells would only be produced in cylindrical format](/2018/05/09/most-advanced-battery-cells/) to be used in electric buses. Unless the company changed its plans due to the increasing competition and decided to produce NCM 811 battery cells in pouch format aswell.
 
