@@ -22,7 +22,7 @@ However, we still don't know if these new upcoming versions with higher top spee
 
 Below we have the current specs of both electric cars.
 
-**NETA V**
+## NETA V
 
 ![2021 NETA V](images/2021-NETA-V.avif)
 
@@ -46,7 +46,7 @@ This super efficient electric car looks like a mixture between the new Hyundai K
 - **Starting price (before subsidies)**: 80.900 yuan (10.426 euros)
 - **Starting price (after subsidies)**: 70.900 yuan (9.137 euros)
 
-**Leapmotor T03**
+## Leapmotor T03
 
 ![Leapmotor T03](images/Leapmotor-T03.avif)
 
