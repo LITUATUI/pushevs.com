@@ -36,7 +36,7 @@ Migrating from Wordpress wasn't as easy as I wished and there are optimizations 
 
 However, I think the hardest part was finding a [Hugo theme](https://github.com/hbstack/theme-cards) that had all the functions I was using in Wordpress and I didn't want to lose. I especially like the recent/featured posts widget in the sticky sidebar. The theme developer is also very knowledgeable and helpful, which made my decision easier.
 
-The code of this website is now [open-source](https://github.com/LITUATUI/pushevs.com), not only in the hope of inspiring others to do the same, but also to allow my readers to read the code and sugest changes.
+The code of this website is now [open-source](https://github.com/LITUATUI/pushevs.com), not only in the hope of inspiring others to do the same, but also to allow my visitors to read the code and suggest changes.
 
 I'm still considering if I should continue with Disqus comments or migrate to the open-source alternative called [Giscus](https://giscus.app/)...
 
