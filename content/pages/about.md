@@ -6,7 +6,7 @@ images:
 
 ### The purpose
 
-I started this website with the purpose of pushing electric vehicles forward, by trying my best to keep the reader informed about what is possible now and destroy some myths about electric cars. They can be affordable, fast and have long range with current technology if automakers get serious about them.
+In 2015 I started this website with the purpose of pushing electric vehicles forward, by trying my best to keep the reader informed about what is possible now and destroy some myths about electric cars. They can be affordable, fast and have long range with current technology if automakers get serious about them.
 
  
 
