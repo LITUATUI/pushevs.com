@@ -17,19 +17,13 @@ While it's not easy to find simple information like weight and volume of these c
 
 ![Volkswagen cell module made with Sanyo NMC cells (6S2P)](images/sanyo-25-ah-battery-cell-module.avif)
 
-Weight: 724 g
-
-Dimensions: 14,7 x 9 x 2,5 cm
-
-Volume: 0,33075 L
-
-Nominal capacity: 25 Ah
-
-Nominal voltage: 3,667 V
-
-Volumetric energy density: 277 Wh/L
-
-Gravimetric energy density: 126 Wh/kg
+- **Weight**: 724 g
+- **Dimensions**: 14,7 x 9 x 2,5 cm
+- **Volume**: 0,33075 L
+- **Nominal capacity**: 25 Ah
+- **Nominal voltage**: 3,667 V
+- **Volumetric energy density**: 277 Wh/L
+- **Gravimetric energy density**: 126 Wh/kg
 
 ![Sanyo 25 Ah cell used by Volkswagen](images/sanyo-25-ah-battery-cell.avif)
 
