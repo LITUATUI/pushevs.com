@@ -36,14 +36,11 @@ Below is the information we can find at the online store.
 > - Charging temperature: 0° C ~ 60° C
 > 
 > - Discharging temperature: -25° C ~ 60° C
-> 
->  
 
 With these numbers we can calculate - the always interesting - energy density figures.
 
-**Gravimetric Energy Density**: 173,9 Wh/kg
-
-**Volumetric Energy Density**: 357,4 Wh/L
+- **Gravimetric Energy Density**: 173,9 Wh/kg
+- **Volumetric Energy Density**: 357,4 Wh/L
 
 The energy density figures aren't great, which gives Samsung SDI a lot of room for improvement. The long cycle life is without doubt, the strong point in these battery cells.
 
