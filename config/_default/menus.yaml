@@ -62,9 +62,9 @@ main:
       description:
       target: _blank
 
-  - name: Teze
+  - name: Hakadi
     parent: partners
-    url: /teze
+    url: /hakadi
     weight: 5
     params:
       icon:
