@@ -61,7 +61,7 @@ What's most impressive is that it comes packed with advanced driver-assistance s
 
 The top variant even comes with V2L (vehicle-to-load) capability so you can use this electric car as a large powerbank on wheels.
 
-### Pros
+### 👍 Pros
 
 - ✅ Lightweight
 - ✅ Great efficiency
@@ -72,7 +72,7 @@ The top variant even comes with V2L (vehicle-to-load) capability so you can use 
 - ✅ Good looking
 - ✅ Price
 
-### Cons
+### 👎 Cons
 
 - ❌ Low battery capacity
 - ❌ Weak motor
