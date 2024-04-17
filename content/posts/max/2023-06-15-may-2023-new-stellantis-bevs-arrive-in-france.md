@@ -45,7 +45,7 @@ The Volkswagen ID.Buzz, which landed in France  only in April, with an initial 
 
 ![](ev-sales-images/2023-05-France-BEVs-Trailing-Qtr.avif)
 
-Looking at the 3 month chart, the Model Y is still very dominant (though not as much so in France as we have seen in [Sweden](/2023/06/14/May-2023-tesla-model-y-conquers-sweden/) and [Norway](/2023/06/12/May-2023-tesla-still-dominates-the-norwegian-ev-market/)).
+Looking at the 3 month chart, the Model Y is still very dominant (though not as much so in France as we have seen in [Sweden](/2023/06/14/may-2023-tesla-model-y-conquers-sweden/) and [Norway](/2023/06/12/may-2023-tesla-still-dominates-the-norwegian-ev-market/)).
 
 Overall the top 15 spots were remarkably static compared to 3 months prior, with only small moves up or down. There were no all-new faces in the top 20.
 

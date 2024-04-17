@@ -1,6 +1,6 @@
 ---
 title: "December 2022 - EV sales in Norway explode ahead of policy changes"
-slug: "december-2022-december-2022-ev-sales-in-norway-explode-ahead-of-policy-changes"
+slug: "december-2022-ev-sales-in-norway-explode-ahead-of-policy-changes"
 authors: "maximilianholland"
 date: "2023-01-05"
 categories:

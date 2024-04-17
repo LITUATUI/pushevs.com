@@ -35,7 +35,7 @@ As usual, the Tesla Model Y is again the bestseller, with 3,125 units, almost 3x
 
 There were no new faces in the top 20, just some shuffling of already established models. The only top 20 model to put in a personal-best performance was the MG4, with 242 units, and gaining 15th spot, a new high. As one of Europe’s best value BEVs, we can expect the MG4 to keep climbing.
 
-Outside the top 20, there were a few newcomers. The most significant is the Jeep Avenger making its Norway debut, though with just 3 units for now. Let’s see if this somewhat affordable small SUV can catch on in Norway, as it [already is doing in France](/2023/07/10/2023-06-record-market-share-for-evs-in-france/).
+Outside the top 20, there were a few newcomers. The most significant is the Jeep Avenger making its Norway debut, though with just 3 units for now. Let’s see if this somewhat affordable small SUV can catch on in Norway, as it [already is doing in France](/2023/07/10/june-2023-record-market-share-for-evs-in-france/).
 
 The commercial brand, Maxus, well known for good value vans in Norway, has recently released a pickup truck to the Norwegian market, the Maxus T90 (36 units in June). It is moderately affordable (€50,000), and is perhaps the first BEV available in Norway that can appeal as a realistic work-vehicle option for farmers and rural workers.
 

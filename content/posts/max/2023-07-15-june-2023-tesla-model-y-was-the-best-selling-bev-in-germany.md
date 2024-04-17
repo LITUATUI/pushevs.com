@@ -17,7 +17,7 @@ June saw plugin EVs at 24.6% share in Germany, down from 26.0% year on year. Ful
 
 With combined plugin EVs at 24.6% share in June, full electrics (BEVs) contributed 18.9%, and plugin hybrids (PHEVs) contributed 5.7%. These compare with like figures of 26.0%, 14.4%, and 11.7%, a year ago.
 
-Recall that Germany [entirely cut the ecobonus for PHEVs](/2023/01/08/december-2023-evs-took-more-than-half-of-the-german-car-market/) from January 1st this year, and their fall in share since then was fully expected. Their decent 11.2% share of the market in H1 2022 has halved, to 5.66% in H1 2023.
+Recall that Germany [entirely cut the ecobonus for PHEVs](/2023/01/08/december-2022-evs-took-more-than-half-of-the-german-car-market/) from January 1st this year, and their fall in share since then was fully expected. Their decent 11.2% share of the market in H1 2022 has halved, to 5.66% in H1 2023.
 
 BEVs also took a moderate trim to their incentives from January 1st, which led to relatively slow sales at the start of this year. Q1 volume growth for BEVs was just 13.2%.
 

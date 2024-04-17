@@ -1,6 +1,6 @@
 ---
 title: "Tesla's smart battery strategy in China"
-slug: "tesla-smart-battery-strategy-in-china"
+slug: "teslas-smart-battery-strategy-in-china"
 authors: "pedrolima"
 date: "2020-03-02"
 categories:

@@ -27,7 +27,7 @@ We can expect another strong month for plugins in June, with BEVs alone likely a
 
 ## Bestsellers
 
-As we have just seen for [neighbouring Norway](/2023/06/12/2023-05-tesla-still-dominates-the-norwegian-ev-market/), Tesla is no longer only shipping large volumes in the last month of each quarter. May saw the Model Y delivering 1,903 units, its second best monthly result ever (after 3,202 units in March).
+As we have just seen for [neighbouring Norway](/2023/06/12/may-2023-tesla-still-dominates-the-norwegian-ev-market/), Tesla is no longer only shipping large volumes in the last month of each quarter. May saw the Model Y delivering 1,903 units, its second best monthly result ever (after 3,202 units in March).
 
 Local hero the Volvo XC40 came in second with 1,041 units, with the Volkswagen ID.4 in third, at 837 units.
 

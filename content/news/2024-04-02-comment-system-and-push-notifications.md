@@ -11,7 +11,7 @@ Hi guys!
 
 The new website is almost as I want it and you can expect articles more regularly from now on.
 
-During the recent [migration from WordPress to Hugo](/news/2024/03/16/migration-from-wordpress-to-hugo) I noticed some things.
+During the recent [migration from WordPress to Hugo](/2024/03/16/migration-from-wordpress-to-hugo) I noticed some things.
 
 First, the push notification system from OneSignal wasn't sending notifications and adblockers were blocking the bell icon - that allows to subscribe or unsubscribe the service. Therefore, I decided to stop using this service, at least for now.
 
