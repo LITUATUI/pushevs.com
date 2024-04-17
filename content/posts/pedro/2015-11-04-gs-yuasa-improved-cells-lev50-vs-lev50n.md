@@ -1,6 +1,6 @@
 ---
 title: "GS Yuasa's improved cells: LEV50 vs LEV50N"
-slug: "gs-yuasa-improved-cells-lev50-vs-lev50n"
+slug: "gs-yuasas-improved-cells-lev50-vs-lev50n"
 authors: "pedrolima"
 date: "2015-11-04"
 categories:

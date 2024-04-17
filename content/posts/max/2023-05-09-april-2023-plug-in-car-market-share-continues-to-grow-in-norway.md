@@ -21,7 +21,7 @@ Looking at unit volumes, against the background of a 7.7% overall market drop Yo
 
 All other powertrains lost volume YoY, with petrol-only vehicles at their 2nd lowest volume of the modern era (just 112 units), and 3rd lowest share ever, just 1.25% of the auto market.
 
-As we noted for [the neighbouring Swedish market](/2023/05/08/April-2023-bevs-dominated-car-sales-in-sweden/), plugless hybrids (HEVs) are now passée in Norway, such is the country’s advanced stage of the EV transition. Their share dropped from 7.3% to 4.4% YoY.
+As we noted for [the neighbouring Swedish market](/2023/05/08/april-2023-bevs-dominated-car-sales-in-sweden/), plugless hybrids (HEVs) are now passée in Norway, such is the country’s advanced stage of the EV transition. Their share dropped from 7.3% to 4.4% YoY.
 
 Recall that [new tax changes](/2023/01/05/december-2022-ev-sales-in-norway-explode-ahead-of-policy-changes/) have applied from January 1st. Although these introduced some BEV taxes for the first time, mostly falling on heavy and expensive BEV models, taxes fell harder still on vehicles with CO2 emissions. This is why, for example, we are seeing petrol-only models taking a steeper dive, relative to the diesels (and HEVs) which typically have slightly lower per-kilometre emissions ratings. PHEVs, with their middling emissions ratings, are taxed somewhere in between.
 
