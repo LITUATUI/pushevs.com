@@ -51,6 +51,7 @@ Disqus is gone, now I have to choose between [Giscus](https://giscus.app/) and [
 - ✅ Respects your privacy
 - ✅ Looks nice on light and dark themes
 - ✅ Supports markdown
+- ✅ Has preview function
 
 #### 👎 Cons
 
@@ -70,6 +71,7 @@ Disqus is gone, now I have to choose between [Giscus](https://giscus.app/) and [
 
 - ❌ Not open-source
 - ❌ Privacy can be a issue since it's made by an ads company ([Ezoic](https://www.ezoic.com/posts/emote-free-comments-section-for-websites/))
+- ❌ Doesn't have preview function
 
 My biggest concern about Emote is that it will probably follow Disqus' strategy of free first, then once it gets popular is either paid or forces creepy ads on you...
 
