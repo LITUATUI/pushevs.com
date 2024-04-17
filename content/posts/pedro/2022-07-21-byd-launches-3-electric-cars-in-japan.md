@@ -21,7 +21,7 @@ The BYD Atto 3 (Yuan Plus) will be the first model to arrive in Japan, followed 
 
 The three electric car models launched by BYD in Japan are all built on the [new e-platform 3.0](/2021/09/20/introducing-the-latest-byd-e-platform-3-0/).
 
-### BYD Atto 3 (Yuan Plus)
+## BYD Atto 3 (Yuan Plus)
 
 ![2022 BYD Atto 3](images/2022-BYD-Atto-3.avif)
 
@@ -61,7 +61,7 @@ The three electric car models launched by BYD in Japan are all built on the [new
 - **Consumption**: 12,5 kWh/100 km (CLTC)
 - **MIIT code**: BYD7003BEVA1
 
-### BYD Dolphin
+## BYD Dolphin
 
 ![BYD Dolphin is now available to pre-order](images/BYD-Dolphin-is-now-available-to-pre-order.avif)
 
@@ -138,7 +138,7 @@ The three electric car models launched by BYD in Japan are all built on the [new
 - **Fast charging**: 60 kW (from 30 to 80 % in 30 minutes)
 - **Starting price in China (after subsidy)**: 124.800 yuan (16.352 euros)
 
-### BYD Seal
+## BYD Seal
 
 ![BYD Seal](images/BYD-Seal.avif)
 

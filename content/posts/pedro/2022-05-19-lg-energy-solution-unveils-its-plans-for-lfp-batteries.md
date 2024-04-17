@@ -23,9 +23,8 @@ Jorg Jurgens, LGES director of energy storage systems EMEA (Europe, the Middle E
 
 Summing up.
 
-**Standard LFP cell**: production by October 2023 in Holland in the US state of Michigan
-
-**Long LFP cell**: production by Q4 of 2024 in Holland in the US state of Michigan
+- **Standard LFP cell**: production by October 2023 in Holland in the US state of Michigan
+- **Long LFP cell**: production by Q4 of 2024 in Holland in the US state of Michigan
 
 My guess is the standard sized cell will probably be used mostly in energy storage systems (ESS), while the long sized cell will be used in electric vehicles. This means that only by 2025 we get to see electric cars powered by LFP cells made by LG, which is disappointing.
 
