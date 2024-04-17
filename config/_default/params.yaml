@@ -97,7 +97,7 @@ hb:
     giscus:
       repo: LITUATUI/pushevs.com
       repo_id: R_kgDOLjPA9g
-      category: Announcements
+      category: Giscus
       category_id: DIC_kwDOLjPA9s4CeLwd
       mapping: og:title
   #docs:
