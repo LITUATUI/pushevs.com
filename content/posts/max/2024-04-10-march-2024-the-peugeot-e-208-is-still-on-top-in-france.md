@@ -27,7 +27,7 @@ Another pull forward for the past 3 months has come from those BEVs which have b
 
 Combustion-only petrol and diesel volumes were down YoY, and their market share fell to 40% from 50% YoY.
 
-![EVs take 27.9% share in France](/ev-sales-images/2024-03-France-Monthly-Powertrain-Market-Share.avif)
+![](/ev-sales-images/2024-03-France-Monthly-Powertrain-Market-Share.avif)
 
 ## Bestselling BEVs
 
