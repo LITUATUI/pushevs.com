@@ -21,7 +21,7 @@ I think that it will take at least a full year until we can get better kWh cost 
 
 Anyway, let's sum up the potential of this new battery chemistry.
 
-## 🌏 Sodium-ion batteries potential
+## 🔋 Sodium-ion batteries potential
 
 ### 👍 Pros
 
