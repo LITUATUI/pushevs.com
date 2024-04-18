@@ -29,7 +29,7 @@ Anyway, let's sum up the potential of this new battery chemistry.
 - ✅ Good cycle life (easily reach 4.000 charge/discharge cycles)
 - ✅ Good power density (high charge and discharge rates)
 - ✅ Great safety
-- ✅ Can be fully discharged to 0 V without damaging cycle life (great for safe transportation)
+- ✅ Can be fully discharged to 0 V without damaging cycle life (great for shipping)
 - ✅ Phenomenal temperature tolerance
 
 ### 👎 Cons
