@@ -50,7 +50,7 @@ Given its phenomenal operating temperature range, I do expect sodium-ion chemist
 
 As for high-nickel content chemistries, they will be left to applications where cost doesn't matter as much as energy density, such as small portable devices, aviation or luxury electric cars.
 
-In the next few years I expect to see some regions heavily invest in sodium-ion ESS (Energy Storage Systems) megaprojects and finally clean up their electrical grids with renewable energy. There are no more excuses for us to continue poisoning the planet we share.
+In the next few years I hope to see some regions become role models and heavily invest in sodium-ion ESS (Energy Storage Systems) megaprojects to finally clean up their electrical grids with renewable energy. There are no more excuses for us to continue poisoning the planet we share.
 
 ---
 
