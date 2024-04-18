@@ -40,7 +40,7 @@ Anyway, let's sum up the potential of this new battery chemistry.
 
 With so many advantages and just a few temporary downsides, it's normal to expect great things from this battery chemistry.
 
-Yield rate - that evaluates the quality and percentage of usable products from the total produced -, cost and energy density will improve over time. In just a year or two, not only will the manufacturing capacity and efficiency exponentially increase, but also the energy density is expected to reach 200 Wh/kg at the cell level. Considering a normal GCTP (gravimetric cell to pack) ratio of 85 % of module-less battery packs, we can expect an energy density around 170 Wh/kg at the pack level.
+Yield rate - that evaluates the quality and percentage of usable products from the total produced -, cost and energy density will improve over time. In just a year or two, not only will the manufacturing capacity and efficiency exponentially increase, but also the energy density is expected to reach 200 Wh/kg at the cell level. Considering a normal GCTP (gravimetric cell to pack) ratio of 85 % for module-less battery packs, we can expect an energy density around 170 Wh/kg at the pack level.
 
 Sodium-ion will assist LFP/LMFP in powering the affordable energy storage revolution, I don't expect a clear winner in this decade.
 
