@@ -11,11 +11,11 @@ images:
 
 In case you haven't noticed, we can already buy sodium-ion (Na-ion) batteries.
 
-For example, with a simple search on [AliExpress](/sodium-ion) we can already find sodium-ion battery cells in cylindrical and prismatic formats for consumer use.
+For example, with a simple search on <a href="/sodium-ion" target="_blank">AliExpress</a> we can already find sodium-ion battery cells in cylindrical and prismatic formats for consumer use.
 
 Depending on the manufacturer, the advertised cycle life varies between 1.500 and 4.000 cycles, while energy density stays between 125 and 140 Wh/kg.
 
-However, since the mass production of this battery chemistry is extremely recent, production efficiency (mainly yield rate) and capacity are still low, so you can get much better deals on [LFP (LiFePO4)](/lfp) batteries for now...
+However, since the mass production of this battery chemistry is extremely recent, production efficiency (mainly yield rate) and capacity are still low, so you can get much better deals on <a href="/lfp" target="_blank">LFP (LiFePO4)</a> batteries for now...
 
 I think that it will take at least a full year until we can get better kWh cost with sodium-ion than with LFP.
 
