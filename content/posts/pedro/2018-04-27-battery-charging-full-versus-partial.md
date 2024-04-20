@@ -22,7 +22,7 @@ Keep in mind that one cycle is completed only after you’ve discharged the equi
 
 For example, if you have a battery at 70 % of SoC and discharge it to 50 %, then recharge it back to 70 %, you used 20 % of the battery capacity, which means that only after doing this 5 times (5 x 20 % = 100 %) you have completed one charge/discharge cycle. Some people confuse charge/discharge cycles with charging sessions...
 
-[BMZ GmbH](https://www.bmz-group.com/EN_index_1000.html) - known for supplying batteries to StreetScooter electric vans - made some interesting tests on [Samsung ICR18650-26F](/icr18650-26f) battery cells that answer the questions above.
+[BMZ GmbH](https://www.bmz-group.com/EN_index_1000.html) - known for supplying batteries to StreetScooter electric vans - made some interesting tests on <a href="/icr18650-26f" target="_blank">Samsung ICR18650-26F</a> battery cells that answer the questions above.
 
 ![Test of Samsung ICR18650-26F battery cell by BMZ 1/2](images/Test-of-Samsung-ICR18650-26F-battery-cell-by-BMZ-1-2.avif)
 
