@@ -27,7 +27,6 @@ hb:
       rss: true
       #mastodon: https://techhub.social/@hbstack
   blog:
-    post_thumbnail_position: start
     list_cols_md: 1
     list_cols_lg: 1
     toc:
@@ -82,6 +81,7 @@ hb:
           weight: 4
           # title: Popular Tags # override the title.
     paginate: 12 # paginate.
+    post_thumbnail_position: start
     post_thumbnail_placeholder: # the text of thumbnail placeholder, default to site title.
     # post_thumbnail: false # whether to show the thumbnails.
     # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
