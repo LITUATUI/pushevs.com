@@ -27,8 +27,9 @@ hb:
       rss: true
       #mastodon: https://techhub.social/@hbstack
   blog:
-    list_cols_md: 2
-    list_cols_lg: 3
+    post_thumbnail_position: start
+    list_cols_md: 1
+    list_cols_lg: 1
     toc:
       position: start
     social_share_buttons:
