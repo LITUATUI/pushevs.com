@@ -65,7 +65,7 @@ I really hope it will come as a 5-seater, since in Europe the only A-segment car
 
 Regarding size, the European version could be larger, as happened with the European BYD Dolphin.
 
-Finally, next year BYD will be producing sodium ion batteries, this battery chemistry is perfect for the basic variants.
+Finally, next year BYD will be producing sodium-ion batteries, this battery chemistry is perfect for the basic variants.
 
 ![Na-ion vs. LFP by Faradion](/images/Na-ion_vs_LFP_by_Faradion.avif "Na-ion vs. LFP by Faradion")
 
