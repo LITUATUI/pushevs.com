@@ -13,7 +13,7 @@ Stella Li, vice president at BYD just confirmed that the BYD Seagull made for th
 
 >Yes, we plan to bring the Seagull to Europe next year. But it’s not the Chinese-market Seagull, it will be a European-market Seagull; a new Seagull. You haven’t seen it yet; even myself, I have not seen it yet.
 
-The BYD Seagull is already experiencing great success in South America, namely in Brazil, where it's called BYD Dolphin Mini and the Chinese carmaker already confirmed that a 5-seat version is coming. 
+The BYD Seagull is already enjoying great success in South America, particularly in Brazil, where it is called BYD Dolphin Mini and the Chinese manufacturer has already confirmed that a 5-seater version is coming.
 
 ## BYD Dolphin Mini (Brazil version)
 
