@@ -1,5 +1,5 @@
 ---
-title: "New Xpeng G6 Has Electric Market Leaders in Its Sights"
+title: "New Xpeng G6 has electric market leaders in its sights"
 external_url: "https://www.xpeng.com/news/018ea2e7e0568dc5f9d32c9e8bfb0a52"
 date: "2024-04-03"
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "Electric mobility: Entry-level BEV will be Škoda Epiq"
+title: "Electric mobility: entry-level BEV will be Škoda Epiq"
 external_url: "https://www.skoda-storyboard.com/en/press-releases/electric-mobility-entry-level-bev-will-be-skoda-epiq/"
 date: "2024-03-15"
 categories:

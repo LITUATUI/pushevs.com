@@ -1,5 +1,5 @@
 ---
-title: "Toyota Exhibiting at Beijing Motor Show 2024"
+title: "Toyota exhibiting at Beijing Motor Show 2024"
 external_url: "https://global.toyota/en/newsroom/corporate/40761627.html"
 date: "2024-04-25"
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "EVB integrated C&I energy storage and DC EV charging solutions at K.EY 2024 Exhibition"
+title: "EVB integrated C&I energy storage and DC EV charging solutions at K.EY 2024 exhibition"
 external_url: "https://www.evb.com/news/evb-integrated-ci-energy-storage-and-dc-ev-charging-solutions-at-k-ey-2024-exhibition/"
 authors: "EVB"
 date: "2024-03-02"
