@@ -76,3 +76,7 @@ Disqus is gone, now I have to choose between [Giscus](https://giscus.app/) and [
 My biggest concern about Emote is that it will probably follow Disqus' strategy of free first, then once it gets popular is either paid or forces creepy ads on you...
 
 For now I'll leave both comment systems active and let readers share their opinions.
+
+## Update (25/4/2024)
+
+The winner is Giscus!
