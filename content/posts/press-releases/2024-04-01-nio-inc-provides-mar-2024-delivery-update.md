@@ -1,5 +1,5 @@
 ---
-title: "NIO Delivered 11,866 Vehicles in March"
+title: "NIO delivered 11,866 vehicles in March"
 external_url: "https://www.nio.com/news/nio-inc-provides-mar-2024-delivery-update"
 date: "2024-04-01"
 categories:

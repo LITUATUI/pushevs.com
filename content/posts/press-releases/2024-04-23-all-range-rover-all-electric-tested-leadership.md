@@ -1,5 +1,5 @@
 ---
-title: "All Range Rover. All Electric. Tested For Leadership."
+title: "All Range Rover. All electric. Tested for leadership."
 external_url: "https://media.landrover.com/news/2024/04/all-range-rover-all-electric-tested-leadership"
 date: "2024-04-23"
 categories:

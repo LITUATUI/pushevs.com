@@ -1,5 +1,5 @@
 ---
-title: "CATL Unveils TENER, the World's First Five-Year Zero Degradation Energy Storage System with 6.25MWh Capacity"
+title: "CATL unveils TENER, the world's first five-year zero degradation energy storage system with 6.25 MWh capacity"
 external_url: "https://www.catl.com/en/news/6232.html"
 date: "2024-04-09"
 categories:

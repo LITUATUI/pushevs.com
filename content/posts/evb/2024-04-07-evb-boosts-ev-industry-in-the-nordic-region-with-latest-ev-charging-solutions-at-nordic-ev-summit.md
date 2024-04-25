@@ -1,5 +1,5 @@
 ---
-title: "EVB Boosts EV Industry in the Nordic Region with Latest EV Charging Solutions at Nordic EV Summit"
+title: "EVB boosts EV industry in the nordic region with latest EV charging solutions at Nordic EV Summit"
 external_url: "https://www.evb.com/news/evb-boosts-ev-industry-in-the-nordic-region-with-latest-ev-charging-solutions-at-nordic-ev-summit/"
 authors: "EVB"
 date: "2024-04-07"

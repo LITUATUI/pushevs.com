@@ -1,5 +1,5 @@
 ---
-title: "Hyundai Motor and Kia Forge Strategic Partnership with Exide Energy for Electric Vehicle Battery Localization in India"
+title: "Hyundai Motor and Kia forge strategic partnership with Exide Energy for electric vehicle battery localization in India"
 external_url: "https://www.hyundai.com/worldwide/en/newsroom/detail/0000000741"
 date: "2024-04-08"
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "Visit EVB Exhibitions at AMPER and Solar Solutions Amsterdam"
+title: "Visit EVB exhibitions at AMPER and Solar Solutions Amsterdam"
 external_url: "https://www.evb.com/news/visit-evb-exhibitions-at-amper-and-solar-solutions-amsterdam/"
 authors: "EVB"
 date: "2024-03-12"

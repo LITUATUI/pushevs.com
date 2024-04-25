@@ -1,5 +1,5 @@
 ---
-title: "WEBUILD Energiesparmesse 2024: EVB Showcases Smart Energy Management Solutions"
+title: "WEBUILD Energiesparmesse 2024: EVB showcases smart energy management solutions"
 external_url: "https://www.evb.com/news/webuild-energiesparmesse-2024-evb-showcases-smart-energy-management-solutions/"
 authors: "EVB"
 date: "2024-03-08"

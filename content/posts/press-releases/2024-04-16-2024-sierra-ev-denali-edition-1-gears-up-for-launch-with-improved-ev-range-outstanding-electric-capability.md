@@ -1,5 +1,5 @@
 ---
-title: "2024 Sierra EV Denali Edition 1 Gears Up for Launch with Improved EV Range, Outstanding Electric Capability"
+title: "2024 Sierra EV Denali Edition 1 gears up for launch with improved EV range, outstanding electric capability"
 external_url: "https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2024/apr/0416-sierra-ev.html"
 date: "2024-04-16"
 categories:

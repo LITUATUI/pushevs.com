@@ -1,5 +1,5 @@
 ---
-title: "Game, 5 And Match, Renault Electrifies Roland-garros"
+title: "Game, 5 and match, Renault electrifies Roland-Garros"
 external_url: "https://media.renault.com/game-5-and-match-renault-electrifies-roland-garros/"
 date: "2024-04-25"
 categories:

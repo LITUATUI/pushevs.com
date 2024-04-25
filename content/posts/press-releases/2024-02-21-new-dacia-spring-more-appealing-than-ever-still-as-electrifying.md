@@ -1,5 +1,5 @@
 ---
-title: "New Dacia Spring: More Appealing Than Ever, Still as Electrifying"
+title: "New Dacia Spring: more appealing than ever, still as electrifying"
 external_url: "https://media.dacia.com/new-dacia-spring-more-appealing-than-ever-still-as-electrifying"
 date: "2024-02-21"
 categories:

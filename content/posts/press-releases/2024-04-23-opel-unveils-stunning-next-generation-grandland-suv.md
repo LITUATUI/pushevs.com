@@ -1,5 +1,5 @@
 ---
-title: "Opel Unveils Stunning Next Generation Grandland SUV"
+title: "Opel unveils stunning next generation Grandland SUV"
 external_url: "https://www.media.stellantis.com/em-en/opel/press/opel-unveils-stunning-next-generation-grandland-suv"
 date: "2024-04-23"
 categories:

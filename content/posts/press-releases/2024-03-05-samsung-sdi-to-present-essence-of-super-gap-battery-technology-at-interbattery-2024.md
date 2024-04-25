@@ -1,5 +1,5 @@
 ---
-title: "Samsung SDI to Present Essence of Super-Gap Battery Technology at InterBattery 2024"
+title: "Samsung SDI to present essence of super-gap battery technology at InterBattery 2024"
 external_url: "https://www.samsungsdi.com/sdi-news/3522.html"
 date: "2024-03-05"
 categories:

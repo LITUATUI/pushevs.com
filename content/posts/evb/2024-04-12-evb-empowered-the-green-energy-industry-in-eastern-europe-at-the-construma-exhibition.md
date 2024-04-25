@@ -1,5 +1,5 @@
 ---
-title: "EVB Empowered the Green Energy Industry in Eastern Europe at the CONSTRUMA Exhibition"
+title: "EVB empowered the green energy industry in Eastern Europe at the CONSTRUMA exhibition"
 external_url: "https://www.evb.com/news/evb-empowered-the-green-energy-industry-in-eastern-europe-at-the-construma-exhibition/"
 authors: "EVB"
 date: "2024-04-12"

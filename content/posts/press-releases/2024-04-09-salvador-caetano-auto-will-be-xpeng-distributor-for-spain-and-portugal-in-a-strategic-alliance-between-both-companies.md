@@ -1,5 +1,5 @@
 ---
-title: "Salvador Caetano Auto Will Be Xpeng Distributor for Spain and Portugal in a Strategic Alliance Between Both Companies"
+title: "Salvador Caetano Auto will be Xpeng distributor for Spain and Portugal in a strategic alliance between both companies"
 external_url: "https://www.xpeng.com/news/018ec15cf7da8ebc6ad22c9e8e1e001b"
 date: "2024-04-09"
 categories:

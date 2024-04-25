@@ -1,5 +1,5 @@
 ---
-title: "Forging a Sustainable Path: LG Energy Solution’s Technology Leadership Shines at Interbattery 2024"
+title: "Forging a sustainable path: LG Energy Solution’s technology leadership shines at Interbattery 2024"
 external_url: "https://news.lgensol.com/company-news/supplementary-stories/2568/"
 date: "2024-04-02"
 categories:

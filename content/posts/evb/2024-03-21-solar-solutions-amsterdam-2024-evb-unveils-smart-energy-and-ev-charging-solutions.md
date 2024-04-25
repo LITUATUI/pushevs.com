@@ -1,5 +1,5 @@
 ---
-title: "Solar Solutions Amsterdam 2024: EVB Unveils Smart Energy and EV Charging Solutions"
+title: "Solar Solutions Amsterdam 2024: EVB unveils smart energy and EV charging solutions"
 external_url: "https://www.evb.com/news/solar-solutions-amsterdam-2024-evb-unveils-smart-energy-and-ev-charging-solutions/"
 authors: "EVB"
 date: "2024-03-21"

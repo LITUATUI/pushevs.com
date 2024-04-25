@@ -1,5 +1,5 @@
 ---
-title: "Solar & Storage Live Africa 2024: EVB Energy Storage and EV Charging Integrated Solution"
+title: "Solar & Storage Live Africa 2024: EVB energy storage and EV charging integrated solution"
 external_url: "https://www.evb.com/news/solar-storage-live-africa-2024-evb-energy-storage-and-ev-charging-integrated-solution/"
 authors: "EVB"
 date: "2024-03-19"
