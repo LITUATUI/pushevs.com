@@ -181,10 +181,7 @@ hugopress:
           cacheable: true
         # see layouts/partials/hugopress/modules/hb-custom/hooks/body-begin.html.
         body-begin:
-          cacheable: true
-        # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-post-content-beforeend.html.
-        hb-blog-post-content-beforeend:
-          cacheable: true          
+          cacheable: true        
         # see layouts/partials/hugopress/modules/hb-custom/hooks/hb-blog-post-comments-begin.html.
         hb-blog-post-comments-begin:
           cacheable: true        
