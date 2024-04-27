@@ -6,6 +6,7 @@ socials:
   facebook: PushEVs
   github: LITUATUI
   email: pedrolima@pushevs.com
+  website: https://pushevs.com
 images:
   - "/avatars/pedrolima.avif"
 ---

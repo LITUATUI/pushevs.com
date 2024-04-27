@@ -7,6 +7,7 @@ socials:
   github: MaxH72
   amazon: https://amzn.to/4cTHdA5
   email: max.holland@gmail.com
+  website: https://maximilianholland.com
 images:
   - "avatars/maximilianholland.avif"
 ---

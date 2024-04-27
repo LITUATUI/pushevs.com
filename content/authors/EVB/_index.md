@@ -7,6 +7,7 @@ socials:
   instagram: evb_ev_charger
   linkedin: 86454154
   email: info@evb.com
+  website: https://evb.com
 images:
   - "avatars/EVB.png"
 ---
