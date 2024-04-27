@@ -95,6 +95,8 @@ hb:
         - products
         #- docs
         #- blog
+    post_authors:
+      position: bottom # or top.        
     giscus:
       repo: LITUATUI/pushevs.com
       repo_id: R_kgDOLjPA9g
