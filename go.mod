@@ -48,7 +48,7 @@ require (
 	github.com/hbstack/slide v0.3.2 // indirect
 	github.com/hbstack/snackbar v0.1.2 // indirect
 	github.com/hbstack/social-share-buttons v0.2.2 // indirect
-	github.com/hbstack/socials v0.11.0 // indirect
+	github.com/hbstack/socials v0.12.0 // indirect
 	github.com/hbstack/syntax-highlighting v0.2.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 // indirect
 	github.com/hbstack/theme-cards v0.1.1 // indirect
