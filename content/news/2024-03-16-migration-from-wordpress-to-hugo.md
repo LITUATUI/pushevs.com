@@ -20,6 +20,7 @@ This is why I chose a static generator like Hugo:
 - Clean code that makes websites super fast
 - Backups and restores are easy with git
 - No database to manage and worry about getting hacked
+- Requires less server resources, meaning less electricity used and less pollution created
 - Free hosting with [Cloudflare Pages](https://pages.cloudflare.com/)
 
 I was already using Hugo in some of my other websites, so I really wanted to finally stop using WordPress.
@@ -27,7 +28,7 @@ I was already using Hugo in some of my other websites, so I really wanted to fin
 These were the tools I used:
 
 - [wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown) to convert WordPress posts and pages to markdown files
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/) to write markdown
 - [ChatGPT](https://chat.openai.com/) to help with regex and clean up the code
 - [ImageMagick](https://www.imagemagick.org/) to batch convert image files to AVIF
 - Coffee...
