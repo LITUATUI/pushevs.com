@@ -18,8 +18,9 @@ hb:
     # see https://hbstack.dev/en/docs/modules/socials/.
     breakpoint: xl
     socials:
+      kofi: lituatui
       github: LITUATUI/pushevs.com
-      githubsponsors: https://github.com/sponsors/LITUATUI
+      githubsponsors: sponsors/LITUATUI
       twitter: PushEVs
       facebook: PushEVs
       telegram: PushEVs
@@ -142,8 +143,9 @@ hb:
     #site_description: false
     socials:
       _color: true # when false, remove the color of social icons.
+      kofi: lituatui
+      githubsponsors: sponsors/LITUATUI
       github: LITUATUI/pushevs.com
-      githubsponsors: https://github.com/sponsors/LITUATUI
       twitter: PushEVs
       facebook: PushEVs
       telegram: PushEVs
