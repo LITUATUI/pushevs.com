@@ -11,13 +11,13 @@ require (
 	github.com/hbstack/background-image v0.2.1 // indirect
 	github.com/hbstack/base v0.5.1 // indirect
 	github.com/hbstack/bigger-picture v0.10.1 // indirect
-	github.com/hbstack/blog v0.30.0 // indirect
+	github.com/hbstack/blog v0.31.0 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.21 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
 	github.com/hbstack/blog/modules/giscus v0.1.23 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.23 // indirect
 	github.com/hbstack/blog/modules/post-authors v0.1.0 // indirect
-	github.com/hbstack/blog/modules/post-nav v0.3.7 // indirect
+	github.com/hbstack/blog/modules/post-nav v0.3.8 // indirect
 	github.com/hbstack/blog/modules/related-posts v0.2.5 // indirect
 	github.com/hbstack/blog/modules/sidebar/posts v0.7.0 // indirect
 	github.com/hbstack/blog/modules/social-share-buttons v0.1.1 // indirect
@@ -48,11 +48,12 @@ require (
 	github.com/hbstack/slide v0.3.2 // indirect
 	github.com/hbstack/snackbar v0.1.2 // indirect
 	github.com/hbstack/social-share-buttons v0.2.2 // indirect
-	github.com/hbstack/socials v0.14.0 // indirect
+	github.com/hbstack/socials v0.14.1 // indirect
 	github.com/hbstack/syntax-highlighting v0.2.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 // indirect
 	github.com/hbstack/theme-cards v0.1.1 // indirect
 	github.com/henrygd/bigger-picture v1.1.16 // indirect
+	github.com/hugomods/ascii v0.1.0 // indirect
 	github.com/hugomods/base v0.6.0 // indirect
 	github.com/hugomods/bootstrap v0.21.2 // indirect
 	github.com/hugomods/code-block-panel v0.6.0 // indirect
