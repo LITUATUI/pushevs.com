@@ -18,16 +18,24 @@ hb:
     # see https://hbstack.dev/en/docs/modules/socials/.
     breakpoint: xl
     socials:
-      kofi: LITUATUI
-      buymeacoffee: LITUATUI
-      github: LITUATUI/pushevs.com
-      githubsponsors: sponsors/LITUATUI
-      twitter: PushEVs
-      facebook: PushEVs
-      telegram: PushEVs
-      email: pedrolima@pushevs.com
-      rss: true
-      #mastodon: https://techhub.social/@hbstack
+      - name: kofi
+        id: LITUATUI
+      - name: buymeacoffee
+        id: LITUATUI
+      - name: githubsponsors
+        id: sponsors/LITUATUI
+      - name: github
+        id: LITUATUI/pushevs.com        
+      - name: twitter
+        id: PushEVs
+      - name: facebook
+        id: PushEVs
+      - name: telegram
+        id: PushEVs
+      - name: email
+        id: pedrolima@pushevs.com
+      - name: rss
+        id: true
   blog:
     list_cols_md: 1
     list_cols_lg: 1
@@ -143,17 +151,24 @@ hb:
     powered_by: false
     #site_description: false
     socials:
-      _color: true # when false, remove the color of social icons.
-      kofi: LITUATUI
-      buymeacoffee: LITUATUI
-      githubsponsors: sponsors/LITUATUI
-      github: LITUATUI/pushevs.com
-      twitter: PushEVs
-      facebook: PushEVs
-      telegram: PushEVs
-      email: pedrolima@pushevs.com
-      rss: true
-      #mastodon: https://techhub.social/@hbstack
+      - name: kofi
+        id: LITUATUI
+      - name: buymeacoffee
+        id: LITUATUI
+      - name: githubsponsors
+        id: sponsors/LITUATUI
+      - name: github
+        id: LITUATUI/pushevs.com        
+      - name: twitter
+        id: PushEVs
+      - name: facebook
+        id: PushEVs
+      - name: telegram
+        id: PushEVs
+      - name: email
+        id: pedrolima@pushevs.com
+      - name: rss
+        id: true
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
