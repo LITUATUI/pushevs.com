@@ -1,6 +1,6 @@
 ---
 title: "Xpeng presents AI-powered smart EV innovations at Beijing Auto Show 2024"
-external_url: "https://www.xpeng.com/news/018f150a14148ef40cb22c9e8ab3013a"
+external_url: "https://www.xpeng.com/news/018f195d74068ef40cb22c9e8ab3015c"
 date: "2024-04-25"
 categories:
   - "Press release"
