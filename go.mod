@@ -22,7 +22,7 @@ require (
 	github.com/hbstack/blog/modules/sidebar/posts v0.7.1 // indirect
 	github.com/hbstack/blog/modules/social-share-buttons v0.1.1 // indirect
 	github.com/hbstack/blog/modules/sticky-till-the-end v0.1.0 // indirect
-	github.com/hbstack/bootstrap v0.2.1 // indirect
+	github.com/hbstack/bootstrap v0.2.2 // indirect
 	github.com/hbstack/carousel v0.2.5 // indirect
 	github.com/hbstack/code-block-panel v0.1.2 // indirect
 	github.com/hbstack/content-panel v0.9.0 // indirect
