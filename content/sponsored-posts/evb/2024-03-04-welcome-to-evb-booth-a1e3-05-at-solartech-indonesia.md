@@ -3,8 +3,6 @@ title: "Welcome to EVB booth A1E3-05 at Solartech Indonesia"
 external_url: "https://www.evb.com/news/welcome-to-evb-booth-a1e3-05-at-solartech-indonesia/"
 authors: "EVB"
 date: "2024-03-04"
-categories:
-  - "Sponsored"
 images:
   - "https://www.evb.com/wp-content/uploads/2024/03/Solartech-Indonesia-news.jpg"
 ---

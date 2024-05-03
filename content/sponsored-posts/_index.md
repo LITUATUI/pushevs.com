@@ -1,4 +1,5 @@
 ---
+title: "Sponsored posts"
 cascade:
   params:
     comments: false

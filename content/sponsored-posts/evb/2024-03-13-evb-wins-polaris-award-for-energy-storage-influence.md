@@ -3,8 +3,6 @@ title: "EVB wins “Polaris Award” for energy storage influence"
 external_url: "https://www.evb.com/news/evb-wins-polaris-award-for-energy-storage-influence/"
 authors: "EVB"
 date: "2024-03-13"
-categories:
-  - "Sponsored"
 images:
   - "https://www.evb.com/wp-content/uploads/2024/03/EVB-Polaris-Award.png"
 ---

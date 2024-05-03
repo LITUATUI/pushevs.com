@@ -3,8 +3,6 @@ title: "EVB announces: will launch a new DC charger next month and seeks new cli
 external_url: "https://www.evb.com/news/evb-mobility-portal-europe/"
 authors: "EVB"
 date: "2024-04-27"
-categories:
-  - "Sponsored"
 images:
   - "https://www.evb.com/wp-content/uploads/2024/04/EVB-%E2%80%93-Mobility-Portal-Europe.webp"
 ---

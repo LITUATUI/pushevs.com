@@ -3,8 +3,6 @@ title: "Solar & Storage Live Africa 2024: EVB energy storage and EV charging int
 external_url: "https://www.evb.com/news/solar-storage-live-africa-2024-evb-energy-storage-and-ev-charging-integrated-solution/"
 authors: "EVB"
 date: "2024-03-19"
-categories:
-  - "Sponsored"
 images:
   - "https://www.evb.com/wp-content/uploads/2024/03/South-Africa-pr-news-scaled.jpg"
 ---

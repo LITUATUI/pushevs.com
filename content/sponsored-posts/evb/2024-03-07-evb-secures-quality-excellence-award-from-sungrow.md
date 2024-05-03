@@ -3,8 +3,6 @@ title: "EVB secures “Quality Excellence Award” from Sungrow"
 external_url: "https://www.evb.com/news/evb-secures-quality-excellence-award-from-sungrow/"
 authors: "EVB"
 date: "2024-03-07"
-categories:
-  - "Sponsored"
 images:
   - "https://www.evb.com/wp-content/uploads/2024/03/EVB-quality-excellence-award.jpg"
 ---

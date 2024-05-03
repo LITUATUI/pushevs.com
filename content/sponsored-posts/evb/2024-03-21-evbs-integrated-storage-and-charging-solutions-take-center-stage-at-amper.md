@@ -3,8 +3,6 @@ title: "EVB’s integrated storage and charging solutions take center stage at A
 external_url: "https://www.evb.com/news/evbs-integrated-storage-and-charging-solutions-take-center-stage-at-amper/"
 authors: "EVB"
 date: "2024-03-21"
-categories:
-  - "Sponsored"
 images:
   - "https://www.evb.com/wp-content/uploads/2024/03/amper-news.jpg"
 ---

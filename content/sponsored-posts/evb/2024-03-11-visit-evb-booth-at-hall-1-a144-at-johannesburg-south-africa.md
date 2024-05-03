@@ -3,8 +3,6 @@ title: "Visit EVB booth at HALL 1, A144 in Johannesburg, South Africa"
 external_url: "https://www.evb.com/news/visit-evb-booth-at-hall-1-a144-at-johannesburg-south-africa/"
 authors: "EVB"
 date: "2024-03-11"
-categories:
-  - "Sponsored"
 images:
   - "https://www.evb.com/wp-content/uploads/2024/03/Solar-Show-Africa-news.jpg"
 ---

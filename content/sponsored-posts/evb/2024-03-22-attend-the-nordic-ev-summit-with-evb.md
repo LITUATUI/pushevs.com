@@ -3,8 +3,6 @@ title: "Attend the Nordic EV Summit with EVB"
 external_url: "https://www.evb.com/news/attend-the-nordic-ev-summit-with-evb/"
 authors: "EVB"
 date: "2024-03-22"
-categories:
-  - "Sponsored"
 images:
   - "https://www.evb.com/wp-content/uploads/2024/03/NORDIC-NEWS-1.jpg"
 ---

@@ -3,8 +3,6 @@ title: "EVB boosts EV industry in the nordic region with latest EV charging solu
 external_url: "https://www.evb.com/news/evb-boosts-ev-industry-in-the-nordic-region-with-latest-ev-charging-solutions-at-nordic-ev-summit/"
 authors: "EVB"
 date: "2024-04-07"
-categories:
-  - "Sponsored"
 images:
   - "https://www.evb.com/wp-content/uploads/2024/04/Nordic-EV-Summit-banner.webp"
 ---

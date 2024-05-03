@@ -70,7 +70,7 @@ Now you won't need to choose which ad slots to reserve, your banners will appear
 
 ### Sponsored posts
 
-Advertisers can also have their external posts linked on this website, check the [Sponsored category](https://pushevs.com/categories/sponsored/) for examples.
+Advertisers can also have their external posts linked on this website, check the [Sponsored posts](/sponsored-posts/) section for examples.
 
 
 ### Price
