@@ -39,6 +39,7 @@ hb:
   blog:
     list_cols_md: 1
     list_cols_lg: 1
+    post_read_more: false
     toc:
       position: start
     social_share_buttons:
