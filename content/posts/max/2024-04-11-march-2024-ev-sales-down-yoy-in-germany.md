@@ -13,7 +13,7 @@ images:
 
 March saw plugin EVs take 18.0% share in Germany, down year on year, remaining stuck in a hangover from sudden incentive abandonment in late December. BEVs were down some 29% in YoY volume, while PHEVs were down 4.5%. Overall auto volume was 263,844 units, down 6% YoY, and down 25% from 2017-2019 seasonal norms (~350,000 units). The best selling BEV was the Tesla Model Y.
 
-![EVs take 18.0% share in Germany](/ev-sales-images/2024-03-Germany-Passenger-Auto-Registrations.avif)
+![](/ev-sales-images/2024-03-Germany-Passenger-Auto-Registrations.avif)
 
 The market data saw combined EVs at 18.0% share, with full electrics (BEVs) at 11.9% and plugin hybrids (PHEVs) at 6.1% share. These compare with 21.6% combined, with 15.7% BEV, and 6.0% PHEV, year on year.
 
@@ -37,9 +37,9 @@ Combined combustion-only powertrains strongly outperformed BEVs, only falling in
 
 To add insult to injury for BEVs, even the volume of HEVs was almost flat YoY, with the resulting share growing from 23.9% to 25.4%.
 
-![EVs take 18.0% share in Germany](/ev-sales-images/2024-03-Germany-Monthly-Powertrain-Market-Share.avif)
+![](/ev-sales-images/2024-03-Germany-Monthly-Powertrain-Market-Share.avif)
 
-#### Best Selling BEV Models
+## Best Selling BEV Models
 
 The Tesla Model Y was the best selling BEV model in March, for the third consecutive month, with 3,244 units registered.
 
@@ -93,7 +93,7 @@ Volkswagen Group still maintains a strong lead over Tesla in its home market, th
 
 Conversely, in third and fourth spots, Mercedes and BMW groups have seen their volumes increase compared to a year ago, both significantly outperforming the overall auto market.
 
-#### Outlook
+## Outlook
 
 As noted above, the German economy is in recession, with Q3 and Q4 2023 (latest data) recording [YoY GDP results of -0.3% and -0.2%](https://tradingeconomics.com/germany/indicators). Inflation cooled to 2.2% in March, from 2.5% in February. Interest rates remained at 4.5%, flat since September. Manufacturing PMI weakened to 41.9 points in March, from 42.5 points in February. Consumer confidence remained very negative at -27.4 points.
 
