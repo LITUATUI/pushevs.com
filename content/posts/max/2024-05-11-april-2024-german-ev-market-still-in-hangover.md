@@ -23,7 +23,7 @@ To give an example I’ve used before — the Fiat 500 BEV has an MSRP (€34,99
 
 Returning to the overall share of powertrains in the market — as a result of the poor performance of BEVs, diesel share has now actually increased YoY, from 17.8% to 19.1%. Diesel volume is up YoY by over 10,000 — to 46,317 units_. Higher sales than combined plugins!_
 
-![EVs take 18.4% share in Germany](/ev-sales-images/2024-03-Germany-Monthly-Powertrain-Market-Share.avif)
+![EVs take 18.4% share in Germany](/ev-sales-images/2024-04-Germany-Monthly-Powertrain-Market-Share.avif)
 
 ## Bestselling BEVs
 
@@ -31,7 +31,7 @@ The Volkswagen ID.4 / ID.5 was the bestselling BEV in April, with 3,234 units re
 
 In second place was its sibling, the Volkswagen ID.3, with 1,992 units. Their cousin, the Skoda Enyaq, came in third, with 1,469 units. Even the fourth spot was occupied by yet another VW Group MEB-platform car, the Audi Q4 e-tron.
 
-![](/ev-sales-images/2024-03-Germany-BEVs.avif)
+![](/ev-sales-images/2024-04-Germany-BEVs.avif)
 
 The long term favorite, Tesla Model Y, was predictably down in April (6th spot), as it habitually is at the start of a quarter.
 
@@ -43,7 +43,7 @@ The price, from €43,990, (with a 7-year warranty) is competitive, compared to 
 
 One other new entrant was the Maserati Grecale, which sold an initial 6 units in April. The Grecale is an expensive (€124,000+) mid-large luxury SUV, not likely to sell in any significant volume in relation to the overall BEV market.
 
-Let’s check up on the longer term rankings:![](/ev-sales-images/2024-03-Germany-BEVs-Trailing-Qtr.avif)
+Let’s check up on the longer term rankings:![](/ev-sales-images/2024-04-Germany-BEVs-Trailing-Qtr.avif)
 
 The Tesla Model Y sold 36% more volume than the VW ID.4 / ID.5 across 2022 and 2023. It retains a strong lead over the latest trailing 3 months, almost 50% ahead of the VW.
 
@@ -51,7 +51,7 @@ There are few new faces in the top 20. The new Volvo EX30 has climbed to 12th, a
 
 Now let’s turn to the manufacturing group rankings for the past 3 months:
 
-![](/ev-sales-images/2024-03-Germany-BEV-Groups-Trailing-Qtr.avif)
+![](/ev-sales-images/2024-04-Germany-BEV-Groups-Trailing-Qtr.avif)
 
 Volkswagen Group still has the lead, with 29.5% of Germany’s BEV market, roughly unchanged from three months prior.
 
