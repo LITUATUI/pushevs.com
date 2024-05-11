@@ -21,7 +21,7 @@ BEV sales in Germany are also not helped by models being overpriced relative to 
 
 To give an example I’ve used before — the Fiat 500 BEV has an MSRP (€34,990) — [twice that of the mild hybrid/ICE variant](https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/autokosten/elektroauto-kostenvergleich/) (€17,490), which is positioned and priced as _an economy car_ in Germany. To choose the BEV variant (over the mild hybrid) is perceived as _a relatively expensive choice._
 
-Returning to the overall share of powertrains in the market — as a result of the poor performance of BEVs, diesel share has now actually increased YoY, from 17.8% to 19.1%. Diesel volume is up YoY by over 10,000 — to 46,317 units_. Higher sales than combined plugins!_
+Returning to the overall share of powertrains in the market — as a result of the poor performance of BEVs, diesel share has now actually increased YoY, from 17.8% to 19.1%. Diesel volume is up YoY by over 10,000 — to 46,317 units. _Higher sales than combined plugins!_
 
 ![EVs take 18.4% share in Germany](/ev-sales-images/2024-04-Germany-Monthly-Powertrain-Market-Share.avif)
 
