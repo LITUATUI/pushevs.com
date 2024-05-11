@@ -25,7 +25,7 @@ Diesels also dropped share YoY, from 14.1% to 10.1%.
 
 ![](ev-sales-images/2023-04-Sweden-Monthly-Powertrain-Market-Share.avif)
 
-#### Bestselling BEVs
+## Bestselling BEVs
 
 April’s bestselling BEV was the Volvo XC40, registering 695 units. This is the 5th time in the past 6 months the XC40 has taken the top spot.
 

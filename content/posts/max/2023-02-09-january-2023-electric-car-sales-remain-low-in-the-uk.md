@@ -49,7 +49,7 @@ Above is a quick look at the manufacturing group charts. Tesla is dominant, but 
 
 BMW Group took 3rd, where it has been steady since October, on the strength of its diverse BEV model line up. The i4 is popular in the UK market, and won _Auto Express_‘ premium car of the year in 2022. The BMW UK website displays all the BEV models front and centre, and in January some 22% of BMW’s UK sales were BEV (the highest of any large legacy brand), almost doubling from January 2022.
 
-## **Outlook**
+## Outlook
 
 The UK’s industry body, the SMMT is currently forecasting 1.79 M autos to be sold in 2023, some 11% growth over last year.
 
