@@ -3,7 +3,7 @@
 Source code of the [PushEVs website](https://pushevs.com) made with a static site generator called [Hugo](https://gohugo.io/) and [HB Cards Theme](https://github.com/hbstack/theme-cards).
 
 
-## Why a staic site generator?
+## Why a static site generator?
 
 PushEVs was previously made with WordPress, but as time goes by, WordPress websites start to become slow and buggy - partly because installing plugins is fun and easy... Security and backups/restores can also give us more headaches than they should.
 
