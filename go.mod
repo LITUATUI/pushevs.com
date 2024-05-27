@@ -38,7 +38,7 @@ require (
 	github.com/hbstack/header/modules/socials v0.2.0 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.4.4 // indirect
 	github.com/hbstack/heading-sign v0.2.0 // indirect
-	github.com/hbstack/mermaid v0.2.1 // indirect
+	github.com/hbstack/mermaid v0.2.2 // indirect
 	github.com/hbstack/noscript v0.6.0 // indirect
 	github.com/hbstack/pagination v0.7.0 // indirect
 	github.com/hbstack/progress-bar v0.1.0 // indirect
@@ -66,7 +66,7 @@ require (
 	github.com/hugomods/icons v0.6.3 // indirect
 	github.com/hugomods/icons/vendors/bootstrap v0.5.6 // indirect
 	github.com/hugomods/icons/vendors/font-awesome v0.6.6 // indirect
-	github.com/hugomods/icons/vendors/simple-icons v1.0.39 // indirect
+	github.com/hugomods/icons/vendors/simple-icons v1.0.40 // indirect
 	github.com/hugomods/idb-js v0.1.0 // indirect
 	github.com/hugomods/images v0.10.1 // indirect
 	github.com/hugomods/katex v0.3.1 // indirect
