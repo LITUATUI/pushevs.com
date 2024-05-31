@@ -36,25 +36,25 @@ Let's take a closer look at the LG Chem LGX E63 battery cell.
 
 Here is how much temperature impacts the capacity of your battery.
 
-- -20º C: 60,2 % = 26,42 kWh
-- -10º C: 84,2 % = 36,96 kWh
-- 0º C: 90,4 % = 39,68 kWh
-- 25º C: 100 % = 43,9 kWh
-- 45º C: 102,1 % = 44,81 kWh
+- -20 ºC: 60,2 % = 26,42 kWh
+- -10 ºC: 84,2 % = 36,96 kWh
+- 0 ºC: 90,4 % = 39,68 kWh
+- 25 ºC: 100 % = 43,9 kWh
+- 45 ºC: 102,1 % = 44,81 kWh
 
-Cycle life at 25º C:
+Cycle life at 25 ºC:
 
-- 94 % of initial battery capacity after 200 cycles (25º C)
-- 84 % of initial battery capacity after 1.000 cycles (25º C)
-- 80 % of initial battery capacity after 1.400 cycles (25º C)
+- 94 % of initial battery capacity after 200 cycles (25 ºC)
+- 84 % of initial battery capacity after 1.000 cycles (25 ºC)
+- 80 % of initial battery capacity after 1.400 cycles (25 ºC)
 
-Cycle life at 45º C:
+Cycle life at 45 ºC:
 
-- 91 % of initial battery capacity after 200 cycles (45º C)
-- 78 % of initial battery capacity after 1.000 cycles (45º C)
-- 72 % of initial battery capacity after 1.400 cycles (45º C)
+- 91 % of initial battery capacity after 200 cycles (45 ºC)
+- 78 % of initial battery capacity after 1.000 cycles (45 ºC)
+- 72 % of initial battery capacity after 1.400 cycles (45 ºC)
 
-Fortunately the Renault ZOE has a TMS (Thermal Management System) to make sure that the battery pack stays near its ideal temperature of 25º C.
+Fortunately the Renault ZOE has a TMS (Thermal Management System) to make sure that the battery pack stays near its ideal temperature of 25 ºC.
 
 If we consider that the average range of a Renault ZOE when new is 250 km, after 1.000 cycles we can expect it to be at least 200 km (80 %). During the first 1.000 cycles the average range should be around 225 km, this means that we'll reach 1.000 cycles after 225.000 km. I'm being conservative here, it's reasonable to expect the battery to retain 80 % of its initial capacity after 300.000 km.
 

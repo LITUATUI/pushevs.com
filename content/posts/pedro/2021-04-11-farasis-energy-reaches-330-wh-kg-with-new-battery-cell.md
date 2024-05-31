@@ -35,7 +35,7 @@ Let's see the press release and then the highlights of this new generation of ba
 - **Gravimetric energy density**: 330 Wh/kg
 - **Volumetric energy density**: 750 Wh/L
 - **Cycle life**: 1.500 full charge/discharge cycles (100 % of DoD)
-- **Capacity at extremely cold temperature (-20º C)**: around 90 %
+- **Capacity at extremely cold temperature (-20 ºC)**: around 90 %
 - **Fast charging**: 20 minutes
 
 While not mentioned in the press release, this 4th generation should be a high nickel and low cobalt content battery cell, either NCM or NCMA.

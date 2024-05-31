@@ -19,7 +19,7 @@ Let's see some details.
 - **Volumetric energy density**: 240 Wh/L
 - **Cycle life**: above 4.000 cycles
 - **Fast charging**: 80 % in 15 minutes
-- **Capacity retention at -20º C**: 88 % at 3 C-rate
+- **Capacity retention at -20 ºC**: 88 % at 3 C-rate
 - **Format**: pouch
 - **Start of production**: June, 2022
 
@@ -29,7 +29,7 @@ Let's see some details.
 - **Volumetric energy density**: 280 Wh/L
 - **Cycle life**: above 4.000 cycles
 - **Fast charging**: 80 % in 15 minutes
-- **Capacity retention at -20º C**: 88 % at 3 C-rate
+- **Capacity retention at -20 ºC**: 88 % at 3 C-rate
 - **Format**: pouch
 - **Start of production**: 2023
 

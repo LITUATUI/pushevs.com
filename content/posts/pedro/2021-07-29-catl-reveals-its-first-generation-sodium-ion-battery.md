@@ -33,13 +33,13 @@ Let's see some highlights of the press release.
 
 - **Energy-density**: 160 Wh/kg
 - **Fast charging**: 80 % in 15 minutes
-- **Capacity retention at low temperatures**: above 90 % at -20º C
+- **Capacity retention at low temperatures**: above 90 % at -20 ºC
 
 I was expecting that at best the first generation would have a gravimetric energy density of 150 Wh/kg. However, with battery cells that achieve an energy density of 160 Wh/kg, if combined with CTP (cell-to-pack) technology, module-less battery packs can reach 144 Wh/kg, which make this first generation SIB not only adequate for energy storage systems (ESSs), but also for electric vehicles.
 
 Now the goal is to surpass 200 Wh/kg in the next generation.
 
-Moreover, the performance at low temperatures is impressive, for example the [NCM 622 battery cells from LG used in the old generation Renault ZOE ZE 40](/2019/02/10/renault-zoe-ze-40-full-battery-specs/) only retain 60,2 % of their capacity at -20º C.
+Moreover, the performance at low temperatures is impressive, for example the [NCM 622 battery cells from LG used in the old generation Renault ZOE ZE 40](/2019/02/10/renault-zoe-ze-40-full-battery-specs/) only retain 60,2 % of their capacity at -20 ºC.
 
 Anyway, at first, sodium-ion batteries will be mostly used in energy storage systems and it'll still be extremely positive for electric vehicles, because more lithium will become available to build energy-dense EV batteries.
 

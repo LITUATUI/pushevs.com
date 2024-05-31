@@ -11,7 +11,7 @@ images:
 
 The staff of coches.net and AUTOBEST tested the range and efficiency of 10 different electric cars. On the first day the cars were tested by the staff of the coches.net (test 1) and on the second day the cars were tested by the AUTOBEST's staff (test 2). All electric cars were driven until stop from empty battery.
 
-The tests were conducted around Barcelona in highway and city traffic. All electric cars were set to normal mode (no eco or sport modes) and with AC on (set to 19-23º C). The outside temperature varied between 26 and 33º C, perfect to get high mileage.
+The tests were conducted around Barcelona in highway and city traffic. All electric cars were set to normal mode (no eco or sport modes) and with AC on (set to 19-23 ºC). The outside temperature varied between 26 and 33 ºC, perfect to get high mileage.
 
 Furthermore, to safely test how much range these electric cars have left when empty battery warnings show up, the last kilometers were made at the Circuit de Barcelona-Catalunya, which is a motorsport race track in Montmeló, Barcelona, Catalonia, Spain.
 

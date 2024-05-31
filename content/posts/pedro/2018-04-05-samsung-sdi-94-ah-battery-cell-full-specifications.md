@@ -37,15 +37,15 @@ Unless a short circuit occurs you don't need to worry about a thermal runaway ev
 
 ![Samsung SDI 94 Ah cell specs 6-13](images/Samsung-SDI-94-Ah-cell-specs-6-13.avif)
 
-After 4.600 charge/discharge complete cycles (from 0 to 100 %) at 25º C, the battery cells retain 80 % of the initial capacity. If we consider that with a full charge a BMW i3 have on average a 200 km of range during the 4.600 cycles, it means that by the time it reaches 920.000 km it'll still have 80 % of its initial battery capacity left.
+After 4.600 charge/discharge complete cycles (from 0 to 100 %) at 25 ºC, the battery cells retain 80 % of the initial capacity. If we consider that with a full charge a BMW i3 have on average a 200 km of range during the 4.600 cycles, it means that by the time it reaches 920.000 km it'll still have 80 % of its initial battery capacity left.
 
 ![Samsung SDI 94 Ah cell specs 8-13](images/Samsung-SDI-94-Ah-cell-specs-8-13.avif)
 
-Batteries are like people, they work best at 25º C and that's why TMS (Thermal Management Systems) are so important.
+Batteries are like people, they work best at 25 ºC and that's why TMS (Thermal Management Systems) are so important.
 
 ![Samsung SDI 94 Ah cell specs 9-13](images/Samsung-SDI-94-Ah-cell-specs-9-13.avif)
 
-At 45º C we reach the EOL (End of Life) in 2.000 instead of 4.600 full cycles. Samsung SDI considers the EOL of a battery to be at 80 % of its initial capacity. Nevertheless, after 400.000 km still having 80 % of the initial battery capacity isn't bad.
+At 45 ºC we reach the EOL (End of Life) in 2.000 instead of 4.600 full cycles. Samsung SDI considers the EOL of a battery to be at 80 % of its initial capacity. Nevertheless, after 400.000 km still having 80 % of the initial battery capacity isn't bad.
 
 ![Samsung SDI 94 Ah cell specs 10-13](images/Samsung-SDI-94-Ah-cell-specs-10-13.avif)
 
@@ -53,7 +53,7 @@ I'm still thinking about those 920.000 km...
 
 ![Samsung SDI 94 Ah cell specs 11-13](images/Samsung-SDI-94-Ah-cell-specs-11-13.avif)
 
-By cycling the battery at 60º C the EOL is reached in only two and half years.
+By cycling the battery at 60 ºC the EOL is reached in only two and half years.
 
 ![Samsung SDI 94 Ah cell specs 12-13](images/Samsung-SDI-94-Ah-cell-specs-12-13.avif)
 

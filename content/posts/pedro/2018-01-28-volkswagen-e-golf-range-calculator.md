@@ -15,11 +15,11 @@ The online range calculator for the Volkswagen e-Golf isn't the first. We alread
 
 Anyway, while it isn't a surprise that temperature and speed influence the range of electric cars, the importance of heat pumps isn't something that everybody knows.
 
-Moreover, it seems that most people think that heat pumps are useless at temperatures below 0º C. Nonetheless, with modern heat pumps this isn't true anymore. As I already mentioned in the comment section of the article about the Opel Ampera-e range calculator, there are modern heat pumps that work at -30º C with “positive” COP (1,1).
+Moreover, it seems that most people think that heat pumps are useless at temperatures below 0 ºC. Nonetheless, with modern heat pumps this isn't true anymore. As I already mentioned in the comment section of the article about the Opel Ampera-e range calculator, there are modern heat pumps that work at -30 ºC with “positive” COP (1,1).
 
 In my opinion, things that improve efficiency like heat pumps, heated seats and LED headlights should be standard in every electric car.
 
-In the Volkswagen e-Golf range calculator set to -10º C at city-driving speeds and normal driving mode we can get very different range figures:
+In the Volkswagen e-Golf range calculator set to -10 ºC at city-driving speeds and normal driving mode we can get very different range figures:
 
 - **Without AC**: 223 km
 - **With heat pump AC**: 180 km (43 km less)
@@ -31,4 +31,4 @@ This is how Volkswagen describes its heat pump:
 
 > "The optional heat pump is an energy-efficient alternative for the winter, which uses the ambient air and waste heat from the electrical drive components to provide warmth. This can lead to energy savings of up to 50% compared to an electrical heating system. This in turn has a positive effect on fuel range."
 
-Summing up, now that you know that heat pumps are important, even at -10º C, you know that this is something that every electric car should have, especially when used at colder climates. Furthermore, if you live in Europe and find difficult to order a Opel Ampera-e, you should wait for the Hyundai Kona Electric. For plenty of reasons, it'll be a comparable but much better electric car.
+Summing up, now that you know that heat pumps are important, even at -10 ºC, you know that this is something that every electric car should have, especially when used at colder climates. Furthermore, if you live in Europe and find difficult to order a Opel Ampera-e, you should wait for the Hyundai Kona Electric. For plenty of reasons, it'll be a comparable but much better electric car.

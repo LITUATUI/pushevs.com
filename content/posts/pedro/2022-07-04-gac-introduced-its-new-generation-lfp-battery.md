@@ -18,7 +18,7 @@ GAC Tech day was held at GAC R&D Center, where the company announced its new gen
 - **Battery chemistry**: SmLFP
 - **Volumetric energy density increase**: 20 %
 - **Gravimetric energy density increase**: 13,5 %
-- **Low temperature (-20º C) capacity increase**: 10 %
+- **Low temperature (-20 ºC) capacity increase**: 10 %
 - **Fast charging**: above 2 C-rate
 - **Life cycle**: 1,5 million kilometers
 

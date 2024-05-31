@@ -17,7 +17,7 @@ According to Chinese media, Tesla has secured an initial order of 10 GWh worth o
 
 Currently, the LFP battery packs of Tesla made with CATL's battery cells only reach an energy density of 126 Wh/kg, but [BYD's Blade battery packs are more energy dense and have already reached 150 Wh/kg](/2021/08/17/byd-yuan-plus-is-almost-ready-for-launch/).
 
-People that worry about LFP's poor performance on low temperatures, actually have nothing to worry about. Thanks to a powerful and efficient TMS (Thermal Management System), LFP battery packs can perform extremely well even at an ambient temperature of -20º C.
+People that worry about LFP's poor performance on low temperatures, actually have nothing to worry about. Thanks to a powerful and efficient TMS (Thermal Management System), LFP battery packs can perform extremely well even at an ambient temperature of -20 ºC.
 
 ![BYD Blade battery with thermal management](images/BYD-Blade-battery-with-thermal-management.avif)
 

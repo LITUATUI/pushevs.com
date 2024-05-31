@@ -50,7 +50,7 @@ The second chart is the most interesting one. In here we see how many charge/dis
 
 As you can see it's better to cycle battery cells at lower SoC. For example, if you decide to constantly fully charge a battery cell (100 %) and discharge it till 20 % you can expect 1.000 cycles until reaching the EOL. However, if you charge it till 80 % and discharge it fully (till 0 %), you can expect to triple the cycles (3.000) before reaching the EOL. In both cases you're only using 80 % of the total battery cell capacity.
 
-Anyway, these battery cell tests were made at ideal temperature (25º C) and moderate C-rate (0,5 C) for both charging and discharging. But what do they tell us about electric car battery packs?
+Anyway, these battery cell tests were made at ideal temperature (25 ºC) and moderate C-rate (0,5 C) for both charging and discharging. But what do they tell us about electric car battery packs?
 
 Electric cars already have BMS (Battery Management Systems) that prevent batteries from being fully charged or discharged, however BMS aren't created equal, some are more protective than others.
 
