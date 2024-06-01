@@ -11,17 +11,17 @@ require (
 	github.com/hbstack/background-image v0.2.1 // indirect
 	github.com/hbstack/base v0.6.0 // indirect
 	github.com/hbstack/bigger-picture v0.10.1 // indirect
-	github.com/hbstack/blog v0.33.0 // indirect
+	github.com/hbstack/blog v0.34.0 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.21 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
 	github.com/hbstack/blog/modules/giscus v0.1.23 // indirect
 	github.com/hbstack/blog/modules/heading-sign v0.1.23 // indirect
 	github.com/hbstack/blog/modules/post-authors v0.1.0 // indirect
-	github.com/hbstack/blog/modules/post-nav v0.3.8 // indirect
-	github.com/hbstack/blog/modules/related-posts v0.3.0 // indirect
+	github.com/hbstack/blog/modules/post-nav v0.4.0 // indirect
+	github.com/hbstack/blog/modules/related-posts v0.4.0 // indirect
 	github.com/hbstack/blog/modules/sidebar/posts v0.8.0 // indirect
 	github.com/hbstack/blog/modules/social-share-buttons v0.1.1 // indirect
-	github.com/hbstack/blog/modules/sticky-till-the-end v0.1.0 // indirect
+	github.com/hbstack/blog/modules/sticky-till-the-end v0.2.0 // indirect
 	github.com/hbstack/bootstrap v0.2.2 // indirect
 	github.com/hbstack/carousel v0.2.5 // indirect
 	github.com/hbstack/code-block-panel v0.1.2 // indirect
@@ -32,11 +32,11 @@ require (
 	github.com/hbstack/giscus v0.1.1 // indirect
 	github.com/hbstack/google-fonts v0.1.1 // indirect
 	github.com/hbstack/hb v0.12.2 // indirect
-	github.com/hbstack/header v0.14.3 // indirect
+	github.com/hbstack/header v0.14.4 // indirect
 	github.com/hbstack/header/modules/news v0.3.0 // indirect
-	github.com/hbstack/header/modules/search v0.1.35 // indirect
+	github.com/hbstack/header/modules/search v0.1.36 // indirect
 	github.com/hbstack/header/modules/socials v0.2.0 // indirect
-	github.com/hbstack/header/modules/theme-toggle v0.5.0 // indirect
+	github.com/hbstack/header/modules/theme-toggle v0.5.1 // indirect
 	github.com/hbstack/heading-sign v0.2.0 // indirect
 	github.com/hbstack/mermaid v0.2.2 // indirect
 	github.com/hbstack/noscript v0.7.0 // indirect
@@ -74,10 +74,10 @@ require (
 	github.com/hugomods/pwa v0.9.0 // indirect
 	github.com/hugomods/search v0.14.0 // indirect
 	github.com/hugomods/seo/modules/alternatives v0.1.0 // indirect
-	github.com/hugomods/seo/modules/base v0.1.1 // indirect
+	github.com/hugomods/seo/modules/base v0.1.2 // indirect
 	github.com/hugomods/seo/modules/favicons v0.2.1 // indirect
 	github.com/hugomods/seo/modules/open-graph v0.1.0 // indirect
-	github.com/hugomods/seo/modules/schema v0.1.1 // indirect
+	github.com/hugomods/seo/modules/schema v0.1.2 // indirect
 	github.com/hugomods/seo/modules/translations v0.1.0 // indirect
 	github.com/hugomods/seo/modules/twitter-cards v0.1.0 // indirect
 	github.com/hugomods/shortcodes v0.19.0 // indirect

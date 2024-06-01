@@ -3,6 +3,7 @@ title: "Technologies that will make electric vehicles even better"
 slug: "technologies-that-will-make-electric-vehicles-even-better"
 authors: "pedrolima"
 date: "2021-06-21"
+pinned: true
 featured: true
 categories:
   - "General"
