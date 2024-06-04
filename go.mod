@@ -55,8 +55,8 @@ require (
 	github.com/henrygd/bigger-picture v1.1.16 // indirect
 	github.com/hugomods/ascii v0.1.0 // indirect
 	github.com/hugomods/base v0.7.0 // indirect
-	github.com/hugomods/bootstrap v0.22.0 // indirect
-	github.com/hugomods/code-block-panel v0.6.0 // indirect
+	github.com/hugomods/bootstrap v0.22.2 // indirect
+	github.com/hugomods/code-block-panel v0.7.0 // indirect
 	github.com/hugomods/font-awesome v6.5.2+incompatible // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/giscus v0.1.1 // indirect
@@ -80,7 +80,7 @@ require (
 	github.com/hugomods/seo/modules/schema v0.1.2 // indirect
 	github.com/hugomods/seo/modules/translations v0.1.0 // indirect
 	github.com/hugomods/seo/modules/twitter-cards v0.1.0 // indirect
-	github.com/hugomods/shortcodes v0.19.0 // indirect
+	github.com/hugomods/shortcodes v0.21.0 // indirect
 	github.com/hugomods/simple-icons v12.1.0+incompatible // indirect
 	github.com/hugomods/snackbar v0.1.2 // indirect
 	github.com/hugomods/workbox v0.1.0 // indirect
