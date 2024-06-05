@@ -1,6 +1,6 @@
 ---
-title: "May 2024 - Tesla Model Y is back on top"
-slug: "may-2024-tesla-model-y-back-on-top"
+title: "May 2024 - Tesla Model Y is back on top in Sweden"
+slug: "may-2024-tesla-model-y-back-on-top-in-sweden"
 authors: "maximilianholland"
 date: "2024-06-05"
 categories:
