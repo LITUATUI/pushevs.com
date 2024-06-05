@@ -1,7 +1,7 @@
 ---
 title: "Mass production of new all-electric Explorer starts at Ford’s EV assembly plant in Cologne"
 external_url: "https://media.ford.com/content/fordmedia/fna/us/en/news/2024/06/04/mass-production-of-new-all-electric-explorer-starts-at-fords-ev-.html"
-date: "2024-05-04"
+date: "2024-06-04"
 images:
   - "https://media.ford.com/content/fordmedia/fna/us/en/news/2024/06/04/mass-production-of-new-all-electric-explorer-starts-at-fords-ev-/jcr:content/image.img.306.172.jpg/1717505768742.jpg"
 ---
