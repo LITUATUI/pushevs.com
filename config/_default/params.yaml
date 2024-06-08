@@ -26,7 +26,7 @@ hb:
         id: sponsors/LITUATUI
       - name: github
         id: LITUATUI/pushevs.com        
-      - name: twitter
+      - name: x
         id: PushEVs
       - name: facebook
         id: PushEVs
@@ -162,7 +162,7 @@ hb:
         id: sponsors/LITUATUI
       - name: github
         id: LITUATUI/pushevs.com        
-      - name: twitter
+      - name: x
         id: PushEVs
       - name: facebook
         id: PushEVs

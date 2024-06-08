@@ -2,7 +2,7 @@
 title: EVB
 description: EVB is a sponsor that provides smart charging solutions.
 socials:
-  - name: twitter
+  - name: x
     id: EVBcharging
   - name: facebook
     id: evbcharging

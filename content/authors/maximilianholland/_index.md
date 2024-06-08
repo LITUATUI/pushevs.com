@@ -4,7 +4,7 @@ description: Dr. Maximilian Holland is an anthropologist, social theorist and in
 socials:
   - name: kofi
     id: drmaxholland
-  - name: twitter
+  - name: x
     id: Dr_Maximilian
   - name: linkedin
     id: maximilianholland
