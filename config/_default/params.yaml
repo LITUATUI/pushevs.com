@@ -48,7 +48,7 @@ hb:
       size: 2em
       media:
         - reddit
-        - twitter
+        - x
         - facebook
         - linkedin
         - telegram
@@ -125,7 +125,7 @@ hb:
       alignment: center
       media:
         - reddit
-        - twitter
+        - x
         - facebook
         - linkedin
         - telegram
