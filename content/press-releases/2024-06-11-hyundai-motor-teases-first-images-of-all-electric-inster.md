@@ -3,7 +3,7 @@ title: "Hyundai Motor teases first images of all-electric INSTER"
 external_url: "https://www.hyundai.news/eu/articles/press-releases/hyundai-motor-teases-first-images-of-all-electric-inster.html"
 date: "2024-06-11"
 images:
-  - "https://dmassets.hyundai.com/is/image/hyundaiautoever/hyundai-inster-first-images-03:Article%20List%20Item%20Image%20Desktop?wid=260&hei=173"
+  - "https://dmassets.hyundai.com/is/image/hyundaiautoever/hyundai-inster-first-images-03:Article%20List%20Item%20Image%20Desktop"
 ---
 
 Hyundai Motor Company today unveiled the first official teaser images of its new A-segment sub-compact EV: INSTER.
