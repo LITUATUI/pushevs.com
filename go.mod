@@ -6,13 +6,14 @@ require (
 	github.com/GoogleChrome/workbox v7.1.0+incompatible // indirect
 	github.com/KaTeX/KaTeX v0.16.10 // indirect
 	github.com/Templarian/MaterialDesign-SVG v7.4.47+incompatible // indirect
+	github.com/desandro/masonry v4.2.2+incompatible // indirect
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hbstack/back-to-top v0.2.0 // indirect
 	github.com/hbstack/background-image v0.2.1 // indirect
 	github.com/hbstack/base v0.6.1 // indirect
 	github.com/hbstack/bigger-picture v0.10.1 // indirect
-	github.com/hbstack/blog v0.36.1 // indirect
+	github.com/hbstack/blog v0.37.0 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.21 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
 	github.com/hbstack/blog/modules/giscus v0.1.24 // indirect
@@ -72,6 +73,7 @@ require (
 	github.com/hugomods/idb-js v0.1.0 // indirect
 	github.com/hugomods/images v0.11.0 // indirect
 	github.com/hugomods/katex v0.3.2 // indirect
+	github.com/hugomods/masonry-js v0.1.0 // indirect
 	github.com/hugomods/mermaid v0.1.1 // indirect
 	github.com/hugomods/pwa v0.9.0 // indirect
 	github.com/hugomods/search v0.14.0 // indirect
