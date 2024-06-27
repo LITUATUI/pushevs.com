@@ -1,5 +1,5 @@
 ---
-title: "CATL's TENER Energy Storage System Unveiled at ees Europe 2024, Showcasing Breakthrough Technology"
+title: "CATL's TENER Energy Storage System unveiled at EES Europe 2024, showcasing breakthrough technology"
 external_url: "https://www.catl.com/en/news/6255.html"
 date: "2024-06-21"
 images:
