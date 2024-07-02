@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/GoogleChrome/workbox v7.1.0+incompatible // indirect
-	github.com/KaTeX/KaTeX v0.16.10 // indirect
+	github.com/KaTeX/KaTeX v0.16.11 // indirect
 	github.com/Templarian/MaterialDesign-SVG v7.4.47+incompatible // indirect
 	github.com/desandro/masonry v4.2.2+incompatible // indirect
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
