@@ -27,7 +27,7 @@
 }
 
 @media (max-width: 1900px) {
-	#left-sidebar-carousel, #sponsor-right-sidebar {
+	#left-sidebar-carousel, #right-sponsor-sidebar {
 		display: none;
 	}
 }
@@ -65,7 +65,7 @@
   max-height: 100vh;
 }
 
-#sponsor-right-sidebar {
+#right-sponsor-sidebar {
   position: fixed;
   top: 50%;
   transform: translateY(-50%);

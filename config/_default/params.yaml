@@ -206,12 +206,10 @@ hugopress:
           cacheable: true
         hb-blog-main-begin:
           cacheable: true
-        hb-blog-main-end:
+        hb-blog-post-content-end:
           cacheable: true
-        #hb-blog-post-content-end:
+        #hb-blog-post-comments-begin:
           #cacheable: true
-        hb-blog-post-comments-begin:
-          cacheable: true
         body-end:
           cacheable: true
         hb-blog-sidebar:
