@@ -1,5 +1,5 @@
 ---
-title: "June 2024 - Triple trouble hits EV transition in"
+title: "June 2024 - Triple trouble hits EV transition in Germany"
 slug: "june-2024-triple-trouble-hits-ev-transition-in-germany"
 authors: "maximilianholland"
 date: "2024-07-07"
