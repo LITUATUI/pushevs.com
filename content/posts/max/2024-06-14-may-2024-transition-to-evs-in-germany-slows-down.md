@@ -1,8 +1,8 @@
 ---
-title: "April 2024 - Transition to EVs in Germany slows down"
-slug: "april-2024-transition-to-evs-in-germany-slows-down"
+title: "May 2024 - Transition to EVs in Germany slows down"
+slug: "may-2024-transition-to-evs-in-germany-slows-down"
 authors: "maximilianholland"
-date: "2024-04-14"
+date: "2024-06-14"
 categories:
   - "EV sales"
 tags:
