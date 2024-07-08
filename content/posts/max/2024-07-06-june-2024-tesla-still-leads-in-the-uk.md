@@ -2,7 +2,7 @@
 title: "June 2024 - Tesla still leads in the UK"
 slug: "june-2024-tesla-still-leads-in-the-uk"
 authors: "maximilianholland"
-date: "2024-06-07"
+date: "2024-07-06"
 categories:
   - "EV sales"
 tags:
