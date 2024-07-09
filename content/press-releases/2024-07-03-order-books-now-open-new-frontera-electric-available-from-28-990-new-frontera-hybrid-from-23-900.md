@@ -1,5 +1,5 @@
 ---
-title: "Order books now open: New Frontera Electric available from €28,990, New Frontera Hybrid from €23,900"
+title: "Order books now open: New Frontera Electric available from €28,990, new Frontera Hybrid from €23,900"
 external_url: "https://www.media.stellantis.com/em-en/opel/press/order-books-now-open-new-frontera-electric-available-from-28-990-new-frontera-hybrid-from-23-900"
 date: "2024-07-03"
 images:
