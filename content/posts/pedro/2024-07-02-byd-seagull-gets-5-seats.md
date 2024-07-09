@@ -13,7 +13,7 @@ The small BYD Seagull, or as it's known in South America, BYD Dolphin Mini, debu
 
 BYD Colombia's technical documents now show the BYD Dolphin Mini only available with 5 seats. However, we still don't know if the 4 and 5 seat versions will be sold side-by-side in other markets.
 
-Brazil will soon also get this 5 seat version - that has been long awaited by brazilian potential costumers.
+Brazil will soon also get this 5 seat version - that has been long awaited by brazilian potential customers.
 
 Having only 4 seats and the extremely soft rear suspension were the main complains in Brazil.
 
