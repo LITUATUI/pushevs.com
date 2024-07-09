@@ -1,5 +1,5 @@
 ---
-title: "People carrier is ready to go: Opel opens order books for new combo electric"
+title: "People carrier is ready to go: Opel opens order books for new Combo Electric"
 external_url: "https://www.media.stellantis.com/em-en/opel/press/people-carrier-is-ready-to-go-opel-opens-order-books-for-new-combo-electric"
 date: "2024-07-08"
 images:
