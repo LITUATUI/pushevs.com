@@ -1,5 +1,5 @@
 ---
-title: "EVB leads at ASEAN SUSTAINABLE ENERGY WEEK with smart EV charging solutions"
+title: "EVB leads at Asean Sustainable Energy Week with smart EV charging solutions"
 external_url: "https://www.evb.com/news/evb-leads-at-asean-sustainable-energy-week-with-smart-ev-charging-solutions/"
 authors: "EVB"
 date: "2024-07-05"
