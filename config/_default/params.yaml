@@ -210,8 +210,8 @@ hugopress:
           #cacheable: true
         hb-blog-post-comments-begin:
           cacheable: true
-        body-end:
-          cacheable: true
+        #body-end:
+          #cacheable: true
         hb-blog-sidebar:
           cacheable: false
           weight: 1
