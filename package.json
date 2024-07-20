@@ -17,18 +17,9 @@
       "rtlcss": "project"
     }
   },
-  "dependencies": {
-    "autoprefixer": "^10.4.13",
-    "postcss-cli": "^10.1.0",
-    "rtlcss": "^4.0.0"
-  },
   "description": "The cards theme of [HB Framework](https://hbstack.dev/).",
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^5.0.0",
-    "autoprefixer": "^10.4.18",
-    "decap-server": "^3.0.2",
-    "postcss-cli": "^11.0.0",
-    "rtlcss": "^4.1.1"
+    "decap-server": "^3.0.2"
   },
   "homepage": "https://github.com/hbstack/theme-cards#readme",
   "license": "MIT",
@@ -40,5 +31,8 @@
   "scripts": {
     "dev": "hugo server --gc -D",
     "prod": "hugo server --gc --disableFastRender --renderToDisk --minify -e production -p 1314"
+  },
+  "dependencies": {
+    "@hbstack/node-packages": "^0.1.3"
   }
 }
