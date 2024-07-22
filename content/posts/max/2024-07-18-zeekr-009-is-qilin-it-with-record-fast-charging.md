@@ -43,7 +43,7 @@ The 009 will be offered in 4-seat and 6-seat options, and additionally — new w
 
 EV battery technology is still developing very fast. For most people with daily or weekly access to a convenient plug, the existing DC recharge speeds of typically 25 to 35 minutes are already a comfortable fit. These charging capabilities are already well suited to taking a much needed break after two or three hours of driving on a long journey — one of the few times DC charging is needed.
 
-For die-hard petrol-heads who complain that EV recharging is “not as fast as fossil fuel refilling” (ignoring that most charge is done without any “delay” at home), the 11-minute charging of the ZEEKR 001 might just give them pause for thought.
+For die-hard petrol-heads who complain that EV recharging is “not as fast as fossil fuel refilling” (ignoring that most charge is done without any “delay” at home), the 11-minute charging of the ZEEKR 009 might just give them pause for thought.
 
 And EV battery technology is not stopping here. CATL has already invented an EV battery with a 10C charging rate, which allows 10% to 80% charging in 5 minutes (not yet commercialized). This will enable drivers without access to a daily plug to nevertheless “top up” one or twice a week at a charging hub, with the same convenience that ICE drivers now top up with gasoline. As EV battery technology continues to evolve, that diversionary old argument that “EVs take too long to charge” will soon become obsolete.
 
