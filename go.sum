@@ -130,8 +130,8 @@ github.com/hugomods/icons/vendors/font-awesome v0.6.8 h1:wcqovckhWxcYTkOn4JOp2Hl
 github.com/hugomods/icons/vendors/font-awesome v0.6.8/go.mod h1:IwJEJX8eFwDFCcxMjFBIgVWlPTf16yFVk78Rc3RUBjs=
 github.com/hugomods/icons/vendors/mdi v0.3.6 h1:CGMCi7aEHKBOYMdyKJF8FmEt1+9vV5Hvptp3qHY25Bo=
 github.com/hugomods/icons/vendors/mdi v0.3.6/go.mod h1:XDQZ9k0Xmxy6Xh7idvjUkfb5DhDJmQPHCavlRHymSg8=
-github.com/hugomods/icons/vendors/simple-icons v1.0.45 h1:vctbGh89SbzB3gdzwn9ONJhmnKC9AmBtE5uTU8ET9Ys=
-github.com/hugomods/icons/vendors/simple-icons v1.0.45/go.mod h1:uCOLQy1qICLIFyWZMPUG5FCH2nJEFvZRjEZ4UM4Pvto=
+github.com/hugomods/icons/vendors/simple-icons v1.0.46 h1:9JsV4HaZQSKoVFySLIlGkeTF2yhwLN84ehQbPUwLHeI=
+github.com/hugomods/icons/vendors/simple-icons v1.0.46/go.mod h1:OkG7GY2x/zFC9k3ueYcm2vmtNhIMczRb188FLfg+mJI=
 github.com/hugomods/idb-js v0.1.0 h1:mA6hEGtR0aFEdmq9zYMGpfSpCU6SMilx9RzC4uK3DqY=
 github.com/hugomods/idb-js v0.1.0/go.mod h1:GPfnmr+BQpP4s6Epd4Yu+RlUog8q/Djw8qy8BZFWZ04=
 github.com/hugomods/images v0.11.0 h1:njtKxqLmKIRXwzriosh13aj9BK3iBgJXeQFpYXIzQTM=
@@ -162,8 +162,8 @@ github.com/hugomods/seo/modules/twitter-cards v0.1.1 h1:1cxNnftQ8MdajH48tB46DQ6e
 github.com/hugomods/seo/modules/twitter-cards v0.1.1/go.mod h1:KA6MA3GbyQZdd3vloDgcTFBoztmqEJI8R59whcSxpf4=
 github.com/hugomods/shortcodes v0.21.0 h1:h8Vulwd3Kiff5FERe3KaAXsI9GWW3msNof6XjNgGGEo=
 github.com/hugomods/shortcodes v0.21.0/go.mod h1:EnVopbZMNI/HeteM3Lp3phBTCRLvPSe7l142qhRFFPY=
-github.com/hugomods/simple-icons v13.1.0+incompatible h1:Za4+J+EOjMOAlsm0vNS2AhYhfidyyOmJH37AM0HR0i4=
-github.com/hugomods/simple-icons v13.1.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
+github.com/hugomods/simple-icons v13.2.0+incompatible h1:H/bDwNBVazbtdTg/TQlGyfWRYK5N5ZW5ORu/CiVxq5g=
+github.com/hugomods/simple-icons v13.2.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
 github.com/hugomods/snackbar v0.1.2 h1:SLpfH9jlYwf81epH7DvM2XTZHo+3fXXpk6XKtxmo964=
 github.com/hugomods/snackbar v0.1.2/go.mod h1:ykFm0IFibeQPuPAm8Gaa27xJS/bNZcSez4omVSl2gQ0=
 github.com/hugomods/workbox v0.1.0 h1:yxuTj3gT1BNf6OitxrjxSJXfmbFBj2UTwdWr142eYFQ=
@@ -174,7 +174,6 @@ github.com/krisk/Fuse v7.0.0+incompatible h1:jVyg6No+Joc51Rn97QQYJZIpCxzd4ywACn/
 github.com/krisk/Fuse v7.0.0+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
 github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c h1:hrltBL583MlICBG/JXexhV+nAXLRMzbk1qxYj/bkUWU=
 github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c/go.mod h1:D6uU0Pn65zsN6+Dw2MziIrXGe64mys/uXN0YLifcHTI=
-github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/bootstrap v5.3.3+incompatible h1:goFoqinzdHfkeegpFP7pvhbd0g+A3O2hbU3XCjuNrEQ=
 github.com/twbs/bootstrap v5.3.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=
