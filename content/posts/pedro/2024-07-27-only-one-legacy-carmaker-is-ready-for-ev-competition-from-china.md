@@ -39,6 +39,6 @@ With upcoming module-less and cobalt-free batteries not only approaching a energ
 
 Anyway, it's mind boggling that carmakers like Dacia and Renault - that focus on delivering good value for money -, are still not using the best technologies to produce good and affordable electric cars.
 
-Next year, not only BYD will start using super affordable sodium-ion batteries but also build its electric cars locally in multiple continents, a lot of legacy carmakers will have a hard time to compete.
+Next year, not only BYD will start using super affordable sodium-ion batteries, but also build its electric cars locally in multiple continents, a lot of legacy carmakers will have a hard time to compete.
 
 I believe that a BYD Seagull made in Europe with a sodium-ion battery could be the first electric car to seriously challenge the super affordable Dacia Sandero - that is currently [Europe's best seller](https://www.autoexpress.co.uk/dacia/sandero/363817/dacia-sandero-europes-best-selling-car-so-far). With best battery current technologies, there's no reason why electric cars can't compete with the most affordable ICE (Internal Combustion Engine) cars also on price. LFP and CTP battery packs are already at 50 euros per kWh and next year will be around 40-45 euros with sodium-ion...
