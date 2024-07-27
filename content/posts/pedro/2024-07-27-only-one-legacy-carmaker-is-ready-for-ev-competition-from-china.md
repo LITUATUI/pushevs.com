@@ -35,7 +35,7 @@ The logic behind this statement is that, with more and faster public electric ca
 
 In my opinion, it's crazy to have electric cars carrying huge half-ton batteries all the time. We need more public chargers, but also electric cars that can be charged at higher C-rates. Don't you agree?
 
-With upcoming module-less and cobalt-free batteries not only approaching a energy density of 200 Wh/kg, but also supporting 3-6 C-rates charging, it means that a full charge can be made in 10-20 minutes, or half (from 20 to 70 %) in just 5-10 minutes.
+With upcoming module-less and cobalt-free batteries not only approaching an energy density of 200 Wh/kg, but also supporting 3-6 C-rates charging, it means that a full charge can be made in 10-20 minutes, or half (from 20 to 70 %) in just 5-10 minutes.
 
 Anyway, it's mind boggling that carmakers like Dacia and Renault - that focus on delivering good value for money -, are still not using the best technologies to produce good and affordable electric cars.
 
