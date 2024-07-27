@@ -81,4 +81,4 @@ Advertisers can also have their external posts linked on this website, check the
 
  
 
-If you want to start advertising [contact me](mailto:contact@pushevs.com). Advertising agreements have a minimum duration of 1 month and a maximum of 12 months.
+If you want to start advertising [contact me](mailto:pedrolima@pushevs.com). Advertising agreements have a minimum duration of 1 month and a maximum of 12 months.
