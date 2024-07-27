@@ -19,7 +19,7 @@ What makes him confident saying that and what's the plan?
 
 We need to go back to the [Stellantis EV Day 2021](https://www.stellantis.com/en/investors/events/ev-day-2021) to know what's the electrification strategy.
 
-On this website I've been writing for a very long time that currently the most important part of a strategy to build good and affordable electric cars relies on adopting cobalt-free chemistries - such as LFP/LMFP, NMX and sodium-ion -, module-less battery packs and multiple suppliers.
+On this website I've been writing for a very long time that currently the most important part of a strategy to build good and affordable electric cars relies on adopting cobalt-free chemistries - such as LFP/LMFP, NMx and sodium-ion -, module-less battery packs and multiple suppliers.
 
 Starting this year, Stellantis will sell cheaper electric cars powered by cobalt-free and module-less battery packs.
 
