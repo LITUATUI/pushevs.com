@@ -1,5 +1,5 @@
 ---
-title: "Ready to go: New Opel Zafira Electric available to order now"
+title: "Ready to go: new Opel Zafira Electric available to order now"
 external_url: "https://www.media.stellantis.com/em-en/opel/press/ready-to-go-new-opel-zafira-electric-available-to-order-now"
 date: "2024-07-29"
 images:
