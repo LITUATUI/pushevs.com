@@ -1,5 +1,5 @@
 ---
-title: "Invitation to ENEV 2024: Explore EVB’s cutting-edge solutions"
+title: "Invitation to ENEV 2024: explore EVB’s cutting-edge solutions"
 external_url: "https://www.evb.com/news/invitation-to-enev-2024-explore-evbs-cutting-edge-solutions/"
 authors: "EVB"
 date: "2024-04-29"

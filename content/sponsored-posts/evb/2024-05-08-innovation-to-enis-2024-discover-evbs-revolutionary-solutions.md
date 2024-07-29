@@ -1,5 +1,5 @@
 ---
-title: "Innovation to ENIS 2024: Discover EVB’s Revolutionary Solutions"
+title: "Innovation to ENIS 2024: discover EVB’s Revolutionary Solutions"
 external_url: "https://www.evb.com/news/innovation-to-enis-2024-discover-evbs-revolutionary-solutions/"
 authors: "EVB"
 date: "2024-05-08"

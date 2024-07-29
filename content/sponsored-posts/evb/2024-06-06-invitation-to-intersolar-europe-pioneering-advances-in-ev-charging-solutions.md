@@ -1,5 +1,5 @@
 ---
-title: "Invitation to Intersolar Europe: Pioneering advances in EV charging solutions!"
+title: "Invitation to Intersolar Europe: pioneering advances in EV charging solutions!"
 external_url: "https://www.evb.com/news/invitation-to-intersolar-europe-pioneering-advances-in-ev-charging-solutions/"
 authors: "EVB"
 date: "2024-06-06"

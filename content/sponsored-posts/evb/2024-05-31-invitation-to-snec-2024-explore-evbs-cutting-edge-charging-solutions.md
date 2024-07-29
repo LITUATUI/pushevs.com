@@ -1,5 +1,5 @@
 ---
-title: "Invitation to SNEC 2024: Explore EVB’s cutting-edge charging solutions"
+title: "Invitation to SNEC 2024: explore EVB’s cutting-edge charging solutions"
 external_url: "https://www.evb.com/news/invitation-to-snec-2024-explore-evbs-cutting-edge-charging-solutions/"
 authors: "EVB"
 date: "2024-05-31"

@@ -1,5 +1,5 @@
 ---
-title: "The all-electric Škoda Elroq: Breaking new ground in the compact SUV
+title: "The all-electric Škoda Elroq: breaking new ground in the compact SUV
 segment with a covered design"
 external_url: "https://www.skoda-storyboard.com/en/press-kits/the-all-electric-skoda-elroq-breaking-new-ground-in-the-compactsuv-segment-with-a-covered-design/"
 date: "2024-07-01"
