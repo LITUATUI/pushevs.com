@@ -1,5 +1,5 @@
 ---
-title: "SAMSUNG SDI announces second quarter 2024 earnings results"
+title: "Samsung SDI announces second quarter 2024 earnings results"
 external_url: "https://www.samsungsdi.com/sdi-now/sdi-news/3862.html?pageIndex=1&pagesize=15&idx=3862"
 date: "2024-07-30"
 images:
