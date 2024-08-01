@@ -1,5 +1,5 @@
 ---
-title: "SVOLT revolutionizes fast charging: New Short Blade batteries enable range in minutes"
+title: "SVOLT revolutionizes fast charging: new short blade batteries enable range in minutes"
 external_url: "https://www.svolt-eu.com/en/press/svolt-revolutionizes-fast-charging/"
 date: "2024-07-11"
 images:
