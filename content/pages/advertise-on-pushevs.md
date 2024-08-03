@@ -57,28 +57,24 @@ To me, it's important to separate content from ads and if possible show them whe
 
 ### New simplified advertising agreement
 
-Now you won't need to choose which ad slots to reserve, your banners will appear on all.
+Instead of having banners all over the place, now advertisers share the best ad slot there is, the sticky sidebar.
 
-- Every advertiser will have its banners displayed on 6 different high-visibility locations to boost the CTR (click-through rate).
-- To reduce ad fatigue/blindness, ad slots can be shared by multiple advertisers and banners are randomly rotated or inserted in a slider.
+Each advertiser will have its banner displayed on a slider with extremely high visibility and CTR (click-through rate), which is placed on the sticky sidebar. Not only the slider allows more advertisers to share the best ad placement, its dynamic nature also helps to reduce ad fatigue/blindness. Moreover, now advertisers only have to design a square banner.
 
- 
 
-### Ad slots
-
-<table style="height: 486px;" width="1320" cellspacing="0" cellpadding="4"><tbody><tr valign="top"><td width="206"><p lang="en-US" align="center"><b>Position</b></p></td><td width="136"><p lang="en-US" align="center"><b>Format (width x height)</b></p></td><td width="83"><p lang="en-US" align="center"><b>CTR (click-through rate)</b></p></td><td width="100"><p lang="en-US" align="center"><b>Insertion method</b></p></td></tr><tr valign="top"><td width="206"><p lang="en-US" align="center">Header</p></td><td width="136"><p lang="en-US" align="center">1280x120</p></td><td width="83"><p lang="en-US" align="center">Good</p></td><td width="100"><p lang="en-US" align="center">Rotation</p></td></tr><tr valign="top"><td width="206"><p lang="en-US" align="center">Sticky inside sidebar</p></td><td width="136"><p lang="en-US" align="center">300x300</p></td><td width="83"><p lang="en-US" align="center">Excellent</p></td><td width="100"><p lang="en-US" align="center">Slider</p></td></tr><tr valign="top"><td width="206"><p lang="en-US" align="center">Sticky left outside sidebar (Full HD desktop only)</p></td><td width="136"><p lang="en-US" align="center">300x1050</p></td><td width="83"><p lang="en-US" align="center">Excellent</p></td><td width="100"><p lang="en-US" align="center">Rotation</p></td></tr><tr valign="top"><td width="206"><p lang="en-US" align="center">Sticky right outside sidebar (Full HD desktop only)</p></td><td width="136"><p lang="en-US" align="center">300x1050</p></td><td width="83"><p lang="en-US" align="center">Excellent</p></td><td width="100"><p lang="en-US" align="center">Rotation</p></td></tr><tr valign="top"><td width="206"><p lang="en-US" align="center">After post (before comments)</p></td><td width="136"><p lang="en-US" align="center">900x200</p></td><td width="83"><p lang="en-US" align="center">Good</p></td><td width="100"><p lang="en-US" align="center">Rotation</p></td></tr><tr valign="top"><td width="206"><p lang="en-US" align="center">Footer (sticky on mobile)</p></td><td width="136"><p lang="en-US" align="center">1280x120</p></td><td width="83"><p lang="en-US" align="center">Good</p></td><td width="100"><p lang="en-US" align="center">Rotation/Slider</p></td></tr></tbody></table>
 
 ### Sponsored posts
 
-Advertisers can also have their external posts linked on this website, check the [Sponsored posts](/sponsored-posts/) section for examples.
+Advertisers with high quality websites can also have their external posts linked on this website, check the [Sponsored posts](/sponsored-posts/) section for examples.
+
 
 
 ### Price
 
-- **Short duration contract (1-4 months)**: 300 EUR per month
-- **Medium duration contract (5-8 months)**: 250 EUR per month
-- **Long duration contract (9-12 months)**: 200 EUR per month
+- **Short duration contract (1-4 months)**: 100 EUR per month
+- **Medium duration contract (5-8 months)**: 90 EUR per month
+- **Long duration contract (9-12 months)**: 80 EUR per month
 
- 
+
 
 If you want to start advertising [contact me](mailto:pedrolima@pushevs.com). Advertising agreements have a minimum duration of 1 month and a maximum of 12 months.
