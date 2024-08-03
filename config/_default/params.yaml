@@ -215,10 +215,10 @@ hugopress:
         hb-blog-sidebar:
           cacheable: false
           weight: 1
-    #hb-custom-2:
+    hb-custom-2:
       hooks:
         hb-blog-sidebar:
-          weight: 1
+          weight: 3
     # change the order of sidebar modules.
     hb-blog-sidebar-posts:
       hooks:
