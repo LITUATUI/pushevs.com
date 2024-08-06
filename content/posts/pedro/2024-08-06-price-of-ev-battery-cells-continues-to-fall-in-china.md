@@ -11,7 +11,7 @@ images:
 
 As expected, the price of EV battery cells continues to fall in China.
 
-Let's take a look to the average price of EV (Electric Vehicles) and ESS (Energy Storage System) battery cells in China.
+Let's take a look to the average price of EV (Electric Vehicle) and ESS (Energy Storage System) battery cells in China.
 
 #### EV battery cells (July 2024)
 
