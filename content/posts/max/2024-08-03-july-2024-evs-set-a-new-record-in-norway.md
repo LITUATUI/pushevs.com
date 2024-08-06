@@ -55,7 +55,7 @@ The new Lotus Emeya sports sedan also saw one registration, but is very high pri
 
 Let’s check up on the 3 month rankings:
 
-![](/ev-sales-images/2024-07-Norway-BEVs-Trailing-Qtr.png)
+![](/ev-sales-images/2024-07-Norway-BEVs-Trailing-Qtr.avif)
 
 The Tesla Model Y is obviously still highly dominant in Norway, even if less so than a year ago.
 
