@@ -66,7 +66,7 @@ Power is cheap when electric, helps with efficiency and regenerative braking. Th
 
 Summing up, legacy carmakers are overpricing electric cars to delay the transition to clean transportation and keep the status quo. I always find intriguing that some EV advocates ask for government subsidies to buy electric cars, without realizing they are being scammed by corporations. Moreover, subsidizing private products is always counter productive, because it removes the incentive to lower prices. What we need is to make polluting cars harder to sell, with higher taxes on sales and on fossil fuels.
 
-When finally polluting cars become extremely hard to sell, legacy carmakers will embrace electric cars, because it's best to sell them than nothing at all.
+Only when polluting cars become extremely hard to sell, legacy carmakers will finally embrace electric cars, because it's best to sell them than nothing at all.
 
 ---
 
