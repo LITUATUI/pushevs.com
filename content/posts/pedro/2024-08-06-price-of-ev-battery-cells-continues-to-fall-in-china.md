@@ -27,7 +27,7 @@ The EV battery cells are optimized for energy and power density, while ESS are m
 
 Anyway, a good 60 kWh CTP (cell to pack) battery costs around 3.500 euros (assembled cells in a case with TMS and BMS). So I ask kindly, dear carmakers stop overpricing EVs!
 
-Since the introduction of module-less LFP battery packs there's no reason why electrics cars can't compete with ICE (Internal Combustion Engine) cars on price and actually win.
+Since the introduction of module-less LFP battery packs there's no reason why electric cars can't compete with ICE (Internal Combustion Engine) cars on price and actually win.
 
 Moreover, with a decent public charging infrastructure and batteries that allow higher C-rates, electric cars actually don't need big and heavy batteries to please most people.
 
