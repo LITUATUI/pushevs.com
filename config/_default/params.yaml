@@ -202,8 +202,8 @@ hugopress:
       hooks:
         #head-end:
           #cacheable: true
-        #body-begin:
-          #cacheable: true
+        body-begin:
+          cacheable: true
         #hb-blog-main-begin:
           #cacheable: true
         #hb-blog-post-content-end:
