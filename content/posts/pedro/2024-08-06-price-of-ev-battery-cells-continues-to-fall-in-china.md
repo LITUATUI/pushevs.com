@@ -21,7 +21,7 @@ Let's take a look to the average price of EV (Electric Vehicle) and ESS (Energy 
 
 #### ESS battery cells (July 2024)
 
-- LFP (prismatic): 49 euros per kWh
+- **LFP (prismatic)**: 49 euros per kWh
 
 The EV battery cells are optimized for energy and power density, while ESS are mostly about cost, that's why they are a bit cheaper.
 
