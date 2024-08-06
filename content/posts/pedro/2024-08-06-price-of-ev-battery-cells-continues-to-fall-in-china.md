@@ -42,22 +42,22 @@ This is what we can have with today's best battery technology:
 - **WLTP range**: 340 km
 - **Price**: 10.000 euros
 
-#### Medium electric car specs: 
+#### Medium electric car specs:
 
 - **Motor**: 120 kW
 - **LFP battery capacity**: 50 kWh
-- **Battery cycle life**: 3.500 cyles (80 % of EOL)  
-- **Fast charging (200 kW)**: half in 8 minutes (from 20 to 70 %), or full in 15 minutes (4 C-rated battery)  
-- **WLTP range**: 400 km 
+- **Battery cycle life**: 3.500 cyles (80 % of EOL)
+- **Fast charging (200 kW)**: half in 8 minutes (from 20 to 70 %), or full in 15 minutes (4 C-rated battery)
+- **WLTP range**: 400 km
 - **Price**: 15.000 euros
 
-#### Large electric car specs: 
+#### Large electric car specs:
 
 - **Motor**: 200 kW
 - **LFP battery capacity**: 60 kWh
-- **Battery cycle life**: 3.500 cyles (80 % of EOL) 
+- **Battery cycle life**: 3.500 cyles (80 % of EOL)
 - **Fast charging (300 kW)**: half in 6 minutes (from 20 to 70 %), or full in 12 minutes (5 C-rated battery)
-- **WLTP range**: 420 km 
+- **WLTP range**: 420 km
 - **Price**: 20.000 euros
 
 Power is cheap when electric, helps with efficiency and regenerative braking. There's no reason to under power electric cars.
