@@ -1,6 +1,6 @@
 ---
 title: "July 2024 - Citroen ë-C3 delayed in France"
-slug: "July-2024-citroen-e-c3-delayed-in-france"
+slug: "july-2024-citroen-e-c3-delayed-in-france"
 authors: "maximilianholland"
 date: "2024-08-05"
 categories:
