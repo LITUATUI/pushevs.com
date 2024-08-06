@@ -27,8 +27,6 @@ The EV battery cells are optimized for energy and power density, while ESS are m
 
 Anyway, a good 60 kWh CTP (cell to pack) battery costs around 3.500 euros (assembled cells in a case with TMS and BMS). So I ask kindly, dear carmakers stop overpricing EVs!
 
-![](/images/Zoom-meeting-about-EV-sales.avif "Average legacy carmakers Zoom meetings")
-
 Since the introduction of module-less LFP battery packs there's no reason why electrics cars can't compete with ICE (Internal Combustion Engine) cars on price and actually win.
 
 Moreover, with a decent public charging infrastructure and batteries that allow higher C-rates, electric cars actually don't need big and heavy batteries to please most people.
@@ -63,6 +61,8 @@ This is what we can have with today's best battery technology:
 - **Price**: 20.000 euros
 
 Power is cheap when electric, helps with efficiency and regenerative braking. There's no reason to under power electric cars.
+
+![](/images/Zoom-meeting-about-EV-sales.avif "Average legacy carmakers Zoom meetings")
 
 Summing up, legacy carmakers are overpricing electric cars to delay the transition to clean transportation and keep the status quo. I always find intriguing that some EV advocates ask for government subsidies to buy electric cars, without realizing they are being scammed by corporations. Moreover, subsidizing private products is always counter productive, because it removes the incentive to lower prices.
 
