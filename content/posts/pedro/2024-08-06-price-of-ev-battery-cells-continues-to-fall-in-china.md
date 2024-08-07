@@ -16,8 +16,8 @@ Let's take a look to the average price of EV (Electric Vehicle) and ESS (Energy 
 #### EV battery cells (July 2024)
 
 - **LFP (prismatic)**: 52 euros per kWh
-- **NCM 523 (prismatic)**:61 euros per kWh
-- **NCM 523 (pouch)**:64 euros per kWh
+- **NCM 523 (prismatic)**: 61 euros per kWh
+- **NCM 523 (pouch)**: 64 euros per kWh
 
 #### ESS battery cells (July 2024)
 
@@ -37,7 +37,7 @@ This is what we can have with today's best battery technology:
 
 - **Motor**: 80 kW
 - **LFP battery capacity**: 40 kWh
-- **Battery cycle life**: 3.500 cyles (80 % of EOL)
+- **Battery cycle life**: 3.500 cycles (80 % of EOL)
 - **Fast charging (120 kW)**: half in 10 minutes (from 20 to 70 %), or full in 20 minutes (3 C-rated battery)
 - **WLTP range**: 340 km
 - **Price**: 10.000 euros
@@ -46,7 +46,7 @@ This is what we can have with today's best battery technology:
 
 - **Motor**: 120 kW
 - **LFP battery capacity**: 50 kWh
-- **Battery cycle life**: 3.500 cyles (80 % of EOL)
+- **Battery cycle life**: 3.500 cycles (80 % of EOL)
 - **Fast charging (200 kW)**: half in 8 minutes (from 20 to 70 %), or full in 15 minutes (4 C-rated battery)
 - **WLTP range**: 400 km
 - **Price**: 15.000 euros
@@ -55,7 +55,7 @@ This is what we can have with today's best battery technology:
 
 - **Motor**: 200 kW
 - **LFP battery capacity**: 60 kWh
-- **Battery cycle life**: 3.500 cyles (80 % of EOL)
+- **Battery cycle life**: 3.500 cycles (80 % of EOL)
 - **Fast charging (300 kW)**: half in 6 minutes (from 20 to 70 %), or full in 12 minutes (5 C-rated battery)
 - **WLTP range**: 420 km
 - **Price**: 20.000 euros
