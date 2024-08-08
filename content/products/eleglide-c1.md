@@ -1,7 +1,7 @@
 ---
 title: "Eleglide C1"
 external_url: "/eleglide"
-pinned: false
+pinned: true
 categories:
   - "eBikes" 
 images:
