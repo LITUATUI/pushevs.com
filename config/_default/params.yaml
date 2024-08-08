@@ -210,7 +210,7 @@ hugopress:
           #cacheable: true
         #hb-blog-post-comments-begin:
           #cacheable: true
-        hb-blog-post-comments-end:
+        hb-blog-post-end:
           cacheable: true          
         #body-end:
           #cacheable: true
