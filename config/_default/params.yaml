@@ -208,8 +208,8 @@ hugopress:
           #cacheable: true
         #hb-blog-post-content-end:
           #cacheable: true
-        #hb-blog-post-comments-begin:
-          #cacheable: true
+        hb-blog-post-comments-begin:
+          cacheable: true
         hb-blog-post-end:
           cacheable: true          
         #body-end:
