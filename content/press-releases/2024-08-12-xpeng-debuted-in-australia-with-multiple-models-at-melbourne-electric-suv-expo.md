@@ -1,5 +1,5 @@
 ---
-title: "XPENG debuted in Australia with multiple models at Melbourne electric SUV expo"
+title: "XPENG debuted in Australia with multiple models at Melbourne Electric SUV Expo"
 external_url: "https://www.xpeng.com/news/019145cc16ca90dedf2a2c9e8bb20142"
 date: "2024-08-12"
 images:
