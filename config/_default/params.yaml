@@ -18,6 +18,8 @@ hb:
     # see https://hbstack.dev/en/docs/modules/socials/.
     breakpoint: xl
     socials:
+      - name: paypal
+        id: lituatui
       - name: kofi
         id: LITUATUI
       - name: buymeacoffee
@@ -154,6 +156,8 @@ hb:
     powered_by: false
     #site_description: false
     socials:
+      - name: paypal
+        id: lituatui    
       - name: kofi
         id: LITUATUI
       - name: buymeacoffee
