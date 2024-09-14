@@ -1,5 +1,5 @@
 ---
-title: "August 2024 - TEsla is the best selling EV brand in the UK"
+title: "August 2024 - Tesla is the best selling EV brand in the UK"
 slug: "august-2024-tesla-is-the-best-selling-ev-brand-in-the-uk"
 authors: "maximilianholland"
 date: "2024-09-06"
