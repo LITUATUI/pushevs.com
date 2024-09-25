@@ -23,14 +23,13 @@ require (
 	github.com/hbstack/blog/modules/related-posts v0.4.0 // indirect
 	github.com/hbstack/blog/modules/sidebar/posts v0.8.0 // indirect
 	github.com/hbstack/blog/modules/social-share-buttons v0.1.1 // indirect
-	github.com/hbstack/blog/modules/sticky-till-the-end v0.2.0 // indirect
 	github.com/hbstack/bootstrap v0.2.2 // indirect
 	github.com/hbstack/carousel v0.2.7 // indirect
 	github.com/hbstack/code-block-panel v0.1.2 // indirect
 	github.com/hbstack/content-panel v0.10.1 // indirect
 	github.com/hbstack/featured-image v0.2.1 // indirect
 	github.com/hbstack/footer v0.4.1 // indirect
-	github.com/hbstack/footer/modules/observer v0.1.1 // indirect
+	github.com/hbstack/footer/modules/socials v0.3.0 // indirect
 	github.com/hbstack/giscus v0.1.1 // indirect
 	github.com/hbstack/google-fonts v0.1.1 // indirect
 	github.com/hbstack/hb v0.15.3 // indirect

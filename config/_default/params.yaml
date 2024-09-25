@@ -154,7 +154,7 @@ hb:
   footer:
     # see https://hbstack.dev/en/docs/modules/socials/.
     powered_by: false
-    #site_description: false
+    site_description: false
     socials:
       - name: paypal
         id: lituatui    

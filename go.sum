@@ -38,8 +38,6 @@ github.com/hbstack/blog/modules/sidebar/posts v0.8.0 h1:Omwn7GjMKkP1B9pQyApIHb90
 github.com/hbstack/blog/modules/sidebar/posts v0.8.0/go.mod h1:t0v/hv96x8m2FAFS0QieZ6OpTEd0jEbXaWhOzTI/EqI=
 github.com/hbstack/blog/modules/social-share-buttons v0.1.1 h1:9o/TjUPpK3MZGnjECGE+Wo7VdJSV1EOUJ7qGD8mDHn8=
 github.com/hbstack/blog/modules/social-share-buttons v0.1.1/go.mod h1:ofLDQclqvR8vCztqv118x62SEAF2/pgYEd8VBumpKzY=
-github.com/hbstack/blog/modules/sticky-till-the-end v0.2.0 h1:NTt/JrmgzTWsczA3z7oSFzaXESy0AheOwcM7EGcLd7Y=
-github.com/hbstack/blog/modules/sticky-till-the-end v0.2.0/go.mod h1:gvF2ROE+2/iHa5IW30ztxRJMFa+Ovx0DOh0jy8nXrHs=
 github.com/hbstack/bootstrap v0.2.2 h1:Kiy+XEiyDvH9KVfuS7uWYTDoTLbiww0PWTheEXO/fdM=
 github.com/hbstack/bootstrap v0.2.2/go.mod h1:2Qd2g72fKgje8fCMSaz8KlKIv60c6PAak59Zg2FJHs0=
 github.com/hbstack/carousel v0.2.7 h1:CeAYTFjFfVd8NSU0/iWLwmRwAnZBuzWn+2Own1eKkp0=
@@ -52,8 +50,8 @@ github.com/hbstack/featured-image v0.2.1 h1:sRIzjV6YPVG7Ah0Hxjiuxd9bQnEV+62McOgX
 github.com/hbstack/featured-image v0.2.1/go.mod h1:hux3nYqQUVnQHPttJxVrvwfTsULGuVGRGFk3lO2Si54=
 github.com/hbstack/footer v0.4.1 h1:dGEIcqCM6K/s9bygnFQlPcVMJn+BblAjaESied8H7ug=
 github.com/hbstack/footer v0.4.1/go.mod h1:EvignAN0ShrWDbPAlf9+lrRfJSha9G4wYPDUed4wPzg=
-github.com/hbstack/footer/modules/observer v0.1.1 h1:CJ/AY5oSTKTvMjsUwh8VsZgwAI8TwlnXA9Auzy91NXY=
-github.com/hbstack/footer/modules/observer v0.1.1/go.mod h1:60OT7p1+c5VLUlG8QfXxxixp7MBoQA5n+9ZHAwOuYfM=
+github.com/hbstack/footer/modules/socials v0.3.0 h1:m8d8o9j+3BQUfxpONEaGP4tL8WSgnrA50bM4ux6twg8=
+github.com/hbstack/footer/modules/socials v0.3.0/go.mod h1:clVl77mC1//pSZuHEr8aHqDk8Ylggk+I+XOQoBiim8w=
 github.com/hbstack/giscus v0.1.1 h1:jKbA17XjAcbD59QIDUVoFOdbi9P2WzQMtOcIpG/Znuo=
 github.com/hbstack/giscus v0.1.1/go.mod h1:XElW8oNLnS0dRVFzoo9Gq8xknvz3D2PuTHC7yw9h3EE=
 github.com/hbstack/google-fonts v0.1.1 h1:rw9lsHL0x9a7olFh/9gWI+X5sRAf30DM5bzwP/L9aYg=
