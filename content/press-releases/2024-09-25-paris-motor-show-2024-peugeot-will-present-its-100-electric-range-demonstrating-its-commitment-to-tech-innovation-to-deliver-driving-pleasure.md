@@ -1,5 +1,5 @@
 ---
-title: "Paris Mtor Show 2024 Peugeot will present its 100% electric range demonstrating its commitment to tech innovation to deliver driving pleasure"
+title: "Paris Motor Show 2024 Peugeot will present its 100% electric range demonstrating its commitment to tech innovation to deliver driving pleasure"
 external_url: "https://www.media.stellantis.com/em-en/peugeot/press/paris-motor-show-2024-peugeot-will-present-its-100-electric-range-demonstrating-its-commitment-to-tech-innovation-to-deliver-driving-pleasure"
 date: "2024-09-25"
 images:
