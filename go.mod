@@ -23,12 +23,14 @@ require (
 	github.com/hbstack/blog/modules/related-posts v0.4.0 // indirect
 	github.com/hbstack/blog/modules/sidebar/posts v0.8.0 // indirect
 	github.com/hbstack/blog/modules/social-share-buttons v0.1.1 // indirect
+	github.com/hbstack/blog/modules/sticky-till-the-end v0.2.0 // indirect
 	github.com/hbstack/bootstrap v0.2.2 // indirect
 	github.com/hbstack/carousel v0.2.7 // indirect
 	github.com/hbstack/code-block-panel v0.1.2 // indirect
 	github.com/hbstack/content-panel v0.10.1 // indirect
 	github.com/hbstack/featured-image v0.2.1 // indirect
 	github.com/hbstack/footer v0.4.1 // indirect
+	github.com/hbstack/footer/modules/observer v0.1.1 // indirect
 	github.com/hbstack/footer/modules/socials v0.3.0 // indirect
 	github.com/hbstack/giscus v0.1.1 // indirect
 	github.com/hbstack/google-fonts v0.1.1 // indirect
@@ -90,6 +92,6 @@ require (
 	github.com/jakearchibald/idb v8.0.0+incompatible // indirect
 	github.com/krisk/Fuse v7.0.0+incompatible // indirect
 	github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c // indirect
-	github.com/twbs/bootstrap v5.3.4-0.20240924124337-9b0068971550+incompatible // indirect
+	github.com/twbs/bootstrap v5.3.4-0.20240926130348-a7a45b25a63c+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
 )
