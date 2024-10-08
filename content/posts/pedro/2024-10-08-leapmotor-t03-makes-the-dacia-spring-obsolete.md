@@ -66,6 +66,12 @@ How it compares with the Dacia Spring?
 
 ![Dacia Spring](/albuns/2024-dacia-spring/New_Dacia_SPRING_34.avif "2024 Dacia Spring")
 
+This small electric car comes in three variants.
+
+- **Essential (33 kW)**: 16.900 euros
+- **Expression (48 kW)**: 18.900 euros
+- **Extreme (48 kW)**: 19.900 euros
+
 ### Basic specs
 
 - **Seats**: 4
