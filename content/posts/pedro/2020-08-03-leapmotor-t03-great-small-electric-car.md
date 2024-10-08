@@ -40,7 +40,7 @@ With a standard VAT of 20 % (average in Europe) and without any government subsi
 - **Height**: 1.577 mm
 - **Luggage capacity**: 210 L
 - **Weight**: 1.087 kg (Standard Edition), 1.088 kg (Comfort Edition) and 1.122 kg (Deluxe Edition)
-- **Vehicle warranty**: 3 years or 120.000 kilometres
+- **Vehicle warranty**: 3 years or 120.000 km
 
 **Powertrain**
 
@@ -50,10 +50,10 @@ With a standard VAT of 20 % (average in Europe) and without any government subsi
 - **Battery capacity**: 36,5 kWh
 - **Battery energy density**: 171 Wh/kg
 - **Battery chemistry**: NCM 811 battery made by CATL
-- **Battery warranty**: 8 years or 150.000 kilometres
+- **Battery warranty**: 8 years or 150.000 km
 - **TMS**: Intelligent liquid heat management system (heating + cooling)
 - **DC fast charging**: 30-80 % in 36 minutes
-- **On-board charging**: 30-80 % in 6 hour
+- **On-board charging**: 30-80 % in 6 hours
 - **System efficiency**: up to 92,3 %
 
 For the European market the maximum speed would have to increase to 120-130 km/h.
