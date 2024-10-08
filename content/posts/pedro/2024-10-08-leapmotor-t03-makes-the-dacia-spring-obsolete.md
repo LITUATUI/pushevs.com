@@ -90,7 +90,7 @@ This small electric car comes in three variants.
 
 - **Electric motor**: 33 or 48 kW
 - **Maximum speed**: 125 km/h
-- **Range (WLTP)**: 220 km (137 miles)
+- **Range (WLTP)**: 225 km (33 kW version) and 228 km (48 kW versions)
 - **Battery capacity**: 26,8 kWh
 - **Battery weight**: 186 kg
 - **Battery chemistry**: NCM
