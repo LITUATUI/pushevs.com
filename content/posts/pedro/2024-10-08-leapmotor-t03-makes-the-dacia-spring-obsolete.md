@@ -11,7 +11,7 @@ images:
 
 Four years ago I wrote an [article](/2020/08/03/leapmotor-t03-great-small-electric-car) praising the Leapmotor T03. Back then the small electric car was only available in China with NCM batteries and it toke almost 7 months until it also got [LFP batteries](/2021/05/14/leapmotor-t03-gets-cheaper-with-lfp-battery).
 
-Now this great small electric car is finally coming to Europe with a WLTP range of 265 km, a 41,3 kWh (37,3 kWh usable) LFP battery and a price of 18.900 euros. This model arrives disassembled from China to [Stellantis factory in Poland](/2024/03/22/leapmotor-t03-to-begin-production-at-stellantis-plant-in-poland) where it's put together like an IKEA furniture.
+Now, this great small electric car is finally coming to Europe with a WLTP range of 265 km, a 41,3 kWh (37,3 kWh usable) LFP battery and a price of 18.900 euros. This model arrives disassembled from China to [Stellantis factory in Poland](/2024/03/22/leapmotor-t03-to-begin-production-at-stellantis-plant-in-poland) where it's put together like an IKEA furniture.
 
 To reduce production complexity it's only available in one variant, which I like, as it's extremely well equipped for an electric car this small.
 
@@ -115,7 +115,7 @@ To make things worse for the Dacia Spring, the long awaited European BYD Seagull
 
 Current Dacia Spring is based on the old Chinese Dongfeng Nano Box, the next generation will probably be based on the much better Dongfeng Nammi Box, which already has a long-lasting 42,3 kWh LFP battery, 310 km of WLTP range, 70 kW motor and looks super cool (new smart vibes). 
 
-Curiously the Dongfeng Nammi Box is already being sold in [Switzerland for 21.990 CHF (23.367 euros)](https://www.dongfeng-nammi-box.ch/en).
+Curiously, the Dongfeng Nammi Box is already being sold in [Switzerland for 21.990 CHF (23.367 euros)](https://www.dongfeng-nammi-box.ch/en).
 
 ![Dongfeng Nammi Box](/images/DongFeng-Nammi-01-BEV.avif "Dongfeng Nammi Box")
 
