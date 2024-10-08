@@ -113,7 +113,7 @@ Sadly, the only version that makes sense is the most expensive (Extreme) and sta
 
 The Leapmotor T03 with its all-inclusive one variant for 18.900 euros and a more durable LFP battery offers much better value for money than the 20.500 euros Dacia Spring.
 
-With NCM batteries we usually get 1.500 charge/discharge cycles before reaching the EOL (End of Life) - where the initial battery capacity is reduced to 70-80 % -, while with LFP is usually around 3.500 cycles and be be even higher, as it's the case with the BYD Blade Battery with its amazing 5.000 cycles longevity.
+With NCM batteries we usually get 1.500 charge/discharge cycles before reaching the EOL (End of Life) - where the initial battery capacity is reduced to 70-80 % -, while with LFP is usually around 3.500 cycles and can be even higher, as it's the case with the BYD Blade Battery with its amazing 5.000 cycles longevity.
 
 By December first deliveries to European customers of the Leapmotor T03 will already began and Dacia Spring will have a hard time justifying its high price tag. I think that Dacia should make the Spring only available in one very well equipped variant and put the starting price at 14.900 euros.
 
