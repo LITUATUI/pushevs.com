@@ -111,7 +111,9 @@ By December first deliveries to European customers of the Leapmotor T03 will alr
 
 To make things worse for the Dacia Spring, the long awaited European BYD Seagull will arrive next year...
 
-Current Dacia Spring is based on the old Chinese Dongfeng Nano Box, the next generation will probably be based on the much better Dongfeng Nammi Box, which already has a long-lasting 42,3 kWh LFP battery and looks super cool (new smart vibes).
+Current Dacia Spring is based on the old Chinese Dongfeng Nano Box, the next generation will probably be based on the much better Dongfeng Nammi Box, which already has a long-lasting 42,3 kWh LFP battery, 310 km of WLTP range, 70 kW motor and looks super cool (new smart vibes). 
+
+Curiously the Dongfeng Nammi Box is already being sold in [Switzerland for 21.990 CHF (23.367 euros)](https://www.dongfeng-nammi-box.ch/en).
 
 ![Dongfeng Nammi Box](/images/DongFeng-Nammi-01-BEV.avif "Dongfeng Nammi Box")
 
