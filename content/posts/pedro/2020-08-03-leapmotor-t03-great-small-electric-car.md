@@ -31,7 +31,7 @@ With a standard VAT of 20 % (average in Europe) and without any government subsi
 
 ![Leapmotor T03 interior](images/Leapmotor-T03-interior.avif)
 
-**Basic specs**
+### Basic specs
 
 - **Seats**: 4
 - **Length**: 3.620 mm
@@ -42,7 +42,7 @@ With a standard VAT of 20 % (average in Europe) and without any government subsi
 - **Weight**: 1.087 kg (Standard Edition), 1.088 kg (Comfort Edition) and 1.122 kg (Deluxe Edition)
 - **Vehicle warranty**: 3 years or 120.000 km
 
-**Powertrain**
+### Powertrain
 
 - **Electric motor**: 55 kW with a maximum torque of 155 N.m
 - **Maximum speed**: 100 km/h (limited via firmware)
@@ -66,7 +66,7 @@ Anyway, what makes the Leapmotor T03 a much better alternative to similar Chines
 
 It also receives OTA (Over-the-Air) software updates. The last one was two weeks ago.
 
-**Safety equipment of Deluxe Edition**
+### Safety equipment of Deluxe Edition
 
 - Disc brakes on front and rear wheels
 - 11 ultrasonic sensors

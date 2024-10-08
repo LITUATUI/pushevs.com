@@ -17,7 +17,9 @@ To reduce production complexity it's only available in one variant, which I like
 
 Let's see what we get.
 
-**Basic specs**
+## 2024 Leapmotor T03
+
+### Basic specs
 
 - **Seats**: 4
 - **Length**: 3.620 mm
@@ -28,7 +30,7 @@ Let's see what we get.
 - **Weight**: 1.200 kg
 - **Vehicle warranty**: 3 years or 120.000 km
 
-**Powertrain**
+### Powertrain
 
 - **Electric motor**: 70 kW
 - **Maximum speed**: 130 km/h
@@ -41,7 +43,7 @@ Let's see what we get.
 - **On-board charging**: 6,6 kW (30-80 % in 6 hours)
 - **System efficiency**: up to 92,3 %
 
-**Safety equipment**
+### Safety equipment
 
 - Disc brakes on front and rear wheels
 - 11 ultrasonic sensors
