@@ -12,7 +12,7 @@ main:
     identifier: partners
     weight: 2
     params:
-      header: Trusty partners.
+      #header: Trusty partners.
       icon:
         vendor: font-awesome-solid
         name: handshake
@@ -154,7 +154,7 @@ main:
     identifier: stores
     weight: 3
     params:
-      header: If you buy something from these links I might get a small commission.
+      #header: If you buy something from these links I might get a small commission.
       icon:
         vendor: font-awesome-solid
         name: shop
