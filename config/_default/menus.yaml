@@ -233,7 +233,7 @@ main:
     identifier: info
     weight: 4
     params:
-      header: Information about this project.
+      #header: Information about this project.
       icon:
         vendor: font-awesome-solid
         name: info
