@@ -3,7 +3,7 @@ module github.com/LITUATUI/pushevs.com
 go 1.19
 
 require (
-	github.com/GoogleChrome/workbox v7.1.0+incompatible // indirect
+	github.com/GoogleChrome/workbox v7.2.0+incompatible // indirect
 	github.com/KaTeX/KaTeX v0.16.11 // indirect
 	github.com/Templarian/MaterialDesign-SVG v7.4.47+incompatible // indirect
 	github.com/desandro/masonry v4.2.2+incompatible // indirect
@@ -66,11 +66,11 @@ require (
 	github.com/hugomods/gravatar v0.2.0 // indirect
 	github.com/hugomods/hugopress v0.5.0 // indirect
 	github.com/hugomods/i18n-js v0.2.1 // indirect
-	github.com/hugomods/icons v0.6.4 // indirect
-	github.com/hugomods/icons/vendors/bootstrap v0.5.7 // indirect
-	github.com/hugomods/icons/vendors/font-awesome v0.6.8 // indirect
-	github.com/hugomods/icons/vendors/mdi v0.3.6 // indirect
-	github.com/hugomods/icons/vendors/simple-icons v1.0.56 // indirect
+	github.com/hugomods/icons v0.6.5 // indirect
+	github.com/hugomods/icons/vendors/bootstrap v0.5.8 // indirect
+	github.com/hugomods/icons/vendors/font-awesome v0.6.9 // indirect
+	github.com/hugomods/icons/vendors/mdi v0.3.7 // indirect
+	github.com/hugomods/icons/vendors/simple-icons v1.0.58 // indirect
 	github.com/hugomods/idb-js v0.1.0 // indirect
 	github.com/hugomods/images v0.11.2 // indirect
 	github.com/hugomods/katex v0.3.3 // indirect
@@ -92,6 +92,6 @@ require (
 	github.com/jakearchibald/idb v8.0.0+incompatible // indirect
 	github.com/krisk/Fuse v7.0.0+incompatible // indirect
 	github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c // indirect
-	github.com/twbs/bootstrap v5.3.4-0.20241017071832-5c2f2e7e0ec4+incompatible // indirect
+	github.com/twbs/bootstrap v5.3.4-0.20241024113835-9708bcced8f7+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
 )
