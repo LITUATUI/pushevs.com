@@ -35,9 +35,9 @@ require (
 	github.com/hbstack/giscus v0.1.1 // indirect
 	github.com/hbstack/google-fonts v0.1.1 // indirect
 	github.com/hbstack/hb v0.15.3 // indirect
-	github.com/hbstack/header v0.16.2 // indirect
+	github.com/hbstack/header v0.16.3 // indirect
 	github.com/hbstack/header/modules/news v0.3.1 // indirect
-	github.com/hbstack/header/modules/search v0.1.37 // indirect
+	github.com/hbstack/header/modules/search v0.1.38 // indirect
 	github.com/hbstack/header/modules/socials v0.2.2 // indirect
 	github.com/hbstack/header/modules/theme-toggle v0.5.2 // indirect
 	github.com/hbstack/heading-sign v0.2.0 // indirect
@@ -77,7 +77,8 @@ require (
 	github.com/hugomods/masonry-js v0.1.0 // indirect
 	github.com/hugomods/mermaid v0.1.4 // indirect
 	github.com/hugomods/pwa v0.9.0 // indirect
-	github.com/hugomods/search v0.18.0 // indirect
+	github.com/hugomods/search v0.18.1 // indirect
+	github.com/hugomods/search-index v0.1.0 // indirect
 	github.com/hugomods/seo/modules/alternatives v0.1.1 // indirect
 	github.com/hugomods/seo/modules/base v0.1.3 // indirect
 	github.com/hugomods/seo/modules/favicons v0.2.2 // indirect
@@ -86,7 +87,7 @@ require (
 	github.com/hugomods/seo/modules/translations v0.1.1 // indirect
 	github.com/hugomods/seo/modules/twitter-cards v0.1.1 // indirect
 	github.com/hugomods/shortcodes v0.23.0 // indirect
-	github.com/hugomods/simple-icons v13.14.1+incompatible // indirect
+	github.com/hugomods/simple-icons v13.15.0+incompatible // indirect
 	github.com/hugomods/snackbar v0.1.2 // indirect
 	github.com/hugomods/workbox v0.1.0 // indirect
 	github.com/jakearchibald/idb v8.0.0+incompatible // indirect
