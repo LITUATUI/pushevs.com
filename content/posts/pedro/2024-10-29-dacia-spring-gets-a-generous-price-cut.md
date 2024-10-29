@@ -17,7 +17,7 @@ These are the prices of the different variants in Belgium.
 - EXPRESSION: 12.290 euros
 - EXTREME: 14.290 euros
 
-These prices already include VAT, and no, there is no governmental subsidy involved. This means that in Belgium, you can get the fully equipped Dacia Spring EXTREME with the DC charging (500 euros) and front sensors (150 euros) options for 14.940 euros.
+These prices already include VAT, and no, there is no government subsidy involved. This means that in Belgium, you can get the fully equipped Dacia Spring EXTREME with the DC charging (500 euros) and front sensors (150 euros) options for 14.940 euros.
 
 This price cut is required for Dacia to increase the sales of the only electric car in its fleet and comply with CO2 emission targets set in the [EU regulation](https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/co2-emission-performance-standards-cars-and-vans_en) for 2025.
 
