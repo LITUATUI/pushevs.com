@@ -3,7 +3,7 @@ module github.com/LITUATUI/pushevs.com
 go 1.19
 
 require (
-	github.com/GoogleChrome/workbox v7.2.0+incompatible // indirect
+	github.com/GoogleChrome/workbox v7.3.0+incompatible // indirect
 	github.com/KaTeX/KaTeX v0.16.11 // indirect
 	github.com/Templarian/MaterialDesign-SVG v7.4.47+incompatible // indirect
 	github.com/desandro/masonry v4.2.2+incompatible // indirect
