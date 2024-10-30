@@ -6,10 +6,10 @@ date: "2024-10-29"
 categories:
   - "General"
 images:
-  - "/images/Dacia_Spring_Belgium.avif"
+  - "/images/Dacia_Spring_Luxembourg.avif"
 ---
 
-Dacia Spring finally got a generous, but predictable price cut in an European country. Belgium is the first to get it, but other European countries will soon follow.
+Dacia Spring finally got a generous, but predictable price cut in European countries. Belgium and Luxembourg are first to get it, but other European countries will soon follow.
 
 These are the prices of the different variants in Belgium.
 
@@ -17,7 +17,13 @@ These are the prices of the different variants in Belgium.
 - EXPRESSION: 12.290 euros
 - EXTREME: 14.290 euros
 
-These prices already include VAT, and no, there is no government subsidy involved. This means that in Belgium, you can get the fully equipped Dacia Spring EXTREME with the DC charging (500 euros) and front sensors (150 euros) options for 14.940 euros.
+These are the prices of the different variants in Luxembourg.
+
+- ESSENTIAL: 10.240 euros
+- EXPRESSION: 11.884 euros
+- EXTREME: 13.818 euros
+
+These prices already include VAT, and no, there is no government subsidy involved. This means that in Belgium, you can get the fully equipped Dacia Spring EXTREME with the DC charging and front sensors options for 14.940 euros, or 14.446 euros if you get it Luxembourg.
 
 This price cut is required for Dacia to increase the sales of the only electric car in its fleet and comply with CO2 emission targets set in the [EU regulation](https://climate.ec.europa.eu/eu-action/transport/road-transport-reducing-co2-emissions-vehicles/co2-emission-performance-standards-cars-and-vans_en) for 2025.
 
