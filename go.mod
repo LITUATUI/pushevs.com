@@ -55,7 +55,7 @@ require (
 	github.com/hbstack/syntax-highlighting v0.2.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 // indirect
 	github.com/hbstack/theme-cards v0.1.1 // indirect
-	github.com/henrygd/bigger-picture v1.1.17 // indirect
+	github.com/henrygd/bigger-picture v1.1.18 // indirect
 	github.com/hugomods/ascii v0.1.0 // indirect
 	github.com/hugomods/base v0.7.2 // indirect
 	github.com/hugomods/bootstrap v0.23.0 // indirect
@@ -93,6 +93,6 @@ require (
 	github.com/jakearchibald/idb v8.0.0+incompatible // indirect
 	github.com/krisk/Fuse v7.0.0+incompatible // indirect
 	github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c // indirect
-	github.com/twbs/bootstrap v5.3.4-0.20241114101233-cacbdc680ecd+incompatible // indirect
+	github.com/twbs/bootstrap v5.3.4-0.20241122095410-ec96eacd0e6f+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
 )
