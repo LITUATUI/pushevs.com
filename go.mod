@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/GoogleChrome/workbox v7.3.0+incompatible // indirect
-	github.com/KaTeX/KaTeX v0.16.11 // indirect
+	github.com/KaTeX/KaTeX v0.16.15 // indirect
 	github.com/Templarian/MaterialDesign-SVG v7.4.47+incompatible // indirect
 	github.com/desandro/masonry v4.2.2+incompatible // indirect
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
@@ -73,7 +73,7 @@ require (
 	github.com/hugomods/icons/vendors/simple-icons v1.0.61 // indirect
 	github.com/hugomods/idb-js v0.1.0 // indirect
 	github.com/hugomods/images v0.11.2 // indirect
-	github.com/hugomods/katex v0.3.3 // indirect
+	github.com/hugomods/katex v0.3.4 // indirect
 	github.com/hugomods/masonry-js v0.1.0 // indirect
 	github.com/hugomods/mermaid v0.1.4 // indirect
 	github.com/hugomods/pwa v0.9.0 // indirect
@@ -86,13 +86,13 @@ require (
 	github.com/hugomods/seo/modules/schema v0.1.3 // indirect
 	github.com/hugomods/seo/modules/translations v0.1.1 // indirect
 	github.com/hugomods/seo/modules/twitter-cards v0.1.1 // indirect
-	github.com/hugomods/shortcodes v0.23.0 // indirect
+	github.com/hugomods/shortcodes v0.24.0 // indirect
 	github.com/hugomods/simple-icons v13.19.0+incompatible // indirect
 	github.com/hugomods/snackbar v0.1.2 // indirect
 	github.com/hugomods/workbox v0.1.0 // indirect
 	github.com/jakearchibald/idb v8.0.0+incompatible // indirect
 	github.com/krisk/Fuse v7.0.0+incompatible // indirect
 	github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c // indirect
-	github.com/twbs/bootstrap v5.3.4-0.20241207053101-760b4cc41dcf+incompatible // indirect
+	github.com/twbs/bootstrap v5.3.4-0.20241210120318-ff7d1be0b73d+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
 )

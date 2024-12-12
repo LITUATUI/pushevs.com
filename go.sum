@@ -1,7 +1,7 @@
 github.com/GoogleChrome/workbox v7.3.0+incompatible h1:P0VEW4ZF9li7dLLOsB3wknFhVBym05A7td3x/qWFTZM=
 github.com/GoogleChrome/workbox v7.3.0+incompatible/go.mod h1:dyEoGLpJeO43pUVJb+nNNr1WRgoF81hNEl4UGLV+yow=
-github.com/KaTeX/KaTeX v0.16.11 h1:mJL23AnBPtkm8tT3rAP3nohDJvwQkAejyWiPDDq7Fns=
-github.com/KaTeX/KaTeX v0.16.11/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
+github.com/KaTeX/KaTeX v0.16.15 h1:1lIveNfHw0lw91ZCewBa2a5CeRjPeLYUQT1sVY8XNDc=
+github.com/KaTeX/KaTeX v0.16.15/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
 github.com/Templarian/MaterialDesign-SVG v7.4.47+incompatible h1:w99yYrLvkTj5A9Dxd8mzNoFQpOBx9aRS03RrrqjzLuw=
 github.com/Templarian/MaterialDesign-SVG v7.4.47+incompatible/go.mod h1:SRSiaLOZazGp4UpKPQRm37h4A3cKLHXaybAqaJ7Lfx8=
 github.com/desandro/masonry v4.2.2+incompatible h1:4LI69kwq5DJSF9jhHVGfCw+q2Nt3IgJ0KzEp19Z3YiA=
@@ -138,8 +138,8 @@ github.com/hugomods/idb-js v0.1.0 h1:mA6hEGtR0aFEdmq9zYMGpfSpCU6SMilx9RzC4uK3DqY
 github.com/hugomods/idb-js v0.1.0/go.mod h1:GPfnmr+BQpP4s6Epd4Yu+RlUog8q/Djw8qy8BZFWZ04=
 github.com/hugomods/images v0.11.2 h1:d7u3c/ePboeOGx8OI5eUnilpA79YvD7KJjUgqVMR83Y=
 github.com/hugomods/images v0.11.2/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
-github.com/hugomods/katex v0.3.3 h1:TX6Tl5jgYXAXcNWKTC/0vI8p9MSBfwkVMTgJfakM3XA=
-github.com/hugomods/katex v0.3.3/go.mod h1:i+fKI52f3QbiuK0ug5yRCB9ZJ/qUFERTk8UGuSZMQNQ=
+github.com/hugomods/katex v0.3.4 h1:yL3CDVVj5JDgut17zxkCfe+o/D+KxdZx+9XZ9/TAy/Q=
+github.com/hugomods/katex v0.3.4/go.mod h1:i+fKI52f3QbiuK0ug5yRCB9ZJ/qUFERTk8UGuSZMQNQ=
 github.com/hugomods/masonry-js v0.1.0 h1:mZagvVEWsgyIFViMY1ZkOOJfdFV5D76eB99SHgwhbRU=
 github.com/hugomods/masonry-js v0.1.0/go.mod h1:+RHcqWxaZ9R4Z0GeAji1WiQ006/VxR5RLhOLpfVypio=
 github.com/hugomods/mermaid v0.1.4 h1:/u0FZRSBMpqTbDh4XPBL7c6p0DUjvIkoo9cC89GASSI=
@@ -164,8 +164,8 @@ github.com/hugomods/seo/modules/translations v0.1.1 h1:FFgOHA5qtkHt1YuyYoLnicrka
 github.com/hugomods/seo/modules/translations v0.1.1/go.mod h1:ARboWQ31UeIwpB2AiN/efWLfplTTjarZRGEgKkkg3CA=
 github.com/hugomods/seo/modules/twitter-cards v0.1.1 h1:1cxNnftQ8MdajH48tB46DQ6eoCzrV1dQuVKLiKGFWwM=
 github.com/hugomods/seo/modules/twitter-cards v0.1.1/go.mod h1:KA6MA3GbyQZdd3vloDgcTFBoztmqEJI8R59whcSxpf4=
-github.com/hugomods/shortcodes v0.23.0 h1:ZB7bY7vvx917IkXg+ab08QD5H4biKzAsLKDMrWeoziI=
-github.com/hugomods/shortcodes v0.23.0/go.mod h1:EnVopbZMNI/HeteM3Lp3phBTCRLvPSe7l142qhRFFPY=
+github.com/hugomods/shortcodes v0.24.0 h1:+on4M5WuqmczQ0mXA0Ec4PZApV0UbH+YHaLC5MVobyo=
+github.com/hugomods/shortcodes v0.24.0/go.mod h1:EnVopbZMNI/HeteM3Lp3phBTCRLvPSe7l142qhRFFPY=
 github.com/hugomods/simple-icons v13.19.0+incompatible h1:UT7rOPtplW6lwrnF05Up8JNw0KlkmMERYNCyssaRT+A=
 github.com/hugomods/simple-icons v13.19.0+incompatible/go.mod h1:1Lvymol7AMVY7ji/o88jMoDHHZIJ5Wc+WwNe5hjmk+U=
 github.com/hugomods/snackbar v0.1.2 h1:SLpfH9jlYwf81epH7DvM2XTZHo+3fXXpk6XKtxmo964=
@@ -178,7 +178,7 @@ github.com/krisk/Fuse v7.0.0+incompatible h1:jVyg6No+Joc51Rn97QQYJZIpCxzd4ywACn/
 github.com/krisk/Fuse v7.0.0+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
 github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c h1:hrltBL583MlICBG/JXexhV+nAXLRMzbk1qxYj/bkUWU=
 github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c/go.mod h1:D6uU0Pn65zsN6+Dw2MziIrXGe64mys/uXN0YLifcHTI=
-github.com/twbs/bootstrap v5.3.4-0.20241207053101-760b4cc41dcf+incompatible h1:AWGJWSrUP+ZKXbmMBJj5oL13EsjOXcbLt1+FAx/kz5g=
-github.com/twbs/bootstrap v5.3.4-0.20241207053101-760b4cc41dcf+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+github.com/twbs/bootstrap v5.3.4-0.20241210120318-ff7d1be0b73d+incompatible h1:1brZBInmoPOHzAAGr7BALoFbnim3K7YtyMOD1IJJ/wI=
+github.com/twbs/bootstrap v5.3.4-0.20241210120318-ff7d1be0b73d+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=
 github.com/twbs/icons v1.11.3/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
