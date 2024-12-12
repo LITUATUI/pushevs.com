@@ -1,7 +1,7 @@
 ---
 title: "Stellantis and CATL to invest up to €4.1 billion in joint venture for large-scale LFP battery plant in Spain"
 external_url: "https://www.catl.com/en/news/6328.html"
-date: "2024-12-12"
+date: "2024-12-10"
 images:
   - "https://www.catl.com/en/uploads/1/image/public/202412/20241210183705_4woj5rshwo.jpg"
 ---
