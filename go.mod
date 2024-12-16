@@ -13,7 +13,7 @@ require (
 	github.com/hbstack/background-image v0.2.1 // indirect
 	github.com/hbstack/base v0.6.2 // indirect
 	github.com/hbstack/bigger-picture v0.10.1 // indirect
-	github.com/hbstack/blog v0.38.1 // indirect
+	github.com/hbstack/blog v0.39.0 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.21 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
 	github.com/hbstack/blog/modules/giscus v0.1.24 // indirect
@@ -90,9 +90,9 @@ require (
 	github.com/hugomods/simple-icons v13.19.0+incompatible // indirect
 	github.com/hugomods/snackbar v0.1.2 // indirect
 	github.com/hugomods/workbox v0.1.0 // indirect
-	github.com/jakearchibald/idb v8.0.0+incompatible // indirect
+	github.com/jakearchibald/idb v8.0.1+incompatible // indirect
 	github.com/krisk/Fuse v7.0.0+incompatible // indirect
 	github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c // indirect
-	github.com/twbs/bootstrap v5.3.4-0.20241210120318-ff7d1be0b73d+incompatible // indirect
+	github.com/twbs/bootstrap v5.3.4-0.20241216091939-a353ed4b19a6+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
 )
