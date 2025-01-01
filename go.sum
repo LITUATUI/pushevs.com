@@ -96,10 +96,10 @@ github.com/hbstack/social-share-buttons v0.4.0 h1:ygMO2h7X7lx6FzAqIzZf+d9HUYvIMp
 github.com/hbstack/social-share-buttons v0.4.0/go.mod h1:WAXsqPI+12QA67fA/IWLvxVubuvbW8kzLwTo0pZW41E=
 github.com/hbstack/socials v0.17.2 h1:iv7KCdveM1ZkE19qQVIJzvfBpLx7U1XfoK+sKN6wUuY=
 github.com/hbstack/socials v0.17.2/go.mod h1:SxsgrMkupTV3fHpGpWZQ7HAaeGUvENZPW5z+0ywJ5ao=
-github.com/hbstack/syntax-highlighting v0.2.0 h1:BP5SR/AbVlJyAFtVdgYjeqVZKmncEmuplTR5R2AUbw8=
-github.com/hbstack/syntax-highlighting v0.2.0/go.mod h1:6IoaM+tSIkKZblIrT1i5L3zVH68nt4UScU9JB30FQsc=
-github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 h1:IzJlnkHGS8XhibNjUFvyV3YE7rc7WMsAhdxWZTbORI4=
-github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1/go.mod h1:ar5ZFplNyVZCVG6rvo69co1hNZwptxtrDz3zproGLPg=
+github.com/hbstack/syntax-highlighting v0.2.1 h1:JMAfLzebsQy983WS560yPo4vnF6rBCo6OBx9jpNbAQ8=
+github.com/hbstack/syntax-highlighting v0.2.1/go.mod h1:6IoaM+tSIkKZblIrT1i5L3zVH68nt4UScU9JB30FQsc=
+github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.2 h1:H6wxfQ5+WaDPrxDWRdzz9WyzbGSKgnEA8C39F9erkAs=
+github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.2/go.mod h1:ar5ZFplNyVZCVG6rvo69co1hNZwptxtrDz3zproGLPg=
 github.com/hbstack/theme-cards v0.1.1 h1:x4rupfKrv3xxEy80lzenTwsbzCUSLHXyb9CzW4JJelk=
 github.com/hbstack/theme-cards v0.1.1/go.mod h1:grBCoimeFOh4iTK8bnVD0uoZG2KE8yBiTGkGRh2Bgmk=
 github.com/henrygd/bigger-picture v1.1.19 h1:fv3S1wlW5L9XF01wOHGZmwPn3vMNgQOwwYMhTTHhHic=
@@ -138,8 +138,8 @@ github.com/hugomods/idb-js v0.1.0 h1:mA6hEGtR0aFEdmq9zYMGpfSpCU6SMilx9RzC4uK3DqY
 github.com/hugomods/idb-js v0.1.0/go.mod h1:GPfnmr+BQpP4s6Epd4Yu+RlUog8q/Djw8qy8BZFWZ04=
 github.com/hugomods/images v0.11.2 h1:d7u3c/ePboeOGx8OI5eUnilpA79YvD7KJjUgqVMR83Y=
 github.com/hugomods/images v0.11.2/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
-github.com/hugomods/katex v0.3.5 h1:G/NZcbyNEiSYG5A6yIBocIVXFnss/ZKvhephh7ZOPTQ=
-github.com/hugomods/katex v0.3.5/go.mod h1:i+fKI52f3QbiuK0ug5yRCB9ZJ/qUFERTk8UGuSZMQNQ=
+github.com/hugomods/katex v0.3.6 h1:Xl7ruiXuwvEGlz3H02w24B0zRGtHcL4sMc11Ke/aMFE=
+github.com/hugomods/katex v0.3.6/go.mod h1:6ACkMfCEOjLIRwcbS33Yji29C113+zGdBF/5oMfWfZI=
 github.com/hugomods/masonry-js v0.1.0 h1:mZagvVEWsgyIFViMY1ZkOOJfdFV5D76eB99SHgwhbRU=
 github.com/hugomods/masonry-js v0.1.0/go.mod h1:+RHcqWxaZ9R4Z0GeAji1WiQ006/VxR5RLhOLpfVypio=
 github.com/hugomods/mermaid v0.1.4 h1:/u0FZRSBMpqTbDh4XPBL7c6p0DUjvIkoo9cC89GASSI=
@@ -178,7 +178,7 @@ github.com/krisk/Fuse v7.0.0+incompatible h1:jVyg6No+Joc51Rn97QQYJZIpCxzd4ywACn/
 github.com/krisk/Fuse v7.0.0+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
 github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c h1:hrltBL583MlICBG/JXexhV+nAXLRMzbk1qxYj/bkUWU=
 github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c/go.mod h1:D6uU0Pn65zsN6+Dw2MziIrXGe64mys/uXN0YLifcHTI=
-github.com/twbs/bootstrap v5.3.4-0.20241219072357-0cbfe13adf66+incompatible h1:axv8ysEcAROrwSO8RipODWT8c5MHbdbHwh+rO72MqZA=
-github.com/twbs/bootstrap v5.3.4-0.20241219072357-0cbfe13adf66+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+github.com/twbs/bootstrap v5.3.4-0.20241231080859-a5d430d526dc+incompatible h1:e5XWgyzKNhmpVck71EdjUs+0NYBHJr61Fj776Kx95AI=
+github.com/twbs/bootstrap v5.3.4-0.20241231080859-a5d430d526dc+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=
 github.com/twbs/icons v1.11.3/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
