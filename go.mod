@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/GoogleChrome/workbox v7.3.0+incompatible // indirect
-	github.com/KaTeX/KaTeX v0.16.19 // indirect
+	github.com/KaTeX/KaTeX v0.16.20 // indirect
 	github.com/Templarian/MaterialDesign-SVG v7.4.47+incompatible // indirect
 	github.com/desandro/masonry v4.2.2+incompatible // indirect
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
@@ -93,6 +93,6 @@ require (
 	github.com/jakearchibald/idb v8.0.1+incompatible // indirect
 	github.com/krisk/Fuse v7.0.0+incompatible // indirect
 	github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c // indirect
-	github.com/twbs/bootstrap v5.3.4-0.20241231080859-a5d430d526dc+incompatible // indirect
+	github.com/twbs/bootstrap v5.3.4-0.20250115114415-5210c9b24c44+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
 )
