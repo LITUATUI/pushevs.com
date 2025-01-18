@@ -1,7 +1,7 @@
 github.com/GoogleChrome/workbox v7.3.0+incompatible h1:P0VEW4ZF9li7dLLOsB3wknFhVBym05A7td3x/qWFTZM=
 github.com/GoogleChrome/workbox v7.3.0+incompatible/go.mod h1:dyEoGLpJeO43pUVJb+nNNr1WRgoF81hNEl4UGLV+yow=
-github.com/KaTeX/KaTeX v0.16.20 h1:2Yt5TdKUS4CwopMDwkcMY1fH40BvilTabIsEaisMEC0=
-github.com/KaTeX/KaTeX v0.16.20/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
+github.com/KaTeX/KaTeX v0.16.21 h1:WxvgOkSa6vGciImP153yRpnsJ/aKiglwmMiuCX6fMxg=
+github.com/KaTeX/KaTeX v0.16.21/go.mod h1:VI+aE+CVs/VqtbHnuhstfQST46GmrwpXH7LQAzYIouw=
 github.com/Templarian/MaterialDesign-SVG v7.4.47+incompatible h1:w99yYrLvkTj5A9Dxd8mzNoFQpOBx9aRS03RrrqjzLuw=
 github.com/Templarian/MaterialDesign-SVG v7.4.47+incompatible/go.mod h1:SRSiaLOZazGp4UpKPQRm37h4A3cKLHXaybAqaJ7Lfx8=
 github.com/desandro/masonry v4.2.2+incompatible h1:4LI69kwq5DJSF9jhHVGfCw+q2Nt3IgJ0KzEp19Z3YiA=
@@ -62,8 +62,8 @@ github.com/hbstack/google-fonts v0.1.1 h1:rw9lsHL0x9a7olFh/9gWI+X5sRAf30DM5bzwP/
 github.com/hbstack/google-fonts v0.1.1/go.mod h1:4Xn7/i4MRPs0wDuYTIvCJvNfAMIC5vMJ4gNIWM3Vg24=
 github.com/hbstack/hb v0.16.0 h1:k5SLF8zmGb8M5UWJwTjWi8/EuiKZ+7gQbP2qRcWYdr0=
 github.com/hbstack/hb v0.16.0/go.mod h1:FJilVCHtkVpfXZT+Ii2OFCVeu9wQh/YGgRMuPKX5ycA=
-github.com/hbstack/header v0.16.4 h1:Ia/Sww4b/uOvpyN5/IGmVuWT4h1cxJSnWm5qwoVmrAI=
-github.com/hbstack/header v0.16.4/go.mod h1:4f3Nhslt+UQ1Fo82HuspQO7jLJ/UrZ8GgDKImiZx5FA=
+github.com/hbstack/header v0.16.5 h1:KIOgyq/vdWpdnE9oFsLH2a9L4BnbBsZQxz2VuFO3esk=
+github.com/hbstack/header v0.16.5/go.mod h1:ZfeQNeNWaBeGPBZHtbRz2W9IWkmIoMrpOXoDsoYa/Gg=
 github.com/hbstack/header/modules/news v0.3.1 h1:V/7/MRHvf+7JZFhRl2iEVmITRCFs0LlEo/dwheL2QI4=
 github.com/hbstack/header/modules/news v0.3.1/go.mod h1:NYVggMts57N4lIKmF/qVjOaln2aVxiuPL52nERwT8UM=
 github.com/hbstack/header/modules/search v0.1.38 h1:B+deLNUyn1F6DiEEIviu1IlOnykaQ1YEezOa8kljSsM=
