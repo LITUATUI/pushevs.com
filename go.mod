@@ -7,7 +7,7 @@ require (
 	github.com/KaTeX/KaTeX v0.16.21 // indirect
 	github.com/Templarian/MaterialDesign-SVG v7.4.47+incompatible // indirect
 	github.com/desandro/masonry v4.2.2+incompatible // indirect
-	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
+	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hbstack/back-to-top v0.2.0 // indirect
 	github.com/hbstack/background-image v0.2.1 // indirect
@@ -93,6 +93,6 @@ require (
 	github.com/jakearchibald/idb v8.0.2+incompatible // indirect
 	github.com/krisk/Fuse v7.1.0+incompatible // indirect
 	github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c // indirect
-	github.com/twbs/bootstrap v5.3.4-0.20250209095020-c5be828d99a4+incompatible // indirect
+	github.com/twbs/bootstrap v5.3.4-0.20250212174650-0f13e1c2e7ac+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
 )
