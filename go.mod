@@ -50,7 +50,7 @@ require (
 	github.com/hbstack/search v0.2.2 // indirect
 	github.com/hbstack/slide v0.4.0 // indirect
 	github.com/hbstack/snackbar v0.1.2 // indirect
-	github.com/hbstack/social-share-buttons v0.5.0 // indirect
+	github.com/hbstack/social-share-buttons v0.6.0 // indirect
 	github.com/hbstack/socials v0.18.0 // indirect
 	github.com/hbstack/syntax-highlighting v0.2.1 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.2 // indirect
@@ -93,6 +93,6 @@ require (
 	github.com/jakearchibald/idb v8.0.2+incompatible // indirect
 	github.com/krisk/Fuse v7.1.0+incompatible // indirect
 	github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c // indirect
-	github.com/twbs/bootstrap v5.3.4-0.20250216070523-669079dff60b+incompatible // indirect
+	github.com/twbs/bootstrap v5.3.4-0.20250218143557-90acd33350e1+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
 )
