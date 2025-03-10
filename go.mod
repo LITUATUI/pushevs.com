@@ -93,6 +93,6 @@ require (
 	github.com/jakearchibald/idb v8.0.2+incompatible // indirect
 	github.com/krisk/Fuse v7.1.0+incompatible // indirect
 	github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c // indirect
-	github.com/twbs/bootstrap v5.3.4-0.20250307165312-5605e963c086+incompatible // indirect
+	github.com/twbs/bootstrap v5.3.4-0.20250309082550-53171ad564b2+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
 )
