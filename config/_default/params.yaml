@@ -20,10 +20,10 @@ hb:
     socials:
       - name: paypal
         id: lituatui
-      - name: kofi
-        id: LITUATUI
-      - name: buymeacoffee
-        id: LITUATUI
+      #- name: kofi
+      #  id: LITUATUI
+      #- name: buymeacoffee
+      #  id: LITUATUI
       - name: githubsponsors
         id: sponsors/LITUATUI
       - name: github
@@ -157,11 +157,11 @@ hb:
     site_description: false
     socials:
       - name: paypal
-        id: lituatui    
-      - name: kofi
-        id: LITUATUI
-      - name: buymeacoffee
-        id: LITUATUI
+        id: lituatui
+      #- name: kofi
+      #  id: LITUATUI
+      #- name: buymeacoffee
+      #  id: LITUATUI
       - name: githubsponsors
         id: sponsors/LITUATUI
       - name: github

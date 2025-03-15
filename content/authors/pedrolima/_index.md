@@ -4,10 +4,10 @@ description: My interest in electric transportation is mostly political. I’m t
 socials:
   - name: paypal
     id: lituatui
-  - name: kofi
-    id: LITUATUI
-  - name: buymeacoffee
-    id: LITUATUI
+  #- name: kofi
+  #  id: LITUATUI
+  #- name: buymeacoffee
+  #  id: LITUATUI
   - name: githubsponsors
     id: sponsors/LITUATUI
   - name: github
