@@ -178,7 +178,7 @@ github.com/krisk/Fuse v7.1.0+incompatible h1:WKrE7/HvvQQnysvOcOXk+KDlKoH+Z6S0KJc
 github.com/krisk/Fuse v7.1.0+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
 github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c h1:hrltBL583MlICBG/JXexhV+nAXLRMzbk1qxYj/bkUWU=
 github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c/go.mod h1:D6uU0Pn65zsN6+Dw2MziIrXGe64mys/uXN0YLifcHTI=
-github.com/twbs/bootstrap v5.3.4-0.20250315073437-1b869e889aaa+incompatible h1:odB+3a7WHEXhl3l1riIaz3tJWP9fZGLGPvQpnRS9c/8=
-github.com/twbs/bootstrap v5.3.4-0.20250315073437-1b869e889aaa+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+github.com/twbs/bootstrap v5.3.4-0.20250318111047-0a56558b5fd3+incompatible h1:DIce8d4d31B28buy1PnSgDC7Kk9A6d/iM1aC0XtLOlQ=
+github.com/twbs/bootstrap v5.3.4-0.20250318111047-0a56558b5fd3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/icons v1.11.3 h1:XhvrQ1XDom9ggBbQx3wQCFGEr8qAQwQP/dAcw8OXMtA=
 github.com/twbs/icons v1.11.3/go.mod h1:GnRlymgVWp5iVJCMa0Me5b6tFyGpVc2bSxPMRGIJmyA=
