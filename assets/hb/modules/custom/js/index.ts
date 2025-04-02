@@ -3,15 +3,21 @@
 // Show alternative content when adblock is present 
 
 document.addEventListener("DOMContentLoaded", function () {
-  let adScript = document.createElement("script");
-  adScript.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
-  
-  adScript.onerror = function () {
-    let alternativeAd = document.getElementById("alternative-banner");
-    if (alternativeAd) {
-      alternativeAd.style.display = "block";
-    }
-  };
+  setTimeout(function () {
+    let ads = document.querySelectorAll(".adsbygoogle");
+    
+    ads.forEach((ad, index) => {
+      // Check if the AdSense container is hidden (blocked)
+      let isBlocked = !ad || ad.offsetHeight === 0 || getComputedStyle(ad).display === "none";
 
-  document.body.appendChild(adScript);
+      if (isBlocked) {
+        console.log("AdBlock detected! Showing alternative ad...");
+
+        let altAd = document.getElementById(`alternative-banner-${index + 1}`);
+        if (altAd) {
+          altAd.style.display = "block"; // Show alternative ad
+        }
+      }
+    });
+  }, 2000); // Delay check to allow AdSense to load (or fail)
 });
