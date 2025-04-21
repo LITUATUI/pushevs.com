@@ -1,7 +1,7 @@
 ---
 title: "Citroën starts a new production line for the new C3 in Serbia"
 external_url: "https://www.media.stellantis.com/em-en/citroen/press/citroen-starts-a-new-production-line-for-the-new-c3-in-serbia"
-date: "2025-04-10"
+date: "2025-04-18"
 images:
   - "https://www.media.stellantis.com/cache/7/d/8/7/b/7d87b80594b80a6ff657dc01520126ac4a52b85d.jpeg"
 ---
