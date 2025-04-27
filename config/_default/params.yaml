@@ -220,7 +220,7 @@ hugopress:
           #cacheable: true
         hb-blog-sidebar:
           cacheable: false
-          weight: 1
+          weight: 2
     #hb-custom-2:
       #hooks:
         #hb-blog-sidebar:
@@ -229,4 +229,4 @@ hugopress:
     hb-blog-sidebar-posts:
       hooks:
         hb-blog-sidebar:
-          weight: 2
+          weight: 1
