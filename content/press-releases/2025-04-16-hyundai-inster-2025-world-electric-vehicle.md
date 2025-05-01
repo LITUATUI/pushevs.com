@@ -1,6 +1,6 @@
 ---
 title: " Hyundai INSTER hailed as 2025 World Electric Vehicle "
-external_url: "https://www.press-eu.kia.com/document/633#/latest-news/kia-ev3-wins-2025-world-car-of-the-year"
+external_url: "https://www.hyundai.news/eu/articles/press-releases/hyundai-inster-2025-world-electric-vehicle.html"
 date: "2025-04-16"
 images:
   - "https://dmassets.hyundai.com/is/image/hyundaiautoever/hyundai-inster-2025-world-electric-vehicle-logo:Content%20Banner%20Desktop?wid=1196&hei=448"
