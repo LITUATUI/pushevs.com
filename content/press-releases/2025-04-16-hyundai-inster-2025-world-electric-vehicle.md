@@ -1,5 +1,5 @@
 ---
-title: " Hyundai INSTER hailed as 2025 World Electric Vehicle "
+title: "Hyundai INSTER hailed as 2025 World Electric Vehicle"
 external_url: "https://www.hyundai.news/eu/articles/press-releases/hyundai-inster-2025-world-electric-vehicle.html"
 date: "2025-04-16"
 images:

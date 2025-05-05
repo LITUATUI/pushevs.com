@@ -1,5 +1,5 @@
 ---
-title: " The one millionth electric vehicle rolls off the production line at the Volkswagen plant in Zwickau"
+title: "The one millionth electric vehicle rolls off the production line at the Volkswagen plant in Zwickau"
 external_url: "https://www.volkswagen-newsroom.com/en/press-releases/the-one-millionth-electric-vehicle-rolls-off-the-production-line-at-the-volkswagen-plant-in-zwickau-19242"
 date: "2025-04-30"
 images:
