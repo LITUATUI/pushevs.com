@@ -94,5 +94,5 @@ require (
 	github.com/krisk/Fuse v7.1.0+incompatible // indirect
 	github.com/liwenyip/hugo-easy-gallery v0.0.0-20220317060806-364224a1031c // indirect
 	github.com/twbs/bootstrap v5.3.6+incompatible // indirect
-	github.com/twbs/icons v1.12.1 // indirect
+	github.com/twbs/icons v1.13.1 // indirect
 )
