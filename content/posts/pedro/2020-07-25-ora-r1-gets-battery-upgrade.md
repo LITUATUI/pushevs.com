@@ -69,7 +69,7 @@ Now you're probably thinking that this electric car is only affordable thanks to
 
 The standard range versions only get a subsidy of 16.200 yuan (1.983 euros) and the long range version gets a subsidy of 22.500 yuan (2.754 euros). This means that even before subsidies the long range version is very affordable at 107.300 yuan (13.134 euros).
 
-In the table below provided by [Moneyball](https://twitter.com/DKurac) you can see how subsidies to buy electric cars work in China. They depend on range and battery energy density.
+In the table below provided by [Moneyball](https://x.com/DKurac) you can see how subsidies to buy electric cars work in China. They depend on range and battery energy density.
 
 ![Electric car subsidy in China depends on range and battery pack energy density - 2019 vs 2020](images/Electric-car-subsidy-in-China-depends-on-range-and-battery-pack-energy-density-2019-vs-2020.avif)
 

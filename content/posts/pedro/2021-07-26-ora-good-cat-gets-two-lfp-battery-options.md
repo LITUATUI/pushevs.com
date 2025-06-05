@@ -63,7 +63,7 @@ Both the affordable EV brand ORA and the battery cell maker SVOLT come from the 
 
 Anyway, with an energy density of 143,4 Wh/kg, this new LFP battery is more energy dense than some [packs made with NCM battery cells that are currently powering electric cars](/2020/04/04/comparison-of-different-ev-batteries-in-2020/). For example, the battery pack of the Peugeot e-208 - made with NCM 523 battery cells from CATL - has an energy density of 140 Wh/kg.
 
-Thanks [Kingun](https://twitter.com/thekingun) for the heads up.
+Thanks [Kingun](https://x.com/thekingun) for the heads up.
 
 ---
 

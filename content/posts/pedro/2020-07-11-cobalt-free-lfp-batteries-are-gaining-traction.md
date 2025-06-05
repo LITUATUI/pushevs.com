@@ -17,9 +17,9 @@ It's the [CTP (cell-to-pack) technology the main responsible for the substantial
 
 So where are we at?
 
-[Moneyball](https://twitter.com/DKurac) often brings interesting information about the Chinese electric car market.
+[Moneyball](https://x.com/DKurac) often brings interesting information about the Chinese electric car market.
 
-{{< twitter user="DKurac" id="1281530383549345793" >}}
+{{< x user="DKurac" id="1281530383549345793" >}}
 
 **Battery capacity installed in China (June 2020)**
 

@@ -21,7 +21,7 @@ Anyway, I wonder how much of that production capacity will be allocated to produ
 
 Meanwhile, BYD is already mass-producing its LFP (LiFePO4) cobalt-free Blade Batteries for its own electric cars. Currently with an annual production capacity of 20 GWh, that will be expanded to 40 GWh by next year and to 100 GWh by 2022.
 
-{{< twitter user="DKurac" id="1297025028173606912" >}}
+{{< x user="DKurac" id="1297025028173606912" >}}
 
 ---
 

@@ -13,7 +13,7 @@ The production of the LETIN Mengo started last month with first units rolling of
 
 Powered by LFP (LiFePO4) batteries, this cute electric car has a starting price of 29.800 yuan (3.815 euros). This is exactly the same starting price of the [Changan Benben E-Star](/2021/05/20/changan-benben-e-star-gets-new-low-cost-edition/).
 
-{{< twitter user="DKurac" id="1397489012391038981" >}}
+{{< x user="DKurac" id="1397489012391038981" >}}
 
 Let's see more details.
 

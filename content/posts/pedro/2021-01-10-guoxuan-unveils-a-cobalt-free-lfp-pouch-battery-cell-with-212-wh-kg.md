@@ -32,7 +32,7 @@ Moreover, Guoxuan has the goal of reaching 230 Wh/kg already during this year an
 - **2021**: 230 Wh/kg (207 Wh/kg at pack level with JTM)
 - **2022**: 260 Wh/kg (234 Wh/kg at pack level with JTM)
 
-{{< twitter user="DKurac" id="1347734659187183619" >}}
+{{< x user="DKurac" id="1347734659187183619" >}}
 
 Being an inherently safe battery chemistry, battery packs made with LFP (LiFePO4) cells don't require much safety equipment, such as metal firewalls between cells or a complex TMS (Thermal Management System). This means that the GCTPR (gravimetric cell-to-pack ratio) for this battery chemistry is higher than what we have with NCM or NCA battery packs.
 

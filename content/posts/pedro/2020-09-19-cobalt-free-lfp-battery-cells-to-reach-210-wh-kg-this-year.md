@@ -23,7 +23,7 @@ This company currently supplies cobalt-free LFP battery cells to make the extrem
 
 Currently its most energy dense commercial LFP battery cells are in the cylindrical form and already surpass 187 Wh/kg, but Guoxuan expects to reach 210 Wh/kg during this year.
 
-{{< twitter user="DKurac" id="1307225668787212288" >}}
+{{< x user="DKurac" id="1307225668787212288" >}}
 
 **Gravimetric energy density**
 

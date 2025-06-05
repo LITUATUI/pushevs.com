@@ -12,7 +12,7 @@ socials:
     id: sponsors/LITUATUI
   - name: github
     id : LITUATUI
-  - name: twitter
+  - name: x
     id: PushEVs
   - name: facebook
     id: PushEVs

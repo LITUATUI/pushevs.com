@@ -65,7 +65,7 @@ In a potential bombshell report, Pulitzer prize winning investigative reporter S
 
 Whitehouse spokespersons have of course denied any such claims on the part of the US, calling them “utterly false and complete fiction,” and the Norwegian government has called them “nonsense”. Sweden refused to release the findings of its October 2022 investigation, citing “[national security](https://www.usnews.com/news/world/articles/2022-10-14/sweden-shuns-formal-joint-investigation-of-nord-stream-leak-citing-national-security)“.
 
-A few German politicians (from across the political spectrum) have [raised questions about Germany’s inaction over the attacks](https://europeanconservative.com/articles/news/afd-and-die-linke-demand-investigation-into-nord-stream-attack/), (e.g. [Sevim Dağdelen](https://twitter.com/SevimDagdelen/status/1625535377044905985?s=20)), in the face of deafening silence from most of Europe’s news media and most politicians, typified by the Swedish response noted above.
+A few German politicians (from across the political spectrum) have [raised questions about Germany’s inaction over the attacks](https://europeanconservative.com/articles/news/afd-and-die-linke-demand-investigation-into-nord-stream-attack/), (e.g. [Sevim Dağdelen](https://x.com/SevimDagdelen/status/1625535377044905985?s=20)), in the face of deafening silence from most of Europe’s news media and most politicians, typified by the Swedish response noted above.
 
 It may be years or decades before the majority of us find out which country was in fact responsible (and note that most European intelligence agencies have already [concluded that it was probably not the Russians](https://www.washingtonpost.com/national-security/2022/12/21/russia-nord-stream-explosions/)).
 

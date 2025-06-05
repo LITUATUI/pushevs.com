@@ -91,13 +91,13 @@ Now the specs.
 
 Compared to the Chinese version, the European BYD Dolphin is larger, has longer range and a more powerful motor, but the price is disappointing.
 
-{{< tweet user="VLOelmann" id="1645799626702991363" >}}
+{{< x user="VLOelmann" id="1645799626702991363" >}}
 
 With a starting price of 30.000 euros, the BYD Dolphin seems aimed to compete with the MG4 Electric. My opinion is that both models should do well until the new Tesla hatchback eventually dominates this price range. Then there will be a need for price cuts...
 
 The good news is that the [Qin EV, the Dolphin and the Seagull models are expected to be the first BYD electric cars to get versions with a sodium-ion battery](https://cnevpost.com/2022/11/22/byd-to-mass-produce-sodium-ion-batteries-q2-2023-report/) later this year, which will help to cut down the prices easily.
 
-Thanks [Pedro Ventura](https://twitter.com/2_kamikaze_2) for the heads up.
+Thanks [Pedro Ventura](https://x.com/2_kamikaze_2) for the heads up.
 
 What do you think about the Euro version of the BYD Dolphin compared to its main rival, the MG 4 Electric? Are you more interested in the future cheaper version with sodium-ion battery?
 

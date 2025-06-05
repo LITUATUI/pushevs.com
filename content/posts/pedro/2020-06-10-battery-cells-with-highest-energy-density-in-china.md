@@ -19,7 +19,7 @@ The latest list also shows us that cylindrical battery cells are no longer requi
 - **SKI**: 269,44 Wh/kg (NCM 811 in pouch form)
 - **LG**: 257,1 Wh/kg (NCM 811 in cylindrical form)
 
-{{< twitter user="DKurac" id="1270612634157473792" >}}
+{{< x user="DKurac" id="1270612634157473792" >}}
 
 It's interesting to see that the [pouch NCM 712 battery cell](/2020/06/05/lg-chem-started-ncm-712-battery-cells-production-last-year/) produced by LG Chem in Europe has an energy density similar to the NCM 811 pouch cell from SK Innovation (265 vs 269 Wh/kg).
 

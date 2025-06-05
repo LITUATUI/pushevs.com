@@ -59,7 +59,7 @@ As you can see, Guoxuan also expects to surpass the 200 Wh/kg mark at the pack l
 
 In China the number of new electric vehicles introduced with LFP batteries is rising extremely fast.
 
-{{< twitter user="DKurac" id="1371380550171123713" >}}
+{{< x user="DKurac" id="1371380550171123713" >}}
 
 While NCM battery cells are more energy dense, at the battery pack level they lose this advantage by requiring more hardware to protect them, since they are inherently less safe than LFP cells. The extra protection hardware not only adds more weight, it also increases costs.
 

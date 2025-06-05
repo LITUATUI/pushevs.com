@@ -15,7 +15,7 @@ Since - unlike NCM or NCA - LFP battery cells are extremely safe and won't burn 
 
 Assembling module-less battery packs with prismatic LFP battery cells is extremely easy and fast, but BYD goes a step further with its super long Blade battery cells.
 
-{{< twitter user="DKurac" id="1423895641646800897" >}}
+{{< x user="DKurac" id="1423895641646800897" >}}
 
 Everbright Securities analyzed the cost of several battery packs made with LFP cells from different companies and you'll see why BYD is ahead of competition.
 

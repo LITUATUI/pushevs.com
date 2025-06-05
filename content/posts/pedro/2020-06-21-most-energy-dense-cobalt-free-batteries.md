@@ -93,7 +93,7 @@ The range is measured at an unknown constant speed, but considering that some of
 
 Notice that the list above is just a small sample I made, on MIIT's (Ministry of Industry and Information Technology of the People's Republic) catalog you can find hundreds of different models and some of these electric buses are already being exported to Europe.
 
-{{< twitter user="DKurac" id="1272770282365743104" >}}
+{{< x user="DKurac" id="1272770282365743104" >}}
 
 Anyway, CATL might not hold the record for very long. Guoxuan High-Tech is a battery cell maker specialized in LFP chemistry that just received a huge investment from Volkswagen.
 

@@ -19,7 +19,7 @@ As for energy density goals, according to its vice president Huang Zhangxi, Guox
 
 > Guoxuan will also strive to improve the energy storage capacity of its batteries, raising the energy density of its lithium iron phosphate batteries to 260 watt-hours per kilogram and that of its MnNiCo ternary batteries to 350 Wh/kg by 2022.
 
-{{< twitter user="DKurac" id="1320667302761656320" >}}
+{{< x user="DKurac" id="1320667302761656320" >}}
 
 Anyway, currently Guoxuan's most energy dense LFP battery cells have an energy density around 190 Wh/kg. During this year, [Guoxuan expects to reach 210 Wh/kg](/2020/09/19/cobalt-free-lfp-battery-cells-to-reach-210-wh-kg-this-year/), but mass production will probably only begin in 2021.
 

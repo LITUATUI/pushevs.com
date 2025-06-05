@@ -18,7 +18,7 @@ SIBs are potentially much cheaper to produce than lithium-ion batteries (LIBs). 
 - **Small-scale production (MWh levels)**: 500 yuan (65 euros) per kWh
 - **Large-scale production (GWh levels)**: 200-300 yuan (26-39 euros) per kWh
 
-{{< twitter user="DKurac" id="1402854199080099841" >}}
+{{< x user="DKurac" id="1402854199080099841" >}}
 
 Moreover, initially the energy density won't be impressive. It should be around 120 Wh/kg or 150 Wh/kg at best, which is decent for an ESS (Energy Storage System), but poor for electric vehicles.
 

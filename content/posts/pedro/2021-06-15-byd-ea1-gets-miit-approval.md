@@ -21,7 +21,7 @@ If I had to choose the three most important electric cars for the coming years, 
 
 The Volkswagen ID.3 MIC (Made in China) already got its MIIT approval, but it'll debut with NCM batteries. Unfortunately, Volkswagen is only expected to bring LFP battery cells with silicon anodes - made by Guoxuan - to its MEB platform in 2023...
 
-{{< twitter user="DKurac" id="1404642692810690569" >}}
+{{< x user="DKurac" id="1404642692810690569" >}}
 
 As for Tesla, the Model 3 already entered the top 20 of world's best selling cars, I'm sure that a more affordable and practical compact hatchback can reach the top 10. Unfortunately, it's unlikely to become available before 2023.
 
@@ -37,7 +37,7 @@ This leaves us with the BYD EA1 that will debut the new open-source BYD e-platfo
 > 
 > The EA1 will be the first model of BYD’s all brand new “e” product series. It’s designed by BYD’s Global Design Director Wolfgang Egger, and is the first model to adopt marine design concepts and a new logo, aiming to create a free, unique, and joyful way of travel for young urbanites.
 
-{{< twitter user="DKurac" id="1404643794545348611" >}}
+{{< x user="DKurac" id="1404643794545348611" >}}
 
 - **Length**: 4.070/4.125 mm
 - **Wheelbase**: 2.700 mm

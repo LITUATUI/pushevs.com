@@ -31,7 +31,7 @@ The BYD Yuan Pro looks nice, however, the Han EV and D1 will probably be the mos
 
 The BYD D1 - that resembles a VW ID.3 - was initially aimed for car sharing services, but is now also available for private buyers with a starting price of 151.800 yuan (19.532 euros).
 
-{{< twitter user="DKurac" id="1373476700319670278" >}}
+{{< x user="DKurac" id="1373476700319670278" >}}
 
 Anyway, now BYD has a vast electric car offer in China that will eventually arrive to other important markets (Europe, North America and Australia). Production capacity is growing extremely fast and currently only the smallest electric car model BYD e1 still has a NCM battery, all other models already got upgraded to LFP (LiFePO4) battery cells with CTP (cell-to-pack) batteries.
 

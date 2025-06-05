@@ -21,7 +21,7 @@ Tesla's SolarCity acquisition will have a major roll in putting solar panels in 
 
 Recently Elon Musk in a tweet response clarified what he meant about the use of Tesla Glass in the company's electric cars.
 
-{{< twitter user="elonmusk" id="794575003446480896" >}}
+{{< x user="elonmusk" id="794575003446480896" >}}
 
 Not only Tesla cars will have glass roofs as option, they'll probably have solar roofs as well in a not very distant future.
 
