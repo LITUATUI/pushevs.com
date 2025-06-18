@@ -6,4 +6,4 @@ images:
   - "https://dmassets.hyundai.com/is/image/hyundaiautoever/hyundai-ioniq-6-n-teaser-0625-small:Content%20Banner%20Desktop?wid=1196&hei=448"
 ---
 
-Hyundai Motor Company releases the first teaser images of the all-new IONIQ 6 N, highlighting its streamliner silhouette with advanced aerodynamics and wide stance.
+Hyundai Motor Company has unveiled the first teaser images of the eagerly awaited IONIQ 6 N, marking the brand’s next bold leap in its electrification journey. Building on the runaway success of the award-winning IONIQ 5 N – which in just two years achieved countless industry accolades, motorsport victories, and record-breaking milestones – the IONIQ 6 N promises to redefine the N driving experience once more as a high-performance electric sedan.
