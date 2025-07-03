@@ -1,5 +1,5 @@
 ---
-title: " Effortlessly electric: the all-new Nissan LEAF is the EV for everyone"
+title: "Effortlessly electric: the all-new Nissan LEAF is the EV for everyone"
 external_url: "https://global.nissannews.com/en/releases/all-new-3rd-generation-nissan-leaf"
 date: "2025-06-17"
 images:
