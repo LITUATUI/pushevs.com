@@ -123,16 +123,16 @@ hb:
       #repo: LITUATUI/pushevs.com
       #repo_id: R_kgDOLjPA9g
       #category_id: DIC_kwDOLjPA9s4CeLwd
-    social_share_buttons:
-      alignment: center
-      media:
-        - reddit
-        - x
-        - facebook
-        - linkedin
-        - telegram
-        - whatsapp
-        - email
+    #social_share_buttons:
+      #alignment: center
+      #media:
+        #- reddit
+        #- x
+        #- facebook
+        #- linkedin
+        #- telegram
+        #- whatsapp
+        #- email
   #content_panel:
     repo:
       service: github # github or gitlab.
