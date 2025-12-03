@@ -162,7 +162,7 @@ main:
 
   - name: AliExpress
     parent: stores
-    url: /aliexpress
+    url: /ae
     weight: 1
     params:
       icon:
